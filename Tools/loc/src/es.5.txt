@@ -1,0 +1,9 @@
+1179|¿BORRAR DATOS EN LÍNEA?
+1180|Esto borra tu cuenta de jugador y lo que guardan los servidores del juego: el guardado en la nube, la isla y las puntuaciones de las clasificaciones. Tu progreso en este teléfono se conserva.
+1181|Borrar
+1182|Se borraron tus datos en línea. Las funciones en línea están desactivadas.
+1183|No se pudieron borrar tus datos en línea ahora. Revisa tu conexión y vuelve a intentarlo.
+1184|Las funciones en línea están desactivadas.
+1185|Funciones en línea
+1186|Las clasificaciones, los torneos, el guardado en la nube y las visitas a islas usan los servidores del juego. Si las desactivas, nada sale de tu teléfono.
+1187|Borrar mis datos en línea

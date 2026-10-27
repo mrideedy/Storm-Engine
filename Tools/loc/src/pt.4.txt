@@ -1,0 +1,19 @@
+1160|Início
+1161|Privacidade
+1162|Anúncios personalizados
+1163|Os anúncios só são exibidos quando você escolhe assistir a um. Anúncios personalizados usam o ID de publicidade do seu dispositivo.
+1164|Política de privacidade
+1165|Está curtindo o Storm Engine?
+1166|Uma avaliação ou um compartilhamento ajuda outros caçadores de tempestades a encontrar o jogo.
+1167|Avaliar o jogo
+1168|Compartilhar
+1169|Construa uma máquina do clima, libere tempestades gigantes e suba nos rankings semanais do Storm Engine!
+1170|Copiado! Cole onde quiser para compartilhar.
+1171|ANÚNCIOS PARA VOCÊ?
+1172|Sua escolha, seus dados
+1173|Storm Engine é grátis. Os anúncios só são exibidos quando você escolhe assistir a um em troca de uma recompensa.
+1174|Nosso parceiro de anúncios pode usar o ID de publicidade do seu dispositivo para mostrar anúncios de acordo com seus interesses. Sem ele você continua recebendo todas as recompensas, só que com anúncios menos relevantes. Você pode mudar isso a qualquer momento nas Configurações.
+1175|Não, obrigado
+1176|Permitir
+1177|Acabei de liberar uma tempestade ({0}) de {1} pontos no Storm Engine! Consegue superar?
+1178|Você descobriu um fenômeno! Tudo o que você desbloqueia é explicado na Stormpedia. Ela fica no menu no canto superior direito.

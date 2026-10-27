@@ -1,0 +1,19 @@
+1160|Accueil
+1161|Confidentialité
+1162|Publicités personnalisées
+1163|Les publicités ne se lancent que si tu choisis d'en regarder une. Les publicités personnalisées utilisent l'identifiant publicitaire de ton appareil.
+1164|Politique de confidentialité
+1165|Tu aimes Storm Engine ?
+1166|Une note ou un partage aide d'autres chasseurs de tempêtes à découvrir le jeu.
+1167|Noter le jeu
+1168|Partager
+1169|Construis une machine météo, déchaîne des tempêtes géantes et grimpe dans les classements hebdomadaires de Storm Engine !
+1170|Copié ! Colle-le où tu veux pour le partager.
+1171|PUBS PERSONNALISÉES ?
+1172|Ton choix, tes données
+1173|Storm Engine est gratuit. Les publicités ne se lancent que si tu choisis d'en regarder une contre une récompense.
+1174|Notre partenaire publicitaire peut utiliser l'identifiant publicitaire de ton appareil pour afficher des pubs selon tes centres d'intérêt. Sans lui, tu reçois toujours toutes les récompenses, avec des pubs moins pertinentes. Tu peux changer ce choix à tout moment dans les Réglages.
+1175|Non merci
+1176|Autoriser
+1177|Je viens de déchaîner une tempête ({0}) de {1} points dans Storm Engine ! Tu peux faire mieux ?
+1178|Tu as découvert un phénomène ! Tout ce que tu débloques est expliqué dans la Stormpedia. Elle se trouve dans le menu en haut à droite.

@@ -1,0 +1,215 @@
+{
+ "fps": 120,
+ "width": 1080,
+ "height": 1920,
+ "takes": [
+  {
+   "name": "worlds9",
+   "seconds": 10.912,
+   "preroll": 1.5,
+   "ui": false,
+   "ease": 0.0,
+   "setup": [
+    "calm",
+    "home:0",
+    "equip:world_meadow",
+    "equip:skin_classic",
+    "equip:cloud_classic",
+    "equip:bolt_classic",
+    "sky:0.3"
+   ],
+   "cues": [
+    {
+     "t": 1.875,
+     "a": "bigStrike"
+    },
+    {
+     "t": 1.875,
+     "a": "shake:0.35"
+    },
+    {
+     "t": 2.8125,
+     "a": "equip:world_snow"
+    },
+    {
+     "t": 2.8125,
+     "a": "equip:skin_crystal"
+    },
+    {
+     "t": 2.8125,
+     "a": "equip:cloud_glacier"
+    },
+    {
+     "t": 2.8125,
+     "a": "equip:bolt_electric"
+    },
+    {
+     "t": 2.8325,
+     "a": "strike"
+    },
+    {
+     "t": 3.75,
+     "a": "equip:world_desert"
+    },
+    {
+     "t": 3.75,
+     "a": "equip:skin_gold"
+    },
+    {
+     "t": 3.75,
+     "a": "equip:cloud_inferno"
+    },
+    {
+     "t": 3.75,
+     "a": "equip:bolt_crimson"
+    },
+    {
+     "t": 3.77,
+     "a": "strike"
+    },
+    {
+     "t": 4.6875,
+     "a": "equip:world_tropic"
+    },
+    {
+     "t": 4.6875,
+     "a": "equip:skin_ocean"
+    },
+    {
+     "t": 4.6875,
+     "a": "equip:cloud_candy"
+    },
+    {
+     "t": 4.6875,
+     "a": "equip:bolt_prism"
+    },
+    {
+     "t": 4.7075,
+     "a": "strike"
+    },
+    {
+     "t": 5.625,
+     "a": "equip:world_sakura"
+    },
+    {
+     "t": 5.625,
+     "a": "equip:skin_blossom"
+    },
+    {
+     "t": 5.625,
+     "a": "equip:cloud_petal"
+    },
+    {
+     "t": 5.625,
+     "a": "equip:bolt_blossom"
+    },
+    {
+     "t": 5.645,
+     "a": "strike"
+    },
+    {
+     "t": 6.5625,
+     "a": "equip:world_night"
+    },
+    {
+     "t": 6.5625,
+     "a": "equip:skin_midnight"
+    },
+    {
+     "t": 6.5625,
+     "a": "equip:cloud_tempest"
+    },
+    {
+     "t": 6.5625,
+     "a": "equip:bolt_plasma"
+    },
+    {
+     "t": 6.5825,
+     "a": "strike"
+    },
+    {
+     "t": 7.5,
+     "a": "equip:world_volcano"
+    },
+    {
+     "t": 7.5,
+     "a": "equip:skin_magma"
+    },
+    {
+     "t": 7.5,
+     "a": "equip:cloud_ash"
+    },
+    {
+     "t": 7.5,
+     "a": "equip:bolt_lava"
+    },
+    {
+     "t": 7.52,
+     "a": "strike"
+    },
+    {
+     "t": 8.4375,
+     "a": "equip:world_neon"
+    },
+    {
+     "t": 8.4375,
+     "a": "equip:skin_cyber"
+    },
+    {
+     "t": 8.4375,
+     "a": "equip:cloud_synth"
+    },
+    {
+     "t": 8.4375,
+     "a": "equip:bolt_neon"
+    },
+    {
+     "t": 8.4575,
+     "a": "strike"
+    },
+    {
+     "t": 9.375,
+     "a": "equip:world_alien"
+    },
+    {
+     "t": 9.375,
+     "a": "equip:skin_rocket"
+    },
+    {
+     "t": 9.375,
+     "a": "equip:cloud_void"
+    },
+    {
+     "t": 9.375,
+     "a": "equip:bolt_emerald"
+    },
+    {
+     "t": 9.395,
+     "a": "bigStrike"
+    }
+   ],
+   "camera": [
+    {
+     "t": 0,
+     "anchor": "dome",
+     "y": 0.8,
+     "yaw": -70,
+     "pitch": 16,
+     "dist": 30,
+     "fov": 42,
+     "sy": 0.12
+    },
+    {
+     "t": 10.912,
+     "anchor": "dome",
+     "y": 0.8,
+     "yaw": 45,
+     "pitch": 15,
+     "dist": 24,
+     "fov": 42,
+     "sy": 0.12
+    }
+   ]
+  }
+ ]
+}

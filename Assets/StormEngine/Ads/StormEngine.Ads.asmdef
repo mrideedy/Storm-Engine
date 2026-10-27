@@ -1,0 +1,25 @@
+{
+    "name": "StormEngine.Ads",
+    "rootNamespace": "StormEngine.Ads",
+    "references": [
+        "StormEngine.Runtime",
+        "Unity.LevelPlay"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "STORM_LEVELPLAY"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.services.levelplay",
+            "expression": "9.0.0",
+            "define": "STORM_LEVELPLAY"
+        }
+    ],
+    "noEngineReferences": false
+}

@@ -1,0 +1,2 @@
+1188|Los nombres son públicos, así que sé amable. Los nombres ofensivos se ocultan a los demás jugadores.
+1189|Ese nombre no se puede usar. Elige otro, por favor.

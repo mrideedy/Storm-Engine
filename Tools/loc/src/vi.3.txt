@@ -1,0 +1,358 @@
+802|Gió x1.5 (+0.15/cấp). Bão sạc nhanh hơn 20%.
+803|Thấu kính Khí áp
+804|Thấu kính
+805|Áp suất gốc x2 (+0.25/cấp).
+806|Dãy Tụ điện
+807|Tụ điện
+808|Bão kéo dài +4 giây (+0.5/cấp). Chuỗi mỗi tia sét +2%.
+809|Bộ Trao đổi Nhiệt
+810|Trao đổi
+811|Bão nhiệt x2 (+0.2/cấp). 25% thưởng Nhiệt độ cũng cộng vào Gió.
+812|Bộ Hứng Mưa
+813|Mưa
+814|Gió mùa x2 (+0.2/cấp). Hiệu suất ngoại tuyến +10%.
+815|Lõi Lốc xoáy
+816|Lốc xoáy x2 (+0.2/cấp). Gió x1.25.
+817|Rơ-le Quá nạp
+818|Rơ-le
+819|Quá nạp x2 (+0.2/cấp). Chuỗi mỗi tia sét +3%.
+820|Bộ xử lý Siêu tế bào
+821|Bộ xử lý
+822|Mọi hiện tượng x1.2 (+0.04/cấp).
+823|Lò phản ứng Hỗn loạn
+824|Hỗn loạn
+825|Sức mạnh Bão x2 (+0.25/cấp). Bão tích tụ bất ổn: Dị thường khi vượt 40%, sụp đổ ở 100%.
+826|+25% Sức mạnh Bão mỗi cấp.
+827|Tự động hóa bão
+828|Bão tự thả khi đã sạc đầy, kể cả khi bạn vắng mặt (cần Máy phát Ngoại tuyến).
+829|Khoang Mô-đun
+830|+1 ô mô-đun.
+831|Bão Kéo dài
+832|+2 giây thời lượng bão mỗi cấp.
+833|Sạc Nhanh
+834|Bão sạc nhanh hơn 10% mỗi cấp.
+835|Tinh thông Thủy lực
+836|Thưởng cộng thêm của Độ ẩm hiệu quả hơn 10% mỗi cấp.
+837|Tinh thông Mây
+838|Thưởng cộng thêm của Mây hiệu quả hơn 10% mỗi cấp.
+839|Tinh thông Điện tích
+840|Thưởng cộng thêm của Điện hiệu quả hơn 10% mỗi cấp.
+841|Tinh thông Nhiệt
+842|Thưởng cộng thêm của Nhiệt độ hiệu quả hơn 10% mỗi cấp.
+843|Tinh thông Khí động
+844|Thưởng cộng thêm của Gió hiệu quả hơn 10% mỗi cấp.
+845|Tụ điện Ngoại tuyến
+846|+2 giờ giới hạn ngoại tuyến và +5% hiệu suất ngoại tuyến mỗi cấp (cần Máy phát Ngoại tuyến).
+847|Tinh chỉnh Hồi chiêu
+848|Hồi chiêu tăng cường -6% mỗi cấp (nhân dồn).
+849|Khai thác Lõi
+850|+20% Lõi Bão từ bão mỗi cấp.
+851|Bộ khuếch đại Tăng cường
+852|Hiệu ứng tăng cường mạnh hơn 10% mỗi cấp.
+853|Khởi đầu Thuận lợi
+854|Bắt đầu mỗi lượt với nhiều Năng lượng hơn (500, 5K, 50K, 500K, 5M).
+855|Mỗi hiện tượng đang hoạt động tăng tất cả hiện tượng khác thêm +3% mỗi cấp.
+856|Chuyển hóa Áp suất
+857|Mỗi cấp, 5% thưởng Nhiệt độ cũng cộng vào Áp suất gốc.
+858|Chênh lệch Nhiệt độ Cực đoan
+859|+Nhiệt độ x1.4
+860|+Tần suất sét x1.1
+861|-Độ ẩm x0.85
+862|Khí quyển Bão hòa
+863|+Độ ẩm x1.5
+864|+Mây x1.2
+865|-Gió x0.8
+866|Mùa Gió lớn
+867|+Gió x1.5
+868|+Lốc xoáy x1.5
+869|-Nhiệt độ x0.85
+870|Bất ổn Điện
+871|+Điện x1.6
+872|+Chuỗi mỗi tia sét x1.5
+873|-Mây x0.85
+874|Mùa Gió mùa
+875|+Gió mùa x2
+876|+Độ ẩm x1.3
+877|-Điện x0.8
+878|Vòm Nhiệt
+879|+Bão nhiệt x2
+880|+Nhiệt độ x1.3
+881|-Mây x0.8
+882|Không khí Tĩnh lặng
+883|+Bão kéo dài thêm 4 giây
+884|+Hiệu ứng tăng cường x1.25
+885|Bùng phát Siêu tế bào
+886|+Siêu tế bào x1.5
+887|+Cường độ bão x1.1
+888|-Điện x0.9
+889|Nâng Bơm Áp suất lên Cấp 5
+890|Xây một Bơm Thủy lực
+891|Thả cơn bão đầu tiên
+892|Đạt Cấp Động cơ 2
+893|Xây một Máy Ngưng Mây
+894|Đưa Bơm Thủy lực lên Cấp 10
+895|Đưa Máy Ngưng Mây lên Cấp 10 để mở khóa Mây Bùng Nổ
+896|Kích hoạt một tăng cường
+897|Xây một Cuộn Tesla
+898|Nhận một món phong cách mới trong Cửa hàng Phong cách
+899|Thả 10 cơn bão
+900|Xây một Lò Nhiệt
+901|Mở khóa một Mô-đun bằng Lõi Bão
+902|Lắp một Mô-đun
+903|Trang trí đảo của bạn
+904|Sở hữu 5 vật trang trí khác nhau
+905|Khám phá Giông bão
+906|Gia cố Buồng Bão
+907|Xây một Tua-bin Gió
+908|Đạt phản ứng dây chuyền x2 trong một cơn bão
+909|Đạt Cấp Động cơ 8 để tham gia giải đấu
+910|Tham gia giải đấu tuần
+911|Khám phá Bão nhiệt
+912|Xây Máy phát Ngoại tuyến
+913|Tạo 10M Năng lượng trong một lượt
+914|Đặt lại khí quyển để nhận Nghiên cứu
+915|Sở hữu 3 nâng cấp Nghiên cứu
+916|Khám phá Gió mùa
+917|Khám phá Lốc xoáy
+918|Khám phá Siêu tế bào
+919|Khám phá bão Quá nạp
+920|Đặt lại khí quyển 3 lần
+921|Tạo ra một Dị thường
+922|Sạc và thả bão.
+923|Một món quà cho mỗi ngày bạn ghé thăm, chuỗi ngày tăng dần và ba nhiệm vụ mới mỗi ngày.
+924|Xem chính xác cách tính Sức mạnh Bão và dự báo cơn bão tiếp theo.
+925|Diện mạo, mây bão, tia sét, thế giới và danh hiệu. Mỗi thứ tăng một chỉ số.
+926|Xưởng Mô-đun
+927|Lắp mô-đun bẻ cong công thức. Trả bằng Lõi Bão.
+928|Trang trí đảo để nhận thêm Năng lượng và khoe với khách thăm.
+929|Mang động cơ vào giải đấu tuần và leo hạng trên bảng xếp hạng toàn cầu.
+930|Điều kiện Tuần
+931|Mỗi thứ Hai có một điều kiện khí quyển mới làm thay đổi cấu hình tốt nhất.
+932|Tiếp tục sản xuất khi bạn vắng mặt. Tốn kém để xây.
+933|Đặt lại khí quyển để nhận Nghiên cứu và nâng cấp vĩnh viễn.
+934|Giữ động cơ chạy khi bạn vắng mặt. Cấp 1: 1 giờ với 20% hiệu suất. Mỗi cấp thêm +1 giờ và +5% hiệu suất. Vĩnh viễn.
+935|Xưởng Cổ điển
+936|Bản gốc đáng tin cậy: sàn tròn, mái vòm kính và một chiếc ăng-ten rất kiêu hãnh.
+937|Gió Biển
+938|Động cơ gọn gàng như tàu biển với ô cửa tròn và lan can đồng. Độ ẩm x1.10.
+939|Xưởng Ngọc lục bảo
+940|Sàn răng cưa và vương miện bánh răng. Mây x1.10.
+941|Tím Hoàng gia
+942|Ngai vàng bát giác với vương miện nạm ngọc. Điện x1.15.
+943|Neon Nửa đêm
+944|Góc cạnh sắc nét và dải đèn phát sáng. Gió x1.15.
+945|Kẹo Ngọt
+946|Kẹo dẻo, xoáy kẹo và ăng-ten kẹo mút. Nhiệt độ x1.15.
+947|Vàng Mặt trời
+948|Động cơ mặt trời rực rỡ với tia nắng vàng. Áp suất gốc x1.20.
+949|Lõi Hỗn loạn
+950|Đầy gai và bất ổn, với những mảnh vỡ bay quanh mái vòm. Hiệu suất động cơ x1.15.
+951|Xưởng Hơi nước Đồng thau
+952|Độc quyền. Bánh răng xoay, đinh tán và mái vòm củ hành. Áp suất gốc x1.30.
+953|Tháp Pha lê
+954|Độc quyền. Động cơ pha lê nhiều mặt được bao quanh bởi mảnh tinh thể. Điện x1.30.
+955|Tên lửa Bầu trời
+956|Độc quyền. Cánh đuôi, mái vòm khoang tàu và vòng quỹ đạo. Gió x1.30.
+957|Lò rèn Magma
+958|Gói Núi lửa. Sàn đá bazan với các khe dung nham phát sáng. Nhiệt độ x1.25.
+959|Tháp Hoa Anh đào
+960|Gói Anh đào. Mái chùa nhiều tầng phủ trên mái vòm. Độ ẩm x1.25.
+961|Lõi Cyber
+962|Gói Neon. Mạch điện lục giác với vòng hologram. Điện x1.25.
+963|Viền Bạc
+964|Mềm mại, bông xốp, đáng tin cậy.
+965|Kẹo Bông
+966|Những cụm mây hồng ngọt ngào. Mây x1.10.
+967|Sương Độc
+968|Làn khói xanh sủi bọt. Tốc độ sạc bão x1.15.
+969|Hỏa Ngục
+970|Mây lửa bập bùng. Nhiệt độ x1.15.
+971|Sông Băng
+972|Mây tinh thể băng giá. Độ ẩm x1.15.
+973|Hư Không
+974|Mây đến từ một nơi khác. Mọi hiện tượng x1.10.
+975|Giông Tố
+976|Độc quyền. Một đám mây giông lách tách. Thời lượng bão x1.20.
+977|Cột Tro
+978|Gói Núi lửa. Tro khói lẫn than hồng. Nhiệt độ x1.12.
+979|Cánh Hoa Bay
+980|Gói Anh đào. Mây cánh hoa trôi lững lờ. Độ ẩm x1.12.
+981|Synthwave
+982|Gói Neon. Mây kỹ thuật số hình khối. Điện x1.12.
+983|Tia Vàng
+984|Sáng chói, vang dội và vàng óng.
+985|Xanh Điện
+986|Những vệt hồ quang xanh sắc nét. Tần suất sét x1.10.
+987|Tím Plasma
+988|Những cột plasma dày đặc. Chuỗi mỗi tia sét x1.15.
+989|Hồ quang Ngọc lục bảo
+990|Những vệt hồ quang xanh lục lởm chởm. Điện x1.10.
+991|Cơn thịnh nộ Đỏ thẫm
+992|Những nhánh sét đỏ giận dữ. Cường độ bão x1.10.
+993|Lăng Kính
+994|Cặp tia sét cầu vồng. Tần suất sét x1.20.
+995|Búa Sấm
+996|Độc quyền. Mỗi tia sét giáng xuống như búa tạ. Chuỗi mỗi tia sét x1.25.
+997|Roi Dung nham
+998|Gói Núi lửa. Những ngọn roi nóng chảy. Cường độ bão x1.10.
+999|Tia Hoa
+1000|Gói Anh đào. Cặp tia lửa hồng. Tần suất sét x1.12.
+1001|Xung Neon
+1002|Gói Neon. Tia sét dạng sóng vuông. Chuỗi mỗi tia sét x1.12.
+1003|Đồng cỏ Nắng
+1004|Đồi xanh và bầu trời xanh thẳm.
+1005|Sa mạc Hẻm núi
+1006|Đá đỏ và xương rồng dưới bầu trời cam. Nhiệt độ x1.10.
+1007|Đỉnh Băng giá
+1008|Cánh đồng tuyết và rừng thông. Gió x1.10.
+1009|Đảo Nhiệt đới
+1010|Hàng cọ và biển xanh ngọc. Độ ẩm x1.15.
+1011|Đêm Đầy sao
+1012|Bầu trời đầy sao và những bông hoa phát sáng. Điện x1.15.
+1013|Hành tinh Lạ
+1014|Độc quyền. Rừng pha lê dưới bầu trời tím. Hiệu suất động cơ x1.10.
+1015|Đảo Núi lửa
+1016|Gói Núi lửa. Đá đen, hồ dung nham và bầu trời rực lửa. Nhiệt độ x1.20.
+1017|Vườn Anh đào
+1018|Gói Anh đào. Hoa anh đào và bầu trời hồng dịu. Độ ẩm x1.20.
+1019|Lưới Neon
+1020|Gói Neon. Mặt đất lưới phát sáng dưới bầu trời synthwave. Điện x1.20.
+1021|Hiện cạnh tên bạn.
+1022|Chúa tể Sấm sét
+1023|Nhận được khi khám phá loại bão này. Lõi Bão nhận thêm x1.05.
+1024|Kẻ Thiêu đốt
+1025|Người Gọi mưa
+1026|Người Thì thầm với Gió
+1027|Kiến trúc sư Siêu tế bào
+1028|Nhận được khi khám phá loại bão này. Lõi Bão nhận thêm x1.08.
+1029|Bậc thầy Quá nạp
+1030|Kỹ sư Hỗn loạn
+1031|Nhận được khi khám phá loại bão này. Lõi Bão nhận thêm x1.10.
+1032|Kỹ sư Kỳ cựu
+1033|Nhận được ở Cấp Động cơ 20. Lõi Bão nhận thêm x1.05.
+1034|Huyền thoại Bão
+1035|Nhận được ở Cấp Động cơ 40. Lõi Bão nhận thêm x1.10.
+1036|Nhà vô địch Giải đấu
+1037|Danh hiệu độc quyền. Lõi Bão nhận thêm x1.10.
+1038|Nhà Sáng lập
+1039|Thuộc một gói. Lõi Bão nhận thêm x1.05.
+1040|Chúa tể Lửa
+1041|Thiền sư
+1042|Bóng ma Neon
+1043|Lò rèn Núi lửa
+1044|Diện mạo Lò rèn Magma, mây Cột Tro, tia sét Roi Dung nham, thế giới Đảo Núi lửa, danh hiệu Chúa tể Lửa và hai vật trang trí núi lửa.
+1045|Diện mạo Tháp Hoa Anh đào, mây Cánh Hoa Bay, tia sét Tia Hoa, thế giới Vườn Anh đào, danh hiệu Thiền sư, cá koi và một đèn lồng đá.
+1046|Đêm Neon
+1047|Diện mạo Lõi Cyber, mây Synthwave, tia sét Xung Neon, thế giới Lưới Neon, danh hiệu Bóng ma Neon, một biển neon và một Cây Hologram.
+1048|Luống Hoa
+1049|Một khóm hoa tươi vui.
+1050|Ghế Công viên
+1051|Để ngắm những cơn bão kéo đến.
+1052|Cột Đèn
+1053|Sáng rực hơn khi bão đến.
+1054|Thần Lùn Bão
+1055|Đội một chiếc mũ cột thu lôi tí hon.
+1056|Diều Bão
+1057|Nhảy múa trong gió trên hòn đảo.
+1058|Ao
+1059|Chứa được ba vật trang trí dưới nước.
+1060|Lá Súng
+1061|Nổi trên mặt ao.
+1062|Vịt Cao su
+1063|Chít chít.
+1064|Vòng Nấm
+1065|Mọc lên sau mỗi trận mưa lớn.
+1066|Cối xay gió Tí hon
+1067|Quay nhanh hơn khi có Gió.
+1068|Chong chóng Gió
+1069|Luôn chỉ về phía cơn bão.
+1070|Đài Phun nước
+1071|Phun nước giữa lòng ao.
+1072|Khinh khí cầu
+1073|Lững lờ trôi quanh hòn đảo.
+1074|Người khổng lồ Bão
+1075|Một người khổng lồ bằng đá cầm tia sét.
+1076|Cụm Pha lê
+1077|Ngân nga với điện tích tích trữ.
+1078|Đèn trời
+1079|Những ánh đèn ấm áp trôi trên bầu trời.
+1080|Thuyền buồm Đồ chơi
+1081|Lượn vòng trên mặt ao.
+1082|Đèn hiệu Sét
+1083|Lách tách tóe lửa.
+1084|Cổng Cầu vồng
+1085|Một cầu vồng bạn có thể đi bên dưới.
+1086|Khí cầu Thời tiết
+1087|Phát sóng bản tin dự báo.
+1088|Cá voi Mây
+1089|Độc quyền. Một gã khổng lồ hiền lành làm từ mây.
+1090|Người Tuyết
+1091|Giới hạn. Chẳng hiểu sao không bao giờ tan.
+1092|Đèn Bí ngô Bão
+1093|Giới hạn. Nhe răng cười với sấm sét.
+1094|Cột Tô-tem Sấm
+1095|Giới hạn. Được chạm khắc bởi những thợ săn bão cổ xưa.
+1096|Cây cảnh Bão
+1097|Giới hạn. Hàng rào cây được cắt tỉa thành hình tia sét.
+1098|Hồ Dung nham
+1099|Gói Núi lửa. Sôi sục và rất ấm.
+1100|Tô-tem Hắc diện thạch
+1101|Gói Núi lửa. Đá đen bóng như thủy tinh.
+1102|Cá Koi
+1103|Gói Anh đào. Cá may mắn cho ao của bạn.
+1104|Đèn lồng Đá
+1105|Gói Anh đào. Ngọn đèn vườn tĩnh lặng.
+1106|Biển Neon
+1107|Gói Neon. Trên đó ghi STORM.
+1108|Cây Hologram
+1109|Gói Neon. Một cái cây làm từ ánh sáng.
+1110|Mở rộng Đảo I
+1111|Hòn đảo lớn hơn. Thêm chỗ cho 10 vật trang trí.
+1112|Mở rộng Đảo II
+1113|Thêm nhiều đất hơn nữa. Thêm chỗ cho 12 vật trang trí.
+1114|Mở rộng Đảo III
+1115|Một hòn đảo hoành tráng. Thêm chỗ cho 15 vật trang trí.
+1116|Đá quý Miễn phí
+1117|+8 Đá quý.
+1118|Bùng nổ Năng lượng
+1119|Thu nhập Năng lượng x2 trong 15 phút (cộng dồn tối đa 1 giờ).
+1120|Sạc Tức thì
+1121|Sạc đầy buồng bão.
+1122|Nhân đôi Lõi
+1123|Nhân đôi Lõi Bão từ cơn bão gần nhất.
+1124|Lượt Thêm
+1125|Tiến độ Gói
+1126|+1 tiến độ cho một gói quảng cáo.
+1127|Nhân đôi Ngoại tuyến
+1128|Nhân đôi Năng lượng thu được khi bạn vắng mặt.
+1129|Bản nhạc
+1130|Mở khóa vĩnh viễn một bản nhạc mới.
+1131|Giữ Chuỗi ngày
+1132|Khôi phục chuỗi ngày đăng nhập bạn vừa mất.
+1133|400 Đá quý, 500 Lõi Bão và danh hiệu Nhà Sáng lập. Mỗi người chơi một lần.
+1134|MỘT LẦN
+1135|Túi nhỏ Đá quý
+1136|100 Đá quý
+1137|Túi Đá quý
+1138|550 Đá quý
+1139|+10%
+1140|Rương Đá quý
+1141|1.200 Đá quý
+1142|+20%
+1143|Kho Đá quý
+1144|2.600 Đá quý
+1145|+30%
+1146|Kho báu Bão
+1147|7.000 Đá quý
+1148|Thả 5 cơn bão
+1149|Thả 12 cơn bão
+1150|Mua 20 cấp máy
+1151|Mua 60 cấp máy
+1152|Tạo 40 tia sét
+1153|Kích hoạt 4 tăng cường
+1154|Kích hoạt 3 tăng cường khi bão đang hoành hành
+1155|Thả 3 cơn bão hiện tượng
+1156|Kích hoạt một Siêu Bão
+1157|Kiếm 10 Lõi Bão từ bão
+1158|Mở khóa hoặc nâng cấp một mô-đun
+1159|Mua một vật trang trí cho đảo của bạn

@@ -1,0 +1,358 @@
+802|Rüzgâr x1.5 (+0.15/sv). Fırtınalar %20 daha hızlı dolar.
+803|Barometrik Mercek
+804|Mercek
+805|Temel Basınç x2 (+0.25/sv).
+806|Kapasitör Bankası
+807|Kapasitör
+808|Fırtınalar +4 sn sürer (+0.5/sv). Şimşek başına zincir +%2.
+809|Isı Değiştirici
+810|Değiştirici
+811|Sıcak Fırtına x2 (+0.2/sv). Sıcaklık bonusunun %25'i Rüzgâra da gider.
+812|Yağmur Toplayıcı
+813|Yağmur
+814|Muson x2 (+0.2/sv). Çevrimdışı verim +%10.
+815|Siklon Çekirdeği
+816|Siklon x2 (+0.2/sv). Rüzgâr x1.25.
+817|Aşırı Yük Rölesi
+818|Röle
+819|Aşırı Yük x2 (+0.2/sv). Şimşek başına zincir +%3.
+820|Süperhücre İşlemcisi
+821|İşlemci
+822|Tüm fenomenler x1.2 (+0.04/sv).
+823|Kaos Reaktörü
+824|Kaos
+825|Fırtına Gücü x2 (+0.25/sv). Fırtınalar istikrarsızlık biriktirir: %40 üstünde Anomali, %100'de çöküş.
+826|Seviye başına +%25 Fırtına Gücü.
+827|Fırtına Otomasyonu
+828|Fırtınalar dolunca kendiliğinden başlar, sen yokken bile (Çevrimdışı Jeneratör ile).
+829|Modül Bölmesi
+830|+1 modül yuvası.
+831|Uzun Fırtınalar
+832|Seviye başına +2 sn fırtına süresi.
+833|Hızlı Dolum
+834|Fırtınalar seviye başına %10 daha hızlı dolar.
+835|Nem Ustalığı
+836|Nem toplamsal bonusları seviye başına %10 daha etkili.
+837|Bulut Ustalığı
+838|Bulut toplamsal bonusları seviye başına %10 daha etkili.
+839|Yük Ustalığı
+840|Elektrik toplamsal bonusları seviye başına %10 daha etkili.
+841|Isı Ustalığı
+842|Sıcaklık toplamsal bonusları seviye başına %10 daha etkili.
+843|Hava Ustalığı
+844|Rüzgâr toplamsal bonusları seviye başına %10 daha etkili.
+845|Çevrimdışı Kapasitör
+846|Seviye başına +2 sa çevrimdışı sınır ve +%5 çevrimdışı verim (Çevrimdışı Jeneratör gerekir).
+847|Bekleme Ayarı
+848|Güçlendirme bekleme süreleri seviye başına -%6 (çarpımsal).
+849|Çekirdek Çıkarımı
+850|Seviye başına fırtınalardan +%20 Fırtına Çekirdeği.
+851|Güçlendirme Yükselticisi
+852|Güçlendirme etkileri seviye başına +%10 daha güçlü.
+853|Önde Başla
+854|Her tura daha fazla Enerjiyle başla (500, 5K, 50K, 500K, 5M).
+855|Her aktif fenomen diğer tümünü seviye başına +%3 artırır.
+856|Basınç Dönüşümü
+857|Seviye başına Sıcaklık bonusunun %5'i Temel Basınca da gider.
+858|Aşırı Sıcaklık Farkı
+859|+Sıcaklık x1.4
+860|+Şimşek sıklığı x1.1
+861|-Nem x0.85
+862|Doymuş Atmosfer
+863|+Nem x1.5
+864|+Bulut x1.2
+865|-Rüzgâr x0.8
+866|Sert Rüzgâr Mevsimi
+867|+Rüzgâr x1.5
+868|+Siklon x1.5
+869|-Sıcaklık x0.85
+870|Elektrik İstikrarsızlığı
+871|+Elektrik x1.6
+872|+Şimşek başına zincir x1.5
+873|-Bulut x0.85
+874|Muson Mevsimi
+875|+Muson x2
+876|+Nem x1.3
+877|-Elektrik x0.8
+878|Sıcak Kubbe
+879|+Sıcak Fırtına x2
+880|+Sıcaklık x1.3
+881|-Bulut x0.8
+882|Durgun Hava
+883|+Fırtınalar 4 sn daha uzun sürer
+884|+Güçlendirme etkileri x1.25
+885|Süperhücre Salgını
+886|+Süperhücre x1.5
+887|+Fırtına yoğunluğu x1.1
+888|-Elektrik x0.9
+889|Basınç Pompası'nı Sv 5'e yükselt
+890|Bir Hidro Pompa inşa et
+891|İlk fırtınanı başlat
+892|Motor Seviyesi 2'ye ulaş
+893|Bir Bulut Yoğuşturucu inşa et
+894|Hidro Pompa'yı Sv 10'a çıkar
+895|Bulut Patlaması'nı açmak için Bulut Yoğuşturucu'yu Sv 10'a çıkar
+896|Bir güçlendirme kullan
+897|Bir Tesla Bobini inşa et
+898|Stil Mağazası'ndan yeni bir stil al
+899|10 fırtına başlat
+900|Bir Isı Fırını inşa et
+901|Fırtına Çekirdekleriyle bir Modül aç
+902|Bir Modül tak
+903|Adanı süsle
+904|5 farklı dekorasyona sahip ol
+905|Bir Gök Gürültülü Fırtına keşfet
+906|Fırtına Odası'nı güçlendir
+907|Bir Rüzgâr Türbini inşa et
+908|Tek fırtınada x2 zincirleme reaksiyona ulaş
+909|Turnuvalara girmek için Motor Seviyesi 8'e ulaş
+910|Haftalık turnuvaya katıl
+911|Bir Sıcak Fırtına keşfet
+912|Çevrimdışı Jeneratörü inşa et
+913|Tek turda 10M Enerji üret
+914|Araştırma kazanmak için atmosferi sıfırla
+915|3 Araştırma geliştirmesine sahip ol
+916|Bir Muson keşfet
+917|Bir Siklon keşfet
+918|Bir Süperhücre keşfet
+919|Bir Aşırı Yük fırtınası keşfet
+920|Atmosferi 3 kez sıfırla
+921|Bir Anomali yarat
+922|Fırtınaları doldur ve başlat.
+923|Oynadığın her gün bir hediye, büyüyen bir seri ve her gün üç yeni görev.
+924|Fırtına Gücünün tam olarak nasıl hesaplandığını gör ve bir sonraki fırtınanı tahmin et.
+925|Görünümler, fırtına bulutları, şimşekler, dünyalar ve unvanlar. Her biri bir değeri artırır.
+926|Modül Atölyesi
+927|Formülü büken modüller tak. Fırtına Çekirdekleriyle ödenir.
+928|Bonus Enerji için adanı süsle ve ziyaretçilere göster.
+929|Motorunu haftalık turnuvaya götür ve küresel sıralamalarda yüksel.
+930|Haftalık Koşullar
+931|Her pazartesi yeni bir atmosferik koşul en iyi düzeni değiştirir.
+932|Sen yokken üretmeye devam et. İnşası pahalıdır.
+933|Araştırma ve kalıcı geliştirmeler için atmosferi sıfırla.
+934|Sen yokken motoru çalışır tutar. Seviye 1: %20 verimle 1 saat. Her seviye +1 saat ve +%5 verim ekler. Kalıcı.
+935|Klasik Atölye
+936|Güvenilir orijinal: yuvarlak güverte, cam kubbe ve çok gururlu bir anten.
+937|Deniz Esintisi
+938|Lombozlu ve pirinç korkuluklu, gemi gibi bir motor. Nem x1.10.
+939|Zümrüt İşleri
+940|Dişli bir güverte ve çark tacı. Bulut x1.10.
+941|Kraliyet Moru
+942|Mücevherli taçlı sekizgen bir taht. Elektrik x1.15.
+943|Gece Yarısı Neonu
+944|Keskin açılar ve parlayan şeritler. Rüzgâr x1.15.
+945|Şeker Pop
+946|Jelibonlar, sarmallar ve lolipop anten. Sıcaklık x1.15.
+947|Güneş Altını
+948|Altın ışınlı parlak bir güneş motoru. Temel Basınç x1.20.
+949|Kaos Çekirdeği
+950|Dikenli ve dengesiz, kubbenin etrafında dönen kırıklarla. Motor Verimi x1.15.
+951|Pirinç Buhar Makinesi
+952|Özel. Dönen dişliler, perçinler ve soğan kubbe. Temel Basınç x1.30.
+953|Kristal Kule
+954|Özel. Kırıklarla çevrili yontulmuş bir kristal motor. Elektrik x1.30.
+955|Gök Roketi
+956|Özel. Kuyruk kanatçıkları, kapsül kubbe ve yörünge halkaları. Rüzgâr x1.30.
+957|Magma Demirhanesi
+958|Volkan paketi. Parlayan lav damarlı bazalt güverte. Sıcaklık x1.25.
+959|Çiçekli Pagoda
+960|Sakura paketi. Kubbenin üstünde katlı pagoda çatıları. Nem x1.25.
+961|Siber Çekirdek
+962|Neon paketi. Holografik halkalı altıgen devreler. Elektrik x1.25.
+963|Gümüş Astar
+964|Yumuşak, kabarık, güvenilir.
+965|Pamuk Şeker
+966|Tatlı pembe bulutçuklar. Bulut x1.10.
+967|Zehirli Sis
+968|Fokurdayan yeşil tutamlar. Dolma hızı x1.15.
+969|Cehennem
+970|Titreyen alev bulutları. Sıcaklık x1.15.
+971|Buzul
+972|Buzlu, kristal bulutlar. Nem x1.15.
+973|Boşluk
+974|Başka yerden gelen bulutlar. Tüm fenomenler x1.10.
+975|Kasırga Bulutu
+976|Özel. Çıtırdayan bir fırtına bulutu. Fırtına süresi x1.20.
+977|Kül Bulutu
+978|Volkan paketi. Közlü dumanlı kül. Sıcaklık x1.12.
+979|Yaprak Rüzgârı
+980|Sakura paketi. Süzülen yapraklardan bulutlar. Nem x1.12.
+981|Synthwave
+982|Neon paketi. Köşeli dijital bulutlar. Elektrik x1.12.
+983|Altın Şimşek
+984|Parlak, gürültülü ve altın.
+985|Elektrik Mavisi
+986|Net mavi arklar. Şimşek sıklığı x1.10.
+987|Plazma Moru
+988|Ağır plazma sütunları. Şimşek başına zincir x1.15.
+989|Zümrüt Ark
+990|Tırtıklı yeşil arklar. Elektrik x1.10.
+991|Kızıl Öfke
+992|Öfkeli kırmızı çatallar. Fırtına yoğunluğu x1.10.
+993|Prizma
+994|İkiz gökkuşağı şimşekleri. Şimşek sıklığı x1.20.
+995|Gök Gürültüsü Çekici
+996|Özel. Her şimşek bir çekiç gibi iner. Şimşek başına zincir x1.25.
+997|Lav Kırbacı
+998|Volkan paketi. Erimiş kırbaçlar. Fırtına yoğunluğu x1.10.
+999|Çiçek Kıvılcımı
+1000|Sakura paketi. İkiz pembe kıvılcımlar. Şimşek sıklığı x1.12.
+1001|Neon Nabzı
+1002|Neon paketi. Kare dalga şimşekler. Şimşek başına zincir x1.12.
+1003|Güneşli Çayır
+1004|Yeşil tepeler ve mavi gökyüzü.
+1005|Çöl Kanyonu
+1006|Turuncu gökyüzü altında kızıl kayalar ve kaktüsler. Sıcaklık x1.10.
+1007|Buzlu Zirveler
+1008|Kar alanları ve çamlar. Rüzgâr x1.10.
+1009|Tropik Ada
+1010|Palmiyeler ve turkuaz bir deniz. Nem x1.15.
+1011|Yıldızlı Gece
+1012|Yıldızlı bir gökyüzü ve parlayan çiçekler. Elektrik x1.15.
+1013|Uzaylı Gezegen
+1014|Özel. Mor gökyüzü altında kristal ormanlar. Motor Verimi x1.10.
+1015|Volkan Adası
+1016|Volkan paketi. Kara kayalar, lav havuzları ve yanan bir gökyüzü. Sıcaklık x1.20.
+1017|Sakura Bahçesi
+1018|Sakura paketi. Kiraz çiçekleri ve yumuşak pembe bir gökyüzü. Nem x1.20.
+1019|Neon Izgara
+1020|Neon paketi. Synthwave gökyüzü altında parlayan ızgara zemin. Elektrik x1.20.
+1021|Adının yanında gösterilir.
+1022|Gök Gürültüsü Lordu
+1023|Bu fırtına sınıfını keşfederek kazanılır. Fırtına Çekirdeği kazancı x1.05.
+1024|Kavurucu
+1025|Yağmur Yapıcı
+1026|Rüzgâr Fısıldayan
+1027|Süperhücre Mimarı
+1028|Bu fırtına sınıfını keşfederek kazanılır. Fırtına Çekirdeği kazancı x1.08.
+1029|Aşırı Yükleyici
+1030|Kaos Mühendisi
+1031|Bu fırtına sınıfını keşfederek kazanılır. Fırtına Çekirdeği kazancı x1.10.
+1032|Kıdemli Mühendis
+1033|Motor Seviyesi 20'de kazanılır. Fırtına Çekirdeği kazancı x1.05.
+1034|Fırtına Efsanesi
+1035|Motor Seviyesi 40'ta kazanılır. Fırtına Çekirdeği kazancı x1.10.
+1036|Turnuva Şampiyonu
+1037|Özel unvan. Fırtına Çekirdeği kazancı x1.10.
+1038|Kurucu
+1039|Bir paketin parçası. Fırtına Çekirdeği kazancı x1.05.
+1040|Ateş Lordu
+1041|Zen Ustası
+1042|Neon Hayalet
+1043|Volkan Demirhanesi
+1044|Magma Demirhanesi görünümü, Kül Bulutu bulutları, Lav Kırbacı şimşekleri, Volkan Adası dünyası, Ateş Lordu unvanı ve iki volkanik dekorasyon.
+1045|Çiçekli Pagoda görünümü, Yaprak Rüzgârı bulutları, Çiçek Kıvılcımı şimşekleri, Sakura Bahçesi dünyası, Zen Ustası unvanı, koi balıkları ve bir taş fener.
+1046|Neon Geceler
+1047|Siber Çekirdek görünümü, Synthwave bulutları, Neon Nabzı şimşekleri, Neon Izgara dünyası, Neon Hayalet unvanı, bir neon tabela ve bir holo ağaç.
+1048|Çiçek Tarhı
+1049|Neşeli bir çiçek köşesi.
+1050|Park Bankı
+1051|Fırtınaların gelişini izlemek için.
+1052|Sokak Lambası
+1053|Fırtına geldiğinde daha parlak yanar.
+1054|Fırtına Cücesi
+1055|Minik bir paratoner şapka takar.
+1056|Fırtına Uçurtması
+1057|Adanın üstünde rüzgârda dans eder.
+1058|Gölet
+1059|Üç su dekorasyonu için yer.
+1060|Nilüferler
+1061|Bir gölette yüzer.
+1062|Lastik Ördekler
+1063|Vak.
+1064|Mantar Halkası
+1065|Her güzel yağmurdan sonra çıkar.
+1066|Minik Yel Değirmeni
+1067|Rüzgârla daha hızlı döner.
+1068|Rüzgâr Gülü
+1069|Her zaman fırtınayı gösterir.
+1070|Fıskiye
+1071|Göletin ortasında fışkırır.
+1072|Sıcak Hava Balonu
+1073|Adanın etrafında tembelce süzülür.
+1074|Fırtına Titanı
+1075|Elinde şimşek tutan taştan bir dev.
+1076|Kristal Kümesi
+1077|Depolanan yükle uğuldar.
+1078|Gökyüzü Fenerleri
+1079|Gökyüzünde süzülen sıcak ışıklar.
+1080|Oyuncak Yelkenli
+1081|Bir gölette daireler çizerek yüzer.
+1082|Şimşek Feneri
+1083|Kıvılcımlarla çıtırdar.
+1084|Gökkuşağı Kemeri
+1085|Altından geçebileceğin bir gökkuşağı.
+1086|Hava Durumu Zeplini
+1087|Hava tahminini yayınlar.
+1088|Bulut Balinası
+1089|Özel. Buluttan yapılmış nazik bir dev.
+1090|Kardan Adam
+1091|Sınırlı. Nasılsa hiç erimez.
+1092|Fırtına Kabağı
+1093|Sınırlı. Gök gürültüsüne sırıtır.
+1094|Gök Gürültüsü Totemi
+1095|Sınırlı. Eski fırtına avcıları tarafından oyulmuş.
+1096|Fırtına Topiyeri
+1097|Sınırlı. Şimşek şeklinde budanmış bir çit.
+1098|Lav Havuzu
+1099|Volkan paketi. Fokurdayan ve çok sıcak.
+1100|Obsidyen Totem
+1101|Volkan paketi. Camsı kara taş.
+1102|Koi Balığı
+1103|Sakura paketi. Göletin için şans balıkları.
+1104|Taş Fener
+1105|Sakura paketi. Sakin bir bahçe ışığı.
+1106|Neon Tabela
+1107|Neon paketi. Üzerinde STORM yazıyor.
+1108|Holo Ağaç
+1109|Neon paketi. Işıktan bir ağaç.
+1110|Ada Genişletmesi I
+1111|Ada büyür. 10 dekorasyonluk ek yer.
+1112|Ada Genişletmesi II
+1113|Daha da fazla arazi. 12 dekorasyonluk ek yer.
+1114|Ada Genişletmesi III
+1115|Görkemli bir ada. 15 dekorasyonluk ek yer.
+1116|Ücretsiz Mücevher
+1117|Mücevher +8.
+1118|Enerji Dalgası
+1119|15 dakika boyunca x2 Enerji geliri (1 saate kadar birikir).
+1120|Anında Dolum
+1121|Fırtına odasını tamamen doldurur.
+1122|Çift Çekirdek
+1123|Son fırtınandan gelen Fırtına Çekirdeklerini ikiye katlar.
+1124|Ek Hak
+1125|Paket İlerlemesi
+1126|Bir reklam paketine +1.
+1127|Çift Çevrimdışı
+1128|Uzakta geçirdiğin sürenin Enerjisini ikiye katlar.
+1129|Müzik Parçası
+1130|Kalıcı olarak yeni bir müzik parçası açar.
+1131|Serini Koru
+1132|Az önce kaybettiğin giriş serisini geri getirir.
+1133|400 Mücevher, 500 Fırtına Çekirdeği ve Kurucu unvanı. Oyuncu başına bir kez.
+1134|TEK SEFERLİK
+1135|Mücevher Kesesi
+1136|100 Mücevher
+1137|Mücevher Çantası
+1138|550 Mücevher
+1139|+%10
+1140|Mücevher Sandığı
+1141|1.200 Mücevher
+1142|+%20
+1143|Mücevher Kasası
+1144|2.600 Mücevher
+1145|+%30
+1146|Fırtına Hazinesi
+1147|7.000 Mücevher
+1148|5 fırtına başlat
+1149|12 fırtına başlat
+1150|20 makine seviyesi satın al
+1151|60 makine seviyesi satın al
+1152|40 şimşek çaktır
+1153|4 güçlendirme kullan
+1154|Fırtına sürerken 3 güçlendirme kullan
+1155|3 fenomenli fırtına başlat
+1156|Bir Mega Fırtına tetikle
+1157|Fırtınalardan 10 Fırtına Çekirdeği kazan
+1158|Bir modülü aç ya da geliştir
+1159|Adan için bir dekorasyon al

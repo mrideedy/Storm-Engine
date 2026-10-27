@@ -1,0 +1,19 @@
+1160|Start
+1161|Datenschutz
+1162|Personalisierte Werbung
+1163|Werbung läuft nur, wenn du sie selbst startest. Personalisierte Werbung nutzt die Werbe-ID deines Geräts.
+1164|Datenschutzerklärung
+1165|Gefällt dir Storm Engine?
+1166|Eine Bewertung oder ein Teilen hilft anderen Sturmjägern, das Spiel zu finden.
+1167|Spiel bewerten
+1168|Teilen
+1169|Baue eine Wettermaschine, entfessle riesige Stürme und klettere in den Wochenranglisten von Storm Engine nach oben!
+1170|Kopiert! Füge es irgendwo ein, um es zu teilen.
+1171|PASSENDE WERBUNG?
+1172|Deine Wahl, deine Daten
+1173|Storm Engine ist kostenlos. Werbung läuft nur, wenn du sie selbst für eine Belohnung startest.
+1174|Unser Werbepartner kann die Werbe-ID deines Geräts nutzen, um Werbung passend zu deinen Interessen zu zeigen. Ohne sie bekommst du trotzdem jede Belohnung, nur mit weniger passender Werbung. Du kannst das jederzeit in den Einstellungen ändern.
+1175|Nein, danke
+1176|Erlauben
+1177|Ich habe gerade einen Sturm ({0}) mit {1} Punkten in Storm Engine entfesselt! Schaffst du mehr?
+1178|Du hast ein Phänomen entdeckt! Alles, was du freischaltest, wird in der Stormpedia erklärt. Du findest sie im Menü oben rechts.

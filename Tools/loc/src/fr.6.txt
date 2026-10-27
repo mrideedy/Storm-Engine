@@ -1,0 +1,2 @@
+1188|Les noms sont publics, alors reste sympa. Les noms offensants sont masqués pour les autres joueurs.
+1189|Ce nom ne peut pas être utilisé. Choisis-en un autre.

@@ -1,0 +1,398 @@
+1|Chubasco
+2|{0} d {1} h
+3|{0} h {1} min
+4|{0} min {1} s
+5|{0} s
+6|los servicios en línea aún no están configurados en esta versión.
+7|no se pudo conectar con los servidores del juego.
+8|Respuesta vacía del servidor.
+9|Verificado por el servidor.
+10|Error al escribir en la clasificación; se reintentará.
+11|El servidor rechazó la tormenta: {0}
+12|El envío falló: {0}
+13|La validación local falló: {0}
+14|Enviado sin verificación del servidor (modo de desarrollo).
+15|Esta clasificación aún no está disponible.
+16|No se pudo cargar la clasificación. Revisa tu conexión.
+17|Simple
+18|Equilibrado
+19|Alto
+20|Batería baja: funcionando a 30 FPS para ahorrar energía.
+21|Gráficos ajustados a {0} para que el juego vaya fluido. Puedes cambiarlo en Ajustes.
+22|Tu regalo diario está listo
+23|El regalo de hoy y tres misiones nuevas te siguen esperando.
+24|¡Mantén tu racha de {0} días! Tu regalo del día {1} te espera.
+25|Te esperan un regalo nuevo y tres misiones nuevas.
+26|Generador sin conexión lleno
+27|Tu motor ha almacenado toda la Energía que puede. ¡Vuelve a recogerla y mantenlo en marcha!
+28|El torneo termina pronto
+29|El torneo de esta semana casi ha terminado. ¡Una tormenta más podría subirte en la clasificación!
+30|Una nueva semana de torneo
+31|Condición de esta semana: {0}. ¡Recoge la recompensa de la semana pasada y participa!
+32|Tu regalo diario también está listo.
+33|Tienda simulada
+34|No disponible
+35|La tienda no está disponible ahora mismo.
+36|Las compras no están disponibles en esta versión.
+37|COMPRA DE PRUEBA
+38|Tienda simulada (Editor / versión de desarrollo). ¿Fingir la compra de {0} por {1}?
+39|Comprar (prueba)
+40|¡{0} comprado! +{1} Gemas.
+41|{0} restaurado.
+42|Las Recompensas diarias se desbloquean en el Nivel de Motor {0}.
+43|Regalo del día {0}: ¡{1}!
+44|¿QUIERES UN RECORDATORIO?
+45|¿Quieres un aviso cuando tu próximo regalo diario esté listo o el torneo semanal esté a punto de cerrar? Unos pocos por semana como mucho, nunca de noche.
+46|Recuérdamelo
+47|Los recordatorios están desactivados. Puedes activarlos en Ajustes.
+48|Ahora no
+49|Recompensa de misión: {0}
+50|¡Todas las misiones completadas! {0}
+51|Espera a que termine la tormenta.
+52|Desarrollador: todo desbloqueado (+100K Gemas, +100K Núcleos, +10K Investigación).
+53|Esa recompensa ya se agotó por hoy. ¡Vuelve mañana!
+54|No hay ningún anuncio disponible ahora. Inténtalo de nuevo en un momento.
+55|Te saltaste el anuncio, así que esta vez no hay recompensa.
+56|¡+{0} Gemas!
+57|¡Oleada de Energía! Ingresos x{0} durante {1}.
+58|¡Cámara de tormenta cargada al máximo!
+59|+1 intento de torneo hoy.
+60|¡+{0} Núcleos de Tormenta!
+61|¡Energía sin conexión duplicada!
+62|¡Nueva música desbloqueada: {0}!
+63|una canción nueva
+64|¡Racha salvada! {0} días y contando.
+65|{0}: {1}/{2} anuncios vistos.
+66|Necesitas {0} Gemas más.
+67|¡{0} desbloqueado y equipado!
+68|¿COMPRAR {0}?
+69|¿Gastar {0} Gemas en {1}?
+70|Bonificación: {0}.
+71|Comprar por {0}
+72|El Torneo Semanal se desbloquea en el Nivel de Motor {0}.
+73|Espera a que termine la tormenta actual.
+74|No te quedan intentos hoy. Se recargan a medianoche (UTC), o mira un anuncio para uno más.
+75|No te quedan intentos hoy. Se recargan a medianoche (UTC).
+76|Tu isla está llena. Amplíala o guarda primero una decoración.
+77|Las decoraciones acuáticas flotan en un estanque. Coloca primero un Estanque (cada uno admite tres).
+78|Puedes tener hasta {0} de {1}.
+79|Necesitas {0} Núcleos de Tormenta más.
+80|Bonificación de colección +{0} Energía.
+81|¡{0} colocado en tu isla!
+82|{0} comprado y guardado (no hay sitio libre).
+83|No hay sitio libre en el estanque. Cada estanque admite tres decoraciones acuáticas.
+84|No queda sitio libre. Reorganiza las cosas o amplía la isla.
+85|Guarda primero las decoraciones acuáticas de este estanque.
+86|¿Gastar {0} Gemas?
+87|Ampliar por {0}
+88|¡{0}! Tu isla creció.
+89|¡Esa es tu propia isla!
+90|Para visitar a otros jugadores necesitas conexión.
+91|Volando a la isla de {0}...
+92|{0} aún no ha abierto su isla a los visitantes.
+93|Termina la tormenta actual antes de ir de visita.
+94|Partida guardada.
+95|No se pudo guardar la partida.
+96|PARTIDA EN LA NUBE ENCONTRADA
+97|Tu partida en la nube tiene más progreso ({0} de Energía total, {1} reinicios) que este dispositivo ({2}, {3} reinicios). ¿Cargarla?
+98|Cargar partida en la nube
+99|{0} se desbloquea con {1} Nv {2}.
+100|{0} desbloqueado y equipado.
+101|{0} desbloqueado.
+102|Todas las ranuras de módulo están llenas. Desequipa uno primero.
+103|¡{0} construido!
+104|{0} mejorado a Nv {1}.
+105|Las mejoras están bloqueadas mientras hay una tormenta en curso.
+106|¿REINICIAR LA ATMÓSFERA?
+107|Ganarás {0} de Investigación. La Energía y los niveles de las máquinas vuelven a cero. Se conservan los módulos, los Núcleos de Tormenta, la Investigación, los descubrimientos y los récords.
+108|Reiniciar por +{0}
+109|¡Atmósfera reiniciada! +{0} de Investigación.
+110|¿BORRAR TODO EL PROGRESO?
+111|Esto borra para siempre tu partida local. Las entradas de la clasificación permanecen en línea. No se puede deshacer.
+112|Borrar todo
+113|Nubes a la deriva
+114|Ambiental
+115|Sintes lentos y cálidos que pasan flotando.
+116|Hogar acogedor
+117|Acogedora
+118|Teclas suaves, bajo redondo y un ritmo tranquilo.
+119|Ventana lluviosa
+120|Piano suave con lluvia en el cristal.
+121|Cielo estrellado
+122|Zumbidos profundos y destellos lejanos.
+123|Pradera matinal
+124|Guitarra punteada suavemente al sol.
+125|Sin conexión
+126|Los servicios en línea no están instalados. Jugando sin conexión.
+127|Conectando...
+128|En línea como {0}
+129|Sin conexión. El progreso se guarda en el dispositivo y las tormentas se enviarán más tarde.
+130|Sin conexión: {0}
+131|El Torneo Semanal se desbloquea en el Nivel de Motor {0}. ¡Pulsa JUGAR y mejora tu motor!
+132|Nv {0}
+133|{0} se desbloquea en el Nivel de Motor {1}.
+134|La Tienda de Estilos se desbloquea en el Nivel de Motor {0}.
+135|El Laboratorio Atmosférico se desbloquea en el Nivel de Motor {0}: desglosa cada multiplicador.
+136|Cargando {0}
+137|¡Tormenta de torneo! Usa tus potenciadores durante la tormenta para encadenar.
+138|Espera a que termine la tormenta antes de reorganizar.
+139|No hay sitio ahí
+140|¡CADENA {0}!
+141|¡Nuevo récord personal! {0} obtuvo {1}  (+{2} núcleos)
+142|Tormenta {0}: {1}  (+{2} núcleos)
+143|+{0} gemas
+144|+{0} núcleos
+145|+{0} PX
+146|Objetivo cumplido: {0}
+147|Nueva máquina disponible: {0}
+148|Misión diaria completada: {0}. ¡Toca el regalo para recogerla!
+149|¡Un nuevo día! Tu regalo diario y misiones nuevas te esperan.
+150|Cancelar
+151|PODER DE TORMENTA
+152|Temperatura
+153|Humedad
+154|Viento
+155|Nubes
+156|Electricidad
+157|Sinergia
+158|Presión
+159|OBJETIVO
+160|+Energía
+162|+15 min
+164|+{0} Núcleos
+165|Cargar ya
+166|LISTO
+167|CARGANDO
+168|EN TORMENTA
+169|quedan {0}
+170|¡DESATAR!
+171|Previsión {0}
+172|Autotormenta activada
+173|TORNEO SEMANAL
+174|CHUBASCO
+175|MEGATORMENTA
+176|Cadena {0}  ·  Intensidad {1}  ·  {2} rayos
+177|TORMENTA PERFECTA
+178|HIPERTORMENTA
+179|VENTANA PERFECTA
+180|NUEVA FUNCIÓN
+181|NUEVA MÁQUINA
+182|MÓDULO
+183|INVESTIGACIÓN
+184|EXCLUSIVO
+185|ESTILO
+186|{0} Gemas
+187|Gratis
+188|PAQUETE DE ANUNCIOS
+189|Un entorno completo por {0} anuncios con recompensa.
+190|DECORACIÓN
+191|AMPLIACIÓN DE TERRENO
+192|Aspecto de máquina
+193|Nube de tormenta
+194|Rayo
+195|Mundo
+196|Título
+197|¡NIVEL {0}!
+198|Tu motor de tormentas se ha hecho más fuerte
+199|¡Sigue construyendo! Nuevas máquinas, módulos y estilos se desbloquean al subir tu Nivel de Motor.
+200|DESBLOQUEADO
+201|Siguiente en Nv {0}: {1}
+202|y {0} más
+203|¡Genial!
+204|NIVEL DE MOTOR {0}
+205|Gana PX construyendo máquinas, desatando tormentas, descubriendo fenómenos y completando objetivos.
+206|NV {0}
+207|SIGUIENTE
+208|Todo está desbloqueado. ¡Eres un auténtico ingeniero de tormentas!
+209|Cerrar
+210|Nivel máximo alcanzado
+211|{0} / {1} PX para el nivel {2}
+212|STORM ENGINE
+213|RECOMPENSAS DIARIAS
+214|JUGAR
+215|Mejora tu motor de tormentas
+216|TORNEO
+217|Stormpedia
+218|Visitar islas
+219|Ajustes
+220|Cazatormentas
+221|Nivel de Motor {0}
+222|Construye tu primer motor de tormentas
+223|{0} Energía /s
+224|¡Tu regalo del día {0} está listo!
+225|¡Hay recompensas de misión por recoger!
+226|Días de racha: {0}
+227|misiones {0}/{1}
+228|nuevo día en {0}
+229|Se desbloquea en el Nivel de Motor {0}
+230|Esta semana: {0}
+231|condiciones abiertas
+232|Intentos restantes hoy: {0}
+233|termina en {0}
+234|DE VISITA
+235|Volver a casa
+236|Isla de {0}
+237|{0} decoraciones
+238|mejor tormenta de torneo {0}
+239|Girar
+240|Guardar
+241|Hecho
+242|Tu isla aún no tiene decoraciones. Compra algunas en Decoración de la isla.
+243|Toca una decoración para seleccionarla.
+244|Decoración
+245|{0}: las decoraciones acuáticas se mueven con su estanque.
+246|{0}: toca el suelo para moverla.
+247|Atmósfera
+248|PODER DE TORMENTA =
+249|Las bonificaciones aditivas se suman dentro de una categoría; las categorías se multiplican entre sí. El mismo +10 % vale más en tu categoría más débil.
+250|PREVISIÓN DE TORMENTA
+251|Una simulación de tu próxima tormenta con la configuración actual. Cambia módulos o niveles y mira cómo varía.
+252|¿Por qué este número? (toca para ampliar)
+253|Fenómenos (sinergias)
+254|Los fenómenos se activan cuando cada ingrediente alcanza su umbral. Cada uno activo multiplica el Poder de Tormenta, y el más fuerte decide la clase de tu tormenta.
+255|Motor de tormentas
+256|Intensidad de la tormenta
+257|Duración de la tormenta
+258|Cadena por rayo
+259|Tiempo de carga
+260|Megatormenta
+261|Puntuación de tormenta = Poder de Tormenta x Intensidad x Cadena x Mega x Ventana Perfecta, sumado en cada instante de la tormenta. Los potenciadores que coinciden con la tormenta lo multiplican todo.
+262|Desatar ahora: tormenta {0}, {1} puntos en {2} s.
+263|Usando primero tus potenciadores listos ({0}): {1}, {2} ({3}).
+264|{0} /s
+265|{0} rayos/s
+266|+{0} de cadena
+267|3 / 5 / 7 fenómenos: x1.5 / x2 / x3
+268|{0} Nv {1}
+269|{0}: hitos x{1}
+270|Semanal: {0}
+271|{0} (activo)
+272|Nivel de electricidad
+273|Estilo: {0}
+274|Decoraciones de la isla ({0} tipos)
+275|{0} efic.
+276|base {0}  x  (1 + {1} suma{2})  x  {3} mult.
+277|Aún no hay modificadores. Construye máquinas para aumentar esta estadística.
+278|POTENC.
+279|BASE
+280|SUMA
+281|EFIC.
+282|CONV.
+283|MULT.
+284|+{0} de {1}
+285|??? Fenómeno desconocido
+286|ACTIVO {0}
+287|DESCUBIERTO
+288|SIN DESCUBRIR
+289|Inestabilidad >= 40 % (en tormentas)
+290|Equipa el Reactor del Caos
+291|Ventaja de tormenta: {0}
+292|Alcanza todos los umbrales para descubrirlo (+{0} Núcleos de Tormenta).
+293|Decoración de la isla
+294|Isla
+295|Editar disposición
+296|Cada decoración distinta que posees suma una vez a tus ingresos de Energía. Otros jugadores pueden visitar tu isla.
+297|SOLO ESTA SEMANA
+298|Tierra
+299|Aire
+300|Agua
+301|Ampliar
+302|Visitar
+303|Islas de exhibición
+304|Jugadores del torneo
+305|LIMITADO
+306|Colocar
+307|Mejor tormenta de torneo {0}
+308|Aún no hay puntuaciones de torneo esta semana. ¡Participa y otros vendrán a visitarte!
+309|Conéctate para visitar las islas de otros jugadores. Las islas de exhibición funcionan sin conexión.
+310|{0}/{1} colocadas
+311|Tipos que posees: {0}
+312|Bonificación de colección: +{0} a los ingresos de Energía
+313|Compra tu primera decoración para obtener una bonificación de Energía
+314|Se va en {0}
+315|Las decoraciones acuáticas flotan en un Estanque (ver Tierra). Cada estanque admite tres.
+316|Estanques colocados: {0}
+317|Huecos acuáticos libres: {0}
+318|Bonificación obtenida  +{0}
+319|+{0} Energía
+320|{0}/{1} en posesión
+321|{0} guardadas
+322|Vuela sobre la isla
+323|Flota en un estanque
+324|Motor Nv {0}
+325|{0} Núcleos
+326|Adquirida
+327|Construye primero {0}
+328|Radio de la isla {0}
+329|+{0} decoraciones
+330|MÁX
+331|Máquinas
+332|La construcción está bloqueada mientras hay una tormenta en curso.
+333|Mejoras permanentes
+334|CONSTRUIR
+335|BLOQUEADO
+336|Se desbloquea en el Nivel de Motor {0}.
+337|Sin construir
+338|Nv {0}/{1}
+339|AL MÁXIMO
+340|MEJORAR
+341|Mantiene tu motor produciendo mientras no estás. Se construye una vez y es para siempre (sobrevive a los reinicios).
+342|Sin conexión: hasta {0} h con una eficiencia del {1}. Siguiente nivel: más horas y más eficiencia.
+343|Nv 0
+344|COMPRAR
+345|MEJOR OFERTA
+346|Se desbloquea en el Nivel de Motor {0}. Gana PX construyendo y desatando tormentas.
+347|Nivel máximo {0}
+348|COMPRAR x{0}
+349|+1 de Presión base por nivel
+350|Base actual {0}
+351|+0,5 s de tormenta y +4 % de velocidad de carga por nivel
+352|Tormenta {0} s, carga {1}
+353|+{0} % de {1} por nivel
+354|ahora {0}
+355|Módulos
+356|Equipados
+357|Taller
+358|Desbloquear
+359|Mejorar
+360|Equipar
+361|Vacío
+362|Bloqueado
+363|Los módulos están bloqueados mientras hay una tormenta en curso.
+364|{0}/{1} ranuras usadas. Toca un módulo equipado para quitarlo. Los Núcleos de Tormenta salen de las tormentas y los descubrimientos.
+365|Requiere reinicios de atmósfera: {0}.
+366|Descubre primero {0}.
+367|Descubre primero un nuevo fenómeno ({0}).
+368|Desbloquear {0}
+369|Desequipar
+370|Mejorar {0}
+371|necesita el Reactor del Caos
+372|Tormentas desatadas
+373|Rayos caídos
+374|Megatormentas
+375|Mejor cadena
+376|Potenciadores usados
+377|Mejor Poder de Tormenta
+378|Energía total
+379|Reinicios de atmósfera
+380|Fenómenos descubiertos
+381|Tiempo jugado
+382|Laboratorio
+383|Más
+384|CONDICIÓN SEMANAL
+385|Las condiciones cambian cada lunes (UTC) y alteran qué configuración es la mejor. El torneo semanal y su clasificación se reinician a la vez.
+386|Las Condiciones semanales se desbloquean en el Nivel de Motor {0}: un nuevo giro atmosférico cada lunes.
+387|Estadísticas
+388|Música
+389|Temas ambientales y acogedores. Los bloqueados son tuyos para siempre tras un anuncio corto.
+390|Idioma
+391|Efectos de sonido
+392|Volumen de efectos
+393|Volumen de música
+394|Ambiente del clima
+395|Vibración
+396|Calidad gráfica
+397|Ajustar gráficos en móviles lentos
+398|Fotogramas por segundo
+399|Recordatorios (regalo diario, torneo)
+400|Formato de números

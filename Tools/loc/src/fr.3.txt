@@ -1,0 +1,358 @@
+802|Vent x1.5 (+0.15/niv.). Les tempêtes se chargent 20 % plus vite.
+803|Lentille barométrique
+804|Lentille
+805|Pression de base x2 (+0.25/niv.).
+806|Banc de condensateurs
+807|Condensateur
+808|Les tempêtes durent +4 s (+0.5/niv.). Chaîne par éclair +2 %.
+809|Échangeur de chaleur
+810|Échangeur
+811|Tempête de chaleur x2 (+0.2/niv.). 25 % du bonus de Température alimente aussi le Vent.
+812|Collecteur de pluie
+813|Pluie
+814|Mousson x2 (+0.2/niv.). Efficacité hors ligne +10 %.
+815|Cœur cyclonique
+816|Cyclone x2 (+0.2/niv.). Vent x1.25.
+817|Relais de surcharge
+818|Relais
+819|Surcharge x2 (+0.2/niv.). Chaîne par éclair +3 %.
+820|Processeur de supercellules
+821|Processeur
+822|Tous les phénomènes x1.2 (+0.04/niv.).
+823|Réacteur du Chaos
+824|Chaos
+825|Puissance de Tempête x2 (+0.25/niv.). Les tempêtes accumulent de l'instabilité : Anomalie au-delà de 40 %, effondrement à 100 %.
+826|+25 % de Puissance de Tempête par niveau.
+827|Automatisation des tempêtes
+828|Les tempêtes se déchaînent toutes seules une fois chargées, même pendant ton absence (avec le Générateur hors ligne).
+829|Baie à modules
+830|+1 emplacement de module.
+831|Tempêtes longues
+832|+2 s de durée de tempête par niveau.
+833|Charge rapide
+834|Les tempêtes se chargent 10 % plus vite par niveau.
+835|Maîtrise hydraulique
+836|Les bonus additifs d'Humidité sont 10 % plus efficaces par niveau.
+837|Maîtrise des nuages
+838|Les bonus additifs de Nuages sont 10 % plus efficaces par niveau.
+839|Maîtrise de la charge
+840|Les bonus additifs d'Électricité sont 10 % plus efficaces par niveau.
+841|Maîtrise thermique
+842|Les bonus additifs de Température sont 10 % plus efficaces par niveau.
+843|Maîtrise aérienne
+844|Les bonus additifs de Vent sont 10 % plus efficaces par niveau.
+845|Condensateur hors ligne
+846|+2 h de plafond hors ligne et +5 % d'efficacité hors ligne par niveau (nécessite le Générateur hors ligne).
+847|Réglage de recharge
+848|Recharge des boosts -6 % par niveau (multiplicatif).
+849|Extraction de noyaux
+850|+20 % de Noyaux de Tempête issus des tempêtes par niveau.
+851|Amplificateur de boosts
+852|Effets des boosts +10 % plus forts par niveau.
+853|Départ lancé
+854|Commence chaque partie avec plus d'Énergie (500, 5K, 50K, 500K, 5M).
+855|Chaque phénomène actif renforce tous les autres de +3 % par niveau.
+856|Conversion de pression
+857|5 % du bonus de Température par niveau alimente aussi la Pression de base.
+858|Gradient de température extrême
+859|+Température x1.4
+860|+Fréquence des éclairs x1.1
+861|-Humidité x0.85
+862|Atmosphère saturée
+863|+Humidité x1.5
+864|+Nuages x1.2
+865|-Vent x0.8
+866|Saison des grands vents
+867|+Vent x1.5
+868|+Cyclone x1.5
+869|-Température x0.85
+870|Instabilité électrique
+871|+Électricité x1.6
+872|+Chaîne par éclair x1.5
+873|-Nuages x0.85
+874|Saison des moussons
+875|+Mousson x2
+876|+Humidité x1.3
+877|-Électricité x0.8
+878|Dôme de chaleur
+879|+Tempête de chaleur x2
+880|+Température x1.3
+881|-Nuages x0.8
+882|Air immobile
+883|+Les tempêtes durent 4 s de plus
+884|+Effets des boosts x1.25
+885|Éruption de supercellules
+886|+Supercellule x1.5
+887|+Intensité de la tempête x1.1
+888|-Électricité x0.9
+889|Améliore la Pompe à pression au Niv. 5
+890|Construis une Pompe hydraulique
+891|Déchaîne ta première tempête
+892|Atteins le Niveau du Moteur 2
+893|Construis un Condenseur de nuages
+894|Monte la Pompe hydraulique au Niv. 10
+895|Monte le Condenseur de nuages au Niv. 10 pour débloquer Éclatement nuageux
+896|Active un boost
+897|Construis une Bobine Tesla
+898|Obtiens un nouveau style dans la Boutique de styles
+899|Déchaîne 10 tempêtes
+900|Construis une Fournaise thermique
+901|Débloque un Module avec des Noyaux de Tempête
+902|Équipe un Module
+903|Décore ton île
+904|Possède 5 décorations différentes
+905|Découvre un Orage
+906|Renforce la Chambre à tempête
+907|Construis une Éolienne
+908|Atteins une réaction en chaîne x2 en une tempête
+909|Atteins le Niveau du Moteur 8 pour participer aux tournois
+910|Entre dans le tournoi hebdomadaire
+911|Découvre une Tempête de chaleur
+912|Construis le Générateur hors ligne
+913|Génère 10M d'Énergie en une partie
+914|Réinitialise l'atmosphère pour gagner de la Recherche
+915|Possède 3 améliorations de Recherche
+916|Découvre une Mousson
+917|Découvre un Cyclone
+918|Découvre une Supercellule
+919|Découvre une tempête de Surcharge
+920|Réinitialise l'atmosphère 3 fois
+921|Crée une Anomalie
+922|Charge et déchaîne des tempêtes.
+923|Un cadeau pour chaque jour où tu joues, une série qui grandit et trois nouvelles missions chaque jour.
+924|Découvre exactement comment la Puissance de Tempête est calculée et prévois ta prochaine tempête.
+925|Apparences, nuages d'orage, éclairs, mondes et titres. Chacun améliore une statistique.
+926|Atelier des modules
+927|Équipe des modules qui modifient la formule. Payés en Noyaux de Tempête.
+928|Décore ton île pour gagner de l'Énergie en plus et montre-la aux visiteurs.
+929|Emmène ton moteur au tournoi hebdomadaire et grimpe dans les classements mondiaux.
+930|Conditions hebdomadaires
+931|Une nouvelle condition atmosphérique chaque lundi change la meilleure configuration.
+932|Continue à produire pendant ton absence. Coûteux à construire.
+933|Réinitialise l'atmosphère pour obtenir de la Recherche et des améliorations permanentes.
+934|Garde le moteur en marche pendant ton absence. Niveau 1 : 1 heure à 20 % d'efficacité. Chaque niveau ajoute +1 heure et +5 % d'efficacité. Permanent.
+935|Atelier classique
+936|Le fidèle original : pont rond, dôme de verre et une antenne très fière.
+937|Brise marine
+938|Un moteur façon navire, avec hublots et rambardes en laiton. Humidité x1.10.
+939|Ateliers émeraude
+940|Pont crénelé et couronne d'engrenages. Nuages x1.10.
+941|Violet royal
+942|Trône octogonal coiffé d'une couronne sertie. Électricité x1.15.
+943|Néon de minuit
+944|Angles vifs et bandes lumineuses. Vent x1.15.
+945|Bonbon pop
+946|Gommes, spirales et une antenne sucette. Température x1.15.
+947|Or solaire
+948|Un moteur solaire rayonnant aux rayons dorés. Pression de base x1.20.
+949|Cœur du chaos
+950|Hérissé et instable, avec des éclats en orbite autour du dôme. Efficacité du moteur x1.15.
+951|Machine à vapeur en laiton
+952|Exclusif. Engrenages tournants, rivets et dôme à bulbe. Pression de base x1.30.
+953|Flèche de cristal
+954|Exclusif. Un moteur de cristal taillé entouré d'éclats. Électricité x1.30.
+955|Fusée céleste
+956|Exclusif. Ailerons, dôme en capsule et anneaux orbitaux. Vent x1.30.
+957|Forge de magma
+958|Pack Volcan. Pont de basalte veiné de lave incandescente. Température x1.25.
+959|Pagode en fleurs
+960|Pack Sakura. Toits de pagode étagés au-dessus du dôme. Humidité x1.25.
+961|Cœur cyber
+962|Pack Néon. Circuits hexagonaux et anneaux holographiques. Électricité x1.25.
+963|Doublure argentée
+964|Doux, moelleux et fiable.
+965|Barbe à papa
+966|De douces bouffées roses. Nuages x1.10.
+967|Brume toxique
+968|Volutes vertes bouillonnantes. Vitesse de charge x1.15.
+969|Enfer
+970|Nuages de flammes vacillantes. Température x1.15.
+971|Glacier
+972|Nuages glacés et cristallins. Humidité x1.15.
+973|Le Néant
+974|Des nuages venus d'ailleurs. Tous les phénomènes x1.10.
+975|Tempête noire
+976|Exclusif. Un cumulonimbus crépitant. Durée de la tempête x1.20.
+977|Panache de cendres
+978|Pack Volcan. Cendre fumante et braises. Température x1.12.
+979|Pluie de pétales
+980|Pack Sakura. Des nuages de pétales à la dérive. Humidité x1.12.
+981|Synthwave
+982|Pack Néon. Nuages numériques pixelisés. Électricité x1.12.
+983|Éclair doré
+984|Brillant, bruyant et doré.
+985|Bleu électrique
+986|Des arcs bleus nets. Fréquence des éclairs x1.10.
+987|Violet plasma
+988|D'épaisses colonnes de plasma. Chaîne par éclair x1.15.
+989|Arc émeraude
+990|Des arcs verts en dents de scie. Électricité x1.10.
+991|Fureur écarlate
+992|Des fourches rouges furieuses. Intensité de la tempête x1.10.
+993|Prisme
+994|Deux éclairs arc-en-ciel. Fréquence des éclairs x1.20.
+995|Marteau du tonnerre
+996|Exclusif. Chaque éclair frappe comme un marteau. Chaîne par éclair x1.25.
+997|Fouet de lave
+998|Pack Volcan. Des fouets en fusion. Intensité de la tempête x1.10.
+999|Étincelle en fleurs
+1000|Pack Sakura. Deux étincelles roses. Fréquence des éclairs x1.12.
+1001|Pulsation néon
+1002|Pack Néon. Des éclairs en signal carré. Chaîne par éclair x1.12.
+1003|Prairie ensoleillée
+1004|Collines vertes et ciel bleu.
+1005|Canyon du désert
+1006|Roche rouge et cactus sous un ciel orangé. Température x1.10.
+1007|Pics gelés
+1008|Champs de neige et pins. Vent x1.10.
+1009|Île tropicale
+1010|Palmiers et mer turquoise. Humidité x1.15.
+1011|Nuit étoilée
+1012|Un ciel étoilé et des fleurs lumineuses. Électricité x1.15.
+1013|Planète extraterrestre
+1014|Exclusif. Forêts de cristal sous un ciel violet. Efficacité du moteur x1.10.
+1015|Île volcanique
+1016|Pack Volcan. Roche noire, mares de lave et ciel en feu. Température x1.20.
+1017|Jardin Sakura
+1018|Pack Sakura. Cerisiers en fleurs et doux ciel rose. Humidité x1.20.
+1019|Grille néon
+1020|Pack Néon. Sol quadrillé lumineux sous un ciel synthwave. Électricité x1.20.
+1021|Affiché à côté de ton nom.
+1022|Seigneur du tonnerre
+1023|Obtenu en découvrant cette classe de tempête. Gain de Noyaux de Tempête x1.05.
+1024|Brûleur
+1025|Faiseur de pluie
+1026|Murmureur des vents
+1027|Architecte des supercellules
+1028|Obtenu en découvrant cette classe de tempête. Gain de Noyaux de Tempête x1.08.
+1029|Surchargeur
+1030|Ingénieur du chaos
+1031|Obtenu en découvrant cette classe de tempête. Gain de Noyaux de Tempête x1.10.
+1032|Ingénieur vétéran
+1033|Obtenu au Niveau du Moteur 20. Gain de Noyaux de Tempête x1.05.
+1034|Légende des tempêtes
+1035|Obtenu au Niveau du Moteur 40. Gain de Noyaux de Tempête x1.10.
+1036|Champion du tournoi
+1037|Titre exclusif. Gain de Noyaux de Tempête x1.10.
+1038|Fondateur
+1039|Fait partie d'un pack. Gain de Noyaux de Tempête x1.05.
+1040|Seigneur du feu
+1041|Maître zen
+1042|Fantôme néon
+1043|Forge volcanique
+1044|Apparence Forge de magma, nuages Panache de cendres, éclairs Fouet de lave, le monde Île volcanique, le titre Seigneur du feu et deux décorations volcaniques.
+1045|Apparence Pagode en fleurs, nuages Pluie de pétales, éclairs Étincelle en fleurs, le monde Jardin Sakura, le titre Maître zen, des carpes koï et une lanterne de pierre.
+1046|Nuits néon
+1047|Apparence Cœur cyber, nuages Synthwave, éclairs Pulsation néon, le monde Grille néon, le titre Fantôme néon, une enseigne néon et un arbre holographique.
+1048|Parterre de fleurs
+1049|Un joyeux coin de fleurs.
+1050|Banc public
+1051|Pour regarder les tempêtes arriver.
+1052|Lampadaire
+1053|Brille plus fort quand une tempête arrive.
+1054|Gnome des tempêtes
+1055|Porte un petit chapeau paratonnerre.
+1056|Cerf-volant des tempêtes
+1057|Danse dans le vent au-dessus de l'île.
+1058|Bassin
+1059|De la place pour trois décorations aquatiques.
+1060|Nénuphars
+1061|Flottent sur un bassin.
+1062|Canards en caoutchouc
+1063|Coin-coin.
+1064|Cercle de champignons
+1065|Apparaît après chaque bonne pluie.
+1066|Petit moulin
+1067|Tourne plus vite avec le Vent.
+1068|Girouette
+1069|Pointe toujours vers la tempête.
+1070|Fontaine
+1071|Jaillit au milieu d'un bassin.
+1072|Montgolfière
+1073|Dérive paresseusement autour de l'île.
+1074|Titan des tempêtes
+1075|Un géant de pierre qui tient un éclair.
+1076|Grappe de cristaux
+1077|Bourdonne de charge accumulée.
+1078|Lanternes célestes
+1079|Des lumières chaudes qui flottent dans le ciel.
+1080|Voilier miniature
+1081|Navigue en rond sur un bassin.
+1082|Balise à éclairs
+1083|Crépite d'étincelles.
+1084|Arc-en-ciel
+1085|Un arc-en-ciel sous lequel passer.
+1086|Dirigeable météo
+1087|Diffuse la météo.
+1088|Baleine de nuage
+1089|Exclusif. Un gentil géant fait de nuage.
+1090|Bonhomme de neige
+1091|Limité. Ne fond jamais, on ne sait comment.
+1092|Citrouille des tempêtes
+1093|Limité. Sourit au tonnerre.
+1094|Totem du tonnerre
+1095|Limité. Sculpté par d'anciens chasseurs de tempêtes.
+1096|Topiaire des tempêtes
+1097|Limité. Une haie taillée en forme d'éclair.
+1098|Mare de lave
+1099|Pack Volcan. Bouillonnante et très chaude.
+1100|Totem d'obsidienne
+1101|Pack Volcan. Une pierre noire et vitreuse.
+1102|Carpe koï
+1103|Pack Sakura. Des poissons porte-bonheur pour ton bassin.
+1104|Lanterne de pierre
+1105|Pack Sakura. Une lumière paisible pour le jardin.
+1106|Enseigne néon
+1107|Pack Néon. Elle affiche STORM.
+1108|Arbre holographique
+1109|Pack Néon. Un arbre fait de lumière.
+1110|Extension de l'île I
+1111|L'île s'agrandit. De la place pour 10 décorations de plus.
+1112|Extension de l'île II
+1113|Encore plus de terrain. De la place pour 12 décorations de plus.
+1114|Extension de l'île III
+1115|Une île grandiose. De la place pour 15 décorations de plus.
+1116|Gemmes gratuites
+1117|+8 Gemmes.
+1118|Déferlante d'Énergie
+1119|Revenus d'Énergie x2 pendant 15 minutes (cumulable jusqu'à 1 heure).
+1120|Charge instantanée
+1121|Charge complètement la chambre à tempête.
+1122|Noyaux doublés
+1123|Double les Noyaux de Tempête de ta dernière tempête.
+1124|Essai supplémentaire
+1125|Progression de pack
+1126|+1 vers un pack pub.
+1127|Hors ligne doublé
+1128|Double l'Énergie gagnée pendant ton absence.
+1129|Morceau de musique
+1130|Débloque un nouveau morceau pour toujours.
+1131|Sauve ta série
+1132|Rétablit une série de connexion que tu viens de perdre.
+1133|400 Gemmes, 500 Noyaux de Tempête et le titre Fondateur. Une fois par joueur.
+1134|UNIQUE
+1135|Bourse de Gemmes
+1136|100 Gemmes
+1137|Sac de Gemmes
+1138|550 Gemmes
+1139|+10 %
+1140|Coffre de Gemmes
+1141|1 200 Gemmes
+1142|+20 %
+1143|Chambre forte de Gemmes
+1144|2 600 Gemmes
+1145|+30 %
+1146|Trésor des tempêtes
+1147|7 000 Gemmes
+1148|Déchaîne 5 tempêtes
+1149|Déchaîne 12 tempêtes
+1150|Achète 20 niveaux de machines
+1151|Achète 60 niveaux de machines
+1152|Fais tomber 40 éclairs
+1153|Utilise 4 boosts
+1154|Utilise 3 boosts pendant une tempête
+1155|Déchaîne 3 tempêtes à phénomène
+1156|Provoque une Méga-tempête
+1157|Gagne 10 Noyaux de Tempête grâce aux tempêtes
+1158|Débloque ou améliore un module
+1159|Achète une décoration pour ton île

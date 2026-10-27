@@ -1,0 +1,200 @@
+{
+ "fps": 120,
+ "width": 1080,
+ "height": 1920,
+ "takes": [
+  {
+   "name": "evolve",
+   "seconds": 13.2,
+   "preroll": 1.5,
+   "ui": false,
+   "ease": 0.0,
+   "setup": [
+    "calm",
+    "home:0",
+    "equip:world_meadow",
+    "equip:skin_classic",
+    "equip:cloud_classic",
+    "equip:bolt_classic",
+    "hide:pump,hydro,condenser,tesla,furnace,turbine",
+    "sky:0"
+   ],
+   "cues": [
+    {
+     "t": 0.9,
+     "a": "buy:pump"
+    },
+    {
+     "t": 2.1,
+     "a": "buy:condenser"
+    },
+    {
+     "t": 2.4,
+     "a": "buy:tesla"
+    },
+    {
+     "t": 2.7,
+     "a": "buy:furnace"
+    },
+    {
+     "t": 3.0,
+     "a": "buy:hydro"
+    },
+    {
+     "t": 3.3,
+     "a": "buy:turbine"
+    },
+    {
+     "t": 3.55,
+     "a": "decor:dec_flowerbed"
+    },
+    {
+     "t": 3.75,
+     "a": "decor:dec_lamppost"
+    },
+    {
+     "t": 4.1,
+     "a": "level:pump:12"
+    },
+    {
+     "t": 4.35,
+     "a": "level:condenser:12"
+    },
+    {
+     "t": 4.6,
+     "a": "level:tesla:12"
+    },
+    {
+     "t": 5.0,
+     "a": "decor:dec_windmill"
+    },
+    {
+     "t": 5.25,
+     "a": "decor:dec_fountain"
+    },
+    {
+     "t": 5.5,
+     "a": "decor:dec_pond"
+    },
+    {
+     "t": 5.75,
+     "a": "decor:dec_ducks"
+    },
+    {
+     "t": 6.0,
+     "a": "decor:dec_kite"
+    },
+    {
+     "t": 6.25,
+     "a": "decor:dec_balloon"
+    },
+    {
+     "t": 6.5,
+     "a": "decor:dec_arch"
+    },
+    {
+     "t": 7.05,
+     "a": "equip:bolt_prism"
+    },
+    {
+     "t": 7.05,
+     "a": "equip:cloud_tempest"
+    },
+    {
+     "t": 7.05,
+     "a": "equip:skin_gold"
+    },
+    {
+     "t": 7.3,
+     "a": "decor:dec_statue"
+    },
+    {
+     "t": 7.5,
+     "a": "decor:dec_blimp"
+    },
+    {
+     "t": 7.7,
+     "a": "decor:dec_lanterns"
+    },
+    {
+     "t": 7.9,
+     "a": "decor:dec_crystal"
+    },
+    {
+     "t": 8.1,
+     "a": "decor:dec_whale"
+    },
+    {
+     "t": 8.3,
+     "a": "decor:dec_sailboat"
+    },
+    {
+     "t": 8.4,
+     "a": "skyRamp:0.9:1.0"
+    },
+    {
+     "t": 8.5,
+     "a": "decor:dec_mushroom"
+    },
+    {
+     "t": 9.0,
+     "a": "strike"
+    },
+    {
+     "t": 9.5,
+     "a": "bigStrike"
+    },
+    {
+     "t": 10.0,
+     "a": "bigStrike"
+    },
+    {
+     "t": 10.0,
+     "a": "shake:0.35"
+    },
+    {
+     "t": 10.5,
+     "a": "strike"
+    },
+    {
+     "t": 11.0,
+     "a": "bigStrike"
+    },
+    {
+     "t": 11.5,
+     "a": "strike"
+    },
+    {
+     "t": 12.0,
+     "a": "bigStrike"
+    },
+    {
+     "t": 12.0,
+     "a": "shake:0.45"
+    }
+   ],
+   "camera": [
+    {
+     "t": 0.0,
+     "anchor": "island",
+     "y": 1.2,
+     "yaw": -60.0,
+     "pitch": 31.0,
+     "dist": 50.0,
+     "fov": 40,
+     "sy": 0.04
+    },
+    {
+     "t": 13.2,
+     "anchor": "island",
+     "y": 1.2,
+     "yaw": -11.26,
+     "pitch": 26.94,
+     "dist": 41.88,
+     "fov": 40,
+     "sy": 0.04
+    }
+   ]
+  }
+ ]
+}

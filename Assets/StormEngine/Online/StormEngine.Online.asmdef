@@ -1,0 +1,48 @@
+{
+    "name": "StormEngine.Online",
+    "rootNamespace": "StormEngine.Online",
+    "references": [
+        "StormEngine.Core",
+        "StormEngine.Runtime",
+        "Unity.Services.Core",
+        "Unity.Services.Authentication",
+        "Unity.Services.Leaderboards",
+        "Unity.Services.CloudSave",
+        "Unity.Services.CloudCode"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "STORM_UGS_AUTH",
+        "STORM_UGS_LEADERBOARDS",
+        "STORM_UGS_CLOUDSAVE",
+        "STORM_UGS_CLOUDCODE"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.services.authentication",
+            "expression": "3.0.0",
+            "define": "STORM_UGS_AUTH"
+        },
+        {
+            "name": "com.unity.services.leaderboards",
+            "expression": "2.0.0",
+            "define": "STORM_UGS_LEADERBOARDS"
+        },
+        {
+            "name": "com.unity.services.cloudsave",
+            "expression": "3.0.0",
+            "define": "STORM_UGS_CLOUDSAVE"
+        },
+        {
+            "name": "com.unity.services.cloudcode",
+            "expression": "2.0.0",
+            "define": "STORM_UGS_CLOUDCODE"
+        }
+    ],
+    "noEngineReferences": false
+}

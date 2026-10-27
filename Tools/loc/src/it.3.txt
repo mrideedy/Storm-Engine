@@ -1,0 +1,358 @@
+802|Vento x1.5 (+0.15/liv.). Le tempeste si caricano il 20% più in fretta.
+803|Lente barometrica
+804|Lente
+805|Pressione base x2 (+0.25/liv.).
+806|Banco di condensatori
+807|Condensatore
+808|Le tempeste durano +4 s (+0.5/liv.). Catena per fulmine +2%.
+809|Scambiatore di calore
+810|Scambiatore
+811|Tempesta di calore x2 (+0.2/liv.). Il 25% del bonus di Temperatura alimenta anche il Vento.
+812|Raccoglitore di pioggia
+813|Pioggia
+814|Monsone x2 (+0.2/liv.). Efficienza offline +10%.
+815|Nucleo del ciclone
+816|Ciclone x2 (+0.2/liv.). Vento x1.25.
+817|Relè di sovraccarico
+818|Relè
+819|Sovraccarico x2 (+0.2/liv.). Catena per fulmine +3%.
+820|Processore di supercelle
+821|Processore
+822|Tutti i fenomeni x1.2 (+0.04/liv.).
+823|Reattore del Caos
+824|Caos
+825|Potenza della Tempesta x2 (+0.25/liv.). Le tempeste accumulano instabilità: Anomalia oltre il 40%, collasso al 100%.
+826|+25% di Potenza della Tempesta per livello.
+827|Automazione delle tempeste
+828|Le tempeste si scatenano da sole quando sono cariche, anche mentre sei via (con il Generatore Offline).
+829|Alloggiamento moduli
+830|+1 slot per moduli.
+831|Tempeste lunghe
+832|+2 s di durata della tempesta per livello.
+833|Carica rapida
+834|Le tempeste si caricano il 10% più in fretta per livello.
+835|Maestria idrica
+836|I bonus additivi di Umidità sono il 10% più efficaci per livello.
+837|Maestria delle nuvole
+838|I bonus additivi delle Nuvole sono il 10% più efficaci per livello.
+839|Maestria della carica
+840|I bonus additivi di Elettricità sono il 10% più efficaci per livello.
+841|Maestria termica
+842|I bonus additivi di Temperatura sono il 10% più efficaci per livello.
+843|Maestria aerea
+844|I bonus additivi del Vento sono il 10% più efficaci per livello.
+845|Condensatore Offline
+846|+2 h di limite offline e +5% di efficienza offline per livello (richiede il Generatore Offline).
+847|Regolazione della ricarica
+848|Ricarica dei potenziamenti -6% per livello (moltiplicativa).
+849|Estrazione dei nuclei
+850|+20% di Nuclei di Tempesta dalle tempeste per livello.
+851|Amplificatore di potenziamenti
+852|Effetti dei potenziamenti +10% più forti per livello.
+853|Partenza lanciata
+854|Inizia ogni partita con più Energia (500, 5K, 50K, 500K, 5M).
+855|Ogni fenomeno attivo aumenta tutti gli altri del +3% per livello.
+856|Conversione di pressione
+857|Il 5% del bonus di Temperatura per livello alimenta anche la Pressione base.
+858|Gradiente di temperatura estremo
+859|+Temperatura x1.4
+860|+Frequenza dei fulmini x1.1
+861|-Umidità x0.85
+862|Atmosfera satura
+863|+Umidità x1.5
+864|+Nuvole x1.2
+865|-Vento x0.8
+866|Stagione dei venti forti
+867|+Vento x1.5
+868|+Ciclone x1.5
+869|-Temperatura x0.85
+870|Instabilità elettrica
+871|+Elettricità x1.6
+872|+Catena per fulmine x1.5
+873|-Nuvole x0.85
+874|Stagione dei monsoni
+875|+Monsone x2
+876|+Umidità x1.3
+877|-Elettricità x0.8
+878|Cupola di calore
+879|+Tempesta di calore x2
+880|+Temperatura x1.3
+881|-Nuvole x0.8
+882|Aria immobile
+883|+Le tempeste durano 4 s in più
+884|+Effetti dei potenziamenti x1.25
+885|Esplosione di supercelle
+886|+Supercella x1.5
+887|+Intensità della tempesta x1.1
+888|-Elettricità x0.9
+889|Migliora la Pompa a pressione al Liv. 5
+890|Costruisci una Pompa idraulica
+891|Scatena la tua prima tempesta
+892|Raggiungi il Livello Motore 2
+893|Costruisci un Condensatore di nuvole
+894|Porta la Pompa idraulica al Liv. 10
+895|Porta il Condensatore di nuvole al Liv. 10 per sbloccare Scoppio di nuvole
+896|Attiva un potenziamento
+897|Costruisci una Bobina di Tesla
+898|Ottieni un nuovo stile nel Negozio di Stili
+899|Scatena 10 tempeste
+900|Costruisci una Fornace termica
+901|Sblocca un Modulo con i Nuclei di Tempesta
+902|Equipaggia un Modulo
+903|Decora la tua isola
+904|Possiedi 5 decorazioni diverse
+905|Scopri un Temporale
+906|Rinforza la Camera della tempesta
+907|Costruisci una Turbina eolica
+908|Raggiungi una reazione a catena x2 in una tempesta
+909|Raggiungi il Livello Motore 8 per partecipare ai tornei
+910|Entra nel torneo settimanale
+911|Scopri una Tempesta di calore
+912|Costruisci il Generatore Offline
+913|Genera 10M di Energia in una partita
+914|Resetta l'atmosfera per ottenere Ricerca
+915|Possiedi 3 miglioramenti di Ricerca
+916|Scopri un Monsone
+917|Scopri un Ciclone
+918|Scopri una Supercella
+919|Scopri una tempesta di Sovraccarico
+920|Resetta l'atmosfera 3 volte
+921|Crea un'Anomalia
+922|Carica e scatena tempeste.
+923|Un regalo per ogni giorno in cui giochi, una serie che cresce e tre nuove missioni ogni giorno.
+924|Scopri esattamente come si calcola la Potenza della Tempesta e prevedi la tua prossima tempesta.
+925|Aspetti, nuvole temporalesche, fulmini, mondi e titoli. Ognuno migliora una statistica.
+926|Officina dei Moduli
+927|Equipaggia moduli che piegano la formula. Si pagano con Nuclei di Tempesta.
+928|Decora la tua isola per avere Energia in più e mostrala ai visitatori.
+929|Porta il tuo motore al torneo settimanale e scala le classifiche globali.
+930|Condizioni settimanali
+931|Ogni lunedì una nuova condizione atmosferica cambia la configurazione migliore.
+932|Continua a produrre mentre sei via. Costoso da costruire.
+933|Resetta l'atmosfera per ottenere Ricerca e miglioramenti permanenti.
+934|Mantiene il motore in funzione mentre sei via. Livello 1: 1 ora al 20% di efficienza. Ogni livello aggiunge +1 ora e +5% di efficienza. Permanente.
+935|Officina classica
+936|Il fedele originale: piattaforma rotonda, cupola di vetro e un'antenna molto orgogliosa.
+937|Brezza marina
+938|Un motore in stile nave, con oblò e ringhiere d'ottone. Umidità x1.10.
+939|Officine smeraldo
+940|Piattaforma dentata e una corona di ingranaggi. Nuvole x1.10.
+941|Viola reale
+942|Trono ottagonale con una corona ingioiellata. Elettricità x1.15.
+943|Neon di mezzanotte
+944|Angoli affilati e strisce luminose. Vento x1.15.
+945|Caramella pop
+946|Gommose, spirali e un'antenna a lecca-lecca. Temperatura x1.15.
+947|Oro solare
+948|Un radioso motore solare con raggi dorati. Pressione base x1.20.
+949|Nucleo del caos
+950|Spinoso e instabile, con schegge in orbita attorno alla cupola. Efficienza del motore x1.15.
+951|Macchina a vapore in ottone
+952|Esclusivo. Ingranaggi rotanti, rivetti e una cupola a cipolla. Pressione base x1.30.
+953|Guglia di cristallo
+954|Esclusivo. Un motore di cristallo sfaccettato circondato da schegge. Elettricità x1.30.
+955|Razzo celeste
+956|Esclusivo. Alette di coda, una cupola a capsula e anelli orbitali. Vento x1.30.
+957|Fucina di magma
+958|Pacchetto Vulcano. Piattaforma di basalto con venature di lava ardente. Temperatura x1.25.
+959|Pagoda in fiore
+960|Pacchetto Sakura. Tetti di pagoda a più livelli sopra la cupola. Umidità x1.25.
+961|Nucleo cyber
+962|Pacchetto Neon. Circuiti esagonali con anelli olografici. Elettricità x1.25.
+963|Bordo d'argento
+964|Morbida, soffice, affidabile.
+965|Zucchero filato
+966|Dolci sbuffi rosa. Nuvole x1.10.
+967|Nebbia tossica
+968|Volute verdi gorgoglianti. Velocità di carica x1.15.
+969|Inferno
+970|Nuvole di fiamme tremolanti. Temperatura x1.15.
+971|Ghiacciaio
+972|Nuvole gelide e cristalline. Umidità x1.15.
+973|Il Vuoto
+974|Nuvole venute da altrove. Tutti i fenomeni x1.10.
+975|Tempesta furiosa
+976|Esclusivo. Un cumulonembo crepitante. Durata della tempesta x1.20.
+977|Pennacchio di cenere
+978|Pacchetto Vulcano. Cenere fumante con braci. Temperatura x1.12.
+979|Pioggia di petali
+980|Pacchetto Sakura. Nuvole di petali alla deriva. Umidità x1.12.
+981|Synthwave
+982|Pacchetto Neon. Nuvole digitali squadrate. Elettricità x1.12.
+983|Fulmine dorato
+984|Brillante, rumoroso e dorato.
+985|Blu elettrico
+986|Archi blu nitidi. Frequenza dei fulmini x1.10.
+987|Viola plasma
+988|Pesanti colonne di plasma. Catena per fulmine x1.15.
+989|Arco smeraldo
+990|Archi verdi frastagliati. Elettricità x1.10.
+991|Furia cremisi
+992|Forche rosse furiose. Intensità della tempesta x1.10.
+993|Prisma
+994|Due fulmini arcobaleno. Frequenza dei fulmini x1.20.
+995|Martello del tuono
+996|Esclusivo. Ogni fulmine colpisce come un martello. Catena per fulmine x1.25.
+997|Frusta di lava
+998|Pacchetto Vulcano. Fruste fuse. Intensità della tempesta x1.10.
+999|Scintilla in fiore
+1000|Pacchetto Sakura. Due scintille rosa. Frequenza dei fulmini x1.12.
+1001|Impulso neon
+1002|Pacchetto Neon. Fulmini a onda quadra. Catena per fulmine x1.12.
+1003|Prato soleggiato
+1004|Colline verdi e cieli azzurri.
+1005|Canyon del deserto
+1006|Roccia rossa e cactus sotto un cielo arancione. Temperatura x1.10.
+1007|Vette gelate
+1008|Distese di neve e pini. Vento x1.10.
+1009|Isola tropicale
+1010|Palme e un mare turchese. Umidità x1.15.
+1011|Notte stellata
+1012|Un cielo stellato e fiori luminosi. Elettricità x1.15.
+1013|Pianeta alieno
+1014|Esclusivo. Foreste di cristallo sotto un cielo viola. Efficienza del motore x1.10.
+1015|Isola vulcanica
+1016|Pacchetto Vulcano. Roccia nera, pozze di lava e un cielo in fiamme. Temperatura x1.20.
+1017|Giardino Sakura
+1018|Pacchetto Sakura. Ciliegi in fiore e un tenue cielo rosa. Umidità x1.20.
+1019|Griglia neon
+1020|Pacchetto Neon. Terreno a griglia luminosa sotto un cielo synthwave. Elettricità x1.20.
+1021|Mostrato accanto al tuo nome.
+1022|Signore del Tuono
+1023|Ottenuto scoprendo questa classe di tempesta. Guadagno di Nuclei di Tempesta x1.05.
+1024|Rovente
+1025|Portatore di Pioggia
+1026|Sussurratore del Vento
+1027|Architetto delle Supercelle
+1028|Ottenuto scoprendo questa classe di tempesta. Guadagno di Nuclei di Tempesta x1.08.
+1029|Sovraccaricatore
+1030|Ingegnere del Caos
+1031|Ottenuto scoprendo questa classe di tempesta. Guadagno di Nuclei di Tempesta x1.10.
+1032|Ingegnere Veterano
+1033|Ottenuto al Livello Motore 20. Guadagno di Nuclei di Tempesta x1.05.
+1034|Leggenda delle Tempeste
+1035|Ottenuto al Livello Motore 40. Guadagno di Nuclei di Tempesta x1.10.
+1036|Campione del Torneo
+1037|Titolo esclusivo. Guadagno di Nuclei di Tempesta x1.10.
+1038|Fondatore
+1039|Parte di un pacchetto. Guadagno di Nuclei di Tempesta x1.05.
+1040|Signore del Fuoco
+1041|Maestro Zen
+1042|Fantasma Neon
+1043|Fucina vulcanica
+1044|Aspetto Fucina di magma, nuvole Pennacchio di cenere, fulmini Frusta di lava, il mondo Isola vulcanica, il titolo Signore del Fuoco e due decorazioni vulcaniche.
+1045|Aspetto Pagoda in fiore, nuvole Pioggia di petali, fulmini Scintilla in fiore, il mondo Giardino Sakura, il titolo Maestro Zen, carpe koi e una lanterna di pietra.
+1046|Notti neon
+1047|Aspetto Nucleo cyber, nuvole Synthwave, fulmini Impulso neon, il mondo Griglia neon, il titolo Fantasma Neon, un'insegna al neon e un albero olografico.
+1048|Aiuola fiorita
+1049|Un allegro angolo di fiori.
+1050|Panchina del parco
+1051|Per guardare arrivare le tempeste.
+1052|Lampione
+1053|Si illumina di più quando arriva una tempesta.
+1054|Gnomo delle tempeste
+1055|Porta un cappellino con parafulmine.
+1056|Aquilone delle tempeste
+1057|Danza nel vento sopra l'isola.
+1058|Stagno
+1059|Spazio per tre decorazioni acquatiche.
+1060|Ninfee
+1061|Galleggiano su uno stagno.
+1062|Paperelle di gomma
+1063|Squeak.
+1064|Cerchio di funghi
+1065|Spunta dopo ogni bella pioggia.
+1066|Mulino a vento
+1067|Gira più veloce con il Vento.
+1068|Banderuola
+1069|Punta sempre verso la tempesta.
+1070|Fontana
+1071|Zampilla al centro di uno stagno.
+1072|Mongolfiera
+1073|Fluttua pigramente attorno all'isola.
+1074|Titano delle tempeste
+1075|Un gigante di pietra che regge un fulmine.
+1076|Grappolo di cristalli
+1077|Ronza di carica accumulata.
+1078|Lanterne volanti
+1079|Luci calde che fluttuano nel cielo.
+1080|Barchetta a vela
+1081|Naviga in tondo su uno stagno.
+1082|Faro dei fulmini
+1083|Crepita di scintille.
+1084|Arcobaleno
+1085|Un arcobaleno sotto cui passare.
+1086|Dirigibile meteo
+1087|Trasmette le previsioni del tempo.
+1088|Balena di nuvole
+1089|Esclusivo. Un gigante gentile fatto di nuvola.
+1090|Pupazzo di neve
+1091|Limitato. Chissà come, non si scioglie mai.
+1092|Zucca tempestosa
+1093|Limitato. Sorride ai tuoni.
+1094|Totem del tuono
+1095|Limitato. Scolpito da antichi cacciatori di tempeste.
+1096|Siepe tempestosa
+1097|Limitato. Una siepe potata a forma di fulmine.
+1098|Pozza di lava
+1099|Pacchetto Vulcano. Gorgogliante e molto calda.
+1100|Totem di ossidiana
+1101|Pacchetto Vulcano. Pietra nera e vitrea.
+1102|Pesce koi
+1103|Pacchetto Sakura. Pesci portafortuna per il tuo stagno.
+1104|Lanterna di pietra
+1105|Pacchetto Sakura. Una luce tranquilla per il giardino.
+1106|Insegna al neon
+1107|Pacchetto Neon. C'è scritto STORM.
+1108|Albero olografico
+1109|Pacchetto Neon. Un albero fatto di luce.
+1110|Espansione dell'isola I
+1111|L'isola cresce. Spazio per altre 10 decorazioni.
+1112|Espansione dell'isola II
+1113|Ancora più terra. Spazio per altre 12 decorazioni.
+1114|Espansione dell'isola III
+1115|Un'isola grandiosa. Spazio per altre 15 decorazioni.
+1116|Gemme gratis
+1117|+8 Gemme.
+1118|Ondata di Energia
+1119|Guadagno di Energia x2 per 15 minuti (cumulabile fino a 1 ora).
+1120|Carica istantanea
+1121|Carica completamente la camera della tempesta.
+1122|Nuclei doppi
+1123|Raddoppia i Nuclei di Tempesta della tua ultima tempesta.
+1124|Tentativo extra
+1125|Progressi del pacchetto
+1126|+1 verso un pacchetto pubblicità.
+1127|Offline doppio
+1128|Raddoppia l'Energia del tempo in cui sei stato via.
+1129|Brano musicale
+1130|Sblocca un nuovo brano da tenere per sempre.
+1131|Salva la serie
+1132|Ripristina una serie di accessi appena persa.
+1133|400 Gemme, 500 Nuclei di Tempesta e il titolo Fondatore. Una volta per giocatore.
+1134|UNA VOLTA
+1135|Sacchetto di Gemme
+1136|100 Gemme
+1137|Borsa di Gemme
+1138|550 Gemme
+1139|+10%
+1140|Forziere di Gemme
+1141|1.200 Gemme
+1142|+20%
+1143|Caveau di Gemme
+1144|2.600 Gemme
+1145|+30%
+1146|Tesoro delle tempeste
+1147|7.000 Gemme
+1148|Scatena 5 tempeste
+1149|Scatena 12 tempeste
+1150|Compra 20 livelli di macchine
+1151|Compra 60 livelli di macchine
+1152|Fai cadere 40 fulmini
+1153|Usa 4 potenziamenti
+1154|Usa 3 potenziamenti durante una tempesta
+1155|Scatena 3 tempeste con fenomeno
+1156|Provoca una Megatempesta
+1157|Guadagna 10 Nuclei di Tempesta con le tempeste
+1158|Sblocca o migliora un modulo
+1159|Compra una decorazione per la tua isola

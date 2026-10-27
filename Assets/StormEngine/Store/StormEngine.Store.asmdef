@@ -1,0 +1,27 @@
+{
+    "name": "StormEngine.Store",
+    "rootNamespace": "StormEngine.Store",
+    "references": [
+        "StormEngine.Core",
+        "StormEngine.Runtime",
+        "Unity.Purchasing",
+        "Unity.Services.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "STORM_IAP"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.purchasing",
+            "expression": "5.0.0",
+            "define": "STORM_IAP"
+        }
+    ],
+    "noEngineReferences": false
+}

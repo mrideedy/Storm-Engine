@@ -1,0 +1,19 @@
+1160|Ekran główny
+1161|Prywatność
+1162|Spersonalizowane reklamy
+1163|Reklamy odtwarzają się tylko wtedy, gdy zdecydujesz się jedną obejrzeć. Spersonalizowane reklamy korzystają z identyfikatora reklamowego urządzenia.
+1164|Polityka prywatności
+1165|Podoba ci się Storm Engine?
+1166|Ocena lub udostępnienie pomaga innym łowcom burz znaleźć grę.
+1167|Oceń grę
+1168|Udostępnij
+1169|Zbuduj maszynę pogodową, rozpętuj gigantyczne burze i wspinaj się w cotygodniowych rankingach Storm Engine!
+1170|Skopiowano! Wklej w dowolnym miejscu, aby udostępnić.
+1171|REKLAMY DLA CIEBIE?
+1172|Twój wybór, twoje dane
+1173|Storm Engine jest darmowy. Reklamy odtwarzają się tylko wtedy, gdy zdecydujesz się obejrzeć jedną w zamian za nagrodę.
+1174|Nasz partner reklamowy może używać identyfikatora reklamowego urządzenia, aby pokazywać reklamy zgodne z twoimi zainteresowaniami. Bez niego nadal dostajesz każdą nagrodę, tylko reklamy są mniej dopasowane. Możesz to zmienić w dowolnej chwili w Ustawieniach.
+1175|Nie, dziękuję
+1176|Zezwól
+1177|Moja burza ({0}) w Storm Engine zdobyła {1} pkt! Pobijesz to?
+1178|Odkryto zjawisko! Wszystko, co odblokujesz, jest opisane w Stormpedii. Znajdziesz ją w menu w prawym górnym rogu.

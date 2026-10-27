@@ -1,0 +1,19 @@
+1160|Ana ekran
+1161|Gizlilik
+1162|Kişiselleştirilmiş reklamlar
+1163|Reklamlar yalnızca sen izlemeyi seçtiğinde oynar. Kişiselleştirilmiş reklamlar cihazının reklam kimliğini kullanır.
+1164|Gizlilik politikası
+1165|Storm Engine'i beğendin mi?
+1166|Bir puan veya paylaşım, diğer fırtına avcılarının oyunu bulmasına yardım eder.
+1167|Oyunu puanla
+1168|Paylaş
+1169|Storm Engine'de bir hava makinesi kur, dev fırtınalar kopar ve haftalık sıralamalarda yüksel!
+1170|Kopyalandı! Paylaşmak için istediğin yere yapıştır.
+1171|SANA ÖZEL REKLAMLAR?
+1172|Senin seçimin, senin verilerin
+1173|Storm Engine ücretsiz. Reklamlar yalnızca bir ödül için izlemeyi seçtiğinde oynar.
+1174|Reklam ortağımız, ilgi alanlarına uygun reklamlar göstermek için cihazının reklam kimliğini kullanabilir. Onsuz da tüm ödülleri alırsın, sadece reklamlar daha az ilgili olur. Bunu istediğin zaman Ayarlar'dan değiştirebilirsin.
+1175|Hayır, teşekkürler
+1176|İzin ver
+1177|Storm Engine'de {1} puanlık bir fırtına ({0}) kopardım! Geçebilir misin?
+1178|Bir olay keşfettin! Açtığın her şey Stormpedia'da anlatılıyor. Onu sağ üstteki menüde bulabilirsin.

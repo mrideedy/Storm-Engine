@@ -1,0 +1,9 @@
+1179|HAPUS DATA ONLINE?
+1180|Ini menghapus akun pemainmu dan data yang disimpan server game: simpanan cloud, pulau, dan skor papan peringkat. Progres di ponsel ini tetap ada.
+1181|Hapus
+1182|Data online-mu sudah dihapus. Fitur online sekarang mati.
+1183|Data online belum bisa dihapus sekarang. Periksa koneksimu lalu coba lagi.
+1184|Fitur online dimatikan.
+1185|Fitur online
+1186|Papan peringkat, turnamen, simpanan cloud, dan kunjungan pulau memakai server game. Jika dimatikan, tidak ada data yang keluar dari ponselmu.
+1187|Hapus data online-ku

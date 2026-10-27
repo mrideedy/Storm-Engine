@@ -1,0 +1,400 @@
+401|Kurangi gerakan & kilatan
+402|Badai otomatis (Otomasi Badai)
+403|Tips & tutorial
+404|Tampilkan semua tips lagi
+405|Tips akan muncul lagi saat kamu bermain.
+406|Pengembang
+407|Hanya untuk pengujian. Tidak ada di versi rilis.
+408|Buka semua
+409|BUKA SEMUA?
+410|Level Mesin maksimum dan semua mesin, modul, gaya, paket, dekorasi, perluasan, dan lagu, ditambah 100K Permata, 100K Inti Badai, dan 10K Riset.
+411|Simpan
+412|Simpan sekarang
+413|Reset progres
+414|STORM ENGINE · Bangun dengan cerdas. Badai yang dahsyat.
+415|Putar
+416|Berakhir dalam {0}
+417|SEDERHANA
+418|SEIMBANG
+419|TINGGI
+420|30 HEMAT
+421|{0} FPS
+422|MATI
+423|TIDAK DIIZINKAN
+424|NYALA
+425|Disimpan di perangkat setiap beberapa detik.
+426|Simpanan cloud aktif.
+427|Simpanan cloud tersinkron saat kamu online.
+428|Menyetel...
+429|Sedang diputar
+430|Terkunci: tonton iklan untuk membuka
+431|Riset
+432|Reset Atmosfer
+433|Mesin dan Energi direset. Riset, modul, Inti Badai, penemuan, dan rekor tetap kamu miliki.
+434|RISET SAAT RESET
+435|ENERGI RONDE INI
+436|Reset atmosfer
+437|Riset permanen
+438|Poin Riset pertama di {0} Energi ronde ini.
+439|Poin berikutnya di {0} Energi. Riset bertambah setiap kali kamu mencapai orde besaran baru.
+440|Kamu punya {0} Riset ({1} didapat, {2} reset).
+441|DIMILIKI
+442|Skin
+443|Awan
+444|Petir
+445|Dunia
+446|Gelar
+447|Toko
+448|PERMATAMU
+449|Dapatkan Permata
+450|Unggulan
+451|Gaya
+452|Permata
+453|Hadiah gratis
+454|Paket iklan: lingkungan lengkap
+455|Hanya bisa didapat dengan menonton iklan berhadiah. Tiap paket membuka satu set lengkap sekaligus.
+456|Eksklusif
+457|Barang pameran khusus Permata dengan bonus terkuat.
+458|Paket Permata
+459|Permata juga didapat dari bermain: +{0} tiap Level Mesin, +{1} tiap fenomena baru, hadiah harian, hadiah target, dan hadiah turnamen mingguan.
+460|Tonton
+461|PENAWARAN
+462|HANYA IKLAN
+463|Tonton iklan  +1
+464|Pakai set
+465|Bonus: {0}
+466|Tanpa bonus
+467|Gelar tampil di samping namamu di papan peringkat dan menambah perolehan Inti Badai.
+468|Setiap gaya meningkatkan satu statistik saat dipakai (maks x1.10 di turnamen). Ketuk kartu untuk detail.
+469|Toko uji: pembelian disimulasikan di Editor dan versi pengembangan (tidak ada biaya).
+470|Aktif: sisa {0}
+471|{0}/{1} hari ini
+472|{0}/{1} tersisa hari ini
+473|Tanpa batas
+474|{0}/{1} iklan
+475|Terbuka di Lv {0}
+476|Kembali besok
+477|DIPAKAI
+478|Paket {0}
+479|Paket Pemula
+480|{0} Inti Badai
+481|Ambil
+482|Temukan {0}
+483|Reset atmosfer: {0}
+484|Turnamen Mingguan
+485|Turnamen
+486|MINGGU INI
+487|TERBAIK MINGGU INI
+488|KESEMPATAN HARI INI
+489|IKUT TURNAMEN
+490|+1 kesempatan
+491|Aturan
+492|Mesin, modul, dan risetmu dihitung persis seperti yang kamu bangun. Terus kembangkan agar makin kuat!
+493|Kondisi minggu ini selalu berlaku.
+494|Bonus gaya dihitung, tapi masing-masing dibatasi x{0}.
+495|Dekorasi, Lonjakan Energi, dan boost yang sedang aktif tidak dihitung.
+496|Badai langsung dimulai dengan boost baru: pakai saat badai untuk menumpuk rantai.
+497|{0} kesempatan per hari (UTC), plus hingga {1} lagi dari iklan. Badai terbaikmu yang dihitung.
+498|Hadiah mingguan
+499|Top {0}
+500|Semua
+501|Papan peringkat
+502|Nama
+503|Minggu ini
+504|Sepanjang masa
+505|Per kelas
+506|Muat ulang
+507|Papan peringkat global belum terhubung. Rekor turnamenmu tetap tercatat.
+508|Belum ada skor. Ikuti turnamen dan rebut posisi teratas!
+509|Offline. Peringkat muncul setelah kamu terhubung.
+510|Rival berikutnya: {0} (#{1}) unggul {2}. Kembangkan mesinmu dan kalahkan dia!
+511|Kamu di posisi #1. Pertahankan!
+512|(kamu)
+513|Kondisi bebas
+514|hadiah dibayarkan saat minggu berakhir
+515|BADAI TURNAMEN BERLANGSUNG
+516|BADAI BERLANGSUNG...
+517|KESEMPATAN HABIS
+518|Perkiraan dengan semua boost: {0}  ({1})
+519|Badai turnamen menunggu verifikasi dan pengiriman: {0}
+520|Diperbarui {0} lalu
+521|Memuat...
+522|Menampilkan peringkat tersimpan
+523|Inti Badai
+524|Lonjakan Energi x2
+525|{0} mnt
+526|{0} jam
+527|Hadiah setiap hari kamu bermain, plus tiga misi baru
+528|Pertahankan
+529|MISI HARI INI
+530|Misi baru datang tengah malam (UTC).
+531|terbaik {0}
+532|Ambil hadiah hari ini untuk memulai beruntun!
+533|Beruntun dimulai hari ini!
+534|Kamu melewatkan satu hari dan kehilangan beruntun {0} hari. Tonton iklan singkat untuk mempertahankannya!
+535|HARI {0}
+536|{0} inti
+537|Ambil hadiah Hari {0}
+538|Kembali besok untuk Hari {0}. Hari baru dalam {1}.
+539|Semua misi selesai. Sampai besok!
+540|Selesaikan semua misi ({0}/{1} diambil): {2}
+541|Misi baru dalam {0} (tengah malam UTC)
+542|BAHASA
+543|Pilih bahasa untuk seluruh game
+544|BADAI TURNAMEN
+545|turnamen mingguan
+546|BADAI SELESAI
+547|SKOR TURNAMEN
+548|SKOR BADAI
+549|REKOR MINGGUAN BARU
+550|REKOR TURNAMEN
+551|REKOR PRIBADI BARU
+552|TERBAIK DI KELASNYA
+553|RUNTUH
+554|Terbaik minggu ini: {0}
+555|Durasi
+556|Rata-rata Kekuatan Badai
+557|Puncak reaksi berantai
+558|{0} petir
+559|Waktu Megabadai
+560|{0} fenomena
+561|Waktu Jendela Sempurna
+562|Boost dipakai saat badai
+563|Energi didapat
+564|SKOR PER KELAS
+565|Rekor pribadi! Bawa mesin ini ke Turnamen Mingguan untuk mencatat skor di papan peringkat global.
+566|Lanjut
+567|Rekor disimpan di perangkat. Hubungkan layanan online untuk bersaing secara global.
+568|Offline: rekor ini akan diverifikasi dan dikirim saat kamu terhubung lagi.
+569|Memverifikasi rekaman badai dengan server...
+570|Diverifikasi dan dikirim ke papan peringkat.
+571|SELAMAT DATANG KEMBALI!
+572|Kamu pergi selama {0}
+573|Mesin badaimu terus berjalan selama {0}
+574|Mesinmu diam saat kamu pergi. Ruang badai sudah terisi dan siap!
+575|Bangun Generator Offline di tab Mesin ({0} Energi + {1} Inti Badai) agar tetap berproduksi saat kamu pergi.
+576|Generator Offline terbuka di Level Mesin {0}. Harganya mahal, tapi membuat mesinmu tetap berproduksi saat kamu pergi.
+577|Ayo!
+578|ENERGI TERKUMPUL
+579|Waktu dihitung
+580|(batas tercapai)
+581|Efisiensi offline
+582|(riset Otomasi Badai)
+583|Tingkatkan Generator Offline atau riset Kapasitor Offline agar tetap produktif lebih lama.
+584|Ambil
+585|Ambil x2
+586|FENOMENA BARU DITEMUKAN!
+587|RESEP
+588|+{0} Inti Badai. Penemuan bisa membuka modul baru di bengkel.
+589|Bangun. Optimalkan. Ciptakan badai terbesar.
+590|Bangun mesin
+591|Setiap mesin mengisi satu kategori cuaca. Kategori saling mengalikan menjadi Kekuatan Badai, dan Kekuatan Badai menghasilkan Energi.
+592|Lepaskan badai
+593|Saat kubah terisi, lepaskan badai untuk ledakan besar. Pakai boost saat badai agar efeknya saling menumpuk.
+594|Temukan fenomena
+595|Dorong kategori yang tepat melewati ambangnya untuk menemukan Badai Petir, Siklon, Superkel, dan lainnya.
+596|Bersaing setiap minggu
+597|Perkuat mesinmu, lalu bawa ke Turnamen Mingguan (Level Mesin 8). Badai turnamen diverifikasi server dan diperingkat di seluruh dunia.
+598|Beri nama Pemburu Badai-ku
+599|Nyalakan mesin!
+600|NAMA PEMBURU BADAI
+601|Ditampilkan di papan peringkat global
+602|Hanya huruf, angka, - dan _. Unity menambahkan #tag pendek agar nama tetap unik.
+603|Nama disimpan: {0}
+604|Nama tidak bisa diubah sekarang.
+605|Tidak ada detail susunan yang tercatat untuk badai ini.
+606|Kelas badai
+607|Puncak rantai
+608|MODUL
+609|FENOMENA
+610|Kondisi mingguan
+611|Kunjungi pulau
+612|tidak ada
+613|IKLAN BERHADIAH
+614|Disimulasikan di Editor dan versi pengembangan
+615|Di versi rilis, jaringan iklan sungguhan (misalnya Unity LevelPlay) memutar video singkat di sini.
+616|Lewati
+617|Ambil hadiah
+618|Iklan selesai.
+619|Iklan selesai dalam {0} d
+620|{0} TERBUKA!
+621|Lingkungan lengkap, didapat dari iklan
+622|Dekorasi ditambahkan ke pulaumu: {0}.
+623|Nanti
+624|Pakai semuanya
+625|HASIL TURNAMEN
+626|Minggu lalu kamu finis di #{0}
+627|Terima kasih sudah bertanding minggu lalu!
+628|HADIAHMU
+629|Turnamen mingguan baru dimulai dengan kondisi baru. Kembangkan mesinmu, lalu ikut lagi!
+630|Bonus
+631|Di turnamen
+632|(dibatasi)
+633|Dapatkan
+634|Dasar
+635|Boost
+636|Fenomena
+637|Mingguan
+638|Dekorasi
+639|Kekuatan Badai
+640|Kekuatan Badai = Tekanan Dasar x Suhu x Kelembapan x Angin x Awan x Listrik x Sinergi. Kategori saling mengalikan, jadi mesin yang seimbang mengalahkan yang timpang. Energi per detikmu adalah Kekuatan Badai dikali bonus pendapatanmu.
+641|Badai dan reaksi berantai
+642|Ruang badai terisi seiring waktu. Lepaskan badai untuk ledakan Energi. Setiap sambaran petir memperbesar reaksi berantai, yang melipatgandakan seluruh skor badai.
+643|Level Mesin
+644|Membangun mesin, melepaskan badai, menemukan fenomena, dan menyelesaikan target memberi XP. Level baru membuka mesin, fitur, dan gaya, dan setiap level memberi Permata.
+645|Setiap badai meninggalkan Inti Badai (badai besar meninggalkan lebih banyak). Pakai untuk modul, dekorasi, dan peningkatan permanen.
+646|Mata uang premium. Didapat dari Level Mesin (+{0}), fenomena baru (+{1}), target, hadiah harian, hadiah gratis, dan hadiah turnamen, atau dibeli di Toko. Pakai untuk gaya, dekorasi, dan perluasan pulau.
+647|Hadiah Harian
+648|Buka hadiah setiap hari untuk hadiah dalam siklus tujuh hari. Mengambil berhari-hari berturut-turut membangun beruntun, dan tiga misi harian memberi Permata, Inti Badai, atau Lonjakan Energi. Semuanya direset tengah malam UTC.
+649|Iklan singkat opsional memberi Permata, Lonjakan Energi (pendapatan x2), isi instan, Inti Badai ganda, kesempatan turnamen tambahan, dan progres paket iklan. Masing-masing punya batas harian.
+650|Lab Atmosfer
+651|Ketuk tampilan Kekuatan Badai untuk membuka lab. Lab menampilkan setiap pengubah di tiap kategori dan memperkirakan badai berikutnya.
+652|Megabadai dan Jendela Sempurna
+653|Dengan {0}+ fenomena aktif sekaligus, badai menjadi Megabadai (x{1}, lebih besar di {2} dan {3}). Menjaga {4}+ boost aktif bersamaan membuka Jendela Sempurna (x{5}).
+654|Bonus gaya
+655|Setiap skin, awan, petir, dunia, dan gelar meningkatkan satu statistik saat dipakai. Di turnamen, tiap bonus gaya dibatasi x{0}, jadi mengembangkan mesin selalu yang paling penting.
+656|Modul membengkokkan rumus: konversi, syarat, dan pengali besar. Buka dengan Inti Badai dan pasang di slotmu yang terbatas.
+657|Pulau dan pengunjung
+658|Hias pulaumu di darat, di udara, dan di kolam. Setiap dekorasi berbeda yang kamu miliki menambah sedikit pendapatan Energi, satu kali. Pemain bisa saling mengunjungi pulau dari papan peringkat.
+659|Bawa mesinmu ke turnamen dengan aturan tetap: kondisi minggu ini berlaku, bonus gaya dibatasi, dekorasi dan lonjakan tidak dihitung. {0} kesempatan per hari; badai terbaikmu diperingkat dan diverifikasi server. Permata dibayarkan saat minggu berakhir.
+660|Kondisi mingguan
+661|Setiap Senin (UTC) kondisi atmosfer baru memperkuat sebagian statistik dan melemahkan yang lain. Kondisi ini mengubah susunan terbaik, di mesinmu dan di turnamen.
+662|Generator Offline
+663|Peningkatan permanen yang mahal agar mesin tetap berproduksi saat kamu pergi, dengan efisiensi lebih rendah dan hingga batas waktu.
+664|Reset atmosfer
+665|Reset Energi dan level mesin untuk mendapat Riset, lalu pakai untuk peningkatan permanen di Lab Riset. Modul, Inti Badai, gaya, dan dekorasi tetap tersimpan.
+666|Muncul di Level Mesin {0}.
+667|Terus hasilkan Energi untuk membukanya.
+668|mesin yang belum kamu temukan
+669|Bertahan {0} d, isi ulang dalam {1} d.
+670|Tingkatkan {0} ke Lv {1}.
+671|Hanya muncul di badai yang digerakkan modul yang sangat tidak biasa.
+672|Petunjuk resep: naikkan {0} cukup tinggi secara bersamaan.
+673|Temukan fenomena baru untuk membukanya.
+674|Reset atmosfer untuk membukanya.
+675|Buka di Bengkel Modul.
+676|Terus reset atmosfer untuk membukanya.
+677|Riset terbuka di Level Mesin {0}.
+678|(minggu ini)
+679|Kondisi dari minggu mendatang.
+680|Kondisi mingguan dimulai di Level Mesin {0}.
+681|Bagian dari paket iklan di Toko.
+682|Bagian dari penawaran khusus.
+683|Temukan fenomena untuk mendapatkannya.
+684|Eksklusif di Toko.
+685|Temukan di Toko.
+686|Dekorasi terbatas. Kembali ke toko pulau pada minggu-minggu tertentu.
+687|Bagian dari paket iklan.
+688|Dijual di Dekorasi Pulau.
+689|STORMPEDIA
+690|Semua yang sudah kamu temukan sejauh ini
+691|{0} dari {1} ditemukan
+692|BARU
+693|KUNJUNGI PULAU
+694|Lihat cara insinyur badai lain menghias pulaunya
+695|PULAU PAMERAN
+696|PEMAIN TURNAMEN
+697|Belum ada yang ikut turnamen minggu ini.
+698|Hubungkan untuk mengunjungi pemain lain. Pulau pameran bisa dibuka offline.
+699|Ketuk titik yang bersinar untuk lanjut.
+700|Lewati tips
+701|Lanjut
+702|Tips {0} dari {1}
+703|Baru!
+704|Mengerti!
+705|Bangun mesinmu
+706|Ketuk BELI pada Pompa Tekanan beberapa kali. Mesin menghasilkan Kekuatan Badai, dan Kekuatan Badai menghasilkan Energi.
+707|Ini Kekuatan Badaimu: Energi yang kamu dapat setiap detik. Belanjakan Energi untuk mesin agar naik.
+708|Campur cuacanya
+709|Setiap mesin menggerakkan bagian cuaca yang berbeda, dan bagian-bagian itu saling mengalikan. Bangun Pompa Air!
+710|Lepaskan badai
+711|Ruang badai sedang terisi. Saat penuh, ketuk LEPASKAN (atau kubah kaca) untuk ledakan Energi yang besar.
+712|Target
+713|Ikuti kartu target untuk mendapat hadiah. Semua yang kamu lakukan memberi XP untuk menaikkan Level Mesin.
+714|Level baru membuka mesin, fitur, dan gaya baru. Ketuk cincin level kapan saja untuk melihat apa berikutnya.
+715|Buka hadiah setiap hari. Jaga beruntunmu dan selesaikan tiga misi harian untuk mendapat Permata.
+716|Boost memperkuat satu bagian mesinmu sebentar. Pakai saat badai mengamuk untuk membangun reaksi berantai besar!
+717|Ketuk Kekuatan Badaimu kapan saja untuk melihat persis cara menghitungnya dan memperkirakan badai berikutnya.
+718|Toko Gaya
+719|Gaya mengubah tampilan mesinmu, dan setiap gaya juga memberi bonus kecil. Permata membeli yang paling keren.
+720|Modul adalah perlengkapan khusus yang dibayar dengan Inti Badai. Pasang di slotmu untuk membengkokkan aturan rumus.
+721|Hias pulaumu! Setiap dekorasi berbeda menambah sedikit Energi, dan pemain lain bisa terbang untuk berkunjung.
+722|Mesinmu kini bisa bersaing di papan peringkat global. Kamu punya 3 kesempatan sehari, dan semua dapat Permata saat minggu berakhir.
+723|Setiap Senin kondisi cuaca baru mengubah susunan terbaik. Cek dulu sebelum ikut.
+724|Bangun Generator Offline di tab Mesin dan mesinmu tetap menghasilkan saat kamu pergi.
+725|Lab Riset
+726|Reset atmosfer untuk mendapat Riset: peningkatan permanen yang membuat setiap ronde lebih cepat. Modul, Inti Badai, dan rekor tetap tersimpan.
+728|Tekanan Dasar
+729|Efisiensi Mesin
+730|Semua Fenomena
+731|Badai Petir
+732|Badai Panas
+733|Muson
+734|Siklon
+735|Superkel
+736|Kelebihan Muatan
+737|Anomali
+738|Intensitas Badai
+739|Durasi Badai
+740|Kecepatan Isi Badai
+741|Frekuensi Petir
+742|Rantai per Petir
+743|Kekuatan Megabadai
+744|Durasi Boost
+745|Jeda Boost
+746|Kekuatan Boost
+747|Efisiensi Offline
+748|Batas Offline
+749|Perolehan Inti Badai
+750|Perolehan Riset
+751|Slot Modul
+752|Laju Ketidakstabilan
+753|Resonansi Sinergi
+754|Pendapatan Energi
+755|Pompa Tekanan
+756|Memberi tekanan pada ruang. Tiap level menambah +1 Tekanan Dasar.
+757|Pompa Air
+758|Memompa air ke udara. Tiap level menambah +5% Kelembapan.
+759|Kondensor Awan
+760|Mengembunkan uap menjadi awan. Tiap level menambah +5% kepadatan Awan.
+761|Kumparan Tesla
+762|Mengumpulkan muatan listrik. Tiap level menambah +5% Listrik.
+763|Tungku Panas
+764|Memanaskan udara. Tiap level menambah +5% Suhu.
+765|Ruang Badai
+766|Memperkuat kubah. +0,5 d durasi badai dan +4% kecepatan isi per level.
+767|Turbin Angin
+768|Menggerakkan udara. Tiap level menambah +5% Angin.
+769|Ledakan Awan
+770|Awan x2 selama 20 d. Jeda 45 d.
+771|Kelebihan Busur
+772|Listrik x2,5 dan petir +50% selama 15 d. Jeda 50 d.
+773|Gelombang Panas
+774|Suhu x2 selama 30 d. Jeda 60 d.
+775|Arus Jet
+776|Angin x3 selama 10 d. Jeda 40 d.
+777|Awan, muatan, dan kelembapan seimbang. Serba bisa.
+778|Petir menyambar 50% lebih sering.
+779|Arus naik yang membakar. Susunan fokus Suhu.
+780|Badai berlangsung 3 d lebih lama.
+781|Hujan tanpa henti dibawa angin yang stabil. Susunan fokus Kelembapan.
+782|Intensitas badai naik +4% setiap detik.
+783|Dinding angin dan air yang berputar. Susunan fokus Angin.
+784|Setiap sambaran petir menambah 50% rantai lebih banyak.
+785|Panas, kelembapan, dan angin di tingkat ekstrem. Pengali raksasa.
+786|Intensitas badai x1.5.
+787|Muatan raksasa di atas lapisan awan yang stabil. Susunan fokus Listrik.
+788|Petir menyambar dua kali lebih sering.
+789|Badai Reaktor Kekacauan merobek realitas di atas 40% ketidakstabilan.
+790|Pengali raksasa, tapi badai runtuh di 100% ketidakstabilan.
+791|Kondensor Atmosfer
+792|Kondensor
+793|Kelembapan dan Awan x1.3 (+0.1/lv masing-masing).
+794|Susunan Tesla
+795|Tesla
+796|Listrik x1.5 (+0.15/lv). +0.25 petir/d saat badai.
+797|Inti Panas
+798|Panas
+799|Suhu x1.5 (+0.15/lv). 10% bonus Suhu juga masuk ke Tekanan Dasar.
+800|Akselerator Jet
+801|Jet

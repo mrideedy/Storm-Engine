@@ -1,0 +1,358 @@
+802|Wind x1.5 (+0.15/Lvl). Stürme laden 20 % schneller.
+803|Barometrische Linse
+804|Linse
+805|Basisdruck x2 (+0.25/Lvl).
+806|Kondensatorbank
+807|Kondensator
+808|Stürme dauern +4 s (+0.5/Lvl). Kette pro Blitz +2 %.
+809|Wärmetauscher
+810|Tauscher
+811|Hitzesturm x2 (+0.2/Lvl). 25 % des Temperaturbonus fließen auch in den Wind.
+812|Regensammler
+813|Regen
+814|Monsun x2 (+0.2/Lvl). Offline-Effizienz +10 %.
+815|Zyklonkern
+816|Zyklon x2 (+0.2/Lvl). Wind x1.25.
+817|Überladungsrelais
+818|Relais
+819|Überladung x2 (+0.2/Lvl). Kette pro Blitz +3 %.
+820|Superzellen-Prozessor
+821|Prozessor
+822|Alle Phänomene x1.2 (+0.04/Lvl).
+823|Chaosreaktor
+824|Chaos
+825|Sturmkraft x2 (+0.25/Lvl). Stürme bauen Instabilität auf: Anomalie ab 40 %, Zusammenbruch bei 100 %.
+826|+25 % Sturmkraft pro Stufe.
+827|Sturmautomatik
+828|Stürme entfesseln sich selbst, sobald sie geladen sind, sogar während du weg bist (mit dem Offline-Generator).
+829|Modulbucht
+830|+1 Modulplatz.
+831|Lange Stürme
+832|+2 s Sturmdauer pro Stufe.
+833|Schnellladung
+834|Stürme laden pro Stufe 10 % schneller.
+835|Hydro-Meisterschaft
+836|Additive Feuchtigkeitsboni wirken pro Stufe 10 % stärker.
+837|Wolken-Meisterschaft
+838|Additive Wolkenboni wirken pro Stufe 10 % stärker.
+839|Lade-Meisterschaft
+840|Additive Elektrizitätsboni wirken pro Stufe 10 % stärker.
+841|Wärme-Meisterschaft
+842|Additive Temperaturboni wirken pro Stufe 10 % stärker.
+843|Aero-Meisterschaft
+844|Additive Windboni wirken pro Stufe 10 % stärker.
+845|Offline-Kondensator
+846|+2 Std Offline-Limit und +5 % Offline-Effizienz pro Stufe (braucht den Offline-Generator).
+847|Abklingzeit-Tuning
+848|Boost-Abklingzeiten -6 % pro Stufe (multiplikativ).
+849|Kernextraktion
+850|+20 % Sturmkerne aus Stürmen pro Stufe.
+851|Boost-Verstärker
+852|Boost-Effekte pro Stufe +10 % stärker.
+853|Vorsprung
+854|Starte jeden Durchlauf mit mehr Energie (500, 5K, 50K, 500K, 5M).
+855|Jedes aktive Phänomen verstärkt alle anderen um +3 % pro Stufe.
+856|Druckumwandlung
+857|5 % des Temperaturbonus pro Stufe fließen auch in den Basisdruck.
+858|Extremes Temperaturgefälle
+859|+Temperatur x1.4
+860|+Blitzrate x1.1
+861|-Feuchtigkeit x0.85
+862|Gesättigte Atmosphäre
+863|+Feuchtigkeit x1.5
+864|+Wolken x1.2
+865|-Wind x0.8
+866|Sturmsaison
+867|+Wind x1.5
+868|+Zyklon x1.5
+869|-Temperatur x0.85
+870|Elektrische Instabilität
+871|+Elektrizität x1.6
+872|+Kette pro Blitz x1.5
+873|-Wolken x0.85
+874|Monsunzeit
+875|+Monsun x2
+876|+Feuchtigkeit x1.3
+877|-Elektrizität x0.8
+878|Hitzeglocke
+879|+Hitzesturm x2
+880|+Temperatur x1.3
+881|-Wolken x0.8
+882|Windstille
+883|+Stürme dauern 4 s länger
+884|+Boost-Effekte x1.25
+885|Superzellen-Ausbruch
+886|+Superzelle x1.5
+887|+Sturmintensität x1.1
+888|-Elektrizität x0.9
+889|Verbessere die Druckpumpe auf Lvl 5
+890|Baue eine Hydropumpe
+891|Entfessle deinen ersten Sturm
+892|Erreiche Motorstufe 2
+893|Baue einen Wolkenkondensator
+894|Bring die Hydropumpe auf Lvl 10
+895|Bring den Wolkenkondensator auf Lvl 10, um den Wolkenbruch freizuschalten
+896|Aktiviere einen Boost
+897|Baue eine Teslaspule
+898|Hol dir einen neuen Stil im Stil-Shop
+899|Entfessle 10 Stürme
+900|Baue einen Wärmeofen
+901|Schalte ein Modul mit Sturmkernen frei
+902|Rüste ein Modul aus
+903|Dekoriere deine Insel
+904|Besitze 5 verschiedene Dekos
+905|Entdecke ein Gewitter
+906|Verstärke die Sturmkammer
+907|Baue eine Windturbine
+908|Erreiche in einem Sturm eine x2-Kettenreaktion
+909|Erreiche Motorstufe 8, um an Turnieren teilzunehmen
+910|Tritt dem Wochenturnier bei
+911|Entdecke einen Hitzesturm
+912|Baue den Offline-Generator
+913|Erzeuge 10M Energie in einem Durchlauf
+914|Setze die Atmosphäre zurück, um Forschung zu verdienen
+915|Besitze 3 Forschungsverbesserungen
+916|Entdecke einen Monsun
+917|Entdecke einen Zyklon
+918|Entdecke eine Superzelle
+919|Entdecke einen Überladungssturm
+920|Setze die Atmosphäre 3-mal zurück
+921|Erzeuge eine Anomalie
+922|Lade und entfessle Stürme.
+923|Ein Geschenk für jeden Tag, an dem du spielst, eine wachsende Serie und jeden Tag drei neue Missionen.
+924|Sieh genau, wie die Sturmkraft berechnet wird, und sag deinen nächsten Sturm voraus.
+925|Skins, Sturmwolken, Blitze, Welten und Titel. Jeder verbessert einen Wert.
+926|Modulwerkstatt
+927|Rüste Module aus, die die Formel verbiegen. Bezahlt mit Sturmkernen.
+928|Dekoriere deine Insel für Bonusenergie und zeig sie Besuchern.
+929|Nimm deinen Motor mit ins Wochenturnier und klettere in den globalen Bestenlisten nach oben.
+930|Wochenbedingungen
+931|Jeden Montag verändert eine neue atmosphärische Bedingung den besten Aufbau.
+932|Produziere weiter, während du weg bist. Teuer im Bau.
+933|Setze die Atmosphäre für Forschung und dauerhafte Verbesserungen zurück.
+934|Hält den Motor am Laufen, während du weg bist. Stufe 1: 1 Stunde mit 20 % Effizienz. Jede Stufe bringt +1 Stunde und +5 % Effizienz. Dauerhaft.
+935|Klassische Werkstatt
+936|Das treue Original: runde Plattform, Glaskuppel und eine sehr stolze Antenne.
+937|Meeresbrise
+938|Ein Motor wie ein Schiff, mit Bullaugen und Messinggeländern. Feuchtigkeit x1.10.
+939|Smaragdwerk
+940|Gezahnte Plattform und eine Zahnradkrone. Wolken x1.10.
+941|Königsviolett
+942|Achteckiger Thron mit juwelenbesetzter Krone. Elektrizität x1.15.
+943|Mitternachtsneon
+944|Scharfe Kanten und leuchtende Streifen. Wind x1.15.
+945|Bonbon-Pop
+946|Gummibonbons, Spiralen und eine Lutscher-Antenne. Temperatur x1.15.
+947|Sonnengold
+948|Ein strahlender Sonnenmotor mit goldenen Strahlen. Basisdruck x1.20.
+949|Chaoskern
+950|Stachelig und instabil, mit Splittern, die um die Kuppel kreisen. Motoreffizienz x1.15.
+951|Messing-Dampfwerk
+952|Exklusiv. Drehende Zahnräder, Nieten und eine Zwiebelkuppel. Basisdruck x1.30.
+953|Kristallturm
+954|Exklusiv. Ein facettierter Kristallmotor, umringt von Splittern. Elektrizität x1.30.
+955|Himmelsrakete
+956|Exklusiv. Heckflossen, eine Kapselkuppel und Umlaufringe. Wind x1.30.
+957|Magmaschmiede
+958|Vulkan-Paket. Basaltplattform mit glühenden Lavaadern. Temperatur x1.25.
+959|Blütenpagode
+960|Sakura-Paket. Gestufte Pagodendächer über der Kuppel. Feuchtigkeit x1.25.
+961|Cyberkern
+962|Neon-Paket. Sechseckige Schaltkreise mit holografischen Ringen. Elektrizität x1.25.
+963|Silberstreif
+964|Weich, flauschig, zuverlässig.
+965|Zuckerwatte
+966|Süße rosa Wölkchen. Wolken x1.10.
+967|Giftnebel
+968|Blubbernde grüne Schwaden. Ladetempo x1.15.
+969|Inferno
+970|Flackernde Flammenwolken. Temperatur x1.15.
+971|Gletscher
+972|Eisige, kristalline Wolken. Feuchtigkeit x1.15.
+973|Die Leere
+974|Wolken von woanders. Alle Phänomene x1.10.
+975|Unwetter
+976|Exklusiv. Eine knisternde Gewitterwolke. Sturmdauer x1.20.
+977|Aschefahne
+978|Vulkan-Paket. Rauchige Asche mit Glut. Temperatur x1.12.
+979|Blütenregen
+980|Sakura-Paket. Wolken aus treibenden Blütenblättern. Feuchtigkeit x1.12.
+981|Synthwave
+982|Neon-Paket. Kantige Digitalwolken. Elektrizität x1.12.
+983|Goldblitz
+984|Hell, laut und golden.
+985|Elektroblau
+986|Klare blaue Bögen. Blitzrate x1.10.
+987|Plasmalila
+988|Schwere Plasmasäulen. Kette pro Blitz x1.15.
+989|Smaragdbogen
+990|Gezackte grüne Bögen. Elektrizität x1.10.
+991|Karminwut
+992|Wütende rote Gabeln. Sturmintensität x1.10.
+993|Prisma
+994|Zwei Regenbogenblitze. Blitzrate x1.20.
+995|Donnerhammer
+996|Exklusiv. Jeder Blitz schlägt ein wie ein Hammer. Kette pro Blitz x1.25.
+997|Lavapeitsche
+998|Vulkan-Paket. Geschmolzene Peitschen. Sturmintensität x1.10.
+999|Blütenfunke
+1000|Sakura-Paket. Zwei rosa Funken. Blitzrate x1.12.
+1001|Neonpuls
+1002|Neon-Paket. Blitze in Rechteckwellen. Kette pro Blitz x1.12.
+1003|Sonnige Wiese
+1004|Grüne Hügel und blauer Himmel.
+1005|Wüstencanyon
+1006|Roter Fels und Kakteen unter orangem Himmel. Temperatur x1.10.
+1007|Frostgipfel
+1008|Schneefelder und Kiefern. Wind x1.10.
+1009|Tropeninsel
+1010|Palmen und ein türkisfarbenes Meer. Feuchtigkeit x1.15.
+1011|Sternennacht
+1012|Ein Sternenhimmel und leuchtende Blumen. Elektrizität x1.15.
+1013|Alienplanet
+1014|Exklusiv. Kristallwälder unter violettem Himmel. Motoreffizienz x1.10.
+1015|Vulkaninsel
+1016|Vulkan-Paket. Schwarzer Fels, Lavapfützen und ein brennender Himmel. Temperatur x1.20.
+1017|Sakura-Garten
+1018|Sakura-Paket. Kirschblüten und ein zartrosa Himmel. Feuchtigkeit x1.20.
+1019|Neongitter
+1020|Neon-Paket. Leuchtender Gitterboden unter einem Synthwave-Himmel. Elektrizität x1.20.
+1021|Wird neben deinem Namen angezeigt.
+1022|Donnerfürst
+1023|Erhalten durch die Entdeckung dieser Sturmklasse. Sturmkern-Ertrag x1.05.
+1024|Glutbringer
+1025|Regenmacher
+1026|Windflüsterer
+1027|Superzellen-Architekt
+1028|Erhalten durch die Entdeckung dieser Sturmklasse. Sturmkern-Ertrag x1.08.
+1029|Überlader
+1030|Chaos-Ingenieur
+1031|Erhalten durch die Entdeckung dieser Sturmklasse. Sturmkern-Ertrag x1.10.
+1032|Erfahrener Ingenieur
+1033|Erhalten auf Motorstufe 20. Sturmkern-Ertrag x1.05.
+1034|Sturmlegende
+1035|Erhalten auf Motorstufe 40. Sturmkern-Ertrag x1.10.
+1036|Turniermeister
+1037|Exklusiver Titel. Sturmkern-Ertrag x1.10.
+1038|Gründer
+1039|Teil eines Pakets. Sturmkern-Ertrag x1.05.
+1040|Feuerfürst
+1041|Zen-Meister
+1042|Neongeist
+1043|Vulkanschmiede
+1044|Skin Magmaschmiede, Wolken Aschefahne, Blitze Lavapeitsche, die Welt Vulkaninsel, der Titel Feuerfürst und zwei vulkanische Dekos.
+1045|Skin Blütenpagode, Wolken Blütenregen, Blitze Blütenfunke, die Welt Sakura-Garten, der Titel Zen-Meister, Koi und eine Steinlaterne.
+1046|Neonnächte
+1047|Skin Cyberkern, Wolken Synthwave, Blitze Neonpuls, die Welt Neongitter, der Titel Neongeist, ein Neonschild und ein Holobaum.
+1048|Blumenbeet
+1049|Ein fröhliches Fleckchen Blumen.
+1050|Parkbank
+1051|Um den aufziehenden Stürmen zuzusehen.
+1052|Laterne
+1053|Leuchtet heller, wenn ein Sturm kommt.
+1054|Sturmzwerg
+1055|Trägt einen winzigen Blitzableiter-Hut.
+1056|Sturmdrachen
+1057|Tanzt über der Insel im Wind.
+1058|Teich
+1059|Platz für drei Wasserdekos.
+1060|Seerosenblätter
+1061|Schwimmen auf einem Teich.
+1062|Quietscheentchen
+1063|Quietsch.
+1064|Pilzkreis
+1065|Erscheint nach jedem guten Regen.
+1066|Kleine Windmühle
+1067|Dreht sich mit dem Wind schneller.
+1068|Wetterfahne
+1069|Zeigt immer in den Sturm.
+1070|Springbrunnen
+1071|Sprudelt mitten in einem Teich.
+1072|Heißluftballon
+1073|Treibt gemächlich um die Insel.
+1074|Sturmtitan
+1075|Ein Steinriese mit einem Blitz in der Hand.
+1076|Kristallbüschel
+1077|Summt vor gespeicherter Ladung.
+1078|Himmelslaternen
+1079|Warme Lichter, die am Himmel schweben.
+1080|Spielzeug-Segelboot
+1081|Segelt im Kreis auf einem Teich.
+1082|Blitzfeuer
+1083|Knistert vor Funken.
+1084|Regenbogen
+1085|Ein Regenbogen zum Hindurchgehen.
+1086|Wetterluftschiff
+1087|Sendet die Wettervorhersage.
+1088|Wolkenwal
+1089|Exklusiv. Ein sanfter Riese aus Wolken.
+1090|Schneemann
+1091|Limitiert. Schmilzt irgendwie nie.
+1092|Sturmkürbis
+1093|Limitiert. Grinst den Donner an.
+1094|Donnertotem
+1095|Limitiert. Geschnitzt von alten Sturmjägern.
+1096|Sturm-Formschnitt
+1097|Limitiert. Eine Hecke in Form eines Blitzes.
+1098|Lavapfütze
+1099|Vulkan-Paket. Blubbernd und sehr warm.
+1100|Obsidiantotem
+1101|Vulkan-Paket. Glasiger schwarzer Stein.
+1102|Koi-Karpfen
+1103|Sakura-Paket. Glücksfische für deinen Teich.
+1104|Steinlaterne
+1105|Sakura-Paket. Ein stilles Gartenlicht.
+1106|Neonschild
+1107|Neon-Paket. Darauf steht STORM.
+1108|Holobaum
+1109|Neon-Paket. Ein Baum aus Licht.
+1110|Inselerweiterung I
+1111|Die Insel wächst. Platz für 10 weitere Dekos.
+1112|Inselerweiterung II
+1113|Noch mehr Land. Platz für 12 weitere Dekos.
+1114|Inselerweiterung III
+1115|Eine prächtige Insel. Platz für 15 weitere Dekos.
+1116|Gratis-Edelsteine
+1117|+8 Edelsteine.
+1118|Energieschub
+1119|x2 Energieeinkommen für 15 Minuten (bis zu 1 Stunde stapelbar).
+1120|Sofortladung
+1121|Lädt die Sturmkammer vollständig auf.
+1122|Doppelte Kerne
+1123|Verdoppelt die Sturmkerne deines letzten Sturms.
+1124|Extra-Versuch
+1125|Paketfortschritt
+1126|+1 für ein Werbepaket.
+1127|Doppelt offline
+1128|Verdoppelt die Energie aus deiner Abwesenheit.
+1129|Musiktitel
+1130|Schaltet dauerhaft einen neuen Musiktitel frei.
+1131|Rette deine Serie
+1132|Stellt eine gerade verlorene Anmeldeserie wieder her.
+1133|400 Edelsteine, 500 Sturmkerne und der Titel Gründer. Einmal pro Spieler.
+1134|EINMALIG
+1135|Edelsteinbeutel
+1136|100 Edelsteine
+1137|Edelsteinsack
+1138|550 Edelsteine
+1139|+10 %
+1140|Edelsteintruhe
+1141|1.200 Edelsteine
+1142|+20 %
+1143|Edelsteintresor
+1144|2.600 Edelsteine
+1145|+30 %
+1146|Sturmschatz
+1147|7.000 Edelsteine
+1148|Entfessle 5 Stürme
+1149|Entfessle 12 Stürme
+1150|Kaufe 20 Maschinenstufen
+1151|Kaufe 60 Maschinenstufen
+1152|Lass 40 Blitze einschlagen
+1153|Setze 4 Boosts ein
+1154|Setze 3 Boosts während eines Sturms ein
+1155|Entfessle 3 Phänomenstürme
+1156|Löse einen Megasturm aus
+1157|Verdiene 10 Sturmkerne durch Stürme
+1158|Schalte ein Modul frei oder verbessere es
+1159|Kaufe eine Deko für deine Insel

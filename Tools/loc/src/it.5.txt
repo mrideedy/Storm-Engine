@@ -1,0 +1,9 @@
+1179|ELIMINARE I DATI ONLINE?
+1180|Questo elimina il tuo account giocatore e ciò che i server del gioco conservano: salvataggio cloud, isola e punteggi in classifica. I tuoi progressi su questo telefono restano.
+1181|Elimina
+1182|I tuoi dati online sono stati eliminati. Le funzioni online ora sono disattivate.
+1183|Impossibile eliminare i dati online ora. Controlla la connessione e riprova.
+1184|Le funzioni online sono disattivate.
+1185|Funzioni online
+1186|Classifiche, tornei, salvataggio cloud e visite alle isole usano i server del gioco. Se le disattivi, nulla lascia il telefono.
+1187|Elimina i miei dati online

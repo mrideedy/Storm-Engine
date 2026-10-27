@@ -1,0 +1,400 @@
+401|Giảm chuyển động và chớp sáng
+402|Bão tự động (Tự động hóa bão)
+403|Mẹo và hướng dẫn
+404|Hiện lại mọi mẹo
+405|Mẹo sẽ xuất hiện lại khi bạn chơi.
+406|Nhà phát triển
+407|Chỉ để thử nghiệm. Không có trong bản phát hành.
+408|Mở khóa mọi thứ
+409|MỞ KHÓA MỌI THỨ?
+410|Cấp Động cơ tối đa cùng mọi máy, mô-đun, phong cách, gói, vật trang trí, phần mở rộng và bản nhạc, thêm 100K Đá quý, 100K Lõi Bão và 10K Nghiên cứu.
+411|Lưu
+412|Lưu ngay
+413|Đặt lại tiến trình
+414|STORM ENGINE · Xây thông minh. Bão thật lớn.
+415|Phát
+416|Kết thúc sau {0}
+417|ĐƠN GIẢN
+418|CÂN BẰNG
+419|CAO
+420|30 TIẾT KIỆM
+421|{0} FPS
+422|TẮT
+423|KHÔNG ĐƯỢC PHÉP
+424|BẬT
+425|Tự lưu trên máy vài giây một lần.
+426|Lưu đám mây đang bật.
+427|Lưu đám mây sẽ đồng bộ khi bạn trực tuyến.
+428|Đang dò kênh...
+429|Đang phát
+430|Đã khóa: xem quảng cáo để mở
+431|Nghiên cứu
+432|Đặt lại khí quyển
+433|Máy và Năng lượng sẽ đặt lại. Bạn giữ Nghiên cứu, mô-đun, Lõi Bão, khám phá và kỷ lục.
+434|NGHIÊN CỨU KHI ĐẶT LẠI
+435|NĂNG LƯỢNG LƯỢT NÀY
+436|Đặt lại khí quyển
+437|Nghiên cứu vĩnh viễn
+438|Điểm Nghiên cứu đầu tiên ở {0} Năng lượng trong lượt này.
+439|Điểm tiếp theo ở {0} Năng lượng. Nghiên cứu tăng theo mỗi bậc độ lớn bạn đạt được.
+440|Bạn có {0} Nghiên cứu (đã kiếm {1}, {2} lần đặt lại).
+441|ĐÃ SỞ HỮU
+442|Diện mạo
+443|Mây
+444|Tia sét
+445|Thế giới
+446|Danh hiệu
+447|Cửa hàng
+448|ĐÁ QUÝ CỦA BẠN
+449|Nhận Đá quý
+450|Nổi bật
+451|Phong cách
+452|Đá quý
+453|Phần thưởng miễn phí
+454|Gói quảng cáo: khung cảnh hoàn chỉnh
+455|Chỉ có được khi xem quảng cáo có thưởng. Mỗi gói mở khóa trọn bộ đồng bộ cùng lúc.
+456|Độc quyền
+457|Món trưng bày chỉ bán bằng Đá quý với phần thưởng mạnh nhất.
+458|Gói Đá quý
+459|Đá quý cũng kiếm được khi chơi: +{0} mỗi Cấp Động cơ, +{1} cho mỗi hiện tượng mới, phần thưởng hằng ngày, thưởng mục tiêu và giải thưởng giải đấu tuần.
+460|Xem
+461|ƯU ĐÃI
+462|CHỈ QUẢNG CÁO
+463|Xem QC  +1
+464|Trang bị cả bộ
+465|Thưởng: {0}
+466|Không có thưởng
+467|Danh hiệu hiện cạnh tên bạn trên bảng xếp hạng và tăng Lõi Bão nhận được.
+468|Mỗi phong cách tăng một chỉ số khi trang bị (tối đa x1.10 trong giải đấu). Chạm vào thẻ để xem chi tiết.
+469|Cửa hàng thử nghiệm: giao dịch chỉ là mô phỏng trong Editor và bản phát triển (không tính phí).
+470|Đang hoạt động: còn {0}
+471|{0}/{1} hôm nay
+472|Còn {0}/{1} hôm nay
+473|Không giới hạn
+474|{0}/{1} quảng cáo
+475|Mở khóa ở Cấp {0}
+476|Quay lại vào ngày mai
+477|ĐÃ TRANG BỊ
+478|Gói {0}
+479|Gói Khởi đầu
+480|{0} Lõi Bão
+481|Nhận
+482|Khám phá {0}
+483|Số lần đặt lại khí quyển: {0}
+484|Giải đấu Tuần
+485|Giải đấu
+486|TUẦN NÀY
+487|TỐT NHẤT TUẦN
+488|LƯỢT HÔM NAY
+489|VÀO GIẢI ĐẤU
+490|+1 lượt
+491|Luật
+492|Máy, mô-đun và nghiên cứu được tính đúng như bạn đã xây. Hãy nâng cấp để mạnh hơn!
+493|Điều kiện tuần này luôn được áp dụng.
+494|Thưởng phong cách vẫn được tính, nhưng mỗi cái tối đa x{0}.
+495|Vật trang trí, Bùng nổ Năng lượng và tăng cường đang chạy không được tính.
+496|Cơn bão bắt đầu ngay với tăng cường mới: hãy dùng chúng trong lúc bão để cộng dồn chuỗi.
+497|{0} lượt mỗi ngày (UTC), thêm tối đa {1} lượt từ quảng cáo. Cơn bão tốt nhất của bạn được tính.
+498|Phần thưởng tuần
+499|Top {0}
+500|Tất cả
+501|Bảng xếp hạng
+502|Tên
+503|Tuần này
+504|Mọi thời đại
+505|Theo loại
+506|Làm mới
+507|Bảng xếp hạng toàn cầu chưa được kết nối. Kỷ lục giải đấu của bạn vẫn được ghi lại.
+508|Chưa có điểm. Hãy vào giải đấu và giành vị trí số một!
+509|Ngoại tuyến. Bảng xếp hạng sẽ hiện khi bạn kết nối.
+510|Đối thủ kế tiếp: {0} (#{1}) đang dẫn {2}. Nâng cấp động cơ và vượt qua họ!
+511|Bạn đang giữ hạng 1. Hãy bảo vệ nó!
+512|(bạn)
+513|Điều kiện tự do
+514|phần thưởng được trao khi tuần kết thúc
+515|ĐANG CÓ BÃO GIẢI ĐẤU
+516|ĐANG CÓ BÃO...
+517|HẾT LƯỢT
+518|Dự báo khi dùng mọi tăng cường: {0}  ({1})
+519|Số bão giải đấu chờ xác minh và gửi: {0}
+520|Đã cập nhật {0} trước
+521|Đang tải...
+522|Đang hiện bảng xếp hạng đã lưu
+523|Lõi Bão
+524|Bùng nổ Năng lượng x2
+525|{0} phút
+526|{0} giờ
+527|Một món quà mỗi ngày bạn chơi, kèm ba nhiệm vụ mới
+528|Giữ lại
+529|NHIỆM VỤ HÔM NAY
+530|Nhiệm vụ mới đến lúc nửa đêm (UTC).
+531|tốt nhất {0}
+532|Nhận quà hôm nay để bắt đầu chuỗi!
+533|Chuỗi bắt đầu từ hôm nay!
+534|Bạn đã bỏ lỡ một ngày và mất chuỗi {0} ngày. Xem một quảng cáo ngắn để giữ lại!
+535|NGÀY {0}
+536|{0} lõi
+537|Nhận quà Ngày {0}
+538|Quay lại vào ngày mai để nhận quà Ngày {0}. Ngày mới sau {1}.
+539|Đã xong mọi nhiệm vụ. Hẹn gặp lại ngày mai!
+540|Hoàn thành mọi nhiệm vụ (đã nhận {0}/{1}): {2}
+541|Nhiệm vụ mới sau {0} (nửa đêm UTC)
+542|NGÔN NGỮ
+543|Chọn ngôn ngữ cho toàn bộ trò chơi
+544|BÃO GIẢI ĐẤU
+545|giải đấu tuần
+546|BÃO KẾT THÚC
+547|ĐIỂM GIẢI ĐẤU
+548|ĐIỂM BÃO
+549|KỶ LỤC TUẦN MỚI
+550|KỶ LỤC GIẢI ĐẤU
+551|KỶ LỤC CÁ NHÂN MỚI
+552|TỐT NHẤT TRONG LOẠI
+553|ĐÃ SỤP ĐỔ
+554|Tốt nhất tuần này: {0}
+555|Thời lượng
+556|Sức mạnh Bão trung bình
+557|Phản ứng dây chuyền cao nhất
+558|{0} tia sét
+559|Thời gian Siêu Bão
+560|{0} hiện tượng
+561|Thời gian Khung Hoàn hảo
+562|Tăng cường dùng trong bão
+563|Năng lượng kiếm được
+564|ĐIỂM THEO LOẠI
+565|Kỷ lục cá nhân! Hãy mang động cơ này vào Giải đấu Tuần để ghi điểm trên bảng xếp hạng toàn cầu.
+566|Tiếp tục
+567|Đã lưu kỷ lục trên máy. Kết nối dịch vụ trực tuyến để thi đấu toàn cầu.
+568|Ngoại tuyến: kỷ lục này sẽ được xác minh và gửi khi bạn kết nối lại.
+569|Đang xác minh bản ghi cơn bão với máy chủ...
+570|Đã xác minh và gửi lên bảng xếp hạng.
+571|CHÀO MỪNG TRỞ LẠI!
+572|Bạn đã vắng mặt {0}
+573|Động cơ bão của bạn đã chạy suốt {0}
+574|Động cơ đã nghỉ trong lúc bạn vắng mặt. Buồng bão đã sạc đầy và sẵn sàng!
+575|Hãy xây Máy phát Ngoại tuyến trong thẻ Máy móc ({0} Năng lượng + {1} Lõi Bão) để tiếp tục sản xuất khi bạn vắng mặt.
+576|Máy phát Ngoại tuyến mở khóa ở Cấp Động cơ {0}. Nó đắt, nhưng giữ động cơ sản xuất khi bạn vắng mặt.
+577|Bắt đầu thôi!
+578|NĂNG LƯỢNG ĐÃ THU
+579|Thời gian được tính
+580|(đã chạm giới hạn)
+581|Hiệu suất ngoại tuyến
+582|(nghiên cứu Tự động hóa bão)
+583|Nâng cấp Máy phát Ngoại tuyến hoặc nghiên cứu Tụ điện Ngoại tuyến để sản xuất lâu hơn.
+584|Nhận
+585|Nhận x2
+586|ĐÃ KHÁM PHÁ HIỆN TƯỢNG MỚI!
+587|CÔNG THỨC
+588|+{0} Lõi Bão. Khám phá có thể mở khóa mô-đun mới trong xưởng.
+589|Xây dựng. Tối ưu. Tạo ra những cơn bão lớn nhất.
+590|Xây máy
+591|Mỗi máy nuôi một nhóm thời tiết. Các nhóm nhân với nhau thành Sức mạnh Bão, và Sức mạnh Bão tạo ra Năng lượng.
+592|Thả bão
+593|Khi mái vòm đã sạc, hãy thả một cơn bão để bùng nổ lớn. Dùng tăng cường trong lúc bão để hiệu ứng chồng lên nhau.
+594|Khám phá hiện tượng
+595|Đẩy đúng các nhóm vượt ngưỡng để khám phá Giông bão, Lốc xoáy, Siêu tế bào và hơn thế nữa.
+596|Thi đấu mỗi tuần
+597|Nâng cấp động cơ cho mạnh hơn rồi mang vào Giải đấu Tuần (Cấp Động cơ 8). Bão giải đấu được máy chủ xác minh và xếp hạng toàn cầu.
+598|Đặt tên Thợ săn Bão
+599|Khởi động động cơ!
+600|TÊN THỢ SĂN BÃO
+601|Hiển thị trên bảng xếp hạng toàn cầu
+602|Chỉ dùng chữ, số, - và _. Unity thêm một #thẻ ngắn để tên không trùng.
+603|Đã lưu tên: {0}
+604|Hiện không thể đổi tên.
+605|Không có chi tiết cấu hình nào được ghi lại cho cơn bão này.
+606|Loại bão
+607|Chuỗi cao nhất
+608|MÔ-ĐUN
+609|HIỆN TƯỢNG
+610|Điều kiện tuần
+611|Thăm đảo
+612|không có
+613|QUẢNG CÁO CÓ THƯỞNG
+614|Mô phỏng trong Editor và bản phát triển
+615|Trong bản phát hành, một mạng quảng cáo thật (ví dụ Unity LevelPlay) sẽ phát video ngắn ở đây.
+616|Bỏ qua
+617|Nhận thưởng
+618|Quảng cáo đã kết thúc.
+619|Quảng cáo kết thúc sau {0} giây
+620|ĐÃ MỞ KHÓA {0}!
+621|Một khung cảnh hoàn chỉnh, có được nhờ quảng cáo
+622|Vật trang trí đã thêm vào đảo: {0}.
+623|Để sau
+624|Trang bị tất cả
+625|KẾT QUẢ GIẢI ĐẤU
+626|Tuần trước bạn đứng hạng #{0}
+627|Cảm ơn bạn đã thi đấu tuần trước!
+628|PHẦN THƯỞNG CỦA BẠN
+629|Giải đấu tuần mới đã bắt đầu với điều kiện mới. Nâng cấp động cơ rồi tham gia lại nhé!
+630|Thưởng
+631|Trong giải đấu
+632|(giới hạn)
+633|Nhận ngay
+634|Cơ bản
+635|Tăng cường
+636|Hiện tượng
+637|Hằng tuần
+638|Trang trí
+639|Sức mạnh Bão
+640|Sức mạnh Bão = Áp suất gốc x Nhiệt độ x Độ ẩm x Gió x Mây x Điện x Cộng hưởng. Các nhóm nhân với nhau, nên động cơ cân bằng thắng động cơ lệch. Năng lượng mỗi giây bằng Sức mạnh Bão nhân với thưởng thu nhập.
+641|Bão và phản ứng dây chuyền
+642|Buồng bão sạc dần theo thời gian. Thả bão để bùng nổ Năng lượng. Mỗi tia sét làm phản ứng dây chuyền lớn hơn, nhân toàn bộ điểm bão.
+643|Cấp Động cơ
+644|Xây máy, thả bão, khám phá hiện tượng và hoàn thành mục tiêu cho EXP. Cấp mới mở khóa máy, tính năng và phong cách, và mỗi cấp tặng Đá quý.
+645|Mỗi cơn bão để lại Lõi Bão (bão càng lớn càng nhiều). Dùng chúng cho mô-đun, vật trang trí và nâng cấp vĩnh viễn.
+646|Tiền tệ cao cấp. Kiếm từ Cấp Động cơ (+{0}), hiện tượng mới (+{1}), mục tiêu, phần thưởng hằng ngày, phần thưởng miễn phí và giải thưởng giải đấu, hoặc mua trong Cửa hàng. Dùng cho phong cách, vật trang trí và mở rộng đảo.
+647|Phần thưởng hằng ngày
+648|Mở quà mỗi ngày để nhận thưởng theo chu kỳ bảy ngày. Nhận liên tiếp nhiều ngày sẽ tạo chuỗi, và ba nhiệm vụ ngày tặng Đá quý, Lõi Bão hoặc Bùng nổ Năng lượng. Mọi thứ đặt lại lúc nửa đêm UTC.
+649|Quảng cáo ngắn tùy chọn tặng Đá quý, Bùng nổ Năng lượng (thu nhập x2), sạc tức thì, Lõi Bão nhân đôi, lượt giải đấu thêm và tiến độ gói quảng cáo. Mỗi loại có giới hạn hằng ngày.
+650|Phòng thí nghiệm Khí quyển
+651|Chạm vào chỉ số Sức mạnh Bão để mở phòng thí nghiệm. Nơi đây hiện mọi hệ số của từng nhóm và dự báo cơn bão tiếp theo.
+652|Siêu Bão và Khung Hoàn hảo
+653|Khi có {0}+ hiện tượng cùng hoạt động, cơn bão thành Siêu Bão (x{1}, cao hơn với {2} và {3}). Giữ {4}+ tăng cường chạy cùng lúc sẽ mở Khung Hoàn hảo (x{5}).
+654|Thưởng phong cách
+655|Mỗi diện mạo, mây, tia sét, thế giới và danh hiệu tăng một chỉ số khi trang bị. Trong giải đấu mỗi thưởng phong cách tối đa x{0}, nên nâng cấp động cơ luôn quan trọng nhất.
+656|Mô-đun bẻ cong công thức: chuyển đổi, điều kiện và hệ số nhân lớn. Mở khóa bằng Lõi Bão và lắp vào số ô có hạn.
+657|Đảo và khách thăm
+658|Trang trí đảo trên đất, trên trời và trên ao. Mỗi vật trang trí khác nhau bạn sở hữu tăng một chút thu nhập Năng lượng, một lần. Người chơi có thể thăm đảo của nhau từ bảng xếp hạng.
+659|Mang động cơ vào giải đấu với luật cố định: điều kiện tuần được áp dụng, thưởng phong cách bị giới hạn, còn vật trang trí và bùng nổ năng lượng không được tính. {0} lượt mỗi ngày; cơn bão tốt nhất được xếp hạng và máy chủ xác minh. Đá quý được trao khi tuần kết thúc.
+660|Điều kiện tuần
+661|Mỗi thứ Hai (UTC) một điều kiện khí quyển mới tăng vài chỉ số và giảm vài chỉ số khác. Nó thay đổi cấu hình tốt nhất, cả ở động cơ lẫn trong giải đấu.
+662|Máy phát Ngoại tuyến
+663|Nâng cấp vĩnh viễn đắt đỏ giúp động cơ sản xuất khi bạn vắng mặt, với hiệu suất giảm và có giới hạn thời gian.
+664|Đặt lại khí quyển
+665|Đặt lại Năng lượng và cấp máy để nhận Nghiên cứu, rồi dùng cho nâng cấp vĩnh viễn trong Phòng Nghiên cứu. Mô-đun, Lõi Bão, phong cách và vật trang trí được giữ lại.
+666|Xuất hiện ở Cấp Động cơ {0}.
+667|Tiếp tục tạo Năng lượng để hé lộ.
+668|một cỗ máy bạn chưa tìm thấy
+669|Kéo dài {0} giây, hồi trong {1} giây.
+670|Nâng {0} lên Cấp {1}.
+671|Chỉ xuất hiện trong bão do một mô-đun rất đặc biệt điều khiển.
+672|Gợi ý công thức: đẩy {0} đủ cao cùng lúc.
+673|Khám phá một hiện tượng mới để hé lộ.
+674|Đặt lại khí quyển để hé lộ.
+675|Mở khóa trong Xưởng Mô-đun.
+676|Tiếp tục đặt lại khí quyển để hé lộ.
+677|Nghiên cứu mở khóa ở Cấp Động cơ {0}.
+678|(tuần này)
+679|Điều kiện của một tuần sắp tới.
+680|Điều kiện tuần bắt đầu từ Cấp Động cơ {0}.
+681|Thuộc một gói quảng cáo trong Cửa hàng.
+682|Thuộc một ưu đãi đặc biệt.
+683|Khám phá một hiện tượng để nhận.
+684|Hàng độc quyền trong Cửa hàng.
+685|Tìm trong Cửa hàng.
+686|Vật trang trí giới hạn. Thỉnh thoảng quay lại cửa hàng đảo.
+687|Thuộc một gói quảng cáo.
+688|Bán trong Trang trí đảo.
+689|STORMPEDIA
+690|Mọi thứ bạn đã khám phá cho đến giờ
+691|Đã khám phá {0}/{1}
+692|MỚI
+693|THĂM ĐẢO
+694|Xem các kỹ sư bão khác trang trí ra sao
+695|ĐẢO TRƯNG BÀY
+696|NGƯỜI CHƠI GIẢI ĐẤU
+697|Chưa ai tham gia giải đấu tuần này.
+698|Kết nối để thăm người chơi khác. Đảo trưng bày vẫn xem được khi ngoại tuyến.
+699|Chạm vào điểm phát sáng để tiếp tục.
+700|Bỏ qua mẹo
+701|Tiếp
+702|Mẹo {0}/{1}
+703|Mới!
+704|Hiểu rồi!
+705|Xây động cơ của bạn
+706|Chạm MUA ở Bơm Áp suất vài lần. Máy tạo Sức mạnh Bão, và Sức mạnh Bão tạo Năng lượng.
+707|Đây là Sức mạnh Bão của bạn: Năng lượng kiếm được mỗi giây. Dùng Năng lượng mua máy để tăng nó.
+708|Trộn thời tiết
+709|Mỗi máy tăng một phần khác nhau của thời tiết, và các phần nhân với nhau. Hãy xây một Bơm Thủy lực!
+710|Thả một cơn bão
+711|Buồng bão đang sạc. Khi đầy, chạm THẢ BÃO (hoặc mái vòm kính) để bùng nổ Năng lượng lớn.
+712|Mục tiêu
+713|Làm theo thẻ mục tiêu để nhận thưởng. Mọi việc bạn làm đều cho EXP để tăng Cấp Động cơ.
+714|Cấp mới mở khóa máy, tính năng và phong cách. Chạm vào vòng cấp bất cứ lúc nào để xem điều gì sắp tới.
+715|Mở quà mỗi ngày để nhận thưởng. Giữ chuỗi và hoàn thành ba nhiệm vụ ngày để nhận Đá quý.
+716|Tăng cường làm mạnh một phần động cơ trong thời gian ngắn. Dùng chúng khi bão đang hoành hành để tạo phản ứng dây chuyền lớn!
+717|Chạm vào Sức mạnh Bão bất cứ lúc nào để xem chính xác cách tính và dự báo cơn bão tiếp theo.
+718|Cửa hàng Phong cách
+719|Phong cách đổi diện mạo động cơ, và mỗi phong cách còn tặng một phần thưởng nhỏ. Đá quý mua được những món lộng lẫy nhất.
+720|Mô-đun là trang bị đặc biệt mua bằng Lõi Bão. Lắp vào các ô để bẻ cong luật của công thức.
+721|Trang trí đảo của bạn! Mỗi vật trang trí khác nhau thêm chút Năng lượng, và người chơi khác có thể bay đến thăm.
+722|Động cơ của bạn giờ có thể thi đấu trên bảng xếp hạng toàn cầu. Bạn có 3 lượt mỗi ngày, và ai cũng nhận Đá quý khi tuần kết thúc.
+723|Mỗi thứ Hai một điều kiện thời tiết mới thay đổi cấu hình tốt nhất. Hãy xem trước khi tham gia.
+724|Xây Máy phát Ngoại tuyến trong thẻ Máy móc để động cơ tiếp tục kiếm tiền khi bạn vắng mặt.
+725|Phòng Nghiên cứu
+726|Đặt lại khí quyển để nhận Nghiên cứu: nâng cấp vĩnh viễn giúp mỗi lượt nhanh hơn. Mô-đun, Lõi Bão và kỷ lục được giữ lại.
+728|Áp suất gốc
+729|Hiệu suất động cơ
+730|Mọi hiện tượng
+731|Giông bão
+732|Bão nhiệt
+733|Gió mùa
+734|Lốc xoáy
+735|Siêu tế bào
+736|Quá nạp
+737|Dị thường
+738|Cường độ bão
+739|Thời lượng bão
+740|Tốc độ sạc bão
+741|Tần suất sét
+742|Chuỗi mỗi tia sét
+743|Sức mạnh Siêu Bão
+744|Thời lượng tăng cường
+745|Hồi chiêu tăng cường
+746|Sức mạnh tăng cường
+747|Hiệu suất ngoại tuyến
+748|Giới hạn ngoại tuyến
+749|Lõi Bão nhận thêm
+750|Nghiên cứu nhận thêm
+751|Ô mô-đun
+752|Tốc độ bất ổn
+753|Cộng hưởng hợp lực
+754|Thu nhập Năng lượng
+755|Bơm Áp suất
+756|Nén áp suất vào buồng. Mỗi cấp thêm +1 Áp suất gốc.
+757|Bơm Thủy lực
+758|Bơm nước vào không khí. Mỗi cấp thêm +5% Độ ẩm.
+759|Máy Ngưng Mây
+760|Ngưng tụ hơi nước thành mây. Mỗi cấp thêm +5% mật độ Mây.
+761|Cuộn Tesla
+762|Tích điện. Mỗi cấp thêm +5% Điện.
+763|Lò Nhiệt
+764|Làm nóng không khí. Mỗi cấp thêm +5% Nhiệt độ.
+765|Buồng Bão
+766|Gia cố mái vòm. +0,5 giây thời lượng bão và +4% tốc độ sạc mỗi cấp.
+767|Tua-bin Gió
+768|Đẩy không khí chuyển động. Mỗi cấp thêm +5% Gió.
+769|Mây Bùng Nổ
+770|Mây x2 trong 20 giây. Hồi 45 giây.
+771|Quá tải Hồ quang
+772|Điện x2,5 và sét +50% trong 15 giây. Hồi 50 giây.
+773|Sóng Nhiệt
+774|Nhiệt độ x2 trong 30 giây. Hồi 60 giây.
+775|Dòng Tia
+776|Gió x3 trong 10 giây. Hồi 40 giây.
+777|Mây, điện tích và độ ẩm cân bằng. Kiểu toàn năng.
+778|Sét đánh thường xuyên hơn 50%.
+779|Luồng khí nóng bỏng bốc lên. Cấu hình thiên về Nhiệt độ.
+780|Cơn bão kéo dài thêm 3 giây.
+781|Mưa không dứt theo làn gió đều. Cấu hình thiên về Độ ẩm.
+782|Cường độ bão tăng +4% mỗi giây.
+783|Một bức tường gió và nước xoáy tròn. Cấu hình thiên về Gió.
+784|Mỗi tia sét thêm 50% chuỗi.
+785|Nhiệt, ẩm và gió ở mức cực hạn. Hệ số nhân khổng lồ.
+786|Cường độ bão x1.5.
+787|Điện tích khổng lồ trên một lớp mây ổn định. Cấu hình thiên về Điện.
+788|Sét đánh thường xuyên gấp đôi.
+789|Bão của Lò phản ứng Hỗn loạn xé toạc thực tại khi bất ổn vượt 40%.
+790|Hệ số nhân khổng lồ, nhưng cơn bão sụp đổ khi bất ổn đạt 100%.
+791|Máy Ngưng Khí quyển
+792|Máy ngưng
+793|Độ ẩm và Mây x1.3 (+0.1/cấp mỗi loại).
+794|Mảng Tesla
+795|Tesla
+796|Điện x1.5 (+0.15/cấp). +0.25 tia sét/giây trong bão.
+797|Lõi Nhiệt
+798|Nhiệt
+799|Nhiệt độ x1.5 (+0.15/cấp). 10% thưởng Nhiệt độ cũng cộng vào Áp suất gốc.
+800|Bộ Tăng tốc Phản lực
+801|Phản lực

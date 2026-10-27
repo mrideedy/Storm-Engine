@@ -1,0 +1,398 @@
+1|Szkwał
+2|{0} d {1} godz.
+3|{0} godz. {1} min
+4|{0} min {1} s
+5|{0} s
+6|usługi online nie są jeszcze skonfigurowane w tej wersji.
+7|nie udało się połączyć z serwerami gry.
+8|Pusta odpowiedź serwera.
+9|Zweryfikowano przez serwer.
+10|Nie udało się zapisać wyniku w rankingu; ponowimy próbę.
+11|Serwer odrzucił burzę: {0}
+12|Wysyłanie nie powiodło się: {0}
+13|Lokalna weryfikacja nie powiodła się: {0}
+14|Wysłano bez weryfikacji serwera (tryb deweloperski).
+15|Ten ranking nie jest jeszcze dostępny.
+16|Nie udało się wczytać rankingu. Sprawdź połączenie.
+17|Prosta
+18|Zrównoważona
+19|Wysoka
+20|Słaba bateria: gra działa w 30 FPS, aby oszczędzać energię.
+21|Grafika ustawiona na „{0}”, aby gra działała płynnie. Możesz to zmienić w Ustawieniach.
+22|Twój dzienny prezent jest gotowy
+23|Dzisiejszy prezent i trzy nowe misje wciąż na ciebie czekają.
+24|Podtrzymaj serię! Dni z rzędu: {0}. Prezent z dnia {1} czeka.
+25|Czekają na ciebie nowy prezent i trzy nowe misje.
+26|Generator Offline pełny
+27|Twój silnik zgromadził tyle Energii, ile mógł. Wróć, odbierz ją i nie pozwól mu stanąć!
+28|Turniej wkrótce się kończy
+29|Turniej w tym tygodniu prawie się skończył. Jeszcze jedna burza może wynieść cię wyżej w rankingu!
+30|Nowy tydzień turnieju
+31|Warunek tego tygodnia: {0}. Odbierz nagrodę z zeszłego tygodnia i weź udział!
+32|Twój dzienny prezent też jest gotowy.
+33|Symulowany sklep
+34|Niedostępne
+35|Sklep jest teraz niedostępny.
+36|Zakupy nie są dostępne w tej wersji.
+37|ZAKUP TESTOWY
+38|Symulowany sklep (Edytor / wersja deweloperska). Udawać zakup „{0}” za {1}?
+39|Kup (test)
+40|Kupiono: {0}! Klejnoty +{1}.
+41|Przywrócono: {0}.
+42|Nagrody dzienne odblokowują się na poziomie silnika {0}.
+43|Prezent z dnia {0}: {1}!
+44|CHCESZ PRZYPOMNIENIE?
+45|Chcesz dostać powiadomienie, gdy następny dzienny prezent będzie gotowy albo turniej tygodniowy będzie się kończył? Najwyżej kilka razy w tygodniu, nigdy w nocy.
+46|Przypomnij mi
+47|Przypomnienia są wyłączone. Możesz je włączyć w Ustawieniach.
+48|Nie teraz
+49|Nagroda za misję: {0}
+50|Wszystkie misje ukończone! {0}
+51|Najpierw poczekaj, aż burza się skończy.
+52|Deweloper: wszystko odblokowane (klejnoty +100K, rdzenie +100K, badania +10K).
+53|Ta nagroda na dziś się wyczerpała. Wróć jutro!
+54|Teraz nie ma dostępnej reklamy. Spróbuj za chwilę.
+55|Reklama została pominięta, więc tym razem nie ma nagrody.
+56|Klejnoty +{0}!
+57|Przypływ Energii! Dochód x{0} przez {1}.
+58|Komora burzy w pełni naładowana!
+59|+1 podejście w turnieju dzisiaj.
+60|Rdzenie Burzy +{0}!
+61|Energia offline podwojona!
+62|Odblokowano nową muzykę: {0}!
+63|nowy utwór
+64|Seria uratowana! Dni z rzędu: {0} i dalej.
+65|{0}: obejrzane reklamy {1}/{2}.
+66|Brakuje klejnotów: {0}.
+67|{0}: odblokowano i założono!
+68|KUPIĆ „{0}”?
+69|Wydać {0} klejnotów na „{1}”?
+70|Bonus: {0}.
+71|Kup za {0}
+72|Turniej Tygodniowy odblokowuje się na poziomie silnika {0}.
+73|Najpierw poczekaj, aż obecna burza się skończy.
+74|Nie masz już dziś podejść. Odnowią się o północy (UTC) albo obejrzyj reklamę, aby dostać jeszcze jedno.
+75|Nie masz już dziś podejść. Odnowią się o północy (UTC).
+76|Twoja wyspa jest pełna. Powiększ ją albo najpierw schowaj jakąś dekorację.
+77|Dekoracje wodne pływają na stawie. Najpierw postaw Staw (każdy mieści trzy).
+78|„{1}”: możesz mieć maksymalnie {0}.
+79|Brakuje Rdzeni Burzy: {0}.
+80|Bonus kolekcji: Energia +{0}.
+81|{0}: postawiono na twojej wyspie!
+82|{0}: kupiono i schowano (brak wolnego miejsca).
+83|Brak wolnego miejsca na stawie. Każdy staw mieści trzy dekoracje wodne.
+84|Nie ma już wolnego miejsca. Poprzestawiaj rzeczy albo powiększ wyspę.
+85|Najpierw schowaj dekoracje wodne z tego stawu.
+86|Wydać {0} klejnotów?
+87|Powiększ za {0}
+88|{0}! Twoja wyspa urosła.
+89|To twoja własna wyspa!
+90|Odwiedzanie innych graczy wymaga połączenia.
+91|Lot na wyspę gracza {0}...
+92|{0} jeszcze nie otworzył swojej wyspy dla gości.
+93|Zakończ obecną burzę, zanim wyruszysz w odwiedziny.
+94|Gra zapisana.
+95|Nie udało się zapisać gry.
+96|ZNALEZIONO ZAPIS W CHMURZE
+97|Zapis w chmurze ma większy postęp (łącznie energii: {0}, resetów: {1}) niż to urządzenie ({2}, resetów: {3}). Wczytać go?
+98|Wczytaj zapis z chmury
+99|{0} odblokuje się przy „{1}” poz. {2}.
+100|{0}: odblokowano i założono.
+101|{0}: odblokowano.
+102|Wszystkie gniazda modułów są zajęte. Najpierw zdejmij jeden.
+103|{0}: zbudowano!
+104|{0}: ulepszono do poz. {1}.
+105|Ulepszenia są zablokowane podczas burzy.
+106|ZRESETOWAĆ ATMOSFERĘ?
+107|Zdobędziesz badania: {0}. Energia i poziomy maszyn wrócą do zera. Moduły, Rdzenie Burzy, badania, odkrycia i rekordy zostaną zachowane.
+108|Resetuj za +{0}
+109|Atmosfera zresetowana! Badania +{0}.
+110|USUNĄĆ CAŁY POSTĘP?
+111|To na zawsze usunie twój lokalny zapis. Wpisy w rankingach zostaną online. Tego nie można cofnąć.
+112|Usuń wszystko
+113|Dryfujące chmury
+114|Ambient
+115|Powolne, ciepłe plamy dźwięku przepływające obok.
+116|Przytulny kominek
+117|Przytulna
+118|Łagodne klawisze, okrągły bas i leniwy rytm.
+119|Deszczowe okno
+120|Delikatne pianino i deszcz na szybie.
+121|Gwiaździste niebo
+122|Głębokie buczenie i dalekie migotanie.
+123|Poranna łąka
+124|Delikatne szarpanie gitary w słońcu.
+125|Offline
+126|Usługi online nie są zainstalowane. Gra offline.
+127|Łączenie...
+128|Online jako {0}
+129|Offline. Postęp zapisuje się na urządzeniu, a burze zostaną wysłane później.
+130|Offline: {0}
+131|Turniej Tygodniowy odblokowuje się na poziomie silnika {0}. Naciśnij GRAJ i rozwijaj swój silnik!
+132|Poz. {0}
+133|{0} odblokowuje się na poziomie silnika {1}.
+134|Sklep ze Stylami odblokowuje się na poziomie silnika {0}.
+135|Laboratorium Atmosfery odblokowuje się na poziomie silnika {0}: rozkłada każdy mnożnik na części.
+136|Ładowanie {0}
+137|Burza turniejowa! Używaj wzmocnień w trakcie burzy, aby budować łańcuchy.
+138|Poczekaj na koniec burzy, zanim zaczniesz przestawiać.
+139|Tu nie ma miejsca
+140|ŁAŃCUCH {0}!
+141|Nowy rekord osobisty! {0}: {1}  (rdzenie +{2})
+142|Burza {0}: {1}  (rdzenie +{2})
+143|klejnoty +{0}
+144|rdzenie +{0}
+145|PD +{0}
+146|Cel osiągnięty: {0}
+147|Nowa maszyna dostępna: {0}
+148|Misja dnia ukończona: {0}. Stuknij prezent, aby odebrać!
+149|Nowy dzień! Czekają na ciebie dzienny prezent i nowe misje.
+150|Anuluj
+151|MOC BURZY
+152|Temperatura
+153|Wilgotność
+154|Wiatr
+155|Chmury
+156|Elektryczność
+157|Synergia
+158|Ciśnienie
+159|CEL
+160|+Energia
+162|+15 min
+164|Rdzenie +{0}
+165|Naładuj teraz
+166|GOTOWE
+167|ŁADOWANIE
+168|BURZA
+169|zostało {0}
+170|UWOLNIJ!
+171|Prognoza {0}
+172|Autoburza włączona
+173|TURNIEJ TYGODNIOWY
+174|SZKWAŁ
+175|MEGABURZA
+176|Łańcuch {0}  ·  Intensywność {1}  ·  pioruny: {2}
+177|IDEALNA BURZA
+178|HIPERBURZA
+179|IDEALNE OKNO
+180|NOWA FUNKCJA
+181|NOWA MASZYNA
+182|MODUŁ
+183|BADANIE
+184|EKSKLUZYWNE
+185|STYL
+186|Klejnoty: {0}
+187|Za darmo
+188|PAKIET ZA REKLAMY
+189|Kompletne otoczenie za obejrzenie reklam: {0}.
+190|DEKORACJA
+191|ROZBUDOWA TERENU
+192|Wygląd maszyny
+193|Chmura burzowa
+194|Piorun
+195|Świat
+196|Tytuł
+197|POZIOM {0}!
+198|Twój silnik burz stał się silniejszy
+199|Buduj dalej! Nowe maszyny, moduły i style odblokowują się wraz ze wzrostem poziomu silnika.
+200|ODBLOKOWANO
+201|Następne na poz. {0}: {1}
+202|i jeszcze: {0}
+203|Super!
+204|POZIOM SILNIKA {0}
+205|Zdobywaj PD, budując maszyny, uwalniając burze, odkrywając zjawiska i realizując cele.
+206|POZ. {0}
+207|NASTĘPNY
+208|Wszystko jest odblokowane. Jesteś prawdziwym inżynierem burz!
+209|Zamknij
+210|Osiągnięto maksymalny poziom
+211|PD {0} / {1} do poziomu {2}
+212|STORM ENGINE
+213|NAGRODY DZIENNE
+214|GRAJ
+215|Rozwijaj swój silnik burz
+216|TURNIEJ
+217|Stormpedia
+218|Odwiedź wyspy
+219|Ustawienia
+220|Łowca Burz
+221|Poziom silnika {0}
+222|Zbuduj swój pierwszy silnik burz
+223|Energia {0} /s
+224|Twój prezent z dnia {0} jest gotowy!
+225|Nagrody za misje do odebrania!
+226|Dni z rzędu: {0}
+227|misje {0}/{1}
+228|nowy dzień za {0}
+229|Odblokowanie na poziomie silnika {0}
+230|W tym tygodniu: {0}
+231|otwarte warunki
+232|Pozostałe podejścia dzisiaj: {0}
+233|koniec za {0}
+234|W ODWIEDZINACH
+235|Wróć do domu
+236|Wyspa gracza {0}
+237|Dekoracje: {0}
+238|najlepsza burza turniejowa {0}
+239|Obróć
+240|Schowaj
+241|Gotowe
+242|Na twojej wyspie nie ma jeszcze dekoracji. Kup kilka w Dekoracjach wyspy.
+243|Stuknij dekorację, aby ją zaznaczyć.
+244|Dekoracja
+245|{0}: dekoracje wodne przesuwają się razem ze stawem.
+246|{0}: stuknij ziemię, aby ją przesunąć.
+247|Atmosfera
+248|MOC BURZY =
+249|Premie addytywne sumują się w obrębie kategorii; kategorie mnożą się nawzajem. Te same +10% są warte więcej w twojej najsłabszej kategorii.
+250|PROGNOZA BURZY
+251|Próbny przebieg następnej burzy przy obecnej konfiguracji. Zmień moduły lub poziomy i zobacz, jak zmienia się wynik.
+252|Skąd ta liczba? (stuknij, aby rozwinąć)
+253|Zjawiska (synergie)
+254|Zjawiska włączają się, gdy każdy składnik osiągnie swój próg. Każde aktywne zjawisko mnoży Moc Burzy, a najsilniejsze decyduje o klasie twojej burzy.
+255|Silnik burz
+256|Intensywność burzy
+257|Czas trwania burzy
+258|Łańcuch na piorun
+259|Czas ładowania
+260|Megaburza
+261|Wynik burzy = Moc Burzy x intensywność x łańcuch x mega x idealne okno, sumowane w każdej chwili burzy. Wzmocnienia działające w trakcie burzy mnożą wszystko, co w niej jest.
+262|Uwolnij teraz: burza {0}, {1} pkt w {2} s.
+263|Jeśli najpierw użyjesz gotowych wzmocnień ({0}): {1}, {2} ({3}).
+264|{0} /s
+265|pioruny/s: {0}
+266|łańcuch +{0}
+267|3 / 5 / 7 zjawisk: x1.5 / x2 / x3
+268|{0} poz. {1}
+269|{0}: kamienie milowe x{1}
+270|Tydzień: {0}
+271|{0} (aktywne)
+272|Poziom elektryczności
+273|Styl: {0}
+274|Dekoracje wyspy (rodzaje: {0})
+275|{0} ef.
+276|baza {0}  x  (1 + {1} add.{2})  x  {3} mn.
+277|Brak jeszcze modyfikatorów. Buduj maszyny, aby zwiększyć ten parametr.
+278|WZM.
+279|BAZA
+280|ADD.
+281|EF.
+282|KONW.
+283|MN.
+284|+{0} z „{1}”
+285|??? Nieznane zjawisko
+286|AKTYWNE {0}
+287|ODKRYTE
+288|NIEODKRYTE
+289|Niestabilność >= 40% (w burzach)
+290|Załóż Reaktor Chaosu
+291|Atut burzy: {0}
+292|Osiągnij każdy próg, aby je odkryć (Rdzenie Burzy +{0}).
+293|Dekoracje wyspy
+294|Wyspa
+295|Edytuj układ
+296|Każda inna dekoracja, którą posiadasz, raz zwiększa twój dochód Energii. Inni gracze mogą odwiedzać twoją wyspę.
+297|TYLKO W TYM TYGODNIU
+298|Ląd
+299|Powietrze
+300|Woda
+301|Powiększ
+302|Odwiedź
+303|Wyspy pokazowe
+304|Gracze turnieju
+305|LIMITOWANE
+306|Postaw
+307|Najlepsza burza turniejowa {0}
+308|W tym tygodniu nie ma jeszcze wyników turnieju. Weź udział, a inni zaczną cię odwiedzać!
+309|Połącz się, aby odwiedzać wyspy innych graczy. Wyspy pokazowe działają offline.
+310|Postawione {0}/{1}
+311|Posiadane rodzaje: {0}
+312|Bonus kolekcji: dochód Energii +{0}
+313|Kup pierwszą dekorację, aby dostać bonus Energii
+314|Zniknie za {0}
+315|Dekoracje wodne pływają na Stawie (zob. Ląd). Każdy staw mieści trzy.
+316|Postawione stawy: {0}
+317|Wolne miejsca na wodzie: {0}
+318|Bonus zdobyty  +{0}
+319|Energia +{0}
+320|Posiadane {0}/{1}
+321|schowane: {0}
+322|Lata nad wyspą
+323|Pływa na stawie
+324|Silnik poz. {0}
+325|Rdzenie: {0}
+326|Posiadane
+327|Najpierw zbuduj „{0}”
+328|Promień wyspy {0}
+329|Dekoracje +{0}
+330|MAKS.
+331|Maszyny
+332|Budowanie jest zablokowane podczas burzy.
+333|Stałe ulepszenia
+334|ZBUDUJ
+335|ZABLOKOWANE
+336|Odblokowanie na poziomie silnika {0}.
+337|Niezbudowane
+338|Poz. {0}/{1}
+339|MAKS.
+340|ULEPSZ
+341|Twój silnik produkuje, gdy cię nie ma. Budujesz raz i masz na zawsze (przetrwa resety).
+342|Offline: do {0} godz. z wydajnością {1}. Następny poziom: więcej godzin i wyższa wydajność.
+343|Poz. 0
+344|KUP
+345|NAJLEPSZY WYBÓR
+346|Odblokowanie na poziomie silnika {0}. Zdobywaj PD, budując i uwalniając burze.
+347|Maks. poziom {0}
+348|KUP x{0}
+349|+1 do ciśnienia bazowego na poziom
+350|teraz baza {0}
+351|+0,5 s burzy i +4% szybkości ładowania na poziom
+352|Burza {0} s, ładowanie {1}
+353|+{0}% do: {1} na poziom
+354|teraz {0}
+355|Moduły
+356|Założone
+357|Warsztat
+358|Odblokuj
+359|Ulepsz
+360|Załóż
+361|Puste
+362|Zablokowane
+363|Moduły są zablokowane podczas burzy.
+364|Zajęte gniazda: {0}/{1}. Stuknij założony moduł, aby go zdjąć. Rdzenie Burzy dają burze i odkrycia.
+365|Wymagane resety atmosfery: {0}.
+366|Najpierw odkryj „{0}”.
+367|Najpierw odkryj nowe zjawisko ({0}).
+368|Odblokuj za {0}
+369|Zdejmij
+370|Ulepsz za {0}
+371|wymaga Reaktora Chaosu
+372|Uwolnione burze
+373|Uderzenia piorunów
+374|Megaburze
+375|Najlepszy łańcuch
+376|Użyte wzmocnienia
+377|Najlepsza Moc Burzy
+378|Łączna Energia
+379|Resety atmosfery
+380|Odkryte zjawiska
+381|Czas gry
+382|Laboratorium burz
+383|Więcej
+384|WARUNEK TYGODNIA
+385|Warunki zmieniają się w każdy poniedziałek (UTC) i wpływają na to, która konfiguracja jest najlepsza. Turniej tygodniowy i jego ranking resetują się w tym samym momencie.
+386|Warunki tygodnia odblokowują się na poziomie silnika {0}: co poniedziałek nowy atmosferyczny zwrot akcji.
+387|Statystyki
+388|Muzyka
+389|Utwory ambientowe i przytulne. Zablokowane są twoje na zawsze po krótkiej reklamie.
+390|Język
+391|Efekty dźwiękowe
+392|Głośność efektów
+393|Głośność muzyki
+394|Dźwięki pogody
+395|Wibracje
+396|Jakość grafiki
+397|Dostosuj grafikę na wolnych telefonach
+398|Liczba klatek
+399|Przypomnienia (dzienny prezent, turniej)
+400|Format liczb

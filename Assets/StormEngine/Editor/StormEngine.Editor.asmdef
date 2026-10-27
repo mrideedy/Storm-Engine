@@ -1,0 +1,25 @@
+{
+    "name": "StormEngine.Editor",
+    "rootNamespace": "StormEngine.EditorTools",
+    "references": [
+        "StormEngine.Core",
+        "StormEngine.Runtime",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.RenderPipelines.Universal.Editor",
+        "Unity.Services.DeploymentApi",
+        "Unity.Services.Core.Environments.Editor",
+        "Unity.Services.Core.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

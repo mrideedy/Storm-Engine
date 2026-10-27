@@ -1,0 +1,19 @@
+1160|Trang chủ
+1161|Quyền riêng tư
+1162|Quảng cáo cá nhân hóa
+1163|Quảng cáo chỉ phát khi bạn chọn xem. Quảng cáo cá nhân hóa dùng ID quảng cáo của thiết bị.
+1164|Chính sách quyền riêng tư
+1165|Bạn thích Storm Engine chứ?
+1166|Một lượt đánh giá hay chia sẻ giúp những thợ săn bão khác tìm thấy trò chơi.
+1167|Đánh giá trò chơi
+1168|Chia sẻ
+1169|Xây một cỗ máy thời tiết, thả những cơn bão khổng lồ và leo bảng xếp hạng tuần trong Storm Engine!
+1170|Đã sao chép! Dán ở bất cứ đâu để chia sẻ.
+1171|QUẢNG CÁO PHÙ HỢP?
+1172|Lựa chọn của bạn, dữ liệu của bạn
+1173|Storm Engine miễn phí. Quảng cáo chỉ phát khi bạn chọn xem để nhận thưởng.
+1174|Đối tác quảng cáo của chúng tôi có thể dùng ID quảng cáo của thiết bị để hiển thị quảng cáo phù hợp với sở thích của bạn. Không có nó, bạn vẫn nhận mọi phần thưởng, chỉ là quảng cáo ít liên quan hơn. Bạn có thể đổi lựa chọn này bất cứ lúc nào trong Cài đặt.
+1175|Không, cảm ơn
+1176|Cho phép
+1177|Mình vừa thả một cơn bão ({0}) đạt {1} điểm trong Storm Engine! Bạn vượt qua được không?
+1178|Bạn đã khám phá một hiện tượng! Mọi thứ bạn mở khóa đều được giải thích trong Stormpedia. Hãy tìm trong menu ở góc trên bên phải.

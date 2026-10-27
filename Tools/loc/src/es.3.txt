@@ -1,0 +1,358 @@
+802|Viento x1.5 (+0.15/nv). Las tormentas se cargan un 20 % más rápido.
+803|Lente Barométrica
+804|Lente
+805|Presión base x2 (+0.25/nv).
+806|Banco de Condensadores
+807|Condensador
+808|Las tormentas duran +4 s (+0.5/nv). Cadena por rayo +2 %.
+809|Intercambiador de Calor
+810|Intercambiador
+811|Tormenta de calor x2 (+0.2/nv). El 25 % de la bonificación de Temperatura también alimenta el Viento.
+812|Colector de Lluvia
+813|Lluvia
+814|Monzón x2 (+0.2/nv). Eficiencia sin conexión +10 %.
+815|Núcleo Ciclónico
+816|Ciclón x2 (+0.2/nv). Viento x1.25.
+817|Relé de Sobrecarga
+818|Relé
+819|Sobrecarga x2 (+0.2/nv). Cadena por rayo +3 %.
+820|Procesador de Supercélulas
+821|Procesador
+822|Todos los fenómenos x1.2 (+0.04/nv).
+823|Reactor del Caos
+824|Caos
+825|Poder de Tormenta x2 (+0.25/nv). Las tormentas acumulan inestabilidad: Anomalía por encima del 40 %, colapso al 100 %.
+826|+25 % de Poder de Tormenta por nivel.
+827|Automatización de tormentas
+828|Las tormentas se desatan solas cuando están cargadas, incluso mientras no estás (con el Generador sin conexión).
+829|Bahía de Módulos
+830|+1 ranura de módulo.
+831|Tormentas largas
+832|+2 s de duración de tormenta por nivel.
+833|Carga rápida
+834|Las tormentas se cargan un 10 % más rápido por nivel.
+835|Maestría hidráulica
+836|Las bonificaciones aditivas de Humedad son un 10 % más eficaces por nivel.
+837|Maestría de nubes
+838|Las bonificaciones aditivas de Nubes son un 10 % más eficaces por nivel.
+839|Maestría de carga
+840|Las bonificaciones aditivas de Electricidad son un 10 % más eficaces por nivel.
+841|Maestría térmica
+842|Las bonificaciones aditivas de Temperatura son un 10 % más eficaces por nivel.
+843|Maestría aérea
+844|Las bonificaciones aditivas de Viento son un 10 % más eficaces por nivel.
+845|Condensador sin conexión
+846|+2 h de límite sin conexión y +5 % de eficiencia sin conexión por nivel (requiere el Generador sin conexión).
+847|Ajuste de recarga
+848|Recarga de potenciadores -6 % por nivel (multiplicativo).
+849|Extracción de núcleos
+850|+20 % de Núcleos de Tormenta de las tormentas por nivel.
+851|Amplificador de potenciadores
+852|Efectos de los potenciadores un +10 % más fuertes por nivel.
+853|Ventaja inicial
+854|Empieza cada partida con más Energía (500, 5K, 50K, 500K, 5M).
+855|Cada fenómeno activo aumenta todos los demás un +3 % por nivel.
+856|Conversión de presión
+857|El 5 % de la bonificación de Temperatura por nivel también alimenta la Presión base.
+858|Gradiente de temperatura extremo
+859|+Temperatura x1.4
+860|+Frecuencia de rayos x1.1
+861|-Humedad x0.85
+862|Atmósfera saturada
+863|+Humedad x1.5
+864|+Nubes x1.2
+865|-Viento x0.8
+866|Temporada de vientos fuertes
+867|+Viento x1.5
+868|+Ciclón x1.5
+869|-Temperatura x0.85
+870|Inestabilidad eléctrica
+871|+Electricidad x1.6
+872|+Cadena por rayo x1.5
+873|-Nubes x0.85
+874|Temporada de monzones
+875|+Monzón x2
+876|+Humedad x1.3
+877|-Electricidad x0.8
+878|Cúpula de calor
+879|+Tormenta de calor x2
+880|+Temperatura x1.3
+881|-Nubes x0.8
+882|Aire en calma
+883|+Las tormentas duran 4 s más
+884|+Efectos de potenciadores x1.25
+885|Brote de supercélulas
+886|+Supercélula x1.5
+887|+Intensidad de tormenta x1.1
+888|-Electricidad x0.9
+889|Mejora la Bomba de Presión al Nv 5
+890|Construye una Bomba Hidráulica
+891|Desata tu primera tormenta
+892|Alcanza el Nivel de Motor 2
+893|Construye un Condensador de Nubes
+894|Lleva la Bomba Hidráulica al Nv 10
+895|Lleva el Condensador de Nubes al Nv 10 para desbloquear Estallido de Nubes
+896|Activa un potenciador
+897|Construye una Bobina de Tesla
+898|Consigue un estilo nuevo en la Tienda de Estilos
+899|Desata 10 tormentas
+900|Construye un Horno Térmico
+901|Desbloquea un Módulo con Núcleos de Tormenta
+902|Equipa un Módulo
+903|Decora tu isla
+904|Ten 5 decoraciones diferentes
+905|Descubre una Tormenta eléctrica
+906|Refuerza la Cámara de Tormenta
+907|Construye una Turbina Eólica
+908|Consigue una reacción en cadena x2 en una tormenta
+909|Alcanza el Nivel de Motor 8 para entrar en torneos
+910|Entra al torneo semanal
+911|Descubre una Tormenta de calor
+912|Construye el Generador sin conexión
+913|Genera 10M de Energía en una partida
+914|Reinicia la atmósfera para ganar Investigación
+915|Consigue 3 mejoras de Investigación
+916|Descubre un Monzón
+917|Descubre un Ciclón
+918|Descubre una Supercélula
+919|Descubre una tormenta de Sobrecarga
+920|Reinicia la atmósfera 3 veces
+921|Crea una Anomalía
+922|Carga y desata tormentas.
+923|Un regalo por cada día que juegas, una racha que crece y tres misiones nuevas cada día.
+924|Mira exactamente cómo se calcula el Poder de Tormenta y prevé tu próxima tormenta.
+925|Aspectos, nubes de tormenta, rayos, mundos y títulos. Cada uno mejora una estadística.
+926|Taller de Módulos
+927|Equipa módulos que alteran la fórmula. Se pagan con Núcleos de Tormenta.
+928|Decora tu isla para ganar Energía extra y enséñasela a los visitantes.
+929|Lleva tu motor al torneo semanal y escala en las clasificaciones globales.
+930|Condiciones semanales
+931|Una nueva condición atmosférica cada lunes cambia la mejor configuración.
+932|Sigue produciendo mientras no estás. Es caro de construir.
+933|Reinicia la atmósfera para obtener Investigación y mejoras permanentes.
+934|Mantiene el motor en marcha mientras no estás. Nivel 1: 1 hora al 20 % de eficiencia. Cada nivel añade +1 hora y +5 % de eficiencia. Permanente.
+935|Taller Clásico
+936|El fiel original: cubierta redonda, cúpula de cristal y una antena muy orgullosa.
+937|Brisa Marina
+938|Un motor de aire marinero con ojos de buey y barandillas de latón. Humedad x1.10.
+939|Obras Esmeralda
+940|Cubierta dentada y una corona de engranajes. Nubes x1.10.
+941|Violeta Real
+942|Trono octogonal con una corona enjoyada. Electricidad x1.15.
+943|Neón de Medianoche
+944|Ángulos afilados y tiras luminosas. Viento x1.15.
+945|Caramelo Pop
+946|Gominolas, espirales y una antena de piruleta. Temperatura x1.15.
+947|Oro Solar
+948|Un radiante motor solar con rayos dorados. Presión base x1.20.
+949|Núcleo del Caos
+950|Puntiagudo e inestable, con fragmentos orbitando la cúpula. Eficiencia del motor x1.15.
+951|Máquina de Vapor de Latón
+952|Exclusivo. Engranajes giratorios, remaches y una cúpula de cebolla. Presión base x1.30.
+953|Aguja de Cristal
+954|Exclusivo. Un motor de cristal facetado rodeado de fragmentos. Electricidad x1.30.
+955|Cohete Celeste
+956|Exclusivo. Aletas de cola, una cúpula de cápsula y anillos orbitales. Viento x1.30.
+957|Forja de Magma
+958|Paquete Volcán. Cubierta de basalto con vetas de lava brillante. Temperatura x1.25.
+959|Pagoda en Flor
+960|Paquete Sakura. Tejados de pagoda escalonados sobre la cúpula. Humedad x1.25.
+961|Núcleo Cíber
+962|Paquete Neón. Circuitos hexagonales con anillos holográficos. Electricidad x1.25.
+963|Rayito de Esperanza
+964|Suave, esponjosa y de confianza.
+965|Algodón de Azúcar
+966|Nubecitas rosas y dulces. Nubes x1.10.
+967|Niebla Tóxica
+968|Volutas verdes burbujeantes. Velocidad de carga x1.15.
+969|Infierno
+970|Nubes de llamas titilantes. Temperatura x1.15.
+971|Glaciar
+972|Nubes heladas y cristalinas. Humedad x1.15.
+973|El Vacío
+974|Nubes de otro lugar. Todos los fenómenos x1.10.
+975|Tempestad
+976|Exclusivo. Un cumulonimbo crepitante. Duración de tormenta x1.20.
+977|Penacho de Ceniza
+978|Paquete Volcán. Ceniza humeante con brasas. Temperatura x1.12.
+979|Lluvia de Pétalos
+980|Paquete Sakura. Nubes de pétalos a la deriva. Humedad x1.12.
+981|Synthwave
+982|Paquete Neón. Nubes digitales pixeladas. Electricidad x1.12.
+983|Rayo Dorado
+984|Brillante, ruidoso y dorado.
+985|Azul Eléctrico
+986|Arcos azules nítidos. Frecuencia de rayos x1.10.
+987|Púrpura Plasma
+988|Columnas de plasma densas. Cadena por rayo x1.15.
+989|Arco Esmeralda
+990|Arcos verdes dentados. Electricidad x1.10.
+991|Furia Carmesí
+992|Horquillas rojas furiosas. Intensidad de tormenta x1.10.
+993|Prisma
+994|Rayos gemelos de arcoíris. Frecuencia de rayos x1.20.
+995|Martillo del Trueno
+996|Exclusivo. Cada rayo cae como un martillazo. Cadena por rayo x1.25.
+997|Látigo de Lava
+998|Paquete Volcán. Látigos fundidos. Intensidad de tormenta x1.10.
+999|Chispa en Flor
+1000|Paquete Sakura. Chispas rosas gemelas. Frecuencia de rayos x1.12.
+1001|Pulso de Neón
+1002|Paquete Neón. Rayos de onda cuadrada. Cadena por rayo x1.12.
+1003|Pradera Soleada
+1004|Colinas verdes y cielos azules.
+1005|Cañón del Desierto
+1006|Roca roja y cactus bajo un cielo anaranjado. Temperatura x1.10.
+1007|Picos Helados
+1008|Campos nevados y pinos. Viento x1.10.
+1009|Isla Tropical
+1010|Palmeras y un mar turquesa. Humedad x1.15.
+1011|Noche Estrellada
+1012|Un cielo estrellado y flores brillantes. Electricidad x1.15.
+1013|Planeta Alienígena
+1014|Exclusivo. Bosques de cristal bajo un cielo violeta. Eficiencia del motor x1.10.
+1015|Isla Volcánica
+1016|Paquete Volcán. Roca negra, charcos de lava y un cielo en llamas. Temperatura x1.20.
+1017|Jardín Sakura
+1018|Paquete Sakura. Cerezos en flor y un suave cielo rosa. Humedad x1.20.
+1019|Cuadrícula de Neón
+1020|Paquete Neón. Suelo de cuadrícula luminosa bajo un cielo synthwave. Electricidad x1.20.
+1021|Se muestra junto a tu nombre.
+1022|Señor del Trueno
+1023|Se consigue al descubrir esta clase de tormenta. Núcleos de Tormenta ganados x1.05.
+1024|Abrasador
+1025|Hacedor de Lluvia
+1026|Susurrador del Viento
+1027|Arquitecto de Supercélulas
+1028|Se consigue al descubrir esta clase de tormenta. Núcleos de Tormenta ganados x1.08.
+1029|Sobrecargador
+1030|Ingeniero del Caos
+1031|Se consigue al descubrir esta clase de tormenta. Núcleos de Tormenta ganados x1.10.
+1032|Ingeniero Veterano
+1033|Se consigue en el Nivel de Motor 20. Núcleos de Tormenta ganados x1.05.
+1034|Leyenda de la Tormenta
+1035|Se consigue en el Nivel de Motor 40. Núcleos de Tormenta ganados x1.10.
+1036|Campeón del Torneo
+1037|Título exclusivo. Núcleos de Tormenta ganados x1.10.
+1038|Fundador
+1039|Parte de un paquete. Núcleos de Tormenta ganados x1.05.
+1040|Señor del Fuego
+1041|Maestro Zen
+1042|Fantasma de Neón
+1043|Forja Volcánica
+1044|Aspecto Forja de Magma, nubes Penacho de Ceniza, rayos Látigo de Lava, el mundo Isla Volcánica, el título Señor del Fuego y dos decoraciones volcánicas.
+1045|Aspecto Pagoda en Flor, nubes Lluvia de Pétalos, rayos Chispa en Flor, el mundo Jardín Sakura, el título Maestro Zen, carpas koi y un farol de piedra.
+1046|Noches de Neón
+1047|Aspecto Núcleo Cíber, nubes Synthwave, rayos Pulso de Neón, el mundo Cuadrícula de Neón, el título Fantasma de Neón, un letrero de neón y un árbol holográfico.
+1048|Parterre de Flores
+1049|Un alegre rincón de flores.
+1050|Banco del Parque
+1051|Para ver llegar las tormentas.
+1052|Farola
+1053|Brilla más cuando llega una tormenta.
+1054|Gnomo de Tormenta
+1055|Lleva un gorrito con pararrayos.
+1056|Cometa de Tormenta
+1057|Baila con el viento sobre la isla.
+1058|Estanque
+1059|Espacio para tres decoraciones acuáticas.
+1060|Nenúfares
+1061|Flotan en un estanque.
+1062|Patitos de Goma
+1063|Cuac.
+1064|Anillo de Setas
+1065|Aparece después de cada buena lluvia.
+1066|Molinillo
+1067|Gira más rápido con el Viento.
+1068|Veleta
+1069|Siempre apunta hacia la tormenta.
+1070|Fuente
+1071|Salpica en medio de un estanque.
+1072|Globo Aerostático
+1073|Flota perezosamente alrededor de la isla.
+1074|Titán de la Tormenta
+1075|Un gigante de piedra que sostiene un rayo.
+1076|Racimo de Cristales
+1077|Zumba con la carga acumulada.
+1078|Farolillos Voladores
+1079|Luces cálidas flotando en el cielo.
+1080|Velero de Juguete
+1081|Navega en círculos por un estanque.
+1082|Faro de Rayos
+1083|Chisporrotea sin parar.
+1084|Arco Iris
+1085|Un arcoíris por el que puedes pasar.
+1086|Dirigible del Tiempo
+1087|Emite la previsión meteorológica.
+1088|Ballena de Nubes
+1089|Exclusivo. Un gigante amable hecho de nube.
+1090|Muñeco de Nieve
+1091|Limitado. Nunca se derrite, quién sabe cómo.
+1092|Calabaza Tormentosa
+1093|Limitado. Sonríe a los truenos.
+1094|Tótem del Trueno
+1095|Limitado. Tallado por antiguos cazatormentas.
+1096|Topiaria de Tormenta
+1097|Limitado. Un seto recortado en forma de rayo.
+1098|Charco de Lava
+1099|Paquete Volcán. Burbujea y está muy caliente.
+1100|Tótem de Obsidiana
+1101|Paquete Volcán. Piedra negra y vítrea.
+1102|Pez Koi
+1103|Paquete Sakura. Peces de la suerte para tu estanque.
+1104|Farol de Piedra
+1105|Paquete Sakura. Una luz tranquila para el jardín.
+1106|Letrero de Neón
+1107|Paquete Neón. Dice STORM.
+1108|Árbol Holográfico
+1109|Paquete Neón. Un árbol hecho de luz.
+1110|Ampliación de la isla I
+1111|La isla crece. Espacio para 10 decoraciones más.
+1112|Ampliación de la isla II
+1113|Aún más terreno. Espacio para 12 decoraciones más.
+1114|Ampliación de la isla III
+1115|Una isla grandiosa. Espacio para 15 decoraciones más.
+1116|Gemas gratis
+1117|+8 Gemas.
+1118|Oleada de Energía
+1119|Ingresos de Energía x2 durante 15 minutos (acumulable hasta 1 hora).
+1120|Carga instantánea
+1121|Carga por completo la cámara de tormenta.
+1122|Núcleos dobles
+1123|Duplica los Núcleos de Tormenta de tu última tormenta.
+1124|Intento extra
+1125|Progreso de paquete
+1126|+1 para un paquete de anuncios.
+1127|Sin conexión doble
+1128|Duplica la Energía de tu tiempo fuera.
+1129|Canción
+1130|Desbloquea una canción nueva para siempre.
+1131|Salva tu racha
+1132|Recupera una racha de conexión que acabas de perder.
+1133|400 Gemas, 500 Núcleos de Tormenta y el título Fundador. Una vez por jugador.
+1134|UNA VEZ
+1135|Bolsita de Gemas
+1136|100 Gemas
+1137|Bolsa de Gemas
+1138|550 Gemas
+1139|+10 %
+1140|Cofre de Gemas
+1141|1.200 Gemas
+1142|+20 %
+1143|Cámara de Gemas
+1144|2.600 Gemas
+1145|+30 %
+1146|Tesoro de la Tormenta
+1147|7.000 Gemas
+1148|Desata 5 tormentas
+1149|Desata 12 tormentas
+1150|Compra 20 niveles de máquinas
+1151|Compra 60 niveles de máquinas
+1152|Provoca 40 rayos
+1153|Usa 4 potenciadores
+1154|Usa 3 potenciadores durante una tormenta
+1155|Desata 3 tormentas con fenómeno
+1156|Provoca una Megatormenta
+1157|Gana 10 Núcleos de Tormenta con tormentas
+1158|Desbloquea o mejora un módulo
+1159|Compra una decoración para tu isla

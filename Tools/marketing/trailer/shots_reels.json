@@ -1,0 +1,210 @@
+{
+  "fps": 120,
+  "width": 1080,
+  "height": 1920,
+  "takes": [
+    {
+      "name": "calm", "seconds": 4.5, "preroll": 1.5, "ui": false, "ease": 0.3,
+      "setup": ["calm", "home:0"],
+      "camera": [
+        { "t": 0, "anchor": "island", "y": 1.2, "yaw": -62, "pitch": 30, "dist": 50, "fov": 40, "sy": 0.04 },
+        { "t": 4.5, "anchor": "island", "y": 1.2, "yaw": -44, "pitch": 28, "dist": 46, "fov": 40, "sy": 0.04 }
+      ]
+    },
+    {
+      "name": "calm_engine", "seconds": 2.6, "preroll": 0.6, "ui": false, "ease": 0.3,
+      "setup": ["calm"],
+      "camera": [
+        { "t": 0, "anchor": "dome", "y": 0.4, "yaw": 26, "pitch": 14, "dist": 18, "fov": 40, "sy": 0.12 },
+        { "t": 2.6, "anchor": "dome", "y": 0.4, "yaw": 16, "pitch": 12, "dist": 16, "fov": 40, "sy": 0.12 }
+      ]
+    },
+    {
+      "name": "nope", "seconds": 2.8, "preroll": 0.6, "ui": false, "ease": 0.4,
+      "setup": ["calm"],
+      "cues": [
+        { "t": 0.0, "a": "skyRamp:1:0.8" },
+        { "t": 1.0, "a": "strike" },
+        { "t": 1.6, "a": "strike" }
+      ],
+      "camera": [
+        { "t": 0, "anchor": "dome", "y": 0.5, "yaw": -12, "pitch": 9, "dist": 19, "fov": 42, "sy": 0.24 },
+        { "t": 2.8, "anchor": "dome", "y": 0.5, "yaw": -6, "pitch": 10, "dist": 15.5, "fov": 42, "sy": 0.24 }
+      ]
+    },
+    {
+      "name": "logo", "seconds": 6.0, "preroll": 0.5, "ui": false,
+      "setup": ["calm"],
+      "cues": [ { "t": -0.1, "a": "intro" } ]
+    },
+    {
+      "name": "build", "seconds": 3.0, "preroll": 1.2, "ui": false, "ease": 0.2,
+      "setup": ["calm", "hide:pump,hydro,condenser,tesla,furnace,turbine"],
+      "cues": [
+        { "t": 0.25, "a": "buy:pump" },
+        { "t": 0.75, "a": "buy:condenser" },
+        { "t": 1.25, "a": "buy:tesla" },
+        { "t": 1.75, "a": "buy:furnace" },
+        { "t": 2.25, "a": "buy:hydro" },
+        { "t": 2.75, "a": "buy:turbine" }
+      ],
+      "camera": [
+        { "t": 0, "anchor": "island", "x": 0.6, "y": 1.6, "z": 0.8, "yaw": -32, "pitch": 36, "dist": 40, "fov": 40, "sy": 0.04 },
+        { "t": 3.0, "anchor": "island", "x": 0.6, "y": 1.6, "z": 0.8, "yaw": -22, "pitch": 34, "dist": 37, "fov": 40, "sy": 0.04 }
+      ]
+    },
+    {
+      "name": "upgrade", "seconds": 3.0, "preroll": 0.8, "ui": false, "ease": 0.2,
+      "setup": ["calm"],
+      "cues": [
+        { "t": 0.25, "a": "level:tesla:12" },
+        { "t": 0.75, "a": "level:furnace:12" },
+        { "t": 1.25, "a": "level:condenser:12" },
+        { "t": 1.75, "a": "level:pump:12" },
+        { "t": 2.25, "a": "level:hydro:12" }
+      ],
+      "camera": [
+        { "t": 0, "anchor": "dome", "y": 0.2, "yaw": 34, "pitch": 26, "dist": 24, "fov": 40, "sy": 0.08 },
+        { "t": 3.0, "anchor": "dome", "y": 0.2, "yaw": 44, "pitch": 24, "dist": 22, "fov": 40, "sy": 0.08 }
+      ]
+    },
+    {
+      "name": "decor", "seconds": 3.0, "preroll": 0.8, "ui": false, "ease": 0.2,
+      "setup": ["calm"],
+      "cues": [
+        { "t": 0.25, "a": "decor:dec_balloon" },
+        { "t": 0.75, "a": "decor:dec_windmill" },
+        { "t": 1.25, "a": "decor:dec_fountain" },
+        { "t": 1.75, "a": "decor:dec_arch" },
+        { "t": 2.25, "a": "decor:dec_statue" },
+        { "t": 2.6, "a": "decor:dec_lanterns" }
+      ],
+      "camera": [
+        { "t": 0, "anchor": "island", "y": 1.0, "yaw": -18, "pitch": 44, "dist": 42, "fov": 40, "sy": 0.02 },
+        { "t": 3.0, "anchor": "island", "y": 1.0, "yaw": -4, "pitch": 42, "dist": 39, "fov": 40, "sy": 0.02 }
+      ]
+    },
+    {
+      "name": "decor_more", "seconds": 0.5, "preroll": 0.2, "ui": false,
+      "setup": ["calm", "decor:dec_pond", "decor:dec_ducks", "decor:dec_mushroom", "decor:dec_kite", "decor:dec_gnome", "decor:dec_flowerbed", "decor:dec_lamppost", "decor:dec_bench", "decor:dec_blimp", "decor:dec_crystal"],
+      "camera": [ { "t": 0, "anchor": "island", "y": 1.0, "yaw": 0, "pitch": 42, "dist": 39, "fov": 40 } ]
+    },
+    {
+      "name": "skins", "seconds": 2.6, "preroll": 0.6, "ui": false, "ease": 0.2,
+      "setup": ["calm"],
+      "cues": [
+        { "t": 0.25, "a": "equip:skin_candy" },
+        { "t": 0.75, "a": "equip:skin_gold" },
+        { "t": 1.25, "a": "equip:skin_crystal" },
+        { "t": 1.75, "a": "equip:skin_cyber" },
+        { "t": 2.25, "a": "equip:skin_magma" }
+      ],
+      "camera": [
+        { "t": 0, "anchor": "dome", "y": 0.5, "yaw": -18, "pitch": 16, "dist": 16.5, "fov": 40, "sy": 0.1 },
+        { "t": 2.6, "anchor": "dome", "y": 0.5, "yaw": -8, "pitch": 15, "dist": 15, "fov": 40, "sy": 0.1 }
+      ]
+    },
+    {
+      "name": "worlds", "seconds": 2.6, "preroll": 0.6, "ui": false, "ease": 0.2,
+      "setup": ["calm", "equip:skin_classic"],
+      "cues": [
+        { "t": 0.25, "a": "equip:world_snow" },
+        { "t": 0.75, "a": "equip:world_desert" },
+        { "t": 1.25, "a": "equip:world_night" },
+        { "t": 1.75, "a": "equip:world_alien" },
+        { "t": 2.25, "a": "equip:world_tropic" }
+      ],
+      "camera": [
+        { "t": 0, "anchor": "island", "y": 1.2, "yaw": 12, "pitch": 34, "dist": 46, "fov": 40, "sy": 0.03 },
+        { "t": 2.6, "anchor": "island", "y": 1.2, "yaw": 24, "pitch": 32, "dist": 43, "fov": 40, "sy": 0.03 }
+      ]
+    },
+    {
+      "name": "charge", "seconds": 2.6, "preroll": 0.6, "ui": false, "ease": 0.3,
+      "setup": ["calm", "equip:world_meadow", "equip:skin_classic"],
+      "cues": [ { "t": 0.0, "a": "chargeRamp:0.05:1:1.9" } ],
+      "camera": [
+        { "t": 0, "anchor": "dome", "y": -0.3, "yaw": 4, "pitch": 14, "dist": 14, "fov": 40, "sy": 0.16 },
+        { "t": 2.6, "anchor": "dome", "y": -0.3, "yaw": 10, "pitch": 13, "dist": 12.5, "fov": 40, "sy": 0.16 }
+      ]
+    },
+    {
+      "name": "unleash", "seconds": 2.8, "preroll": 0.4, "ui": false, "ease": 0.3,
+      "setup": ["charged"],
+      "cues": [
+        { "t": 0.0, "a": "unleash" },
+        { "t": 0.05, "a": "skyRamp:1:0.35" },
+        { "t": 0.25, "a": "bigStrike" },
+        { "t": 1.25, "a": "strike" },
+        { "t": 2.0, "a": "strike" }
+      ],
+      "camera": [
+        { "t": 0, "anchor": "dome", "y": 0.6, "yaw": -26, "pitch": 12, "dist": 28, "fov": 42, "sy": 0.2 },
+        { "t": 2.8, "anchor": "dome", "y": 0.6, "yaw": -16, "pitch": 11, "dist": 24, "fov": 42, "sy": 0.2 }
+      ]
+    },
+    {
+      "name": "chain", "seconds": 2.6, "preroll": 0.3, "ui": false, "ease": 0.1,
+      "setup": ["sky:1"],
+      "cues": [
+        { "t": 0.0, "a": "strike" }, { "t": 0.25, "a": "strike" }, { "t": 0.5, "a": "strike" },
+        { "t": 0.75, "a": "strike" }, { "t": 1.0, "a": "strike" }, { "t": 1.25, "a": "strike" },
+        { "t": 1.5, "a": "strike" }, { "t": 1.75, "a": "bigStrike" }, { "t": 1.75, "a": "shake:0.35" },
+        { "t": 2.25, "a": "strike" }
+      ],
+      "camera": [
+        { "t": 0, "anchor": "dome", "y": 0.8, "yaw": 18, "pitch": 6, "dist": 18, "fov": 42, "sy": 0.26 },
+        { "t": 2.6, "anchor": "dome", "y": 0.8, "yaw": 28, "pitch": 7, "dist": 16, "fov": 42, "sy": 0.26 }
+      ]
+    },
+    {
+      "name": "warning", "seconds": 2.6, "preroll": 0.4, "ui": false, "ease": 0.2,
+      "setup": ["sky:1"],
+      "camera": [
+        { "t": 0, "anchor": "island", "y": 1.5, "yaw": 128, "pitch": 20, "dist": 46, "fov": 40, "sy": 0.04 },
+        { "t": 2.6, "anchor": "island", "y": 1.5, "yaw": 140, "pitch": 19, "dist": 43, "fov": 40, "sy": 0.04 }
+      ]
+    },
+    {
+      "name": "mega", "seconds": 2.2, "preroll": 0.3, "ui": false, "ease": 0.1,
+      "setup": ["sky:1"],
+      "cues": [
+        { "t": 0.1, "a": "bigStrike" }, { "t": 0.1, "a": "shake:0.5" },
+        { "t": 0.7, "a": "bigStrike" }, { "t": 0.7, "a": "shake:0.5" },
+        { "t": 1.3, "a": "bigStrike" }
+      ],
+      "camera": [
+        { "t": 0, "anchor": "dome", "y": 0.9, "yaw": -42, "pitch": 4, "dist": 18, "fov": 44, "sy": 0.26 },
+        { "t": 2.2, "anchor": "dome", "y": 0.9, "yaw": -36, "pitch": 5, "dist": 16.5, "fov": 44, "sy": 0.26 }
+      ]
+    },
+    {
+      "name": "legend", "seconds": 4.0, "preroll": 0.4, "ui": false, "ease": 0.2,
+      "setup": ["sky:1"],
+      "cues": [
+        { "t": 0.4, "a": "strike" }, { "t": 1.4, "a": "strike" },
+        { "t": 2.0, "a": "bigStrike" }, { "t": 2.0, "a": "shake:0.3" }, { "t": 3.0, "a": "strike" }
+      ],
+      "camera": [
+        { "t": 0, "anchor": "island", "y": 1.6, "yaw": 196, "pitch": 22, "dist": 50, "fov": 40, "sy": 0.06 },
+        { "t": 4.0, "anchor": "island", "y": 1.6, "yaw": 224, "pitch": 20, "dist": 46, "fov": 40, "sy": 0.06 }
+      ]
+    },
+    {
+      "name": "tournament_hud", "seconds": 3.0, "preroll": 2.0, "ui": true,
+      "setup": ["waitCalm", "calm", "home:0", "tournament"]
+    },
+    {
+      "name": "home_menu", "seconds": 3.0, "preroll": 2.0, "ui": true,
+      "setup": ["waitCalm", "calm", "home:1"]
+    },
+    {
+      "name": "endcard", "seconds": 7.0, "preroll": 1.0, "ui": false, "ease": 0.1,
+      "setup": ["waitCalm", "calm", "home:0"],
+      "camera": [
+        { "t": 0, "anchor": "island", "y": 1.4, "yaw": -34, "pitch": 30, "dist": 54, "fov": 40, "sy": -0.02 },
+        { "t": 7.0, "anchor": "island", "y": 1.4, "yaw": -20, "pitch": 29, "dist": 51, "fov": 40, "sy": -0.02 }
+      ]
+    }
+  ]
+}

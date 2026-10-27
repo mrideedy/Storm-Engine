@@ -1,0 +1,398 @@
+1|Gió giật
+2|{0} ngày {1} giờ
+3|{0} giờ {1} phút
+4|{0} phút {1} giây
+5|{0} giây
+6|dịch vụ trực tuyến chưa được thiết lập trong bản này.
+7|không thể kết nối tới máy chủ trò chơi.
+8|Máy chủ trả về phản hồi trống.
+9|Đã được máy chủ xác minh.
+10|Ghi bảng xếp hạng thất bại; sẽ thử lại.
+11|Máy chủ từ chối cơn bão: {0}
+12|Gửi thất bại: {0}
+13|Xác minh cục bộ thất bại: {0}
+14|Đã gửi mà không có xác minh của máy chủ (chế độ phát triển).
+15|Bảng xếp hạng này chưa khả dụng.
+16|Không tải được bảng xếp hạng. Hãy kiểm tra kết nối.
+17|Đơn giản
+18|Cân bằng
+19|Cao
+20|Pin yếu: trò chơi chạy ở 30 FPS để tiết kiệm pin.
+21|Đồ họa đã được đặt về {0} để trò chơi mượt mà. Bạn có thể đổi trong Cài đặt.
+22|Quà hằng ngày đã sẵn sàng
+23|Quà hôm nay và ba nhiệm vụ mới vẫn đang chờ bạn.
+24|Giữ chuỗi {0} ngày của bạn! Quà Ngày {1} đang chờ.
+25|Một món quà mới và ba nhiệm vụ mới đang chờ.
+26|Máy phát Ngoại tuyến đã đầy
+27|Động cơ của bạn đã tích trữ đầy Năng lượng. Hãy quay lại nhận và giữ nó chạy tiếp!
+28|Giải đấu sắp kết thúc
+29|Giải đấu tuần này sắp kết thúc. Thêm một cơn bão có thể đưa bạn lên cao trên bảng xếp hạng!
+30|Tuần giải đấu mới
+31|Điều kiện tuần này: {0}. Nhận thưởng tuần trước và tham gia ngay!
+32|Quà hằng ngày của bạn cũng đã sẵn sàng.
+33|Cửa hàng mô phỏng
+34|Không khả dụng
+35|Cửa hàng hiện không khả dụng.
+36|Bản này không hỗ trợ mua hàng.
+37|MUA THỬ NGHIỆM
+38|Cửa hàng mô phỏng (Editor / bản phát triển). Giả vờ mua {0} với giá {1}?
+39|Mua (thử)
+40|Đã mua {0}! +{1} Đá quý.
+41|Đã khôi phục {0}.
+42|Phần thưởng hằng ngày mở khóa ở Cấp Động cơ {0}.
+43|Quà Ngày {0}: {1}!
+44|MUỐN ĐƯỢC NHẮC KHÔNG?
+45|Bạn có muốn được nhắc khi quà hằng ngày tiếp theo sẵn sàng hoặc khi giải đấu tuần sắp đóng? Tối đa vài lần mỗi tuần, không bao giờ vào ban đêm.
+46|Nhắc tôi
+47|Lời nhắc đang tắt. Bạn có thể bật trong Cài đặt.
+48|Để sau
+49|Thưởng nhiệm vụ: {0}
+50|Đã xong mọi nhiệm vụ! {0}
+51|Hãy chờ cơn bão kết thúc trước.
+52|Nhà phát triển: đã mở khóa mọi thứ (+100K Đá quý, +100K Lõi, +10K Nghiên cứu).
+53|Phần thưởng đó đã hết cho hôm nay. Hãy quay lại vào ngày mai!
+54|Hiện chưa có quảng cáo. Hãy thử lại sau giây lát.
+55|Quảng cáo đã bị bỏ qua nên lần này không có thưởng.
+56|+{0} Đá quý!
+57|Bùng nổ Năng lượng! Thu nhập x{0} trong {1}.
+58|Buồng bão đã sạc đầy!
+59|+1 lượt giải đấu hôm nay.
+60|+{0} Lõi Bão!
+61|Năng lượng ngoại tuyến đã nhân đôi!
+62|Đã mở khóa nhạc mới: {0}!
+63|một bản nhạc mới
+64|Đã giữ được chuỗi! {0} ngày và tiếp tục.
+65|{0}: đã xem {1}/{2} quảng cáo.
+66|Bạn cần thêm {0} Đá quý.
+67|{0} đã mở khóa và trang bị!
+68|MUA {0}?
+69|Dùng {0} Đá quý để mua {1}?
+70|Thưởng: {0}.
+71|Mua với giá {0}
+72|Giải đấu Tuần mở khóa ở Cấp Động cơ {0}.
+73|Hãy chờ cơn bão hiện tại kết thúc trước.
+74|Hôm nay đã hết lượt. Lượt sẽ hồi lúc nửa đêm (UTC), hoặc xem quảng cáo để có thêm một lượt.
+75|Hôm nay đã hết lượt. Lượt sẽ hồi lúc nửa đêm (UTC).
+76|Đảo của bạn đã đầy. Hãy mở rộng hoặc cất bớt một vật trang trí.
+77|Vật trang trí dưới nước nổi trên ao. Hãy đặt một cái Ao trước (mỗi ao chứa được ba).
+78|Bạn có thể sở hữu tối đa {0} {1}.
+79|Bạn cần thêm {0} Lõi Bão.
+80|Thưởng bộ sưu tập +{0} Năng lượng.
+81|Đã đặt {0} lên đảo của bạn!
+82|Đã mua và cất {0} (không còn chỗ trống).
+83|Ao không còn chỗ trống. Mỗi ao chứa được ba vật trang trí dưới nước.
+84|Không còn chỗ trống. Hãy sắp xếp lại hoặc mở rộng đảo.
+85|Hãy cất các vật trang trí dưới nước trên ao này trước.
+86|Dùng {0} Đá quý?
+87|Mở rộng với giá {0}
+88|{0}! Đảo của bạn đã rộng hơn.
+89|Đó là đảo của chính bạn!
+90|Cần kết nối mạng để thăm người chơi khác.
+91|Đang bay đến đảo của {0}...
+92|{0} chưa mở đảo cho khách tham quan.
+93|Hãy hoàn thành cơn bão hiện tại trước khi đi thăm.
+94|Đã lưu trò chơi.
+95|Không thể lưu trò chơi.
+96|TÌM THẤY BẢN LƯU ĐÁM MÂY
+97|Bản lưu đám mây có nhiều tiến trình hơn ({0} Năng lượng tổng, {1} lần đặt lại) so với thiết bị này ({2}, {3} lần đặt lại). Tải bản đó?
+98|Tải bản lưu đám mây
+99|{0} mở khóa khi {1} đạt Cấp {2}.
+100|{0} đã mở khóa và lắp đặt.
+101|{0} đã mở khóa.
+102|Mọi ô mô-đun đã đầy. Hãy tháo một cái trước.
+103|Đã xây {0}!
+104|{0} đã nâng lên Cấp {1}.
+105|Nâng cấp bị khóa khi đang có bão.
+106|ĐẶT LẠI KHÍ QUYỂN?
+107|Bạn sẽ nhận {0} Nghiên cứu. Năng lượng và cấp máy về 0. Mô-đun, Lõi Bão, Nghiên cứu, khám phá và kỷ lục được giữ lại.
+108|Đặt lại để nhận +{0}
+109|Đã đặt lại khí quyển! +{0} Nghiên cứu.
+110|XÓA TOÀN BỘ TIẾN TRÌNH?
+111|Thao tác này xóa vĩnh viễn bản lưu trên máy. Kết quả trên bảng xếp hạng vẫn ở trực tuyến. Không thể hoàn tác.
+112|Xóa tất cả
+113|Mây Trôi
+114|Không gian
+115|Những âm pad ấm áp, chậm rãi trôi qua.
+116|Bếp Lửa Ấm
+117|Ấm cúng
+118|Phím đàn êm, bass tròn và nhịp điệu lười biếng.
+119|Cửa Sổ Mưa
+120|Piano nhẹ nhàng với tiếng mưa trên kính.
+121|Bầu Trời Sao
+122|Âm trầm sâu lắng và ánh sao lấp lánh xa xăm.
+123|Đồng Cỏ Buổi Sáng
+124|Tiếng guitar gảy nhẹ dưới nắng.
+125|Ngoại tuyến
+126|Chưa cài dịch vụ trực tuyến. Đang chơi ngoại tuyến.
+127|Đang kết nối...
+128|Trực tuyến với tên {0}
+129|Ngoại tuyến. Tiến trình được lưu trên máy và các cơn bão sẽ được gửi sau.
+130|Ngoại tuyến: {0}
+131|Giải đấu Tuần mở khóa ở Cấp Động cơ {0}. Nhấn CHƠI và nâng cấp động cơ của bạn!
+132|Cấp {0}
+133|{0} mở khóa ở Cấp Động cơ {1}.
+134|Cửa hàng Phong cách mở khóa ở Cấp Động cơ {0}.
+135|Phòng thí nghiệm Khí quyển mở khóa ở Cấp Động cơ {0}: phân tích mọi hệ số nhân.
+136|Đang sạc {0}
+137|Bão giải đấu! Hãy dùng tăng cường trong lúc bão để cộng dồn chuỗi.
+138|Hãy chờ bão kết thúc rồi hãy sắp xếp lại.
+139|Không còn chỗ ở đó
+140|CHUỖI {0}!
+141|Kỷ lục cá nhân mới! {0} đạt {1}  (+{2} lõi)
+142|Bão {0}: {1}  (+{2} lõi)
+143|+{0} đá quý
+144|+{0} lõi
+145|+{0} EXP
+146|Hoàn thành mục tiêu: {0}
+147|Có máy mới: {0}
+148|Xong nhiệm vụ ngày: {0}. Chạm vào hộp quà để nhận!
+149|Ngày mới! Quà hằng ngày và nhiệm vụ mới đang chờ bạn.
+150|Hủy
+151|SỨC MẠNH BÃO
+152|Nhiệt độ
+153|Độ ẩm
+154|Gió
+155|Mây
+156|Điện
+157|Cộng hưởng
+158|Áp suất
+159|MỤC TIÊU
+160|+Năng lượng
+162|+15 phút
+164|+{0} Lõi
+165|Sạc ngay
+166|SẴN SÀNG
+167|ĐANG SẠC
+168|ĐANG BÃO
+169|còn {0}
+170|THẢ BÃO!
+171|Dự báo {0}
+172|Bão tự động: bật
+173|GIẢI ĐẤU TUẦN
+174|GIÓ GIẬT
+175|SIÊU BÃO
+176|Chuỗi {0}  ·  Cường độ {1}  ·  {2} tia sét
+177|BÃO HOÀN HẢO
+178|SIÊU CẤP BÃO
+179|KHUNG HOÀN HẢO
+180|TÍNH NĂNG MỚI
+181|MÁY MỚI
+182|MÔ-ĐUN
+183|NGHIÊN CỨU
+184|ĐỘC QUYỀN
+185|PHONG CÁCH
+186|{0} Đá quý
+187|Miễn phí
+188|GÓI QUẢNG CÁO
+189|Một khung cảnh hoàn chỉnh đổi lấy {0} quảng cáo có thưởng.
+190|TRANG TRÍ
+191|MỞ RỘNG ĐẤT
+192|Diện mạo máy
+193|Mây bão
+194|Tia sét
+195|Thế giới
+196|Danh hiệu
+197|CẤP {0}!
+198|Động cơ bão của bạn đã mạnh hơn
+199|Tiếp tục xây dựng! Máy, mô-đun và phong cách mới sẽ mở khóa khi Cấp Động cơ tăng.
+200|ĐÃ MỞ KHÓA
+201|Tiếp theo ở Cấp {0}: {1}
+202|và {0} thứ khác
+203|Tuyệt vời!
+204|CẤP ĐỘNG CƠ {0}
+205|Nhận EXP bằng cách xây máy, thả bão, khám phá hiện tượng và hoàn thành mục tiêu.
+206|CẤP {0}
+207|TIẾP THEO
+208|Mọi thứ đã mở khóa. Bạn là một kỹ sư bão thực thụ!
+209|Đóng
+210|Đã đạt cấp tối đa
+211|{0} / {1} EXP để lên cấp {2}
+212|STORM ENGINE
+213|PHẦN THƯỞNG HẰNG NGÀY
+214|CHƠI
+215|Nâng cấp động cơ bão của bạn
+216|GIẢI ĐẤU
+217|Stormpedia
+218|Thăm đảo
+219|Cài đặt
+220|Thợ săn Bão
+221|Cấp Động cơ {0}
+222|Xây động cơ bão đầu tiên của bạn
+223|{0} Năng lượng /giây
+224|Quà Ngày {0} đã sẵn sàng!
+225|Có thưởng nhiệm vụ để nhận!
+226|Chuỗi ngày: {0}
+227|nhiệm vụ {0}/{1}
+228|ngày mới sau {0}
+229|Mở khóa ở Cấp Động cơ {0}
+230|Tuần này: {0}
+231|điều kiện tự do
+232|Lượt còn lại hôm nay: {0}
+233|kết thúc sau {0}
+234|ĐANG THĂM
+235|Về nhà
+236|Đảo của {0}
+237|{0} vật trang trí
+238|cơn bão giải đấu tốt nhất {0}
+239|Xoay
+240|Cất
+241|Xong
+242|Đảo của bạn chưa có vật trang trí nào. Hãy mua vài món trong Trang trí đảo.
+243|Chạm vào một vật trang trí để chọn.
+244|Vật trang trí
+245|{0}: vật trang trí dưới nước di chuyển cùng ao của nó.
+246|{0}: chạm xuống đất để di chuyển.
+247|Khí quyển
+248|SỨC MẠNH BÃO =
+249|Các phần thưởng cộng dồn trong cùng một nhóm; các nhóm nhân với nhau. Cùng +10% sẽ đáng giá hơn ở nhóm yếu nhất của bạn.
+250|DỰ BÁO BÃO
+251|Chạy thử cơn bão tiếp theo với cấu hình hiện tại. Đổi mô-đun hoặc cấp độ và xem kết quả thay đổi.
+252|Vì sao ra con số này? (chạm để mở rộng)
+253|Hiện tượng (cộng hưởng)
+254|Hiện tượng kích hoạt khi mọi thành phần đạt ngưỡng. Mỗi hiện tượng đang hoạt động nhân Sức mạnh Bão, và hiện tượng mạnh nhất quyết định loại bão của bạn.
+255|Động cơ bão
+256|Cường độ bão
+257|Thời lượng bão
+258|Chuỗi mỗi tia sét
+259|Thời gian sạc
+260|Siêu Bão
+261|Điểm Bão = Sức mạnh Bão x Cường độ x Chuỗi x Siêu x Khung Hoàn hảo, cộng dồn qua từng khoảnh khắc của cơn bão. Tăng cường trùng với cơn bão sẽ nhân mọi thứ bên trong.
+262|Thả ngay: bão {0}, {1} điểm trong {2} giây.
+263|Nếu dùng trước các tăng cường sẵn sàng ({0}): {1}, {2} ({3}).
+264|{0} /giây
+265|{0} tia sét/giây
+266|+{0} chuỗi
+267|3 / 5 / 7 hiện tượng: x1.5 / x2 / x3
+268|{0} Cấp {1}
+269|{0}: mốc x{1}
+270|Hằng tuần: {0}
+271|{0} (đang hoạt động)
+272|Mức điện
+273|Phong cách: {0}
+274|Trang trí đảo ({0} loại)
+275|{0} hiệu suất
+276|gốc {0}  x  (1 + {1} cộng{2})  x  {3} nhân
+277|Chưa có hệ số nào. Hãy xây máy để tăng chỉ số này.
+278|TĂNG CƯỜNG
+279|GỐC
+280|CỘNG
+281|HIỆU SUẤT
+282|CHUYỂN
+283|NHÂN
+284|+{0} từ {1}
+285|??? Hiện tượng chưa biết
+286|ĐANG HOẠT ĐỘNG {0}
+287|ĐÃ KHÁM PHÁ
+288|CHƯA KHÁM PHÁ
+289|Bất ổn >= 40% (trong bão)
+290|Lắp Lò phản ứng Hỗn loạn
+291|Đặc tính bão: {0}
+292|Đạt mọi ngưỡng để khám phá (+{0} Lõi Bão).
+293|Trang trí đảo
+294|Đảo
+295|Sửa bố cục
+296|Mỗi vật trang trí khác nhau bạn sở hữu tăng thu nhập Năng lượng một lần. Người chơi khác có thể ghé thăm đảo của bạn.
+297|CHỈ TUẦN NÀY
+298|Đất
+299|Trời
+300|Nước
+301|Mở rộng
+302|Thăm
+303|Đảo trưng bày
+304|Người chơi giải đấu
+305|GIỚI HẠN
+306|Đặt
+307|Cơn bão giải đấu tốt nhất {0}
+308|Tuần này chưa có điểm giải đấu. Hãy tham gia và người khác sẽ ghé thăm bạn!
+309|Kết nối để thăm đảo của người chơi khác. Đảo trưng bày vẫn xem được khi ngoại tuyến.
+310|Đã đặt {0}/{1}
+311|Số loại sở hữu: {0}
+312|Thưởng bộ sưu tập: +{0} thu nhập Năng lượng
+313|Mua vật trang trí đầu tiên để nhận thưởng Năng lượng
+314|Rời đi sau {0}
+315|Vật trang trí dưới nước nổi trên Ao (xem mục Đất). Mỗi ao chứa được ba.
+316|Số ao đã đặt: {0}
+317|Chỗ trống dưới nước: {0}
+318|Đã nhận thưởng  +{0}
+319|+{0} Năng lượng
+320|Sở hữu {0}/{1}
+321|Đã cất {0}
+322|Bay trên đảo
+323|Nổi trên ao
+324|Động cơ Cấp {0}
+325|{0} Lõi
+326|Đã sở hữu
+327|Hãy xây {0} trước
+328|Bán kính đảo {0}
+329|+{0} vật trang trí
+330|TỐI ĐA
+331|Máy móc
+332|Không thể xây khi đang có bão.
+333|Nâng cấp vĩnh viễn
+334|XÂY
+335|ĐÃ KHÓA
+336|Mở khóa ở Cấp Động cơ {0}.
+337|Chưa xây
+338|Cấp {0}/{1}
+339|TỐI ĐA
+340|NÂNG CẤP
+341|Giữ động cơ sản xuất khi bạn vắng mặt. Xây một lần, dùng mãi mãi (không mất khi đặt lại).
+342|Ngoại tuyến: tối đa {0} giờ với hiệu suất {1}. Cấp tiếp theo: thêm giờ và hiệu suất.
+343|Cấp 0
+344|MUA
+345|ĐÁNG GIÁ NHẤT
+346|Mở khóa ở Cấp Động cơ {0}. Nhận EXP bằng cách xây dựng và thả bão.
+347|Cấp tối đa {0}
+348|MUA x{0}
+349|+1 Áp suất gốc mỗi cấp
+350|Gốc hiện tại {0}
+351|+0,5 giây bão, +4% tốc độ sạc mỗi cấp
+352|Bão {0} giây, sạc {1}
+353|+{0}% {1} mỗi cấp
+354|hiện tại {0}
+355|Mô-đun
+356|Đã lắp
+357|Xưởng
+358|Mở khóa
+359|Nâng cấp
+360|Lắp
+361|Trống
+362|Đã khóa
+363|Mô-đun bị khóa khi đang có bão.
+364|Đã dùng {0}/{1} ô. Chạm vào mô-đun đã lắp để tháo. Lõi Bão đến từ các cơn bão và khám phá.
+365|Cần số lần đặt lại khí quyển: {0}.
+366|Hãy khám phá {0} trước.
+367|Hãy khám phá một hiện tượng mới ({0}) trước.
+368|Mở khóa {0}
+369|Tháo
+370|Nâng cấp {0}
+371|cần Lò phản ứng Hỗn loạn
+372|Số bão đã thả
+373|Số tia sét
+374|Số siêu bão
+375|Chuỗi tốt nhất
+376|Số tăng cường đã dùng
+377|Sức mạnh Bão cao nhất
+378|Năng lượng tổng
+379|Số lần đặt lại khí quyển
+380|Hiện tượng đã khám phá
+381|Thời gian chơi
+382|Phòng thí nghiệm Bão
+383|Thêm
+384|ĐIỀU KIỆN TUẦN
+385|Điều kiện thay đổi mỗi thứ Hai (UTC) và quyết định cấu hình nào mạnh nhất. Giải đấu tuần và bảng xếp hạng của nó cũng đặt lại cùng lúc.
+386|Điều kiện tuần mở khóa ở Cấp Động cơ {0}: một biến chuyển khí quyển mới mỗi thứ Hai.
+387|Thống kê
+388|Âm nhạc
+389|Các bản nhạc không gian và ấm cúng. Bản bị khóa sẽ thuộc về bạn mãi mãi sau một quảng cáo ngắn.
+390|Ngôn ngữ
+391|Hiệu ứng âm thanh
+392|Âm lượng hiệu ứng
+393|Âm lượng nhạc
+394|Âm thanh thời tiết
+395|Rung
+396|Chất lượng đồ họa
+397|Tự chỉnh đồ họa trên máy yếu
+398|Tốc độ khung hình
+399|Lời nhắc (quà hằng ngày, giải đấu)
+400|Định dạng số

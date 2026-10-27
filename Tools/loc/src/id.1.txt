@@ -1,0 +1,398 @@
+1|Angin Ribut
+2|{0} h {1} j
+3|{0} j {1} m
+4|{0} m {1} d
+5|{0} d
+6|layanan online belum disiapkan di versi ini.
+7|tidak dapat terhubung ke server game.
+8|Respons server kosong.
+9|Diverifikasi oleh server.
+10|Gagal menulis ke papan peringkat; akan dicoba lagi.
+11|Server menolak badai: {0}
+12|Pengiriman gagal: {0}
+13|Validasi lokal gagal: {0}
+14|Dikirim tanpa verifikasi server (mode pengembangan).
+15|Papan peringkat ini belum tersedia.
+16|Tidak dapat memuat papan peringkat. Periksa koneksimu.
+17|Sederhana
+18|Seimbang
+19|Tinggi
+20|Baterai lemah: game berjalan di 30 FPS untuk menghemat daya.
+21|Grafis diatur ke {0} agar game tetap lancar. Kamu bisa mengubahnya di Pengaturan.
+22|Hadiah harianmu sudah siap
+23|Hadiah hari ini dan tiga misi baru masih menunggumu.
+24|Pertahankan beruntunmu! Hari beruntun: {0}. Hadiah Hari {1} menunggumu.
+25|Hadiah baru dan tiga misi baru sedang menunggu.
+26|Generator Offline penuh
+27|Mesinmu sudah menyimpan semua Energi yang bisa ditampungnya. Kembali, ambil, dan biarkan tetap berjalan!
+28|Turnamen segera berakhir
+29|Turnamen minggu ini hampir selesai. Satu badai lagi bisa menaikkan peringkatmu!
+30|Minggu turnamen baru
+31|Kondisi minggu ini: {0}. Ambil hadiah minggu lalu dan ikutlah!
+32|Hadiah harianmu juga sudah siap.
+33|Toko simulasi
+34|Tidak tersedia
+35|Toko sedang tidak tersedia.
+36|Pembelian tidak tersedia di versi ini.
+37|PEMBELIAN UJI COBA
+38|Toko simulasi (Editor / versi pengembangan). Pura-pura membeli {0} seharga {1}?
+39|Beli (uji)
+40|{0} dibeli! +{1} Permata.
+41|{0} dipulihkan.
+42|Hadiah Harian terbuka di Level Mesin {0}.
+43|Hadiah Hari {0}: {1}!
+44|MAU PENGINGAT?
+45|Mau diberi tahu saat hadiah harian berikutnya siap atau turnamen mingguan hampir ditutup? Paling banyak beberapa kali seminggu, tidak pernah di malam hari.
+46|Ingatkan aku
+47|Pengingat dimatikan. Kamu bisa menyalakannya di Pengaturan.
+48|Nanti saja
+49|Hadiah misi: {0}
+50|Semua misi selesai! {0}
+51|Tunggu badai selesai dulu.
+52|Pengembang: semua terbuka (+100K Permata, +100K Inti, +10K Riset).
+53|Hadiah itu sudah habis untuk hari ini. Kembali lagi besok!
+54|Belum ada iklan yang tersedia. Coba lagi sebentar lagi.
+55|Iklan dilewati, jadi kali ini tidak ada hadiah.
+56|+{0} Permata!
+57|Lonjakan Energi! Pendapatan x{0} selama {1}.
+58|Ruang badai terisi penuh!
+59|+1 kesempatan turnamen hari ini.
+60|+{0} Inti Badai!
+61|Energi offline berlipat dua!
+62|Musik baru terbuka: {0}!
+63|lagu baru
+64|Beruntun terselamatkan! {0} hari dan terus bertambah.
+65|{0}: {1}/{2} iklan ditonton.
+66|Kamu butuh {0} Permata lagi.
+67|{0} terbuka dan dipakai!
+68|BELI {0}?
+69|Habiskan {0} Permata untuk {1}?
+70|Bonus: {0}.
+71|Beli seharga {0}
+72|Turnamen Mingguan terbuka di Level Mesin {0}.
+73|Tunggu badai yang sedang berlangsung selesai dulu.
+74|Kesempatan hari ini habis. Akan terisi lagi tengah malam (UTC), atau tonton iklan untuk satu lagi.
+75|Kesempatan hari ini habis. Akan terisi lagi tengah malam (UTC).
+76|Pulaumu penuh. Perluas atau simpan dulu salah satu dekorasi.
+77|Dekorasi air mengapung di kolam. Pasang Kolam dulu (masing-masing muat tiga).
+78|Kamu bisa punya paling banyak {0} {1}.
+79|Kamu butuh {0} Inti Badai lagi.
+80|Bonus koleksi +{0} Energi.
+81|{0} dipasang di pulaumu!
+82|{0} dibeli dan disimpan (tidak ada tempat kosong).
+83|Tidak ada tempat kosong di kolam. Tiap kolam muat tiga dekorasi air.
+84|Tidak ada tempat kosong lagi. Atur ulang barang atau perluas pulau.
+85|Simpan dulu dekorasi air di kolam ini.
+86|Habiskan {0} Permata?
+87|Perluas seharga {0}
+88|{0}! Pulaumu bertambah luas.
+89|Itu pulaumu sendiri!
+90|Berkunjung ke pemain lain butuh koneksi.
+91|Terbang ke pulau {0}...
+92|{0} belum membuka pulaunya untuk pengunjung.
+93|Selesaikan badai yang sedang berlangsung sebelum berkunjung.
+94|Game disimpan.
+95|Tidak dapat menyimpan game.
+96|SIMPANAN CLOUD DITEMUKAN
+97|Simpanan cloud-mu punya progres lebih banyak ({0} total Energi, {1} reset) daripada perangkat ini ({2}, {3} reset). Muat?
+98|Muat simpanan cloud
+99|{0} terbuka saat {1} Lv {2}.
+100|{0} terbuka dan dipasang.
+101|{0} terbuka.
+102|Semua slot modul penuh. Lepaskan satu dulu.
+103|{0} dibangun!
+104|{0} ditingkatkan ke Lv {1}.
+105|Peningkatan terkunci selama badai berlangsung.
+106|RESET ATMOSFER?
+107|Kamu akan mendapat {0} Riset. Energi dan level mesin kembali ke nol. Modul, Inti Badai, Riset, penemuan, dan rekor tetap tersimpan.
+108|Reset untuk +{0}
+109|Atmosfer direset! +{0} Riset.
+110|HAPUS SEMUA PROGRES?
+111|Ini akan menghapus simpanan lokalmu secara permanen. Entri papan peringkat tetap online. Tidak bisa dibatalkan.
+112|Hapus semua
+113|Awan Melayang
+114|Ambient
+115|Pad hangat yang pelan melayang lewat.
+116|Perapian Nyaman
+117|Nyaman
+118|Tuts lembut, bas bulat, dan ketukan santai.
+119|Jendela Hujan
+120|Piano lembut dengan hujan di kaca.
+121|Langit Berbintang
+122|Dengung dalam dan kerlip di kejauhan.
+123|Padang Pagi
+124|Petikan gitar lembut di bawah matahari.
+125|Offline
+126|Layanan online tidak terpasang. Bermain offline.
+127|Menghubungkan...
+128|Online sebagai {0}
+129|Offline. Progres disimpan di perangkat dan badai akan dikirim nanti.
+130|Offline: {0}
+131|Turnamen Mingguan terbuka di Level Mesin {0}. Tekan MAIN dan kembangkan mesinmu!
+132|Lv {0}
+133|{0} terbuka di Level Mesin {1}.
+134|Toko Gaya terbuka di Level Mesin {0}.
+135|Lab Atmosfer terbuka di Level Mesin {0}: menguraikan setiap pengali.
+136|Mengisi {0}
+137|Badai turnamen! Pakai boost saat badai untuk menumpuk rantai.
+138|Tunggu badai selesai sebelum menata ulang.
+139|Tidak ada tempat di sana
+140|RANTAI {0}!
+141|Rekor pribadi baru! {0} mencetak {1}  (+{2} inti)
+142|Badai {0}: {1}  (+{2} inti)
+143|+{0} permata
+144|+{0} inti
+145|+{0} XP
+146|Target selesai: {0}
+147|Mesin baru tersedia: {0}
+148|Misi harian selesai: {0}. Ketuk hadiah untuk mengambilnya!
+149|Hari baru! Hadiah harian dan misi baru sudah menunggu.
+150|Batal
+151|KEKUATAN BADAI
+152|Suhu
+153|Kelembapan
+154|Angin
+155|Awan
+156|Listrik
+157|Sinergi
+158|Tekanan
+159|TARGET
+160|+Energi
+162|+15 m
+164|+{0} Inti
+165|Isi sekarang
+166|SIAP
+167|MENGISI
+168|BADAI
+169|sisa {0}
+170|LEPASKAN!
+171|Perkiraan {0}
+172|Badai otomatis aktif
+173|TURNAMEN MINGGUAN
+174|ANGIN RIBUT
+175|MEGABADAI
+176|Rantai {0}  ·  Intensitas {1}  ·  {2} petir
+177|BADAI SEMPURNA
+178|HIPERBADAI
+179|JENDELA SEMPURNA
+180|FITUR BARU
+181|MESIN BARU
+182|MODUL
+183|RISET
+184|EKSKLUSIF
+185|GAYA
+186|{0} Permata
+187|Gratis
+188|PAKET IKLAN
+189|Lingkungan lengkap untuk {0} iklan berhadiah.
+190|DEKORASI
+191|PERLUASAN LAHAN
+192|Skin Mesin
+193|Awan Badai
+194|Petir
+195|Dunia
+196|Gelar
+197|LEVEL {0}!
+198|Mesin badaimu makin kuat
+199|Terus membangun! Mesin, modul, dan gaya baru terbuka seiring naiknya Level Mesin.
+200|TERBUKA
+201|Berikutnya di Lv {0}: {1}
+202|dan {0} lainnya
+203|Keren!
+204|LEVEL MESIN {0}
+205|Dapatkan XP dengan membangun mesin, melepaskan badai, menemukan fenomena, dan menyelesaikan target.
+206|LV {0}
+207|BERIKUTNYA
+208|Semua sudah terbuka. Kamu insinyur badai sejati!
+209|Tutup
+210|Level maksimum tercapai
+211|{0} / {1} XP ke level {2}
+212|STORM ENGINE
+213|HADIAH HARIAN
+214|MAIN
+215|Kembangkan mesin badaimu
+216|TURNAMEN
+217|Stormpedia
+218|Kunjungi pulau
+219|Pengaturan
+220|Pemburu Badai
+221|Level Mesin {0}
+222|Bangun mesin badai pertamamu
+223|{0} Energi /d
+224|Hadiah Hari {0}-mu sudah siap!
+225|Ada hadiah misi untuk diambil!
+226|Hari beruntun: {0}
+227|misi {0}/{1}
+228|hari baru dalam {0}
+229|Terbuka di Level Mesin {0}
+230|Minggu ini: {0}
+231|kondisi bebas
+232|Sisa kesempatan hari ini: {0}
+233|berakhir dalam {0}
+234|BERKUNJUNG
+235|Pulang
+236|Pulau {0}
+237|{0} dekorasi
+238|badai turnamen terbaik {0}
+239|Putar
+240|Simpan
+241|Selesai
+242|Pulaumu belum punya dekorasi. Beli beberapa di Dekorasi Pulau.
+243|Ketuk dekorasi untuk memilihnya.
+244|Dekorasi
+245|{0}: dekorasi air ikut berpindah bersama kolamnya.
+246|{0}: ketuk tanah untuk memindahkannya.
+247|Atmosfer
+248|KEKUATAN BADAI =
+249|Bonus aditif dijumlahkan di dalam satu kategori; kategori saling mengalikan. +10% yang sama lebih berharga di kategori terlemahmu.
+250|PERKIRAAN BADAI
+251|Simulasi badai berikutnya dengan susunan saat ini. Ubah modul atau level dan lihat hasilnya berubah.
+252|Kenapa angkanya segini? (ketuk untuk membuka)
+253|Fenomena (sinergi)
+254|Fenomena aktif saat setiap bahan mencapai ambangnya. Tiap fenomena aktif melipatgandakan Kekuatan Badai, dan yang terkuat menentukan kelas badaimu.
+255|Mesin badai
+256|Intensitas badai
+257|Durasi badai
+258|Rantai per petir
+259|Waktu pengisian
+260|Megabadai
+261|Skor Badai = Kekuatan Badai x Intensitas x Rantai x Mega x Jendela Sempurna, dijumlahkan setiap detik badai. Boost yang aktif bersamaan dengan badai melipatgandakan semua di dalamnya.
+262|Lepaskan sekarang: badai {0}, skor {1} dalam {2} d.
+263|Jika boost yang siap dipakai dulu ({0}): {1}, {2} ({3}).
+264|{0} /d
+265|{0} petir/d
+266|+{0} rantai
+267|3 / 5 / 7 fenomena: x1.5 / x2 / x3
+268|{0} Lv {1}
+269|{0}: tonggak x{1}
+270|Mingguan: {0}
+271|{0} (aktif)
+272|Level listrik
+273|Gaya: {0}
+274|Dekorasi pulau ({0} jenis)
+275|{0} efek
+276|dasar {0}  x  (1 + {1} tambah{2})  x  {3} kali
+277|Belum ada pengubah. Bangun mesin untuk menaikkan statistik ini.
+278|BOOST
+279|DASAR
+280|TAMBAH
+281|EFEK
+282|KONV
+283|KALI
+284|+{0} dari {1}
+285|??? Fenomena tak dikenal
+286|AKTIF {0}
+287|DITEMUKAN
+288|BELUM DITEMUKAN
+289|Ketidakstabilan >= 40% (saat badai)
+290|Pasang Reaktor Kekacauan
+291|Keistimewaan badai: {0}
+292|Capai setiap ambang untuk menemukannya (+{0} Inti Badai).
+293|Dekorasi Pulau
+294|Pulau
+295|Ubah tata letak
+296|Setiap dekorasi berbeda yang kamu miliki menambah pendapatan Energi satu kali. Pemain lain bisa mengunjungi pulaumu.
+297|HANYA MINGGU INI
+298|Darat
+299|Udara
+300|Air
+301|Perluas
+302|Kunjungi
+303|Pulau pameran
+304|Pemain turnamen
+305|TERBATAS
+306|Pasang
+307|Badai turnamen terbaik {0}
+308|Belum ada skor turnamen minggu ini. Ikuti turnamen dan pemain lain akan berkunjung!
+309|Hubungkan untuk mengunjungi pulau pemain lain. Pulau pameran bisa dibuka offline.
+310|{0}/{1} terpasang
+311|Jenis dimiliki: {0}
+312|Bonus koleksi: +{0} pendapatan Energi
+313|Beli dekorasi pertamamu untuk bonus Energi
+314|Hilang dalam {0}
+315|Dekorasi air mengapung di Kolam (lihat Darat). Tiap kolam muat tiga.
+316|Kolam terpasang: {0}
+317|Tempat air kosong: {0}
+318|Bonus didapat  +{0}
+319|+{0} Energi
+320|{0}/{1} dimiliki
+321|{0} disimpan
+322|Terbang di atas pulau
+323|Mengapung di kolam
+324|Mesin Lv {0}
+325|{0} Inti
+326|Dimiliki
+327|Bangun {0} dulu
+328|Radius pulau {0}
+329|+{0} dekorasi
+330|MAKS
+331|Mesin
+332|Membangun terkunci selama badai berlangsung.
+333|Peningkatan permanen
+334|BANGUN
+335|TERKUNCI
+336|Terbuka di Level Mesin {0}.
+337|Belum dibangun
+338|Lv {0}/{1}
+339|MAKS
+340|TINGKATKAN
+341|Mesinmu tetap berproduksi saat kamu pergi. Dibangun sekali, dimiliki selamanya (tetap ada setelah reset).
+342|Offline: hingga {0} j dengan efisiensi {1}. Level berikutnya: lebih banyak jam dan efisiensi.
+343|Lv 0
+344|BELI
+345|PALING UNTUNG
+346|Terbuka di Level Mesin {0}. Dapatkan XP dengan membangun dan melepaskan badai.
+347|Level maks {0}
+348|BELI x{0}
+349|+1 Tekanan Dasar per level
+350|Dasar sekarang {0}
+351|+0,5 d badai, +4% kecepatan isi per level
+352|Badai {0} d, isi {1}
+353|+{0}% {1} per level
+354|sekarang {0}
+355|Modul
+356|Terpasang
+357|Bengkel
+358|Buka
+359|Tingkatkan
+360|Pasang
+361|Kosong
+362|Terkunci
+363|Modul terkunci selama badai berlangsung.
+364|{0}/{1} slot terpakai. Ketuk modul terpasang untuk melepasnya. Inti Badai didapat dari badai dan penemuan.
+365|Butuh reset atmosfer: {0}.
+366|Temukan {0} dulu.
+367|Temukan fenomena baru ({0}) dulu.
+368|Buka {0}
+369|Lepas
+370|Tingkatkan {0}
+371|butuh Reaktor Kekacauan
+372|Badai dilepaskan
+373|Sambaran petir
+374|Megabadai
+375|Rantai terbaik
+376|Boost dipakai
+377|Kekuatan Badai terbaik
+378|Total Energi
+379|Reset atmosfer
+380|Fenomena ditemukan
+381|Waktu bermain
+382|Lab Badai
+383|Lainnya
+384|KONDISI MINGGUAN
+385|Kondisi berganti setiap Senin (UTC) dan mengubah susunan mana yang terbaik. Turnamen mingguan dan papan peringkatnya direset pada saat yang sama.
+386|Kondisi Mingguan terbuka di Level Mesin {0}: kejutan atmosfer baru setiap Senin.
+387|Statistik
+388|Musik
+389|Lagu ambient dan nyaman. Yang terkunci jadi milikmu selamanya setelah iklan singkat.
+390|Bahasa
+391|Efek suara
+392|Volume efek
+393|Volume musik
+394|Suara cuaca
+395|Getaran
+396|Kualitas grafis
+397|Sesuaikan grafis otomatis di HP lambat
+398|Frame rate
+399|Pengingat (hadiah harian, turnamen)
+400|Format angka

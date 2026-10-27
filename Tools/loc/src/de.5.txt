@@ -1,0 +1,9 @@
+1179|ONLINE-DATEN LÖSCHEN?
+1180|Damit werden dein Spielerkonto und alles gelöscht, was die Spielserver dazu speichern: Cloud-Spielstand, Insel und Ranglistenpunkte. Dein Fortschritt auf diesem Handy bleibt erhalten.
+1181|Löschen
+1182|Deine Online-Daten wurden gelöscht. Die Online-Funktionen sind jetzt aus.
+1183|Deine Online-Daten konnten gerade nicht gelöscht werden. Prüfe deine Verbindung und versuche es erneut.
+1184|Die Online-Funktionen sind aus.
+1185|Online-Funktionen
+1186|Ranglisten, Turniere, Cloud-Speicher und Inselbesuche nutzen die Spielserver. Ausgeschaltet verlässt nichts dein Handy.
+1187|Meine Online-Daten löschen

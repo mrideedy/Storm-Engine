@@ -1,0 +1,400 @@
+401|Bewegung und Blitzeffekte reduzieren
+402|Auto-Sturm (Sturmautomatik)
+403|Tipps und Tutorials
+404|Alle Tipps erneut zeigen
+405|Die Tipps erscheinen beim Spielen wieder.
+406|Entwickler
+407|Nur zum Testen. Nicht in fertigen Versionen enthalten.
+408|Alles freischalten
+409|ALLES FREISCHALTEN?
+410|Höchste Motorstufe und alle Maschinen, Module, Stile, Pakete, Dekos, Erweiterungen und Musiktitel, dazu 100K Edelsteine, 100K Sturmkerne und 10K Forschung.
+411|Speichern
+412|Jetzt speichern
+413|Fortschritt zurücksetzen
+414|STORM ENGINE · Clever bauen. Gewaltig stürmen.
+415|Abspielen
+416|Endet in {0}
+417|EINFACH
+418|AUSGEWOGEN
+419|HOCH
+420|30 SPAREN
+421|{0} FPS
+422|AUS
+423|NICHT ERLAUBT
+424|AN
+425|Wird alle paar Sekunden auf dem Gerät gespeichert.
+426|Cloud-Speicherung ist aktiv.
+427|Cloud-Speicherung synchronisiert, wenn du online bist.
+428|Wird eingestellt...
+429|Läuft gerade
+430|Gesperrt: Sieh dir eine Werbung zum Freischalten an
+431|Forschung
+432|Die Atmosphäre zurücksetzen
+433|Maschinen und Energie werden zurückgesetzt. Forschung, Module, Sturmkerne, Entdeckungen und Rekorde behältst du.
+434|FORSCHUNG BEIM NEUSTART
+435|ENERGIE IN DIESEM DURCHLAUF
+436|Atmosphäre zurücksetzen
+437|Dauerhafte Forschung
+438|Erster Forschungspunkt bei {0} Energie in diesem Durchlauf.
+439|Nächster Punkt bei {0} Energie. Die Forschung wächst mit jeder Größenordnung, die du erreichst.
+440|Du hast {0} Forschung ({1} verdient, {2} Neustarts).
+441|IM BESITZ
+442|Skins
+443|Wolken
+444|Blitze
+445|Welten
+446|Titel
+447|Shop
+448|DEINE EDELSTEINE
+449|Edelsteine holen
+450|Empfohlen
+451|Stile
+452|Edelsteine
+453|Gratis-Belohnungen
+454|Werbepakete: komplette Umgebungen
+455|Nur durch Belohnungswerbung erhältlich. Jedes Paket schaltet ein komplettes, passendes Set auf einmal frei.
+456|Exklusiv
+457|Prunkstücke nur für Edelsteine mit den stärksten Boni.
+458|Edelstein-Pakete
+459|Edelsteine gibt es auch beim Spielen: +{0} für jede Motorstufe, +{1} für jedes neue Phänomen, Tagesbelohnungen, Zielbelohnungen und Preise aus dem Wochenturnier.
+460|Ansehen
+461|ANGEBOT
+462|NUR WERBUNG
+463|Werbung  +1
+464|Set ausrüsten
+465|Boni: {0}
+466|Kein Bonus
+467|Titel erscheinen neben deinem Namen in den Bestenlisten und erhöhen die erhaltenen Sturmkerne.
+468|Jeder Stil verbessert einen Wert, solange er ausgerüstet ist (im Turnier auf x1.10 begrenzt). Tippe auf eine Karte für Details.
+469|Test-Shop: Käufe werden im Editor und in Entwicklungsversionen nur simuliert (es wird nichts berechnet).
+470|Aktiv: noch {0}
+471|{0}/{1} heute
+472|{0}/{1} heute übrig
+473|Unbegrenzt
+474|{0}/{1} Werbungen
+475|Freigeschaltet auf Lvl {0}
+476|Komm morgen wieder
+477|AUSGERÜSTET
+478|Paket {0}
+479|Starterpaket
+480|{0} Sturmkerne
+481|Abholen
+482|Entdecke {0}
+483|Atmosphären-Neustarts: {0}
+484|Wochenturnier
+485|Turnier
+486|DIESE WOCHE
+487|BESTWERT DER WOCHE
+488|VERSUCHE HEUTE
+489|TURNIER BETRETEN
+490|+1 Versuch
+491|Regeln
+492|Deine Maschinen, Module und Forschung zählen genau so, wie du sie gebaut hast. Bau aus, um stärker zu werden!
+493|Die Bedingung dieser Woche gilt immer.
+494|Stilboni zählen, aber jeder ist auf x{0} begrenzt.
+495|Dekos, Energieschübe und laufende Boosts zählen nicht.
+496|Der Sturm startet sofort mit frischen Boosts: Setz sie während des Sturms ein, um Ketten aufzubauen.
+497|{0} Versuche pro Tag (UTC), plus bis zu {1} weitere durch Werbung. Dein bester Sturm zählt.
+498|Wochenbelohnungen
+499|Top {0}
+500|Alle
+501|Bestenlisten
+502|Name
+503|Diese Woche
+504|Allzeit
+505|Nach Klasse
+506|Aktualisieren
+507|Die globalen Bestenlisten sind noch nicht verbunden. Deine Turnierrekorde werden trotzdem gespeichert.
+508|Noch keine Ergebnisse. Tritt dem Turnier bei und sichere dir Platz 1!
+509|Offline. Die Rangliste erscheint, sobald du verbunden bist.
+510|Nächster Rivale: {0} (#{1}) liegt {2} vorn. Bau deinen Motor aus und schlag ihn!
+511|Du hältst Platz 1. Verteidige ihn!
+512|(du)
+513|Offene Bedingungen
+514|Belohnungen gibt es, wenn die Woche endet
+515|TURNIERSTURM LÄUFT
+516|STURM LÄUFT...
+517|KEINE VERSUCHE MEHR
+518|Prognose mit allen Boosts: {0}  ({1})
+519|Turnierstürme, die noch geprüft und gesendet werden: {0}
+520|Aktualisiert vor {0}
+521|Lädt...
+522|Gespeicherte Rangliste wird angezeigt
+523|Sturmkerne
+524|x2 Energieschub
+525|{0} Min
+526|{0} Std
+527|Ein Geschenk für jeden Tag, an dem du spielst, und drei neue Missionen
+528|Behalten
+529|MISSIONEN HEUTE
+530|Neue Missionen gibt es um Mitternacht (UTC).
+531|Bestwert {0}
+532|Hol dir das heutige Geschenk und starte eine Serie!
+533|Die Serie beginnt heute!
+534|Du hast einen Tag verpasst und deine {0}-Tage-Serie verloren. Sieh dir eine kurze Werbung an, um sie zu behalten!
+535|TAG {0}
+536|{0} Kerne
+537|Geschenk für Tag {0} abholen
+538|Komm morgen für Tag {0} wieder. Neuer Tag in {1}.
+539|Alle Missionen erledigt. Bis morgen!
+540|Erledige alle Missionen ({0}/{1} abgeholt): {2}
+541|Neue Missionen in {0} (Mitternacht UTC)
+542|SPRACHE
+543|Wähle die Sprache für das ganze Spiel
+544|TURNIERSTURM
+545|Wochenturnier
+546|STURM BEENDET
+547|TURNIERPUNKTE
+548|STURMPUNKTE
+549|NEUER WOCHENREKORD
+550|TURNIERREKORD
+551|NEUER PERSÖNLICHER REKORD
+552|KLASSENBESTWERT
+553|ZUSAMMENGEBROCHEN
+554|Bestwert der Woche: {0}
+555|Dauer
+556|Durchschnittliche Sturmkraft
+557|Höchste Kettenreaktion
+558|{0} Blitze
+559|Zeit im Megasturm
+560|{0} Phänomene
+561|Zeit im Perfekten Fenster
+562|Boosts während des Sturms
+563|Verdiente Energie
+564|PUNKTE NACH KLASSE
+565|Persönlicher Rekord! Nimm diesen Motor mit ins Wochenturnier, um in den globalen Bestenlisten zu landen.
+566|Weiter
+567|Rekord auf dem Gerät gespeichert. Verbinde die Online-Dienste, um weltweit anzutreten.
+568|Offline: Dieser Rekord wird geprüft und gesendet, sobald du wieder verbunden bist.
+569|Die Sturmwiederholung wird mit dem Server geprüft...
+570|Geprüft und an die Bestenlisten gesendet.
+571|WILLKOMMEN ZURÜCK!
+572|Du warst {0} weg
+573|Dein Sturmmotor lief {0} lang weiter
+574|Dein Motor stand still, während du weg warst. Die Sturmkammer ist geladen und bereit!
+575|Baue den Offline-Generator im Maschinen-Tab ({0} Energie + {1} Sturmkerne), um weiter zu produzieren, während du weg bist.
+576|Der Offline-Generator wird auf Motorstufe {0} freigeschaltet. Er ist teuer, hält deinen Motor aber am Laufen, während du weg bist.
+577|Los geht's!
+578|GESAMMELTE ENERGIE
+579|Gezählte Zeit
+580|(Limit erreicht)
+581|Offline-Effizienz
+582|(erforsche die Sturmautomatik)
+583|Verbessere den Offline-Generator oder erforsche den Offline-Kondensator, um länger produktiv zu bleiben.
+584|Einsammeln
+585|x2 einsammeln
+586|NEUES PHÄNOMEN ENTDECKT!
+587|REZEPT
+588|+{0} Sturmkerne. Entdeckungen können neue Module in der Werkstatt freischalten.
+589|Bauen. Optimieren. Die größten Stürme erschaffen.
+590|Baue Maschinen
+591|Jede Maschine speist eine Wetterkategorie. Die Kategorien multiplizieren sich zur Sturmkraft, und Sturmkraft erzeugt Energie.
+592|Entfessle Stürme
+593|Wenn die Kuppel geladen ist, entfessle einen Sturm für einen riesigen Schub. Setz während des Sturms Boosts ein, damit sich ihre Effekte überlagern.
+594|Entdecke Phänomene
+595|Bring die richtigen Kategorien über ihre Schwellenwerte, um Gewitter, Zyklone, Superzellen und mehr zu entdecken.
+596|Tritt jede Woche an
+597|Mach deinen Motor stärker und nimm ihn dann mit ins Wochenturnier (Motorstufe 8). Turnierstürme werden vom Server geprüft und weltweit gewertet.
+598|Meinen Sturmjäger benennen
+599|Motor starten!
+600|NAME DES STURMJÄGERS
+601|Wird in den globalen Bestenlisten angezeigt
+602|Nur Buchstaben, Zahlen, - und _. Unity hängt einen kurzen #Tag an, damit Namen eindeutig bleiben.
+603|Name gespeichert: {0}
+604|Der Name kann gerade nicht geändert werden.
+605|Für diesen Sturm wurden keine Aufbaudetails gespeichert.
+606|Sturmklasse
+607|Höchste Kette
+608|MODULE
+609|PHÄNOMENE
+610|Wochenbedingung
+611|Insel besuchen
+612|keine
+613|BELOHNUNGSWERBUNG
+614|Im Editor und in Entwicklungsversionen simuliert
+615|In der fertigen Version spielt hier ein echtes Werbenetzwerk (zum Beispiel Unity LevelPlay) ein kurzes Video ab.
+616|Überspringen
+617|Belohnung abholen
+618|Werbung beendet.
+619|Werbung endet in {0} s
+620|{0} FREIGESCHALTET!
+621|Eine komplette Umgebung, verdient mit Werbung
+622|Deiner Insel hinzugefügte Dekos: {0}.
+623|Später
+624|Alles ausrüsten
+625|TURNIERERGEBNISSE
+626|Letzte Woche bist du auf Platz #{0} gelandet
+627|Danke, dass du letzte Woche mitgemacht hast!
+628|DEINE BELOHNUNG
+629|Ein neues Wochenturnier mit einer neuen Bedingung hat begonnen. Bau deinen Motor aus und tritt erneut an!
+630|Bonus
+631|Im Turnier
+632|(begrenzt)
+633|Holen
+634|Grundlagen
+635|Boosts
+636|Phänomene
+637|Wöchentlich
+638|Deko
+639|Sturmkraft
+640|Sturmkraft = Basisdruck x Temperatur x Feuchtigkeit x Wind x Wolken x Elektrizität x Synergie. Die Kategorien multiplizieren sich untereinander, deshalb schlägt ein ausgewogener Motor einen einseitigen. Deine Energie pro Sekunde ist deine Sturmkraft mal deine Einkommensboni.
+641|Stürme und Kettenreaktionen
+642|Die Sturmkammer lädt sich mit der Zeit auf. Entfessle einen Sturm für einen Energieschub. Jeder Blitz verstärkt die Kettenreaktion, die die gesamte Sturmwertung vervielfacht.
+643|Motorstufe
+644|Maschinen bauen, Stürme entfesseln, Phänomene entdecken und Ziele erreichen bringt EP. Neue Stufen schalten Maschinen, Funktionen und Stile frei, und jede Stufe gibt Edelsteine.
+645|Jeder Sturm hinterlässt Sturmkerne (größere Stürme mehr). Gib sie für Module, Dekos und dauerhafte Verbesserungen aus.
+646|Die Premium-Währung. Du bekommst sie für Motorstufen (+{0}), neue Phänomene (+{1}), Ziele, Tagesbelohnungen, Gratis-Belohnungen und Turnierpreise, oder kaufst sie im Shop. Gib sie für Stile, Dekos und Inselerweiterungen aus.
+647|Tagesbelohnungen
+648|Öffne jeden Tag das Geschenk für eine Belohnung in einem Sieben-Tage-Zyklus. Wenn du an aufeinanderfolgenden Tagen abholst, baust du eine Serie auf, und drei Tagesmissionen bringen Edelsteine, Sturmkerne oder Energieschübe. Alles wird um Mitternacht UTC zurückgesetzt.
+649|Kurze, freiwillige Werbung bringt Edelsteine, Energieschübe (x2 Einkommen), sofortiges Aufladen, doppelte Sturmkerne, zusätzliche Turnierversuche und Fortschritt bei den Werbepaketen. Jede hat ein Tageslimit.
+650|Atmosphärenlabor
+651|Tippe auf die Sturmkraft-Anzeige, um das Labor zu öffnen. Es zeigt jeden Modifikator jeder Kategorie und sagt deinen nächsten Sturm voraus.
+652|Megastürme und Perfekte Fenster
+653|Mit {0}+ gleichzeitig aktiven Phänomenen wird ein Sturm zum Megasturm (x{1}, mehr bei {2} und {3}). Laufen {4}+ Boosts gleichzeitig, öffnet sich ein Perfektes Fenster (x{5}).
+654|Stilboni
+655|Jeder Skin, jede Wolke, jeder Blitz, jede Welt und jeder Titel verbessert einen Wert, solange er ausgerüstet ist. Im Turnier ist jeder Stilbonus auf x{0} begrenzt, deshalb zählt der Ausbau deines Motors immer am meisten.
+656|Module verbiegen die Formel: Umwandlungen, Bedingungen und große Multiplikatoren. Schalte sie mit Sturmkernen frei und rüste sie in deinen begrenzten Plätzen aus.
+657|Insel und Besucher
+658|Dekoriere deine Insel an Land, in der Luft und auf Teichen. Jede unterschiedliche Deko, die du besitzt, erhöht dein Energieeinkommen einmalig ein wenig. Spieler können sich über die Bestenlisten gegenseitig auf ihren Inseln besuchen.
+659|Nimm deinen Motor unter festen Regeln mit ins Turnier: Die Bedingung der Woche gilt, Stilboni sind begrenzt und Dekos oder Schübe zählen nicht. {0} Versuche pro Tag; dein bester Sturm wird gewertet und vom Server geprüft. Edelsteine werden am Ende der Woche ausgezahlt.
+660|Wochenbedingungen
+661|Jeden Montag (UTC) stärkt eine neue atmosphärische Bedingung manche Werte und schwächt andere. Sie verändert, welcher Aufbau der beste ist, in deinem Motor und im Turnier.
+662|Offline-Generator
+663|Eine teure, dauerhafte Verbesserung, die den Motor weiter produzieren lässt, während du weg bist, mit verringerter Effizienz und bis zu einem Zeitlimit.
+664|Atmosphären-Neustart
+665|Setze Energie und Maschinenstufen zurück, um Forschung zu verdienen, und gib sie im Forschungslabor für dauerhafte Verbesserungen aus. Module, Sturmkerne, Stile und Dekos bleiben erhalten.
+666|Erscheint auf Motorstufe {0}.
+667|Produziere weiter Energie, um es aufzudecken.
+668|eine Maschine, die du noch nicht gefunden hast
+669|Hält {0} s, lädt in {1} s neu.
+670|Verbessere {0} auf Lvl {1}.
+671|Erscheint nur in Stürmen, die von einem sehr ungewöhnlichen Modul angetrieben werden.
+672|Rezepthinweis: Bring {0} gleichzeitig hoch genug.
+673|Entdecke ein neues Phänomen, um es aufzudecken.
+674|Setze die Atmosphäre zurück, um es aufzudecken.
+675|Schalte es in der Modulwerkstatt frei.
+676|Setze die Atmosphäre weiter zurück, um es aufzudecken.
+677|Forschung wird auf Motorstufe {0} freigeschaltet.
+678|(diese Woche)
+679|Eine Bedingung aus einer kommenden Woche.
+680|Wochenbedingungen beginnen auf Motorstufe {0}.
+681|Teil eines Werbepakets im Shop.
+682|Teil eines Sonderangebots.
+683|Entdecke ein Phänomen, um es zu erhalten.
+684|Ein Exklusivstück im Shop.
+685|Du findest es im Shop.
+686|Eine limitierte Deko. Sie kehrt in manchen Wochen in den Inselshop zurück.
+687|Teil eines Werbepakets.
+688|Erhältlich unter Inseldeko.
+689|STORMPEDIA
+690|Alles, was du bisher entdeckt hast
+691|{0} von {1} entdeckt
+692|NEU
+693|INSELN BESUCHEN
+694|Sieh dir an, wie andere Sturmingenieure dekorieren
+695|SCHAUINSELN
+696|TURNIERSPIELER
+697|Diese Woche ist noch niemand dem Turnier beigetreten.
+698|Verbinde dich, um andere Spieler zu besuchen. Schauinseln funktionieren offline.
+699|Tippe auf die leuchtende Stelle, um weiterzumachen.
+700|Tipps überspringen
+701|Weiter
+702|Tipp {0} von {1}
+703|Neu!
+704|Verstanden!
+705|Bau deinen Motor
+706|Tippe ein paarmal bei der Druckpumpe auf KAUFEN. Maschinen erzeugen Sturmkraft, und Sturmkraft erzeugt Energie.
+707|Das ist deine Sturmkraft: die Energie, die du jede Sekunde verdienst. Gib Energie für Maschinen aus, um sie zu steigern.
+708|Misch das Wetter
+709|Jede Maschine treibt einen anderen Teil des Wetters an, und die Teile multiplizieren sich. Baue eine Hydropumpe!
+710|Entfessle einen Sturm
+711|Die Sturmkammer lädt auf. Wenn sie voll ist, tippe auf ENTFESSELN (oder die Glaskuppel) für einen großen Energieschub.
+712|Ziele
+713|Folge der Zielkarte, um Belohnungen zu bekommen. Alles, was du tust, bringt EP für deine Motorstufe.
+714|Neue Stufen schalten Maschinen, Funktionen und Stile frei. Tippe jederzeit auf den Stufenring, um zu sehen, was als Nächstes kommt.
+715|Öffne jeden Tag das Geschenk für eine Belohnung. Halte deine Serie und erledige drei Tagesmissionen für Edelsteine.
+716|Boosts verstärken kurz einen Teil deines Motors. Setz sie ein, während ein Sturm tobt, um große Kettenreaktionen auszulösen!
+717|Tippe jederzeit auf deine Sturmkraft, um genau zu sehen, wie sie berechnet wird, und deinen nächsten Sturm vorherzusagen.
+718|Stil-Shop
+719|Stile verändern das Aussehen deines Motors, und jeder Stil gibt dazu einen kleinen Bonus. Mit Edelsteinen kaufst du die schicksten.
+720|Module sind Spezialausrüstung, die mit Sturmkernen bezahlt wird. Rüste sie in deinen Plätzen aus, um die Regeln der Formel zu verbiegen.
+721|Dekoriere deine Insel! Jede unterschiedliche Deko bringt ein wenig Energie, und andere Spieler können zu Besuch kommen.
+722|Dein Motor kann jetzt in der globalen Bestenliste antreten. Du hast 3 Versuche pro Tag, und am Ende der Woche bekommen alle Edelsteine.
+723|Jeden Montag verändert eine neue Wetterbedingung, welcher Aufbau der beste ist. Sieh sie dir an, bevor du antrittst.
+724|Baue den Offline-Generator im Maschinen-Tab, dann verdient dein Motor weiter, während du weg bist.
+725|Forschungslabor
+726|Setze die Atmosphäre zurück, um Forschung zu verdienen: dauerhafte Verbesserungen, die jeden Durchlauf schneller machen. Module, Sturmkerne und Rekorde bleiben erhalten.
+728|Basisdruck
+729|Motoreffizienz
+730|Alle Phänomene
+731|Gewitter
+732|Hitzesturm
+733|Monsun
+734|Zyklon
+735|Superzelle
+736|Überladung
+737|Anomalie
+738|Sturmintensität
+739|Sturmdauer
+740|Ladetempo
+741|Blitzrate
+742|Kette pro Blitz
+743|Megasturm-Kraft
+744|Boost-Dauer
+745|Boost-Abklingzeit
+746|Boost-Stärke
+747|Offline-Effizienz
+748|Offline-Limit
+749|Sturmkern-Ertrag
+750|Forschungsertrag
+751|Modulplätze
+752|Instabilitätsrate
+753|Synergie-Resonanz
+754|Energieeinkommen
+755|Druckpumpe
+756|Setzt die Kammer unter Druck. Jede Stufe bringt +1 Basisdruck.
+757|Hydropumpe
+758|Pumpt Wasser in die Luft. Jede Stufe bringt +5 % Feuchtigkeit.
+759|Wolkenkondensator
+760|Verdichtet Dampf zu Wolken. Jede Stufe bringt +5 % Wolkendichte.
+761|Teslaspule
+762|Baut elektrische Ladung auf. Jede Stufe bringt +5 % Elektrizität.
+763|Wärmeofen
+764|Heizt die Luft auf. Jede Stufe bringt +5 % Temperatur.
+765|Sturmkammer
+766|Verstärkt die Kuppel. +0,5 s Sturmdauer und +4 % Ladetempo pro Stufe.
+767|Windturbine
+768|Wirbelt die Luft herum. Jede Stufe bringt +5 % Wind.
+769|Wolkenbruch
+770|Wolken x2 für 20 s. Abklingzeit 45 s.
+771|Bogenüberladung
+772|Elektrizität x2,5 und Blitze +50 % für 15 s. Abklingzeit 50 s.
+773|Hitzewelle
+774|Temperatur x2 für 30 s. Abklingzeit 60 s.
+775|Jetstream
+776|Wind x3 für 10 s. Abklingzeit 40 s.
+777|Wolken, Ladung und Feuchtigkeit im Gleichgewicht. Der Allrounder.
+778|Blitze schlagen 50 % öfter ein.
+779|Glühende Aufwinde. Aufbau mit Fokus auf Temperatur.
+780|Der Sturm dauert 3 s länger.
+781|Endloser Regen, getragen von stetigem Wind. Aufbau mit Fokus auf Feuchtigkeit.
+782|Die Sturmintensität steigt jede Sekunde um +4 %.
+783|Eine wirbelnde Wand aus Wind und Wasser. Aufbau mit Fokus auf Wind.
+784|Jeder Blitz bringt 50 % mehr Kette.
+785|Hitze, Feuchtigkeit und Wind auf extremem Niveau. Riesige Multiplikatoren.
+786|Sturmintensität x1.5.
+787|Gewaltige Ladung über einer stabilen Wolkenschicht. Aufbau mit Fokus auf Elektrizität.
+788|Blitze schlagen doppelt so oft ein.
+789|Stürme des Chaosreaktors zerreißen ab 40 % Instabilität die Wirklichkeit.
+790|Riesiger Multiplikator, aber bei 100 % Instabilität bricht der Sturm zusammen.
+791|Atmosphärenkondensator
+792|Kondensator
+793|Feuchtigkeit und Wolken x1.3 (+0.1/Lvl je).
+794|Tesla-Array
+795|Tesla
+796|Elektrizität x1.5 (+0.15/Lvl). +0.25 Blitze/s in Stürmen.
+797|Wärmekern
+798|Wärme
+799|Temperatur x1.5 (+0.15/Lvl). 10 % des Temperaturbonus fließen auch in den Basisdruck.
+800|Strahlbeschleuniger
+801|Strahl

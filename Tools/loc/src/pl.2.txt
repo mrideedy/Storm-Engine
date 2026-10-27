@@ -1,0 +1,400 @@
+401|Ogranicz ruch i błyski
+402|Autoburza (automatyzacja burz)
+403|Wskazówki i samouczki
+404|Pokaż wszystkie wskazówki ponownie
+405|Wskazówki pojawią się znowu podczas gry.
+406|Deweloper
+407|Tylko do testów. Nie ma go w wersjach finalnych.
+408|Odblokuj wszystko
+409|ODBLOKOWAĆ WSZYSTKO?
+410|Maksymalny poziom silnika i wszystkie maszyny, moduły, style, pakiety, dekoracje, rozbudowy i utwory, a do tego 100K klejnotów, 100K Rdzeni Burzy i 10K badań.
+411|Zapis
+412|Zapisz teraz
+413|Zresetuj postęp
+414|STORM ENGINE · Buduj sprytnie. Wywołuj wielkie burze.
+415|Odtwórz
+416|Koniec za {0}
+417|PROSTA
+418|ZRÓWNOWAŻONA
+419|WYSOKA
+420|30 OSZCZĘDZANIE
+421|{0} FPS
+422|WYŁ.
+423|BRAK ZGODY
+424|WŁ.
+425|Zapisywane na urządzeniu co kilka sekund.
+426|Zapis w chmurze jest włączony.
+427|Zapis w chmurze synchronizuje się, gdy jesteś online.
+428|Dostrajanie...
+429|Teraz gra
+430|Zablokowane: obejrzyj reklamę, aby odblokować
+431|Badania
+432|Zresetuj atmosferę
+433|Maszyny i Energia zostaną zresetowane. Zachowujesz badania, moduły, Rdzenie Burzy, odkrycia i rekordy.
+434|BADANIA ZA RESET
+435|ENERGIA W TYM PRZEBIEGU
+436|Zresetuj atmosferę
+437|Stałe badania
+438|Pierwszy punkt badań przy {0} Energii w tym przebiegu.
+439|Następny punkt przy {0} Energii. Badania rosną z każdym osiągniętym rzędem wielkości.
+440|Masz badania: {0} (zdobyte łącznie {1}, resety {2}).
+441|POSIADANE
+442|Wyglądy
+443|Chmury
+444|Pioruny
+445|Światy
+446|Tytuły
+447|Sklep
+448|TWOJE KLEJNOTY
+449|Zdobądź klejnoty
+450|Polecane
+451|Style
+452|Klejnoty
+453|Darmowe nagrody
+454|Pakiety za reklamy: kompletne otoczenia
+455|Dostępne tylko za oglądanie reklam z nagrodą. Każdy pakiet odblokowuje od razu cały pasujący zestaw.
+456|Ekskluzywne
+457|Reprezentacyjne przedmioty tylko za klejnoty, z najsilniejszymi bonusami.
+458|Pakiety klejnotów
+459|Klejnoty zdobywasz też grając: +{0} za każdy poziom silnika, +{1} za każde nowe zjawisko, nagrody dzienne, nagrody za cele i nagrody z turnieju tygodniowego.
+460|Obejrzyj
+461|OFERTA
+462|TYLKO ZA REKLAMY
+463|Reklama  +1
+464|Załóż zestaw
+465|Bonusy: {0}
+466|Brak bonusu
+467|Tytuły są widoczne obok twojej nazwy w rankingach i zwiększają zdobywane Rdzenie Burzy.
+468|Każdy styl zwiększa jeden parametr, gdy jest założony (w turniejach maksymalnie x1.10). Stuknij kartę, aby zobaczyć szczegóły.
+469|Sklep testowy: zakupy są symulowane w Edytorze i wersjach deweloperskich (nic nie jest pobierane).
+470|Aktywne: zostało {0}
+471|{0}/{1} dzisiaj
+472|Zostało dzisiaj: {0}/{1}
+473|Bez limitu
+474|Reklamy {0}/{1}
+475|Odblokowanie na poz. {0}
+476|Wróć jutro
+477|ZAŁOŻONE
+478|Pakiet „{0}”
+479|Pakiet startowy
+480|Rdzenie Burzy: {0}
+481|Odbierz
+482|Odkryj „{0}”
+483|Resety atmosfery: {0}
+484|Turniej Tygodniowy
+485|Turniej
+486|TEN TYDZIEŃ
+487|NAJLEPSZY W TYGODNIU
+488|PODEJŚCIA DZIŚ
+489|WEJDŹ DO TURNIEJU
+490|+1 podejście
+491|Zasady
+492|Twoje maszyny, moduły i badania liczą się dokładnie tak, jak je zbudowałeś. Rozwijaj się, aby być silniejszym!
+493|Warunek tego tygodnia obowiązuje zawsze.
+494|Bonusy stylów się liczą, ale każdy jest ograniczony do x{0}.
+495|Dekoracje, Przypływy Energii i trwające wzmocnienia się nie liczą.
+496|Burza zaczyna się od razu ze świeżymi wzmocnieniami: używaj ich w trakcie burzy, aby budować łańcuchy.
+497|Podejścia dziennie (UTC): {0}, plus do {1} za reklamy. Liczy się twoja najlepsza burza.
+498|Nagrody tygodniowe
+499|Top {0}
+500|Wszyscy
+501|Rankingi
+502|Nazwa
+503|Ten tydzień
+504|Wszech czasów
+505|Według klasy
+506|Odśwież
+507|Rankingi globalne nie są jeszcze podłączone. Twoje rekordy turniejowe i tak są zapisywane.
+508|Brak jeszcze wyników. Wejdź do turnieju i zajmij pierwsze miejsce!
+509|Offline. Tabela pojawi się po połączeniu.
+510|Następny rywal: {0} (#{1}) ma {2} przewagi. Rozwiń silnik i go wyprzedź!
+511|Zajmujesz 1. miejsce. Obroń je!
+512|(ty)
+513|Otwarte warunki
+514|nagrody są wypłacane po zamknięciu tygodnia
+515|TRWA BURZA TURNIEJOWA
+516|TRWA BURZA...
+517|BRAK PODEJŚĆ
+518|Prognoza ze wszystkimi wzmocnieniami: {0}  ({1})
+519|Burze turniejowe czekające na weryfikację i wysłanie: {0}
+520|Zaktualizowano {0} temu
+521|Wczytywanie...
+522|Wyświetlanie zapisanego rankingu
+523|Rdzenie Burzy
+524|Przypływ Energii x2
+525|{0} min
+526|{0} godz.
+527|Prezent za każdy dzień gry i trzy nowe misje
+528|Zachowaj
+529|MISJE NA DZIŚ
+530|Nowe misje pojawiają się o północy (UTC).
+531|rekord {0}
+532|Odbierz dzisiejszy prezent, aby zacząć serię!
+533|Seria zaczyna się dziś!
+534|Opuściłeś dzień i straciłeś serię (dni z rzędu: {0}). Obejrzyj krótką reklamę, aby ją zachować!
+535|DZIEŃ {0}
+536|rdzenie: {0}
+537|Odbierz prezent z dnia {0}
+538|Wróć jutro po dzień {0}. Nowy dzień za {1}.
+539|Wszystkie misje ukończone. Do jutra!
+540|Ukończ wszystkie misje (odebrano {0}/{1}): {2}
+541|Nowe misje za {0} (północ UTC)
+542|JĘZYK
+543|Wybierz język całej gry
+544|BURZA TURNIEJOWA
+545|turniej tygodniowy
+546|BURZA ZAKOŃCZONA
+547|WYNIK TURNIEJOWY
+548|WYNIK BURZY
+549|NOWY REKORD TYGODNIA
+550|REKORD TURNIEJU
+551|NOWY REKORD OSOBISTY
+552|NAJLEPSZY W KLASIE
+553|ZAPADŁA SIĘ
+554|Najlepszy w tygodniu: {0}
+555|Czas trwania
+556|Średnia Moc Burzy
+557|Szczyt reakcji łańcuchowej
+558|pioruny: {0}
+559|Czas megaburzy
+560|zjawiska: {0}
+561|Czas idealnego okna
+562|Wzmocnienia użyte w burzy
+563|Zdobyta Energia
+564|WYNIK WEDŁUG KLASY
+565|Rekord osobisty! Zabierz ten silnik do Turnieju Tygodniowego, aby wpisać wynik do rankingów globalnych.
+566|Dalej
+567|Rekord zapisany na urządzeniu. Połącz usługi online, aby rywalizować z całym światem.
+568|Offline: ten rekord zostanie zweryfikowany i wysłany po ponownym połączeniu.
+569|Weryfikowanie powtórki burzy z serwerem...
+570|Zweryfikowano i wysłano do rankingów.
+571|WITAJ Z POWROTEM!
+572|Nie było cię przez {0}
+573|Twój silnik burz pracował przez {0}
+574|Gdy cię nie było, silnik stał bezczynnie. Komora burzy jest naładowana i gotowa!
+575|Zbuduj Generator Offline w zakładce Maszyny ({0} Energii + {1} Rdzeni Burzy), aby produkować, gdy cię nie ma.
+576|Generator Offline odblokowuje się na poziomie silnika {0}. Jest drogi, ale sprawia, że silnik produkuje, gdy cię nie ma.
+577|Zaczynamy!
+578|ZEBRANA ENERGIA
+579|Naliczony czas
+580|(osiągnięto limit)
+581|Wydajność offline
+582|(zbadaj automatyzację burz)
+583|Ulepsz Generator Offline lub zbadaj Kondensator Offline, aby produkować dłużej.
+584|Odbierz
+585|Odbierz x2
+586|ODKRYTO NOWE ZJAWISKO!
+587|PRZEPIS
+588|Rdzenie Burzy +{0}. Odkrycia mogą odblokować nowe moduły w warsztacie.
+589|Buduj. Optymalizuj. Twórz największe burze.
+590|Buduj maszyny
+591|Każda maszyna zasila jedną kategorię pogody. Kategorie mnożą się w Moc Burzy, a Moc Burzy daje Energię.
+592|Uwalniaj burze
+593|Gdy kopuła jest naładowana, uwolnij burzę, aby dostać ogromny zastrzyk. Używaj wzmocnień w trakcie burzy, żeby ich efekty się nakładały.
+594|Odkrywaj zjawiska
+595|Podnieś odpowiednie kategorie ponad ich progi, aby odkryć burze z piorunami, cyklony, superkomórki i więcej.
+596|Rywalizuj co tydzień
+597|Wzmocnij swój silnik, a potem zabierz go do Turnieju Tygodniowego (poziom silnika 8). Burze turniejowe są weryfikowane przez serwer i trafiają do światowego rankingu.
+598|Nazwij mojego Łowcę Burz
+599|Uruchom silnik!
+600|NAZWA ŁOWCY BURZ
+601|Widoczna w rankingach globalnych
+602|Tylko litery, cyfry, - i _. Unity dodaje krótki #tag, aby nazwy były unikalne.
+603|Zapisano nazwę: {0}
+604|Nie udało się teraz zmienić nazwy.
+605|Dla tej burzy nie zapisano szczegółów konfiguracji.
+606|Klasa burzy
+607|Szczyt łańcucha
+608|MODUŁY
+609|ZJAWISKA
+610|Warunek tygodnia
+611|Odwiedź wyspę
+612|brak
+613|REKLAMA Z NAGRODĄ
+614|Symulowana w Edytorze i wersjach deweloperskich
+615|W wersji finalnej prawdziwa sieć reklamowa (np. Unity LevelPlay) odtwarza tu krótki film.
+616|Pomiń
+617|Odbierz nagrodę
+618|Reklama zakończona.
+619|Reklama skończy się za {0} s
+620|„{0}” ODBLOKOWANE!
+621|Kompletne otoczenie zdobyte dzięki reklamom
+622|Dekoracje dodane do twojej wyspy: {0}.
+623|Później
+624|Załóż wszystko
+625|WYNIKI TURNIEJU
+626|W zeszłym tygodniu zająłeś miejsce #{0}
+627|Dziękujemy za udział w zeszłym tygodniu!
+628|TWOJA NAGRODA
+629|Rozpoczął się nowy turniej tygodniowy z nowym warunkiem. Rozwiń silnik i weź udział ponownie!
+630|Bonus
+631|W turniejach
+632|(ograniczone)
+633|Zdobądź
+634|Podstawy
+635|Wzmocnienia
+636|Zjawiska
+637|Tygodniowe
+638|Dekoracje
+639|Moc Burzy
+640|Moc Burzy = ciśnienie bazowe x temperatura x wilgotność x wiatr x chmury x elektryczność x synergia. Kategorie mnożą się nawzajem, więc zrównoważony silnik wygrywa z krzywym. Twoja Energia na sekundę to Moc Burzy razy bonusy dochodu.
+641|Burze i reakcje łańcuchowe
+642|Komora burzy ładuje się z czasem. Uwolnij burzę, aby dostać zastrzyk Energii. Każdy piorun powiększa reakcję łańcuchową, która mnoży cały wynik burzy.
+643|Poziom silnika
+644|Budowanie maszyn, uwalnianie burz, odkrywanie zjawisk i realizowanie celów daje PD. Nowe poziomy odblokowują maszyny, funkcje i style, a każdy poziom daje klejnoty.
+645|Każda burza zostawia Rdzenie Burzy (większe burze więcej). Wydawaj je na moduły, dekoracje i stałe ulepszenia.
+646|Waluta premium. Zdobywasz ją za poziomy silnika (+{0}), nowe zjawiska (+{1}), cele, nagrody dzienne, darmowe nagrody i nagrody turniejowe, możesz ją też kupić w Sklepie. Wydawaj ją na style, dekoracje i rozbudowy wyspy.
+647|Nagrody dzienne
+648|Otwieraj prezent codziennie, aby dostać nagrodę w siedmiodniowym cyklu. Odbieranie dzień po dniu buduje serię, a trzy misje dzienne dają klejnoty, Rdzenie Burzy lub Przypływy Energii. Wszystko resetuje się o północy UTC.
+649|Krótkie, opcjonalne reklamy dają klejnoty, Przypływy Energii (dochód x2), natychmiastowe ładowanie, podwójne Rdzenie Burzy, dodatkowe podejścia w turnieju i postęp w pakietach za reklamy. Każda ma dzienny limit.
+650|Laboratorium Atmosfery
+651|Stuknij wskaźnik Mocy Burzy, aby otworzyć laboratorium. Pokazuje każdy modyfikator w każdej kategorii i prognozuje następną burzę.
+652|Megaburze i Idealne Okna
+653|Gdy jednocześnie działa {0}+ zjawisk, burza staje się megaburzą (x{1}, więcej przy {2} i {3}). Gdy {4}+ wzmocnień działa jednocześnie, otwiera się Idealne Okno (x{5}).
+654|Bonusy stylów
+655|Każdy wygląd, chmura, piorun, świat i tytuł zwiększa jeden parametr, gdy jest założony. W turniejach każdy bonus stylu jest ograniczony do x{0}, więc rozwój silnika zawsze liczy się najbardziej.
+656|Moduły naginają formułę: przemiany, warunki i duże mnożniki. Odblokowuj je za Rdzenie Burzy i zakładaj w ograniczonych gniazdach.
+657|Wyspa i goście
+658|Udekoruj wyspę na lądzie, w powietrzu i na stawach. Każda inna dekoracja, którą posiadasz, raz trochę zwiększa dochód Energii. Gracze mogą odwiedzać swoje wyspy z poziomu rankingów.
+659|Zabierz silnik do turnieju na stałych zasadach: obowiązuje warunek tygodnia, bonusy stylów są ograniczone, a dekoracje i przypływy się nie liczą. Podejścia dziennie: {0}; twoja najlepsza burza trafia do rankingu i jest weryfikowana przez serwer. Klejnoty są wypłacane na koniec tygodnia.
+660|Warunki tygodnia
+661|W każdy poniedziałek (UTC) nowy warunek atmosferyczny wzmacnia jedne parametry i osłabia inne. Zmienia najlepszą konfigurację zarówno w twoim silniku, jak i w turnieju.
+662|Generator Offline
+663|Drogie, stałe ulepszenie, dzięki któremu silnik produkuje, gdy cię nie ma, z obniżoną wydajnością i do limitu czasu.
+664|Reset atmosfery
+665|Zresetuj Energię i poziomy maszyn, aby zdobyć badania, a potem wydaj je na stałe ulepszenia w Laboratorium Badań. Moduły, Rdzenie Burzy, style i dekoracje zostają.
+666|Pojawi się na poziomie silnika {0}.
+667|Produkuj dalej Energię, aby to odkryć.
+668|maszyna, której jeszcze nie znalazłeś
+669|Działa {0} s, odnawia się w {1} s.
+670|Ulepsz „{0}” do poz. {1}.
+671|Pojawia się tylko w burzach napędzanych bardzo nietypowym modułem.
+672|Wskazówka do przepisu: podnieś jednocześnie {0} wystarczająco wysoko.
+673|Odkryj nowe zjawisko, aby to odkryć.
+674|Zresetuj atmosferę, aby to odkryć.
+675|Odblokuj to w Warsztacie modułów.
+676|Resetuj dalej atmosferę, aby to odkryć.
+677|Badania odblokowują się na poziomie silnika {0}.
+678|(ten tydzień)
+679|Warunek z przyszłego tygodnia.
+680|Warunki tygodnia zaczynają się od poziomu silnika {0}.
+681|Część pakietu za reklamy w Sklepie.
+682|Część oferty specjalnej.
+683|Odkryj zjawisko, aby to zdobyć.
+684|Ekskluzywny przedmiot ze Sklepu.
+685|Znajdziesz to w Sklepie.
+686|Limitowana dekoracja. W niektóre tygodnie wraca do sklepu wyspy.
+687|Część pakietu za reklamy.
+688|Do kupienia w Dekoracjach wyspy.
+689|STORMPEDIA
+690|Wszystko, co do tej pory odkryłeś
+691|Odkryto {0} z {1}
+692|NOWE
+693|ODWIEDŹ WYSPY
+694|Zobacz, jak dekorują inni inżynierowie burz
+695|WYSPY POKAZOWE
+696|GRACZE TURNIEJU
+697|Nikt jeszcze nie wziął udziału w turnieju w tym tygodniu.
+698|Połącz się, aby odwiedzać innych graczy. Wyspy pokazowe działają offline.
+699|Stuknij świecące miejsce, aby kontynuować.
+700|Pomiń wskazówki
+701|Dalej
+702|Wskazówka {0} z {1}
+703|Nowe!
+704|Rozumiem!
+705|Zbuduj swój silnik
+706|Stuknij kilka razy KUP przy Pompie ciśnienia. Maszyny tworzą Moc Burzy, a Moc Burzy tworzy Energię.
+707|To twoja Moc Burzy: Energia, którą zdobywasz co sekundę. Wydawaj Energię na maszyny, aby ją zwiększyć.
+708|Zmieszaj pogodę
+709|Każda maszyna napędza inną część pogody, a części mnożą się nawzajem. Zbuduj Pompę wodną!
+710|Uwolnij burzę
+711|Komora burzy się ładuje. Gdy będzie pełna, stuknij UWOLNIJ (albo szklaną kopułę), aby dostać duży zastrzyk Energii.
+712|Cele
+713|Podążaj za kartą celu, aby zdobywać nagrody. Wszystko, co robisz, daje PD, które podnoszą poziom silnika.
+714|Nowe poziomy odblokowują maszyny, funkcje i style. Stuknij pierścień poziomu w dowolnej chwili, aby zobaczyć, co dalej.
+715|Otwieraj prezent codziennie, aby dostać nagrodę. Podtrzymuj serię i wykonuj trzy misje dzienne, aby zdobywać klejnoty.
+716|Wzmocnienia na chwilę podkręcają jedną część silnika. Używaj ich, gdy szaleje burza, aby wywołać wielkie reakcje łańcuchowe!
+717|Stuknij swoją Moc Burzy w dowolnej chwili, aby zobaczyć, jak dokładnie jest liczona, i poznać prognozę następnej burzy.
+718|Sklep ze Stylami
+719|Style zmieniają wygląd silnika, a każdy daje też mały bonus. Za klejnoty kupisz te najbardziej efektowne.
+720|Moduły to specjalny sprzęt opłacany Rdzeniami Burzy. Zakładaj je w gniazdach, aby naginać zasady formuły.
+721|Udekoruj swoją wyspę! Każda inna dekoracja dodaje trochę Energii, a inni gracze mogą przylecieć w odwiedziny.
+722|Twój silnik może już rywalizować w globalnym rankingu. Masz 3 podejścia dziennie, a na koniec tygodnia wszyscy dostają klejnoty.
+723|W każdy poniedziałek nowy warunek pogodowy zmienia najlepszą konfigurację. Sprawdź go przed startem.
+724|Zbuduj Generator Offline w zakładce Maszyny, a silnik będzie zarabiał, gdy cię nie ma.
+725|Laboratorium Badań
+726|Zresetuj atmosferę, aby zdobyć badania: stałe ulepszenia, które przyspieszają każdy przebieg. Moduły, Rdzenie Burzy i rekordy zostają.
+728|Ciśnienie bazowe
+729|Wydajność silnika
+730|Wszystkie zjawiska
+731|Burza z piorunami
+732|Burza upałowa
+733|Monsun
+734|Cyklon
+735|Superkomórka
+736|Przeciążenie
+737|Anomalia
+738|Intensywność burzy
+739|Czas trwania burzy
+740|Szybkość ładowania burzy
+741|Częstość piorunów
+742|Łańcuch na piorun
+743|Moc megaburzy
+744|Czas wzmocnień
+745|Odnowienie wzmocnień
+746|Siła wzmocnień
+747|Wydajność offline
+748|Limit offline
+749|Zysk Rdzeni Burzy
+750|Zysk badań
+751|Gniazda modułów
+752|Tempo niestabilności
+753|Rezonans synergii
+754|Dochód Energii
+755|Pompa ciśnienia
+756|Nabija komorę ciśnieniem. Każdy poziom daje +1 do ciśnienia bazowego.
+757|Pompa wodna
+758|Pompuje wodę do powietrza. Każdy poziom daje +5% wilgotności.
+759|Kondensator chmur
+760|Skrapla parę w chmury. Każdy poziom daje +5% gęstości chmur.
+761|Cewka Tesli
+762|Gromadzi ładunek elektryczny. Każdy poziom daje +5% elektryczności.
+763|Piec termiczny
+764|Ogrzewa powietrze. Każdy poziom daje +5% temperatury.
+765|Komora burzy
+766|Wzmacnia kopułę. +0,5 s czasu burzy i +4% szybkości ładowania na poziom.
+767|Turbina wiatrowa
+768|Porusza powietrze. Każdy poziom daje +5% wiatru.
+769|Oberwanie chmury
+770|Chmury x2 przez 20 s. Odnowienie 45 s.
+771|Przeciążenie łuku
+772|Elektryczność x2,5 i pioruny +50% przez 15 s. Odnowienie 50 s.
+773|Fala upału
+774|Temperatura x2 przez 30 s. Odnowienie 60 s.
+775|Prąd strumieniowy
+776|Wiatr x3 przez 10 s. Odnowienie 40 s.
+777|Chmury, ładunek i wilgoć w równowadze. Wszechstronne.
+778|Pioruny uderzają o 50% częściej.
+779|Palące prądy wstępujące. Konfiguracja skupiona na temperaturze.
+780|Burza trwa o 3 s dłużej.
+781|Niekończący się deszcz niesiony równym wiatrem. Konfiguracja skupiona na wilgotności.
+782|Intensywność burzy rośnie o +4% co sekundę.
+783|Wirująca ściana wiatru i wody. Konfiguracja skupiona na wietrze.
+784|Każdy piorun dodaje o 50% więcej łańcucha.
+785|Upał, wilgoć i wiatr na ekstremalnym poziomie. Ogromne mnożniki.
+786|Intensywność burzy x1.5.
+787|Potężny ładunek nad stabilną warstwą chmur. Konfiguracja skupiona na elektryczności.
+788|Pioruny uderzają dwa razy częściej.
+789|Burze Reaktora Chaosu rozdzierają rzeczywistość powyżej 40% niestabilności.
+790|Ogromny mnożnik, ale przy 100% niestabilności burza się zapada.
+791|Kondensator atmosferyczny
+792|Kondensator
+793|Wilgotność i chmury x1.3 (+0.1/poz. każde).
+794|Macierz Tesli
+795|Tesla
+796|Elektryczność x1.5 (+0.15/poz.). +0.25 pioruna/s w burzach.
+797|Rdzeń termiczny
+798|Termiczny
+799|Temperatura x1.5 (+0.15/poz.). 10% bonusu temperatury zasila też ciśnienie bazowe.
+800|Przyspieszacz odrzutowy
+801|Odrzut

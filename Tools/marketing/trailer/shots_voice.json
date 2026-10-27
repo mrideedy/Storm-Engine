@@ -1,0 +1,507 @@
+{
+ "fps": 120,
+ "width": 1080,
+ "height": 1920,
+ "takes": [
+  {
+   "name": "v_hello",
+   "seconds": 3.0,
+   "preroll": 1.5,
+   "ui": false,
+   "ease": 0.2,
+   "setup": [
+    "calm",
+    "home:0",
+    "equip:world_meadow",
+    "equip:skin_classic",
+    "equip:cloud_classic",
+    "equip:bolt_classic"
+   ],
+   "cues": [
+    {
+     "t": 0.4,
+     "a": "skyRamp:0.35:1.0"
+    },
+    {
+     "t": 1.3,
+     "a": "bigStrike"
+    },
+    {
+     "t": 1.3,
+     "a": "shake:0.25"
+    }
+   ],
+   "camera": [
+    {
+     "t": 0,
+     "anchor": "island",
+     "y": 1.2,
+     "yaw": 150,
+     "pitch": 27,
+     "dist": 52,
+     "fov": 40,
+     "sy": 0.04
+    },
+    {
+     "t": 3.0,
+     "anchor": "island",
+     "y": 1.2,
+     "yaw": 172,
+     "pitch": 25,
+     "dist": 46,
+     "fov": 40,
+     "sy": 0.04
+    }
+   ]
+  },
+  {
+   "name": "v_build",
+   "seconds": 2.2,
+   "preroll": 1.0,
+   "ui": false,
+   "ease": 0.2,
+   "setup": [
+    "calm",
+    "hide:pump,hydro,condenser,tesla,furnace,turbine"
+   ],
+   "cues": [
+    {
+     "t": 0.15,
+     "a": "buy:pump"
+    },
+    {
+     "t": 0.4,
+     "a": "buy:condenser"
+    },
+    {
+     "t": 0.65,
+     "a": "buy:tesla"
+    },
+    {
+     "t": 0.9,
+     "a": "buy:furnace"
+    },
+    {
+     "t": 1.15,
+     "a": "buy:hydro"
+    },
+    {
+     "t": 1.4,
+     "a": "buy:turbine"
+    }
+   ],
+   "camera": [
+    {
+     "t": 0,
+     "anchor": "island",
+     "x": 0.6,
+     "y": 1.6,
+     "z": 0.8,
+     "yaw": 40,
+     "pitch": 34,
+     "dist": 34,
+     "fov": 40,
+     "sy": 0.04
+    },
+    {
+     "t": 2.2,
+     "anchor": "island",
+     "x": 0.6,
+     "y": 1.6,
+     "z": 0.8,
+     "yaw": 54,
+     "pitch": 33,
+     "dist": 30,
+     "fov": 40,
+     "sy": 0.04
+    }
+   ]
+  },
+  {
+   "name": "v_charge",
+   "seconds": 1.6,
+   "preroll": 0.6,
+   "ui": false,
+   "ease": 0.2,
+   "setup": [
+    "calm"
+   ],
+   "cues": [
+    {
+     "t": 0.0,
+     "a": "chargeRamp:0.1:1:1.3"
+    }
+   ],
+   "camera": [
+    {
+     "t": 0,
+     "anchor": "dome",
+     "y": -0.2,
+     "yaw": 120,
+     "pitch": 12,
+     "dist": 13,
+     "fov": 40,
+     "sy": 0.16
+    },
+    {
+     "t": 1.6,
+     "anchor": "dome",
+     "y": -0.2,
+     "yaw": 110,
+     "pitch": 12,
+     "dist": 11.5,
+     "fov": 40,
+     "sy": 0.16
+    }
+   ]
+  },
+  {
+   "name": "v_unleash",
+   "seconds": 2.2,
+   "preroll": 1.0,
+   "ui": false,
+   "ease": 0.2,
+   "setup": [
+    "charged"
+   ],
+   "cues": [
+    {
+     "t": 0.0,
+     "a": "unleash"
+    },
+    {
+     "t": 0.05,
+     "a": "skyRamp:1:0.35"
+    },
+    {
+     "t": 0.35,
+     "a": "bigStrike"
+    },
+    {
+     "t": 0.35,
+     "a": "shake:0.45"
+    },
+    {
+     "t": 1.1,
+     "a": "strike"
+    },
+    {
+     "t": 1.6,
+     "a": "strike"
+    }
+   ],
+   "camera": [
+    {
+     "t": 0,
+     "anchor": "dome",
+     "y": 0.7,
+     "yaw": 24,
+     "pitch": 9,
+     "dist": 21,
+     "fov": 44,
+     "sy": 0.22
+    },
+    {
+     "t": 2.2,
+     "anchor": "dome",
+     "y": 0.7,
+     "yaw": 36,
+     "pitch": 10,
+     "dist": 18,
+     "fov": 44,
+     "sy": 0.22
+    }
+   ]
+  },
+  {
+   "name": "v_chain",
+   "seconds": 2.2,
+   "preroll": 0.3,
+   "ui": false,
+   "ease": 0.1,
+   "setup": [
+    "sky:1"
+   ],
+   "cues": [
+    {
+     "t": 0.0,
+     "a": "strike"
+    },
+    {
+     "t": 0.4,
+     "a": "strike"
+    },
+    {
+     "t": 0.8,
+     "a": "strike"
+    },
+    {
+     "t": 1.2,
+     "a": "strike"
+    },
+    {
+     "t": 1.6,
+     "a": "bigStrike"
+    },
+    {
+     "t": 1.6,
+     "a": "shake:0.3"
+    }
+   ],
+   "camera": [
+    {
+     "t": 0,
+     "anchor": "dome",
+     "y": 0.6,
+     "yaw": 20,
+     "pitch": 34,
+     "dist": 24,
+     "fov": 42,
+     "sy": 0.1
+    },
+    {
+     "t": 2.2,
+     "anchor": "dome",
+     "y": 0.6,
+     "yaw": 40,
+     "pitch": 30,
+     "dist": 21,
+     "fov": 42,
+     "sy": 0.1
+    }
+   ]
+  },
+  {
+   "name": "v_styles",
+   "seconds": 2.6,
+   "preroll": 0.8,
+   "ui": false,
+   "ease": 0.2,
+   "setup": [
+    "waitCalm",
+    "calm",
+    "sky:0.25",
+    "equip:world_volcano",
+    "equip:skin_magma",
+    "equip:cloud_ash",
+    "equip:bolt_lava"
+   ],
+   "cues": [
+    {
+     "t": 0.05,
+     "a": "strike"
+    },
+    {
+     "t": 0.5,
+     "a": "equip:world_sakura"
+    },
+    {
+     "t": 0.5,
+     "a": "equip:skin_blossom"
+    },
+    {
+     "t": 0.5,
+     "a": "equip:cloud_petal"
+    },
+    {
+     "t": 0.5,
+     "a": "equip:bolt_blossom"
+    },
+    {
+     "t": 0.55,
+     "a": "strike"
+    },
+    {
+     "t": 1.0,
+     "a": "equip:world_neon"
+    },
+    {
+     "t": 1.0,
+     "a": "equip:skin_cyber"
+    },
+    {
+     "t": 1.0,
+     "a": "equip:cloud_synth"
+    },
+    {
+     "t": 1.0,
+     "a": "equip:bolt_neon"
+    },
+    {
+     "t": 1.05,
+     "a": "strike"
+    },
+    {
+     "t": 1.5,
+     "a": "equip:world_snow"
+    },
+    {
+     "t": 1.5,
+     "a": "equip:skin_crystal"
+    },
+    {
+     "t": 1.5,
+     "a": "equip:cloud_glacier"
+    },
+    {
+     "t": 1.5,
+     "a": "equip:bolt_electric"
+    },
+    {
+     "t": 1.55,
+     "a": "strike"
+    },
+    {
+     "t": 2.0,
+     "a": "equip:world_alien"
+    },
+    {
+     "t": 2.0,
+     "a": "equip:skin_rocket"
+    },
+    {
+     "t": 2.0,
+     "a": "equip:cloud_void"
+    },
+    {
+     "t": 2.0,
+     "a": "equip:bolt_plasma"
+    },
+    {
+     "t": 2.05,
+     "a": "bigStrike"
+    }
+   ],
+   "camera": [
+    {
+     "t": 0,
+     "anchor": "dome",
+     "y": 1.0,
+     "yaw": -30,
+     "pitch": 18,
+     "dist": 30,
+     "fov": 42,
+     "sy": 0.12
+    },
+    {
+     "t": 2.6,
+     "anchor": "dome",
+     "y": 1.0,
+     "yaw": -12,
+     "pitch": 18,
+     "dist": 26,
+     "fov": 42,
+     "sy": 0.12
+    }
+   ]
+  },
+  {
+   "name": "v_decor",
+   "seconds": 2.0,
+   "preroll": 0.8,
+   "ui": false,
+   "ease": 0.2,
+   "setup": [
+    "calm",
+    "equip:world_tropic",
+    "equip:skin_ocean",
+    "equip:cloud_classic",
+    "equip:bolt_classic"
+   ],
+   "cues": [
+    {
+     "t": 0.15,
+     "a": "decor:dec_blimp"
+    },
+    {
+     "t": 0.4,
+     "a": "decor:dec_kite"
+    },
+    {
+     "t": 0.65,
+     "a": "decor:dec_crystal"
+    },
+    {
+     "t": 0.9,
+     "a": "decor:dec_mushroom"
+    },
+    {
+     "t": 1.15,
+     "a": "decor:dec_lamppost"
+    },
+    {
+     "t": 1.4,
+     "a": "decor:dec_pond"
+    }
+   ],
+   "camera": [
+    {
+     "t": 0,
+     "anchor": "island",
+     "y": 1.0,
+     "yaw": 150,
+     "pitch": 40,
+     "dist": 40,
+     "fov": 40,
+     "sy": 0.02
+    },
+    {
+     "t": 2.0,
+     "anchor": "island",
+     "y": 1.0,
+     "yaw": 163,
+     "pitch": 40,
+     "dist": 37,
+     "fov": 40,
+     "sy": 0.02
+    }
+   ]
+  },
+  {
+   "name": "v_end",
+   "seconds": 4.0,
+   "preroll": 1.0,
+   "ui": false,
+   "ease": 0.1,
+   "setup": [
+    "calm",
+    "equip:world_meadow",
+    "equip:skin_classic",
+    "equip:cloud_classic",
+    "equip:bolt_classic"
+   ],
+   "cues": [
+    {
+     "t": 0.0,
+     "a": "bigStrike"
+    },
+    {
+     "t": 0.0,
+     "a": "shake:0.3"
+    }
+   ],
+   "camera": [
+    {
+     "t": 0,
+     "anchor": "island",
+     "y": 1.4,
+     "yaw": 165,
+     "pitch": 29,
+     "dist": 56,
+     "fov": 40,
+     "sy": -0.02
+    },
+    {
+     "t": 4.0,
+     "anchor": "island",
+     "y": 1.4,
+     "yaw": 178,
+     "pitch": 28,
+     "dist": 52,
+     "fov": 40,
+     "sy": -0.02
+    }
+   ]
+  }
+ ]
+}

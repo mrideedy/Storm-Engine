@@ -1,0 +1,398 @@
+1|Grain
+2|{0} j {1} h
+3|{0} h {1} min
+4|{0} min {1} s
+5|{0} s
+6|les services en ligne ne sont pas encore configurés dans cette version.
+7|impossible de joindre les serveurs du jeu.
+8|Réponse vide du serveur.
+9|Vérifié par le serveur.
+10|Échec de l'écriture du classement ; nouvel essai plus tard.
+11|Le serveur a rejeté la tempête : {0}
+12|Échec de l'envoi : {0}
+13|Échec de la validation locale : {0}
+14|Envoyé sans vérification du serveur (mode développement).
+15|Ce classement n'est pas encore disponible.
+16|Impossible de charger le classement. Vérifie ta connexion.
+17|Simple
+18|Équilibré
+19|Élevé
+20|Batterie faible : le jeu tourne à 30 FPS pour économiser l'énergie.
+21|Graphismes réglés sur {0} pour garder le jeu fluide. Tu peux changer ça dans les Réglages.
+22|Ton cadeau du jour est prêt
+23|Le cadeau du jour et trois nouvelles missions t'attendent encore.
+24|Garde ta série de {0} jours ! Ton cadeau du jour {1} t'attend.
+25|Un nouveau cadeau et trois nouvelles missions t'attendent.
+26|Générateur hors ligne plein
+27|Ton moteur a stocké toute l'Énergie qu'il peut. Reviens la récupérer pour qu'il continue de tourner !
+28|Le tournoi se termine bientôt
+29|Le tournoi de cette semaine touche à sa fin. Une tempête de plus pourrait te faire grimper au classement !
+30|Une nouvelle semaine de tournoi
+31|Condition de la semaine : {0}. Récupère ta récompense de la semaine dernière et participe !
+32|Ton cadeau du jour est prêt aussi.
+33|Boutique simulée
+34|Indisponible
+35|La boutique n'est pas disponible pour le moment.
+36|Les achats ne sont pas disponibles dans cette version.
+37|ACHAT DE TEST
+38|Boutique simulée (Éditeur / version de développement). Faire semblant d'acheter {0} pour {1} ?
+39|Acheter (test)
+40|{0} acheté ! +{1} Gemmes.
+41|{0} restauré.
+42|Les Récompenses quotidiennes se débloquent au Niveau du Moteur {0}.
+43|Cadeau du jour {0} : {1} !
+44|UN RAPPEL ?
+45|Tu veux être prévenu quand ton prochain cadeau du jour est prêt ou quand le tournoi hebdomadaire va fermer ? Quelques fois par semaine au maximum, jamais la nuit.
+46|Me le rappeler
+47|Les rappels sont désactivés. Tu peux les activer dans les Réglages.
+48|Pas maintenant
+49|Récompense de mission : {0}
+50|Toutes les missions sont terminées ! {0}
+51|Attends d'abord la fin de la tempête.
+52|Développeur : tout est débloqué (+100K Gemmes, +100K Noyaux, +10K Recherche).
+53|Cette récompense est épuisée pour aujourd'hui. Reviens demain !
+54|Aucune pub disponible pour l'instant. Réessaie dans un moment.
+55|La pub a été passée, donc pas de récompense cette fois.
+56|+{0} Gemmes !
+57|Déferlante d'Énergie ! Revenus x{0} pendant {1}.
+58|Chambre à tempête chargée à bloc !
+59|+1 essai de tournoi aujourd'hui.
+60|+{0} Noyaux de Tempête !
+61|Énergie hors ligne doublée !
+62|Nouvelle musique débloquée : {0} !
+63|un nouveau morceau
+64|Série sauvée ! {0} jours et ça continue.
+65|{0} : {1}/{2} pubs regardées.
+66|Il te faut {0} Gemmes de plus.
+67|{0} débloqué et équipé !
+68|ACHETER {0} ?
+69|Dépenser {0} Gemmes pour {1} ?
+70|Bonus : {0}.
+71|Acheter pour {0}
+72|Le Tournoi hebdomadaire se débloque au Niveau du Moteur {0}.
+73|Attends d'abord la fin de la tempête en cours.
+74|Plus d'essais aujourd'hui. Ils se rechargent à minuit (UTC), ou regarde une pub pour en avoir un de plus.
+75|Plus d'essais aujourd'hui. Ils se rechargent à minuit (UTC).
+76|Ton île est pleine. Agrandis-la ou range d'abord une décoration.
+77|Les décorations aquatiques flottent sur un bassin. Pose d'abord un Bassin (chacun en accueille trois).
+78|Tu peux posséder jusqu'à {0} exemplaires de {1}.
+79|Il te faut {0} Noyaux de Tempête de plus.
+80|Bonus de collection +{0} Énergie.
+81|{0} posé sur ton île !
+82|{0} acheté et rangé (aucune place libre).
+83|Aucune place libre sur le bassin. Chaque bassin accueille trois décorations aquatiques.
+84|Plus aucune place libre. Réorganise ou agrandis l'île.
+85|Range d'abord les décorations aquatiques de ce bassin.
+86|Dépenser {0} Gemmes ?
+87|Agrandir pour {0}
+88|{0} ! Ton île s'est agrandie.
+89|C'est ta propre île !
+90|Visiter d'autres joueurs nécessite une connexion.
+91|En route vers l'île de {0}...
+92|{0} n'a pas encore ouvert son île aux visiteurs.
+93|Termine la tempête en cours avant de partir en visite.
+94|Partie sauvegardée.
+95|Impossible de sauvegarder la partie.
+96|SAUVEGARDE CLOUD TROUVÉE
+97|Ta sauvegarde cloud est plus avancée ({0} d'Énergie cumulée, {1} réinitialisations) que cet appareil ({2}, {3} réinitialisations). La charger ?
+98|Charger la sauvegarde cloud
+99|{0} se débloque avec {1} Niv. {2}.
+100|{0} débloqué et équipé.
+101|{0} débloqué.
+102|Tous les emplacements de module sont pleins. Retires-en un d'abord.
+103|{0} construit !
+104|{0} amélioré au Niv. {1}.
+105|Les améliorations sont bloquées pendant une tempête.
+106|RÉINITIALISER L'ATMOSPHÈRE ?
+107|Tu gagneras {0} de Recherche. L'Énergie et les niveaux des machines reviennent à zéro. Les modules, Noyaux de Tempête, la Recherche, les découvertes et les records sont conservés.
+108|Réinitialiser pour +{0}
+109|Atmosphère réinitialisée ! +{0} de Recherche.
+110|EFFACER TOUTE LA PROGRESSION ?
+111|Cela supprime définitivement ta sauvegarde locale. Tes entrées au classement restent en ligne. Impossible d'annuler.
+112|Tout effacer
+113|Nuages à la dérive
+114|Ambiance
+115|Des nappes lentes et chaudes qui passent en flottant.
+116|Coin du feu
+117|Cosy
+118|Touches douces, basse ronde et rythme paresseux.
+119|Fenêtre sous la pluie
+120|Piano doux et pluie sur la vitre.
+121|Ciel étoilé
+122|Bourdonnements profonds et scintillements lointains.
+123|Prairie du matin
+124|Guitare doucement pincée au soleil.
+125|Hors ligne
+126|Les services en ligne ne sont pas installés. Jeu hors ligne.
+127|Connexion...
+128|En ligne en tant que {0}
+129|Hors ligne. La progression est sauvegardée sur l'appareil et les tempêtes seront envoyées plus tard.
+130|Hors ligne : {0}
+131|Le Tournoi hebdomadaire se débloque au Niveau du Moteur {0}. Appuie sur JOUER et fais progresser ton moteur !
+132|Niv. {0}
+133|{0} se débloque au Niveau du Moteur {1}.
+134|La Boutique de styles se débloque au Niveau du Moteur {0}.
+135|Le Labo atmosphérique se débloque au Niveau du Moteur {0} : il détaille chaque multiplicateur.
+136|Charge {0}
+137|Tempête de tournoi ! Utilise tes boosts pendant la tempête pour enchaîner.
+138|Attends la fin de la tempête avant de réorganiser.
+139|Pas de place ici
+140|CHAÎNE {0} !
+141|Nouveau record perso ! {0} a marqué {1}  (+{2} noyaux)
+142|Tempête {0} : {1}  (+{2} noyaux)
+143|+{0} gemmes
+144|+{0} noyaux
+145|+{0} XP
+146|Objectif atteint : {0}
+147|Nouvelle machine disponible : {0}
+148|Mission du jour terminée : {0}. Touche le cadeau pour la récupérer !
+149|Un nouveau jour ! Ton cadeau du jour et de nouvelles missions t'attendent.
+150|Annuler
+151|PUISSANCE DE TEMPÊTE
+152|Température
+153|Humidité
+154|Vent
+155|Nuages
+156|Électricité
+157|Synergie
+158|Pression
+159|OBJECTIF
+160|+Énergie
+162|+15 min
+164|+{0} Noyaux
+165|Charger
+166|PRÊT
+167|CHARGEMENT
+168|TEMPÊTE
+169|reste {0}
+170|DÉCHAÎNER !
+171|Prévision {0}
+172|Tempête auto activée
+173|TOURNOI HEBDOMADAIRE
+174|GRAIN
+175|MÉGA-TEMPÊTE
+176|Chaîne {0}  ·  Intensité {1}  ·  {2} éclairs
+177|TEMPÊTE PARFAITE
+178|HYPER-TEMPÊTE
+179|FENÊTRE PARFAITE
+180|NOUVELLE FONCTION
+181|NOUVELLE MACHINE
+182|MODULE
+183|RECHERCHE
+184|EXCLUSIF
+185|STYLE
+186|{0} Gemmes
+187|Gratuit
+188|PACK PUB
+189|Un décor complet contre {0} pubs récompensées.
+190|DÉCORATION
+191|EXTENSION DE TERRAIN
+192|Apparence de machine
+193|Nuage d'orage
+194|Éclair
+195|Monde
+196|Titre
+197|NIVEAU {0} !
+198|Ton moteur à tempêtes est devenu plus puissant
+199|Continue à construire ! De nouvelles machines, modules et styles se débloquent quand ton Niveau du Moteur augmente.
+200|DÉBLOQUÉ
+201|Prochain au Niv. {0} : {1}
+202|et {0} de plus
+203|Génial !
+204|NIVEAU DU MOTEUR {0}
+205|Gagne de l'XP en construisant des machines, en déchaînant des tempêtes, en découvrant des phénomènes et en atteignant des objectifs.
+206|NIV. {0}
+207|SUIVANT
+208|Tout est débloqué. Tu es un vrai ingénieur des tempêtes !
+209|Fermer
+210|Niveau maximum atteint
+211|{0} / {1} XP pour le niveau {2}
+212|STORM ENGINE
+213|RÉCOMPENSES QUOTIDIENNES
+214|JOUER
+215|Fais progresser ton moteur à tempêtes
+216|TOURNOI
+217|Stormpedia
+218|Visiter des îles
+219|Réglages
+220|Chasseur de tempêtes
+221|Niveau du Moteur {0}
+222|Construis ton premier moteur à tempêtes
+223|{0} Énergie /s
+224|Ton cadeau du jour {0} est prêt !
+225|Des récompenses de mission à récupérer !
+226|Jours de série : {0}
+227|missions {0}/{1}
+228|nouveau jour dans {0}
+229|Se débloque au Niveau du Moteur {0}
+230|Cette semaine : {0}
+231|conditions libres
+232|Essais restants aujourd'hui : {0}
+233|se termine dans {0}
+234|EN VISITE
+235|Retour à la maison
+236|Île de {0}
+237|{0} décorations
+238|meilleure tempête de tournoi {0}
+239|Pivoter
+240|Ranger
+241|Terminé
+242|Ton île n'a pas encore de décorations. Achètes-en dans Décoration de l'île.
+243|Touche une décoration pour la sélectionner.
+244|Décoration
+245|{0} : les décorations aquatiques bougent avec leur bassin.
+246|{0} : touche le sol pour la déplacer.
+247|Atmosphère
+248|PUISSANCE DE TEMPÊTE =
+249|Les bonus additifs s'additionnent dans une catégorie ; les catégories se multiplient entre elles. Le même +10 % vaut plus dans ta catégorie la plus faible.
+250|PRÉVISION DE TEMPÊTE
+251|Une simulation de ta prochaine tempête avec ta configuration actuelle. Change de modules ou de niveaux et observe le résultat.
+252|Pourquoi ce chiffre ? (touche pour développer)
+253|Phénomènes (synergies)
+254|Les phénomènes s'activent quand chaque ingrédient atteint son seuil. Chacun multiplie la Puissance de Tempête, et le plus fort décide de la classe de ta tempête.
+255|Moteur à tempêtes
+256|Intensité de la tempête
+257|Durée de la tempête
+258|Chaîne par éclair
+259|Temps de charge
+260|Méga-tempête
+261|Score de tempête = Puissance de Tempête x Intensité x Chaîne x Méga x Fenêtre parfaite, additionné à chaque instant de la tempête. Les boosts qui coïncident avec la tempête multiplient tout ce qu'elle contient.
+262|Déchaîner maintenant : tempête {0}, {1} points en {2} s.
+263|En utilisant d'abord tes boosts prêts ({0}) : {1}, {2} ({3}).
+264|{0} /s
+265|{0} éclairs/s
+266|+{0} de chaîne
+267|3 / 5 / 7 phénomènes : x1.5 / x2 / x3
+268|{0} Niv. {1}
+269|{0} : paliers x{1}
+270|Hebdo : {0}
+271|{0} (actif)
+272|Niveau d'électricité
+273|Style : {0}
+274|Décorations de l'île ({0} sortes)
+275|{0} eff.
+276|base {0}  x  (1 + {1} add.{2})  x  {3} mult.
+277|Aucun modificateur pour l'instant. Construis des machines pour augmenter cette statistique.
+278|BOOST
+279|BASE
+280|ADD.
+281|EFF.
+282|CONV.
+283|MULT.
+284|+{0} via {1}
+285|??? Phénomène inconnu
+286|ACTIF {0}
+287|DÉCOUVERT
+288|NON DÉCOUVERT
+289|Instabilité >= 40 % (pendant les tempêtes)
+290|Équipe le Réacteur du Chaos
+291|Atout de tempête : {0}
+292|Atteins tous les seuils pour le découvrir (+{0} Noyaux de Tempête).
+293|Décoration de l'île
+294|Île
+295|Modifier l'agencement
+296|Chaque décoration différente que tu possèdes augmente une fois tes revenus d'Énergie. Les autres joueurs peuvent visiter ton île.
+297|CETTE SEMAINE SEULEMENT
+298|Terre
+299|Air
+300|Eau
+301|Agrandir
+302|Visiter
+303|Îles vitrines
+304|Joueurs du tournoi
+305|LIMITÉ
+306|Poser
+307|Meilleure tempête de tournoi {0}
+308|Pas encore de scores de tournoi cette semaine. Participe et d'autres viendront te rendre visite !
+309|Connecte-toi pour visiter les îles des autres joueurs. Les îles vitrines fonctionnent hors ligne.
+310|{0}/{1} posées
+311|Sortes possédées : {0}
+312|Bonus de collection : +{0} de revenus d'Énergie
+313|Achète ta première décoration pour obtenir un bonus d'Énergie
+314|Part dans {0}
+315|Les décorations aquatiques flottent sur un Bassin (voir Terre). Chaque bassin en accueille trois.
+316|Bassins posés : {0}
+317|Places aquatiques libres : {0}
+318|Bonus obtenu  +{0}
+319|+{0} Énergie
+320|{0}/{1} possédées
+321|{0} rangées
+322|Vole au-dessus de l'île
+323|Flotte sur un bassin
+324|Moteur Niv. {0}
+325|{0} Noyaux
+326|Possédée
+327|Construis d'abord {0}
+328|Rayon de l'île {0}
+329|+{0} décorations
+330|MAX
+331|Machines
+332|La construction est bloquée pendant une tempête.
+333|Améliorations permanentes
+334|CONSTRUIRE
+335|VERROUILLÉ
+336|Se débloque au Niveau du Moteur {0}.
+337|Non construit
+338|Niv. {0}/{1}
+339|AU MAX
+340|AMÉLIORER
+341|Garde ton moteur en production pendant ton absence. Construit une fois, gardé pour toujours (survit aux réinitialisations).
+342|Hors ligne : jusqu'à {0} h à {1} d'efficacité. Niveau suivant : plus d'heures et plus d'efficacité.
+343|Niv. 0
+344|ACHETER
+345|MEILLEUR CHOIX
+346|Se débloque au Niveau du Moteur {0}. Gagne de l'XP en construisant et en déchaînant des tempêtes.
+347|Niveau max {0}
+348|ACHETER x{0}
+349|+1 de Pression de base par niveau
+350|Base actuelle {0}
+351|+0,5 s de tempête et +4 % de vitesse de charge par niveau
+352|Tempête {0} s, charge {1}
+353|+{0} % de {1} par niveau
+354|actuellement {0}
+355|Modules
+356|Équipés
+357|Atelier
+358|Débloquer
+359|Améliorer
+360|Équiper
+361|Vide
+362|Verrouillé
+363|Les modules sont bloqués pendant une tempête.
+364|{0}/{1} emplacements utilisés. Touche un module équipé pour le retirer. Les Noyaux de Tempête viennent des tempêtes et des découvertes.
+365|Réinitialisations d'atmosphère requises : {0}.
+366|Découvre d'abord {0}.
+367|Découvre d'abord un nouveau phénomène ({0}).
+368|Débloquer {0}
+369|Retirer
+370|Améliorer {0}
+371|nécessite le Réacteur du Chaos
+372|Tempêtes déchaînées
+373|Éclairs
+374|Méga-tempêtes
+375|Meilleure chaîne
+376|Boosts utilisés
+377|Meilleure Puissance de Tempête
+378|Énergie cumulée
+379|Réinitialisations d'atmosphère
+380|Phénomènes découverts
+381|Temps de jeu
+382|Labo des tempêtes
+383|Plus
+384|CONDITION HEBDOMADAIRE
+385|Les conditions changent chaque lundi (UTC) et modifient la meilleure configuration. Le tournoi hebdomadaire et son classement se réinitialisent en même temps.
+386|Les Conditions hebdomadaires se débloquent au Niveau du Moteur {0} : un nouveau twist atmosphérique chaque lundi.
+387|Statistiques
+388|Musique
+389|Morceaux d'ambiance et cosy. Ceux qui sont verrouillés sont à toi pour toujours après une courte pub.
+390|Langue
+391|Effets sonores
+392|Volume des effets
+393|Volume de la musique
+394|Ambiance météo
+395|Vibrations
+396|Qualité graphique
+397|Ajuster les graphismes sur les téléphones lents
+398|Fréquence d'images
+399|Rappels (cadeau du jour, tournoi)
+400|Format des nombres

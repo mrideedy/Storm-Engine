@@ -1,0 +1,1189 @@
+1	Squall
+2	{0}d {1}h
+3	{0}h {1}m
+4	{0}m {1}s
+5	{0}s
+6	online services are not set up in this build yet.
+7	could not reach the game servers.
+8	Empty server response.
+9	Verified by the server.
+10	Leaderboard write failed; will retry.
+11	Server rejected the storm: {0}
+12	Submission failed: {0}
+13	Local validation failed: {0}
+14	Submitted without server verification (development mode).
+15	This leaderboard is not available yet.
+16	Could not load the leaderboard. Check your connection.
+17	Simple
+18	Balanced
+19	High
+20	Battery low: running at 30 FPS to save power.
+21	Graphics set to {0} to keep the game smooth. You can change this in Settings.
+22	Your daily gift is ready
+23	Today's gift and three fresh missions are still waiting for you.
+24	Keep your {0}-day streak going! Your Day {1} gift is waiting.
+25	A new gift and three fresh missions are waiting.
+26	Offline Generator full
+27	Your engine has stored all the Energy it can. Come back to collect it and keep it running!
+28	The tournament ends soon
+29	This week's tournament is almost over. One more storm could lift you up the leaderboard!
+30	A new tournament week
+31	This week's condition: {0}. Collect last week's reward and enter!
+32	Your daily gift is ready too.
+33	Simulated store
+34	Unavailable
+35	The store is not available right now.
+36	Purchases are not available in this build.
+37	TEST PURCHASE
+38	Simulated store (Editor / development build). Pretend to buy {0} for {1}?
+39	Buy (test)
+40	{0} purchased! +{1} Gems.
+41	{0} restored.
+42	Daily Rewards unlock at Engine Level {0}.
+43	Day {0} gift: {1}!
+44	GET A REMINDER?
+45	Want a nudge when your next daily gift is ready or the weekly tournament is about to close? A few a week at most, never at night.
+46	Remind me
+47	Reminders are off. You can turn them on in Settings.
+48	Not now
+49	Mission reward: {0}
+50	All missions done! {0}
+51	Wait for the storm to finish first.
+52	Developer: everything unlocked (+100K Gems, +100K Cores, +10K Research).
+53	That reward is used up for today. Come back tomorrow!
+54	No ad is available right now. Try again in a moment.
+55	The ad was skipped, so there is no reward this time.
+56	+{0} Gems!
+57	Energy Surge! x{0} income for {1}.
+58	Storm chamber fully charged!
+59	+1 tournament attempt today.
+60	+{0} Storm Cores!
+61	Offline Energy doubled!
+62	New music unlocked: {0}!
+63	a new track
+64	Streak saved! {0} days and counting.
+65	{0}: {1}/{2} ads watched.
+66	You need {0} more Gems.
+67	{0} unlocked and equipped!
+68	BUY {0}?
+69	Spend {0} Gems on {1}?
+70	Bonus: {0}.
+71	Buy for {0}
+72	The Weekly Tournament unlocks at Engine Level {0}.
+73	Wait for the current storm to finish first.
+74	No attempts left today. They refill at midnight (UTC), or watch an ad for one more.
+75	No attempts left today. They refill at midnight (UTC).
+76	Your island is full. Expand it or store a decoration first.
+77	Water decorations float on a pond. Place a Pond first (each holds three).
+78	You can own up to {0} of {1}.
+79	You need {0} more Storm Cores.
+80	Collection bonus +{0} Energy.
+81	{0} placed on your island!
+82	{0} bought and stored (no free spot).
+83	No free pond spot. Each pond holds three water decorations.
+84	No free spot left. Move things around or expand the island.
+85	Store the water decorations on this pond first.
+86	Spend {0} Gems?
+87	Expand for {0}
+88	{0}! Your island grew.
+89	That is your own island!
+90	Visiting other players needs a connection.
+91	Flying to {0}'s island...
+92	{0} has not opened their island to visitors yet.
+93	Finish the current storm before visiting.
+94	Game saved.
+95	Could not save the game.
+96	CLOUD SAVE FOUND
+97	Your cloud save has more progress ({0} lifetime Energy, {1} resets) than this device ({2}, {3} resets). Load it?
+98	Load cloud save
+99	{0} unlocks at {1} Lv {2}.
+100	{0} unlocked and equipped.
+101	{0} unlocked.
+102	All module slots are full. Unequip one first.
+103	{0} built!
+104	{0} upgraded to Lv {1}.
+105	Upgrades are locked while a storm is running.
+106	RESET THE ATMOSPHERE?
+107	You will gain {0} Research. Energy and machine levels reset to zero. Modules, Storm Cores, Research, discoveries and records are kept.
+108	Reset for +{0}
+109	Atmosphere reset! +{0} Research.
+110	DELETE ALL PROGRESS?
+111	This permanently deletes your local save. Leaderboard entries stay online. This cannot be undone.
+112	Delete everything
+113	Drifting Clouds
+114	Ambient
+115	Slow, warm pads that float by.
+116	Cozy Hearth
+117	Cozy
+118	Mellow keys, round bass and a lazy beat.
+119	Rainy Window
+120	Soft piano with rain on the glass.
+121	Starlit Sky
+122	Deep drones and distant twinkles.
+123	Morning Meadow
+124	Gentle guitar picking in the sun.
+125	Offline
+126	Online services are not installed. Playing offline.
+127	Connecting...
+128	Online as {0}
+129	Offline. Progress is saved locally and storms will be submitted later.
+130	Offline: {0}
+131	The Weekly Tournament unlocks at Engine Level {0}. Press PLAY and grind your engine!
+132	Lv {0}
+133	{0} unlocks at Engine Level {1}.
+134	The Style Shop unlocks at Engine Level {0}.
+135	The Atmosphere Lab unlocks at Engine Level {0}: it breaks down every multiplier.
+136	Charging {0}
+137	Tournament storm! Fire your boosts during the storm to stack chains.
+138	Wait for the storm to finish before rearranging.
+139	No room there
+140	CHAIN {0}!
+141	New personal best! {0} scored {1}  (+{2} cores)
+142	{0} storm: {1}  (+{2} cores)
+143	+{0} gems
+144	+{0} cores
+145	+{0} XP
+146	Goal complete: {0}
+147	New machine available: {0}
+148	Daily mission done: {0}. Tap the gift to collect!
+149	A new day! Your daily gift and fresh missions are waiting.
+150	Cancel
+151	STORM POWER
+152	Temperature
+153	Humidity
+154	Wind
+155	Cloud
+156	Electricity
+157	Synergy
+158	Pressure
+159	GOAL
+160	+Energy
+162	+15m
+164	+{0} Cores
+165	Charge now
+166	READY
+167	CHARGING
+168	STORMING
+169	{0} left
+170	UNLEASH!
+171	Forecast {0}
+172	Auto-storm on
+173	WEEKLY TOURNAMENT
+174	SQUALL
+175	MEGA STORM
+176	Chain {0}  ·  Intensity {1}  ·  {2} strikes
+177	PERFECT STORM
+178	HYPER STORM
+179	PERFECT WINDOW
+180	NEW FEATURE
+181	NEW MACHINE
+182	MODULE
+183	RESEARCH
+184	EXCLUSIVE
+185	STYLE
+186	{0} Gems
+187	Free
+188	AD BUNDLE
+189	A complete environment for {0} rewarded ads.
+190	DECORATION
+191	TERRAIN EXPANSION
+192	Machine Skin
+193	Storm Cloud
+194	Lightning
+195	World
+196	Title
+197	LEVEL {0}!
+198	Your storm engine grew stronger
+199	Keep building! New machines, modules and styles unlock as your Engine Level rises.
+200	UNLOCKED
+201	Next at Lv {0}: {1}
+202	and {0} more
+203	Awesome!
+204	ENGINE LEVEL {0}
+205	Earn XP by building machines, unleashing storms, discovering phenomena and completing goals.
+206	LV {0}
+207	NEXT
+208	Everything is unlocked. You are a true storm engineer!
+209	Close
+210	Max level reached
+211	{0} / {1} XP to level {2}
+212	STORM ENGINE
+213	DAILY REWARDS
+214	PLAY
+215	Grind your storm engine
+216	TOURNAMENT
+217	Stormpedia
+218	Visit islands
+219	Settings
+220	Storm Chaser
+221	Engine Level {0}
+222	Build your first storm engine
+223	{0} Energy /s
+224	Your Day {0} gift is ready!
+225	Mission rewards to collect!
+226	{0}-day streak
+227	missions {0}/{1}
+228	new day in {0}
+229	Unlocks at Engine Level {0}
+230	This week: {0}
+231	open conditions
+232	Attempts left today: {0}
+233	ends in {0}
+234	VISITING
+235	Back home
+236	{0}'s island
+237	{0} decorations
+238	best tournament storm {0}
+239	Rotate
+240	Store
+241	Done
+242	Your island has no decorations yet. Buy some in Island Decor.
+243	Tap a decoration to select it.
+244	Decoration
+245	{0}: water decorations move with their pond.
+246	{0}: tap the ground to move it.
+247	Atmosphere
+248	STORM POWER =
+249	Additive bonuses stack inside a category; categories multiply each other. The same +10% is worth more in your weakest category.
+250	STORM FORECAST
+251	A dry run of your next storm with the current build. Change modules or levels and watch it move.
+252	Why this number? (tap to expand)
+253	Phenomena (synergies)
+254	Phenomena switch on when every ingredient reaches its threshold. Each active one multiplies Storm Power, and the strongest decides your storm class.
+255	Storm engine
+256	Storm intensity
+257	Storm duration
+258	Chain per strike
+259	Charge time
+260	Mega Storm
+261	Storm Score = Storm Power x Intensity x Chain x Mega x Perfect Window, summed over every tick of the storm. Boosts that overlap the storm multiply everything inside it.
+262	Unleash now: {0} storm, {1} score over {2}s.
+263	Firing your ready boosts first ({0}): {1}, {2} ({3}).
+264	{0} /sec
+265	{0} strikes/s
+266	+{0} chain
+267	3 / 5 / 7 phenomena: x1.5 / x2 / x3
+268	{0} Lv {1}
+269	{0} milestones x{1}
+270	Weekly: {0}
+271	{0} (active)
+272	Electricity level
+273	Style: {0}
+274	Island decorations ({0} kinds)
+275	{0} eff
+276	base {0}  x  (1 + {1} add{2})  x  {3} mult
+277	No modifiers yet. Build machines to grow this stat.
+278	BOOST
+279	BASE
+280	ADD
+281	EFF
+282	CONV
+283	MULT
+284	+{0} from {1}
+285	??? Unknown phenomenon
+286	ACTIVE {0}
+287	DISCOVERED
+288	UNDISCOVERED
+289	Instability >= 40% (in storms)
+290	Equip the Chaos Reactor
+291	Storm perk: {0}
+292	Reach every threshold to discover it (+{0} Storm Cores).
+293	Island Decor
+294	Island
+295	Edit layout
+296	Every different decoration you own adds to your Energy income once. Other players can visit your island.
+297	THIS WEEK ONLY
+298	Land
+299	Air
+300	Water
+301	Expand
+302	Visit
+303	Showcase islands
+304	Tournament players
+305	LIMITED
+306	Place
+307	Best tournament storm {0}
+308	No tournament scores yet this week. Enter the tournament and others will visit you!
+309	Connect to visit other players' islands. Showcase islands work offline.
+310	{0}/{1} placed
+311	Kinds owned: {0}
+312	Collection bonus: +{0} Energy income
+313	Buy your first decoration for an Energy bonus
+314	Leaves in {0}
+315	Water decorations float on a Pond (see Land). Each pond holds three.
+316	Ponds placed: {0}
+317	Free water spots: {0}
+318	Bonus collected  +{0}
+319	+{0} Energy
+320	{0}/{1} owned
+321	{0} stored
+322	Flies above the island
+323	Floats on a pond
+324	Engine Lv {0}
+325	{0} Cores
+326	Owned
+327	Build {0} first
+328	Island radius {0}
+329	+{0} decorations
+330	MAX
+331	Machines
+332	Build is locked while a storm is running.
+333	Permanent upgrades
+334	BUILD
+335	LOCKED
+336	Unlocks at Engine Level {0}.
+337	Not built
+338	Lv {0}/{1}
+339	MAXED
+340	UPGRADE
+341	Keeps your engine producing while you are away. Built once, kept forever (survives resets).
+342	Offline: up to {0}h at {1} efficiency. Next level: more hours and efficiency.
+343	Lv 0
+344	BUY
+345	BEST VALUE
+346	Unlocks at Engine Level {0}. Earn XP by building and unleashing storms.
+347	Max level {0}
+348	BUY x{0}
+349	+1 Base Pressure per level
+350	Base now {0}
+351	+0.5s storms, +4% charge speed per level
+352	Storm {0}s, charge {1}
+353	+{0}% {1} per level
+354	now {0}
+355	Modules
+356	Equipped
+357	Workshop
+358	Unlock
+359	Upgrade
+360	Equip
+361	Empty
+362	Locked
+363	Modules are locked while a storm is running.
+364	{0}/{1} slots used. Tap an equipped module to remove it. Storm Cores come from storms and discoveries.
+365	Requires atmosphere resets: {0}.
+366	Discover {0} first.
+367	Discover a new phenomenon ({0}) first.
+368	Unlock {0}
+369	Unequip
+370	Upgrade {0}
+371	needs the Chaos Reactor
+372	Storms unleashed
+373	Lightning strikes
+374	Mega storms
+375	Best chain
+376	Boosts used
+377	Best Storm Power
+378	Lifetime Energy
+379	Atmosphere resets
+380	Phenomena discovered
+381	Time played
+382	Storm Lab
+383	More
+384	WEEKLY CONDITION
+385	Conditions rotate every Monday (UTC) and change which build is best. The weekly tournament and its leaderboard reset at the same time.
+386	Weekly Conditions unlock at Engine Level {0}: a new atmospheric twist every Monday.
+387	Statistics
+388	Music
+389	Ambient and cozy tracks. Locked ones are yours to keep after a short ad.
+390	Language
+391	Sound effects
+392	Effects volume
+393	Music volume
+394	Weather ambience
+395	Vibration
+396	Graphics quality
+397	Auto-adjust graphics on slow phones
+398	Frame rate
+399	Reminders (daily gift, tournament)
+400	Number format
+401	Reduce motion & flashes
+402	Auto-storm (Storm Automation)
+403	Tips & tutorials
+404	Show all tips again
+405	Tips will show again as you play.
+406	Developer
+407	Testing only. Not included in release builds.
+408	Unlock everything
+409	UNLOCK EVERYTHING?
+410	Max Engine Level and every machine, module, style, bundle, decoration, expansion and music track, plus 100K Gems, 100K Storm Cores and 10K Research.
+411	Save
+412	Save now
+413	Reset progress
+414	STORM ENGINE · Build smart. Storm big.
+415	Play
+416	Ends in {0}
+417	SIMPLE
+418	BALANCED
+419	HIGH
+420	30 SAVER
+421	{0} FPS
+422	OFF
+423	NOT ALLOWED
+424	ON
+425	Saved locally every few seconds.
+426	Cloud save is on.
+427	Cloud save syncs when you are online.
+428	Tuning in...
+429	Now playing
+430	Locked: watch an ad to unlock
+431	Research
+432	Reset the Atmosphere
+433	Machines and Energy reset. You keep Research, modules, Storm Cores, discoveries and records.
+434	RESEARCH ON RESET
+435	ENERGY THIS RUN
+436	Reset Atmosphere
+437	Permanent research
+438	First Research point at {0} Energy this run.
+439	Next point at {0} Energy. Research grows with every order of magnitude you reach.
+440	You have {0} Research ({1} earned, {2} resets).
+441	OWNED
+442	Skins
+443	Clouds
+444	Bolts
+445	Worlds
+446	Titles
+447	Shop
+448	YOUR GEMS
+449	Get Gems
+450	Featured
+451	Styles
+452	Gems
+453	Free rewards
+454	Ad bundles: complete environments
+455	Only available by watching rewarded ads. Each bundle unlocks a full matching set at once.
+456	Exclusives
+457	Gem-only showpieces with the strongest bonuses.
+458	Gem packs
+459	Gems are also earned by playing: +{0} every Engine Level, +{1} for each new phenomenon, daily rewards, goal rewards and weekly tournament prizes.
+460	Watch
+461	OFFER
+462	ADS ONLY
+463	Watch ad  +1
+464	Equip the set
+465	Bonuses: {0}
+466	No bonus
+467	Titles show next to your name on the leaderboards and add Storm Core gain.
+468	Every style boosts one stat while equipped (capped at x1.10 in tournaments). Tap a card for details.
+469	Test store: purchases are simulated in the Editor and development builds (nothing is charged).
+470	Active: {0} left
+471	{0}/{1} today
+472	{0}/{1} left today
+473	Unlimited
+474	{0}/{1} ads
+475	Unlocks at Lv {0}
+476	Come back tomorrow
+477	EQUIPPED
+478	{0} bundle
+479	Starter Pack
+480	{0} Storm Cores
+481	Claim
+482	Discover {0}
+483	Atmosphere resets: {0}
+484	Weekly Tournament
+485	Tourney
+486	THIS WEEK
+487	BEST THIS WEEK
+488	ATTEMPTS TODAY
+489	ENTER TOURNAMENT
+490	+1 attempt
+491	Rules
+492	Your machines, modules and research count exactly as you built them. Grind to get stronger!
+493	This week's condition always applies.
+494	Style bonuses count, but each is capped at x{0}.
+495	Decorations, Energy Surges and running boosts do not count.
+496	The storm starts instantly with fresh boosts: fire them during the storm to stack chains.
+497	{0} attempts per day (UTC), plus up to {1} more from ads. Your best storm counts.
+498	Weekly rewards
+499	Top {0}
+500	Everyone
+501	Leaderboards
+502	Name
+503	This week
+504	All-time
+505	By class
+506	Refresh
+507	Global leaderboards are not connected yet. Your tournament records are still tracked.
+508	No scores yet. Enter the tournament and claim the top spot!
+509	Offline. Standings appear once you connect.
+510	Next rival: {0} (#{1}) is {2} ahead. Grind your engine and beat them!
+511	You hold the #1 spot. Defend it!
+512	(you)
+513	Open conditions
+514	rewards are paid when the week closes
+515	TOURNAMENT STORM RUNNING
+516	STORM RUNNING...
+517	NO ATTEMPTS LEFT
+518	Forecast with every boost fired: {0}  ({1})
+519	Tournament storms waiting to be verified and submitted: {0}
+520	Updated {0} ago
+521	Loading...
+522	Showing cached standings
+523	Storm Cores
+524	x2 Energy Surge
+525	{0} min
+526	{0} h
+527	A gift every day you visit, plus three fresh missions
+528	Keep it
+529	TODAY'S MISSIONS
+530	New missions arrive at midnight (UTC).
+531	best {0}
+532	Collect today's gift to start a streak!
+533	Streak starts today!
+534	You missed a day and lost your {0}-day streak. Watch a short ad to keep it going!
+535	DAY {0}
+536	{0} cores
+537	Collect Day {0} gift
+538	Come back tomorrow for Day {0}. New day in {1}.
+539	All missions done. See you tomorrow!
+540	Finish all missions ({0}/{1} collected): {2}
+541	New missions in {0} (midnight UTC)
+542	LANGUAGE
+543	Pick the language for the whole game
+544	TOURNAMENT STORM
+545	weekly tournament
+546	STORM COMPLETE
+547	TOURNAMENT SCORE
+548	STORM SCORE
+549	NEW WEEKLY BEST
+550	TOURNAMENT RECORD
+551	NEW PERSONAL BEST
+552	CLASS BEST
+553	COLLAPSED
+554	Best this week: {0}
+555	Duration
+556	Average Storm Power
+557	Peak chain reaction
+558	{0} strikes
+559	Mega Storm time
+560	{0} phenomena
+561	Perfect Window time
+562	Boosts fired during storm
+563	Energy earned
+564	SCORE BY CLASS
+565	Personal record! Take this engine into the Weekly Tournament to post a score on the global leaderboards.
+566	Continue
+567	Record saved locally. Connect Unity Gaming Services to compete globally.
+568	Offline: this record will be verified and submitted when you reconnect.
+569	Verifying storm replay with the server...
+570	Verified and submitted to the leaderboards.
+571	WELCOME BACK!
+572	You were away for {0}
+573	Your storm engine kept running for {0}
+574	Your engine sat idle while you were away. The storm chamber is charged and ready!
+575	Build the Offline Generator in the Machines tab ({0} Energy + {1} Storm Cores) to keep producing while you are away.
+576	The Offline Generator unlocks at Engine Level {0}. It is expensive, but it keeps your engine producing while you are away.
+577	Let's go!
+578	ENERGY COLLECTED
+579	Time counted
+580	(cap reached)
+581	Offline efficiency
+582	(research Storm Automation)
+583	Upgrade the Offline Generator or research the Offline Capacitor to stay productive for longer.
+584	Collect
+585	Collect x2
+586	NEW PHENOMENON DISCOVERED!
+587	RECIPE
+588	+{0} Storm Cores. Discoveries can unlock new modules in the workshop.
+589	Build. Optimize. Create the biggest storms.
+590	Build machines
+591	Every machine feeds a weather category. Categories multiply each other into Storm Power, and Storm Power makes Energy.
+592	Unleash storms
+593	When the dome is charged, unleash a storm for a huge burst. Fire boosts during the storm so their effects overlap.
+594	Discover phenomena
+595	Push the right categories past their thresholds to discover Thunderstorms, Cyclones, Supercells and more.
+596	Compete every week
+597	Grind to make your engine stronger, then take it into the Weekly Tournament (Engine Level 8). Tournament storms are verified by the server and ranked worldwide.
+598	Name my Storm Chaser
+599	Start the engine!
+600	STORM CHASER NAME
+601	Shown on the global leaderboards
+602	Letters, numbers, - and _ only. Unity adds a short #tag to keep names unique.
+603	Name saved: {0}
+604	Could not change the name right now.
+605	No build details were recorded for this storm.
+606	Storm class
+607	Peak chain
+608	MODULES
+609	PHENOMENA
+610	Weekly condition
+611	Visit island
+612	none
+613	REWARDED AD
+614	Simulated in the Editor and development builds
+615	In a release build a real ad network (for example Unity LevelPlay) plays a short video here.
+616	Skip
+617	Claim reward
+618	Ad finished.
+619	Ad ends in {0}s
+620	{0} UNLOCKED!
+621	A complete environment, earned with ads
+622	Decorations added to your island: {0}.
+623	Later
+624	Equip it all
+625	TOURNAMENT RESULTS
+626	Last week you finished #{0}
+627	Thanks for competing last week!
+628	YOUR REWARD
+629	A new weekly tournament has started with a fresh condition. Grind your engine, then enter again!
+630	Bonus
+631	In tournaments
+632	(capped)
+633	Get it
+634	Basics
+635	Boosts
+636	Phenomena
+637	Weekly
+638	Decor
+639	Storm Power
+640	Storm Power = Base Pressure x Temperature x Humidity x Wind x Cloud x Electricity x Synergy. The categories multiply each other, so a balanced engine beats a lopsided one. Your Energy per second is your Storm Power times your income bonuses.
+641	Storms and chain reactions
+642	The storm chamber charges over time. Unleash a storm for a burst of Energy. Every lightning strike grows the chain reaction, which multiplies the whole storm score.
+643	Engine Level
+644	Building machines, unleashing storms, discovering phenomena and finishing goals earn XP. New levels unlock machines, features and styles, and each level gives Gems.
+645	Every storm leaves Storm Cores behind (bigger storms leave more). Spend them on modules, decorations and permanent upgrades.
+646	The premium currency. Earned from Engine Levels (+{0}), new phenomena (+{1}), goals, daily rewards, free rewards and tournament prizes, or bought in the Shop. Spend them on styles, decorations and island expansions.
+647	Daily Rewards
+648	Open the gift every day for a reward on a seven-day cycle. Collecting on consecutive days builds a streak, and three daily missions pay Gems, Storm Cores or Energy Surges. Everything resets at midnight UTC.
+649	Optional short ads give Gems, Energy Surges (x2 income), instant charges, double Storm Cores, extra tournament attempts and progress toward the ads-only bundles. Each has a daily limit.
+650	Atmosphere Lab
+651	Tap the Storm Power readout to open the lab. It shows every modifier behind each category and forecasts your next storm.
+652	Mega Storms and Perfect Windows
+653	With {0}+ phenomena active at once a storm becomes a Mega Storm (x{1}, more with {2} and {3}). Keeping {4}+ boosts running together opens a Perfect Window (x{5}).
+654	Style bonuses
+655	Every skin, cloud, lightning, world and title boosts one stat while equipped. In tournaments each style bonus is capped at x{0}, so grinding your engine always matters most.
+656	Modules bend the formula: conversions, conditions and big multipliers. Unlock them with Storm Cores and equip them in your limited slots.
+657	Island and visitors
+658	Decorate your island on land, in the air and on ponds. Each different decoration you own adds a little Energy income, once. Players can visit each other's islands from the leaderboards.
+659	Take your engine into the tournament under fixed rules: this week's condition applies, style bonuses are capped and decorations or surges do not count. {0} attempts a day; your best storm is ranked and verified by the server. Gems are paid out when the week ends.
+660	Weekly conditions
+661	Every Monday (UTC) a new atmospheric condition boosts some stats and weakens others. It changes which build is best, in your engine and in the tournament.
+662	Offline Generator
+663	An expensive permanent upgrade that keeps the engine producing while you are away, at reduced efficiency and up to a time cap.
+664	Atmosphere reset
+665	Reset Energy and machine levels to earn Research, then spend it on permanent upgrades in the Research Lab. Modules, Storm Cores, styles and decorations are kept.
+666	Appears at Engine Level {0}.
+667	Keep producing Energy to reveal it.
+668	a machine you have not found yet
+669	Lasts {0}s, recharges in {1}s.
+670	Upgrade {0} to Lv {1}.
+671	Only appears inside storms driven by a very unusual module.
+672	Recipe hint: push {0} high enough at the same time.
+673	Discover a new phenomenon to reveal it.
+674	Reset the atmosphere to reveal it.
+675	Unlock it in the Module Workshop.
+676	Keep resetting the atmosphere to reveal it.
+677	Research unlocks at Engine Level {0}.
+678	(this week)
+679	A condition from a future week.
+680	Weekly conditions start at Engine Level {0}.
+681	Part of an ads-only bundle in the Shop.
+682	Part of a special offer.
+683	Discover a phenomenon to earn it.
+684	An exclusive in the Shop.
+685	Find it in the Shop.
+686	A limited decoration. It returns to the island shop some weeks.
+687	Part of an ads-only bundle.
+688	Sold in Island Decor.
+689	STORMPEDIA
+690	Everything you have discovered so far
+691	{0} of {1} discovered
+692	NEW
+693	VISIT ISLANDS
+694	See how other storm engineers decorate
+695	SHOWCASE ISLANDS
+696	TOURNAMENT PLAYERS
+697	Nobody has entered this week's tournament yet.
+698	Connect to visit other players. Showcase islands work offline.
+699	Tap the glowing spot to continue.
+700	Skip tips
+701	Next
+702	Tip {0} of {1}
+703	New!
+704	Got it!
+705	Build your engine
+706	Tap BUY on the Pressure Pump a few times. Machines make Storm Power, and Storm Power makes Energy.
+707	This is your Storm Power: the Energy you earn every second. Spend Energy on machines to raise it.
+708	Mix the weather
+709	Each machine powers a different part of the weather, and the parts multiply each other. Build a Hydro Pump!
+710	Unleash a storm
+711	The storm chamber is charging. When it is full, tap UNLEASH (or the glass dome) for a big burst of Energy.
+712	Goals
+713	Follow the goal card for rewards. Everything you do gives XP to raise your Engine Level.
+714	New levels unlock new machines, features and styles. Tap the level ring any time to see what comes next.
+715	Open the gift every day for a reward. Keep your streak going and finish three daily missions for Gems.
+716	Boosts supercharge one part of your engine for a short time. Fire them while a storm rages to build big chain reactions!
+717	Tap your Storm Power any time to see exactly how it is calculated and to forecast your next storm.
+718	Style Shop
+719	Styles change how your engine looks, and every style also gives a small bonus. Gems buy the fanciest ones.
+720	Modules are special gear paid for with Storm Cores. Equip them in your slots to bend the rules of the formula.
+721	Decorate your island! Every different decoration adds a little Energy, and other players can fly over to visit.
+722	Your engine can now compete on the global leaderboard. You get 3 attempts a day, and everyone earns Gems when the week ends.
+723	Every Monday a new weather condition changes which build is best. Check it before you enter.
+724	Build the Offline Generator in the Machines tab and your engine keeps earning while you are away.
+725	Research Lab
+726	Reset the atmosphere to earn Research: permanent upgrades that make every run faster. Modules, Storm Cores and records are kept.
+728	Base Pressure
+729	Engine Efficiency
+730	All Phenomena
+731	Thunderstorm
+732	Heat Storm
+733	Monsoon
+734	Cyclone
+735	Supercell
+736	Overcharge
+737	Anomaly
+738	Storm Intensity
+739	Storm Duration
+740	Storm Charge Speed
+741	Lightning Rate
+742	Chain per Strike
+743	Mega Storm Power
+744	Boost Duration
+745	Boost Cooldown
+746	Boost Power
+747	Offline Efficiency
+748	Offline Cap
+749	Storm Core Gain
+750	Research Gain
+751	Module Slots
+752	Instability Rate
+753	Synergy Resonance
+754	Energy Income
+755	Pressure Pump
+756	Pressurises the chamber. Each level adds +1 Base Pressure.
+757	Hydro Pump
+758	Pumps water into the air. Each level adds +5% Humidity.
+759	Cloud Condenser
+760	Condenses vapour into clouds. Each level adds +5% Cloud density.
+761	Tesla Coil
+762	Builds electrical charge. Each level adds +5% Electricity.
+763	Thermal Furnace
+764	Heats the air. Each level adds +5% Temperature.
+765	Storm Chamber
+766	Reinforces the dome. +0.5s storm duration and +4% storm charge speed per level.
+767	Wind Turbine
+768	Pushes air around. Each level adds +5% Wind.
+769	Cloud Burst
+770	Cloud x2 for 20s. Cooldown 45s.
+771	Arc Overload
+772	Electricity x2.5 and lightning +50% for 15s. Cooldown 50s.
+773	Heat Surge
+774	Temperature x2 for 30s. Cooldown 60s.
+775	Jetstream
+776	Wind x3 for 10s. Cooldown 40s.
+777	Clouds, charge and moisture in balance. The all-rounder.
+778	Lightning strikes 50% more often.
+779	Scorching updrafts. Temperature-focused build.
+780	Storm lasts 3s longer.
+781	Endless rain carried by steady wind. Humidity-focused build.
+782	Storm intensity grows +4% every second.
+783	A spinning wall of wind and water. Wind-focused build.
+784	Each lightning strike adds 50% more chain.
+785	Heat, moisture and wind at extreme levels. Huge multipliers.
+786	Storm intensity x1.5.
+787	Massive charge over a stable cloud layer. Electricity-focused build.
+788	Lightning strikes twice as often.
+789	Chaos Reactor storms tear reality apart past 40% instability.
+790	Massive multiplier, but the storm collapses at 100% instability.
+791	Atmospheric Condenser
+792	Condenser
+793	Humidity and Cloud x1.3 (+0.1/lv each).
+794	Tesla Array
+795	Tesla
+796	Electricity x1.5 (+0.15/lv). +0.25 lightning strikes/s in storms.
+797	Thermal Core
+798	Thermal
+799	Temperature x1.5 (+0.15/lv). 10% of Temperature bonus also feeds Base Pressure.
+800	Jet Accelerator
+801	Jet
+802	Wind x1.5 (+0.15/lv). Storms charge 20% faster.
+803	Barometric Lens
+804	Lens
+805	Base Pressure x2 (+0.25/lv).
+806	Capacitor Bank
+807	Capacitor
+808	Storms last +4s (+0.5/lv). Chain per strike +2%.
+809	Heat Exchanger
+810	Exchanger
+811	Heat Storm x2 (+0.2/lv). 25% of Temperature bonus also feeds Wind.
+812	Rain Collector
+813	Rain
+814	Monsoon x2 (+0.2/lv). Offline efficiency +10%.
+815	Cyclone Core
+816	Cyclone x2 (+0.2/lv). Wind x1.25.
+817	Overcharge Relay
+818	Relay
+819	Overcharge x2 (+0.2/lv). Chain per strike +3%.
+820	Supercell Processor
+821	Processor
+822	All phenomena x1.2 (+0.04/lv).
+823	Chaos Reactor
+824	Chaos
+825	Storm Power x2 (+0.25/lv). Storms build instability: Anomaly past 40%, collapse at 100%.
+826	+25% Storm Power per level.
+827	Storm Automation
+828	Storms unleash themselves when charged, even while you are away (with the Offline Generator).
+829	Module Bay
+830	+1 module slot.
+831	Long Storms
+832	+2s storm duration per level.
+833	Quick Charge
+834	Storms charge 10% faster per level.
+835	Hydro Mastery
+836	Humidity additive bonuses are 10% more effective per level.
+837	Cloud Mastery
+838	Cloud additive bonuses are 10% more effective per level.
+839	Charge Mastery
+840	Electricity additive bonuses are 10% more effective per level.
+841	Thermal Mastery
+842	Temperature additive bonuses are 10% more effective per level.
+843	Aero Mastery
+844	Wind additive bonuses are 10% more effective per level.
+845	Offline Capacitor
+846	+2h offline time cap and +5% offline efficiency per level (needs the Offline Generator).
+847	Cooldown Tuning
+848	Boost cooldowns -6% per level (multiplicative).
+849	Core Extraction
+850	+20% Storm Cores from storms per level.
+851	Boost Amplifier
+852	Boost effects +10% stronger per level.
+853	Head Start
+854	Start every run with more Energy (500, 5K, 50K, 500K, 5M).
+855	Every active phenomenon increases all others by +3% per level.
+856	Pressure Conversion
+857	5% of the Temperature bonus per level also feeds Base Pressure.
+858	Extreme Temperature Gradient
+859	+Temperature x1.4
+860	+Lightning rate x1.1
+861	-Humidity x0.85
+862	Saturated Atmosphere
+863	+Humidity x1.5
+864	+Cloud x1.2
+865	-Wind x0.8
+866	High Wind Season
+867	+Wind x1.5
+868	+Cyclone x1.5
+869	-Temperature x0.85
+870	Electrical Instability
+871	+Electricity x1.6
+872	+Chain per strike x1.5
+873	-Cloud x0.85
+874	Monsoon Season
+875	+Monsoon x2
+876	+Humidity x1.3
+877	-Electricity x0.8
+878	Heat Dome
+879	+Heat Storm x2
+880	+Temperature x1.3
+881	-Cloud x0.8
+882	Still Air
+883	+Storms last 4s longer
+884	+Boost effects x1.25
+885	Supercell Outbreak
+886	+Supercell x1.5
+887	+Storm intensity x1.1
+888	-Electricity x0.9
+889	Upgrade the Pressure Pump to Lv 5
+890	Build a Hydro Pump
+891	Unleash your first storm
+892	Reach Engine Level 2
+893	Build a Cloud Condenser
+894	Reach Hydro Pump Lv 10
+895	Reach Cloud Condenser Lv 10 to unlock Cloud Burst
+896	Activate a boost
+897	Build a Tesla Coil
+898	Get a new style item in the Style Shop
+899	Unleash 10 storms
+900	Build a Thermal Furnace
+901	Unlock a Module with Storm Cores
+902	Equip a Module
+903	Decorate your island
+904	Own 5 different decorations
+905	Discover a Thunderstorm
+906	Reinforce the Storm Chamber
+907	Build a Wind Turbine
+908	Reach a x2 chain reaction in one storm
+909	Reach Engine Level 8 to enter tournaments
+910	Enter the weekly tournament
+911	Discover a Heat Storm
+912	Build the Offline Generator
+913	Generate 10M Energy in one run
+914	Reset the atmosphere to earn Research
+915	Own 3 Research upgrades
+916	Discover a Monsoon
+917	Discover a Cyclone
+918	Discover a Supercell
+919	Discover an Overcharge storm
+920	Reset the atmosphere 3 times
+921	Create an Anomaly
+922	Charge and unleash storms.
+923	A gift for every day you visit, a growing streak and three fresh missions each day.
+924	See exactly how Storm Power is calculated and forecast your next storm.
+925	Skins, storm clouds, lightning, worlds and titles. Each one boosts a stat.
+926	Module Workshop
+927	Equip modules that bend the formula. Paid with Storm Cores.
+928	Decorate your island for bonus Energy and show it off to visitors.
+929	Take your engine into the weekly tournament and climb the global leaderboards.
+930	Weekly Conditions
+931	A new atmospheric condition every Monday changes the best build.
+932	Keep producing while you are away. Expensive to build.
+933	Reset the atmosphere for Research and permanent upgrades.
+934	Keeps the engine running while you are away. Level 1: 1 hour at 20% efficiency. Each level adds +1 hour and +5% efficiency. Permanent.
+935	Classic Workshop
+936	The trusty original: round deck, glass dome, one very proud antenna.
+937	Ocean Breeze
+938	A ship-shape engine with portholes and brass rails. Humidity x1.10.
+939	Emerald Works
+940	Cog-toothed deck and a gear crown. Cloud x1.10.
+941	Royal Violet
+942	Octagonal throne with a jewelled crown. Electricity x1.15.
+943	Midnight Neon
+944	Sharp angles and glowing strips. Wind x1.15.
+945	Candy Pop
+946	Gumdrops, swirls and a lollipop antenna. Temperature x1.15.
+947	Solar Gold
+948	A radiant sun engine with golden rays. Base Pressure x1.20.
+949	Chaos Core
+950	Spiked and unstable, with shards orbiting the dome. Engine Efficiency x1.15.
+951	Brass Steamworks
+952	Exclusive. Spinning gears, rivets and an onion dome. Base Pressure x1.30.
+953	Crystal Spire
+954	Exclusive. A faceted crystal engine ringed with shards. Electricity x1.30.
+955	Sky Rocket
+956	Exclusive. Tail fins, a capsule dome and orbit rings. Wind x1.30.
+957	Magma Forge
+958	Volcano bundle. Basalt deck with glowing lava seams. Temperature x1.25.
+959	Blossom Pagoda
+960	Sakura bundle. Tiered pagoda roofs over the dome. Humidity x1.25.
+961	Cyber Core
+962	Neon bundle. Hexagonal circuitry with holographic rings. Electricity x1.25.
+963	Silver Lining
+964	Soft, fluffy, dependable.
+965	Cotton Candy
+966	Sweet pink puffs. Cloud x1.10.
+967	Toxic Fog
+968	Bubbling green wisps. Storm charge speed x1.15.
+969	Inferno
+970	Flickering flame clouds. Temperature x1.15.
+971	Glacier
+972	Icy crystalline clouds. Humidity x1.15.
+973	The Void
+974	Clouds from somewhere else. All phenomena x1.10.
+975	Tempest
+976	Exclusive. A crackling thunderhead. Storm duration x1.20.
+977	Ash Plume
+978	Volcano bundle. Smoky ash with embers. Temperature x1.12.
+979	Petal Drift
+980	Sakura bundle. Clouds of drifting petals. Humidity x1.12.
+981	Synthwave
+982	Neon bundle. Blocky digital clouds. Electricity x1.12.
+983	Golden Bolt
+984	Bright, loud and golden.
+985	Electric Blue
+986	Crisp blue arcs. Lightning rate x1.10.
+987	Plasma Purple
+988	Heavy plasma columns. Chain per strike x1.15.
+989	Emerald Arc
+990	Jagged green arcs. Electricity x1.10.
+991	Crimson Fury
+992	Furious red forks. Storm intensity x1.10.
+993	Prism
+994	Twin rainbow bolts. Lightning rate x1.20.
+995	Thunder Hammer
+996	Exclusive. Each strike lands like a hammer. Chain per strike x1.25.
+997	Lava Lash
+998	Volcano bundle. Molten whips. Storm intensity x1.10.
+999	Blossom Spark
+1000	Sakura bundle. Twin pink sparks. Lightning rate x1.12.
+1001	Neon Pulse
+1002	Neon bundle. Square-wave lightning. Chain per strike x1.12.
+1003	Sunny Meadow
+1004	Green hills and blue skies.
+1005	Canyon Desert
+1006	Red rock and cacti under an orange sky. Temperature x1.10.
+1007	Frost Peaks
+1008	Snowfields and pines. Wind x1.10.
+1009	Tropical Isle
+1010	Palm trees and a turquoise sea. Humidity x1.15.
+1011	Starry Night
+1012	A starlit sky and glowing flowers. Electricity x1.15.
+1013	Alien Planet
+1014	Exclusive. Crystal forests under a violet sky. Engine Efficiency x1.10.
+1015	Volcano Isle
+1016	Volcano bundle. Black rock, lava pools and a burning sky. Temperature x1.20.
+1017	Sakura Garden
+1018	Sakura bundle. Cherry blossoms and a soft pink sky. Humidity x1.20.
+1019	Neon Grid
+1020	Neon bundle. Glowing grid ground under a synthwave sky. Electricity x1.20.
+1021	Shown next to your name.
+1022	Thunderlord
+1023	Earned by discovering this storm class. Storm Core gain x1.05.
+1024	Scorcher
+1025	Rainmaker
+1026	Wind Whisperer
+1027	Supercell Architect
+1028	Earned by discovering this storm class. Storm Core gain x1.08.
+1029	Overcharger
+1030	Chaos Engineer
+1031	Earned by discovering this storm class. Storm Core gain x1.10.
+1032	Veteran Engineer
+1033	Earned at Engine Level 20. Storm Core gain x1.05.
+1034	Storm Legend
+1035	Earned at Engine Level 40. Storm Core gain x1.10.
+1036	Tournament Champion
+1037	Exclusive title. Storm Core gain x1.10.
+1038	Founder
+1039	Part of a bundle. Storm Core gain x1.05.
+1040	Firelord
+1041	Zen Master
+1042	Neon Ghost
+1043	Volcano Forge
+1044	Magma Forge skin, Ash Plume clouds, Lava Lash lightning, the Volcano Isle world, the Firelord title and two volcanic decorations.
+1045	Blossom Pagoda skin, Petal Drift clouds, Blossom Spark lightning, the Sakura Garden world, the Zen Master title, koi and a stone lantern.
+1046	Neon Nights
+1047	Cyber Core skin, Synthwave clouds, Neon Pulse lightning, the Neon Grid world, the Neon Ghost title, a neon sign and a holo tree.
+1048	Flower Bed
+1049	A cheerful patch of flowers.
+1050	Park Bench
+1051	For watching storms roll in.
+1052	Lamp Post
+1053	Glows brighter when a storm arrives.
+1054	Storm Gnome
+1055	Wears a tiny lightning-rod hat.
+1056	Storm Kite
+1057	Dances in the wind above the island.
+1058	Pond
+1059	Room for three water decorations.
+1060	Lily Pads
+1061	Floats on a pond.
+1062	Rubber Ducks
+1063	Squeak.
+1064	Mushroom Ring
+1065	Appears after every good rain.
+1066	Tiny Windmill
+1067	Spins faster with the Wind.
+1068	Weather Vane
+1069	Always points into the storm.
+1070	Fountain
+1071	Sprays in the middle of a pond.
+1072	Hot Air Balloon
+1073	Drifts lazily around the island.
+1074	Storm Titan
+1075	A stone giant holding a lightning bolt.
+1076	Crystal Cluster
+1077	Hums with stored charge.
+1078	Sky Lanterns
+1079	Warm lights floating in the sky.
+1080	Toy Sailboat
+1081	Sails in circles on a pond.
+1082	Lightning Beacon
+1083	Crackles with sparks.
+1084	Rainbow Arch
+1085	A rainbow you can walk under.
+1086	Weather Blimp
+1087	Broadcasts the forecast.
+1088	Cloud Whale
+1089	Exclusive. A gentle giant made of cloud.
+1090	Snowman
+1091	Limited. Never melts, somehow.
+1092	Storm-o'-Lantern
+1093	Limited. Grins at thunder.
+1094	Thunder Totem
+1095	Limited. Carved by ancient storm chasers.
+1096	Storm Topiary
+1097	Limited. A hedge trimmed into a lightning bolt.
+1098	Lava Pool
+1099	Volcano bundle. Bubbling and very warm.
+1100	Obsidian Totem
+1101	Volcano bundle. Glassy black stone.
+1102	Koi Fish
+1103	Sakura bundle. Lucky fish for your pond.
+1104	Stone Lantern
+1105	Sakura bundle. A quiet garden light.
+1106	Neon Sign
+1107	Neon bundle. It says STORM.
+1108	Holo Tree
+1109	Neon bundle. A tree made of light.
+1110	Island Expansion I
+1111	The island grows. Room for 10 more decorations.
+1112	Island Expansion II
+1113	Even more land. Room for 12 more decorations.
+1114	Island Expansion III
+1115	A grand island. Room for 15 more decorations.
+1116	Free Gems
+1117	+8 Gems.
+1118	Energy Surge
+1119	x2 Energy income for 15 minutes (stacks up to 1 hour).
+1120	Instant Charge
+1121	Fully charges the storm chamber.
+1122	Double Cores
+1123	Doubles the Storm Cores from your last storm.
+1124	Extra Attempt
+1125	Bundle Progress
+1126	+1 toward an ads-only bundle.
+1127	Double Offline
+1128	Doubles the Energy from your time away.
+1129	Music Track
+1130	Unlocks a new music track to keep.
+1131	Keep Your Streak
+1132	Restores a login streak you just lost.
+1133	400 Gems, 500 Storm Cores and the Founder title. Once per player.
+1134	ONE TIME
+1135	Pouch of Gems
+1136	100 Gems
+1137	Bag of Gems
+1138	550 Gems
+1139	+10%
+1140	Chest of Gems
+1141	1,200 Gems
+1142	+20%
+1143	Vault of Gems
+1144	2,600 Gems
+1145	+30%
+1146	Storm Hoard
+1147	7,000 Gems
+1148	Unleash 5 storms
+1149	Unleash 12 storms
+1150	Buy 20 machine levels
+1151	Buy 60 machine levels
+1152	Land 40 lightning strikes
+1153	Fire 4 boosts
+1154	Fire 3 boosts while a storm rages
+1155	Unleash 3 phenomenon storms
+1156	Trigger a Mega Storm
+1157	Earn 10 Storm Cores from storms
+1158	Unlock or upgrade a module
+1159	Buy a decoration for your island
+1160	Home
+1161	Privacy
+1162	Personalized ads
+1163	Ads only play when you choose to watch one. Personalized ads use your device's advertising ID.
+1164	Privacy policy
+1165	Enjoying Storm Engine?
+1166	A rating or a share helps other storm chasers find the game.
+1167	Rate the game
+1168	Share
+1169	Build a weather machine, unleash giant storms and climb the weekly leaderboards in Storm Engine!
+1170	Copied! Paste it anywhere to share.
+1171	PERSONALIZED ADS?
+1172	Your choice, your data
+1173	Storm Engine is free. Ads only play when you choose to watch one for a reward.
+1174	Our ad partner can use your device's advertising ID to show ads that match your interests. Without it you still get every reward, just with less relevant ads. You can change this any time in Settings.
+1175	No, thanks
+1176	Allow
+1177	I just unleashed a {0} storm in Storm Engine: {1} points! Can you beat it?
+1178	You discovered a phenomenon! Everything you unlock is explained in the Stormpedia. Find it in the menu at the top right.
+1179	DELETE ONLINE DATA?
+1180	This deletes your player account and what the game servers keep for it: cloud save, island and leaderboard scores. Your progress on this phone stays.
+1181	Delete
+1182	Your online data was deleted. Online features are now off.
+1183	Could not delete your online data right now. Check your connection and try again.
+1184	Online features are off.
+1185	Online features
+1186	Leaderboards, tournaments, cloud save and island visits use the game servers. Turned off, nothing leaves your phone.
+1187	Delete my online data
+1188	Names are public, so keep it friendly. Offensive names are hidden from other players.
+1189	That name can't be used. Please pick another one.
+1190	See bundle
+1191	See offer
+1192	tab:Research

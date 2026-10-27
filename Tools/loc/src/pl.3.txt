@@ -1,0 +1,358 @@
+802|Wiatr x1.5 (+0.15/poz.). Burze ładują się o 20% szybciej.
+803|Soczewka barometryczna
+804|Soczewka
+805|Ciśnienie bazowe x2 (+0.25/poz.).
+806|Bateria kondensatorów
+807|Kondensator
+808|Burze trwają +4 s (+0.5/poz.). Łańcuch na piorun +2%.
+809|Wymiennik ciepła
+810|Wymiennik
+811|Burza upałowa x2 (+0.2/poz.). 25% bonusu temperatury zasila też wiatr.
+812|Kolektor deszczu
+813|Deszcz
+814|Monsun x2 (+0.2/poz.). Wydajność offline +10%.
+815|Rdzeń cyklonu
+816|Cyklon x2 (+0.2/poz.). Wiatr x1.25.
+817|Przekaźnik przeciążenia
+818|Przekaźnik
+819|Przeciążenie x2 (+0.2/poz.). Łańcuch na piorun +3%.
+820|Procesor superkomórek
+821|Procesor
+822|Wszystkie zjawiska x1.2 (+0.04/poz.).
+823|Reaktor Chaosu
+824|Chaos
+825|Moc Burzy x2 (+0.25/poz.). Burze gromadzą niestabilność: anomalia powyżej 40%, zapaść przy 100%.
+826|+25% Mocy Burzy na poziom.
+827|Automatyzacja burz
+828|Naładowane burze uwalniają się same, nawet gdy cię nie ma (z Generatorem Offline).
+829|Wnęka modułów
+830|+1 gniazdo modułu.
+831|Długie burze
+832|+2 s czasu burzy na poziom.
+833|Szybkie ładowanie
+834|Burze ładują się o 10% szybciej na poziom.
+835|Mistrzostwo wody
+836|Addytywne bonusy wilgotności są o 10% skuteczniejsze na poziom.
+837|Mistrzostwo chmur
+838|Addytywne bonusy chmur są o 10% skuteczniejsze na poziom.
+839|Mistrzostwo ładunku
+840|Addytywne bonusy elektryczności są o 10% skuteczniejsze na poziom.
+841|Mistrzostwo ciepła
+842|Addytywne bonusy temperatury są o 10% skuteczniejsze na poziom.
+843|Mistrzostwo powietrza
+844|Addytywne bonusy wiatru są o 10% skuteczniejsze na poziom.
+845|Kondensator Offline
+846|+2 godz. limitu offline i +5% wydajności offline na poziom (wymaga Generatora Offline).
+847|Strojenie odnowienia
+848|Odnowienie wzmocnień -6% na poziom (multiplikatywnie).
+849|Wydobycie rdzeni
+850|+20% Rdzeni Burzy z burz na poziom.
+851|Wzmacniacz wzmocnień
+852|Efekty wzmocnień silniejsze o +10% na poziom.
+853|Szybki start
+854|Zaczynaj każdy przebieg z większą ilością Energii (500, 5K, 50K, 500K, 5M).
+855|Każde aktywne zjawisko wzmacnia wszystkie pozostałe o +3% na poziom.
+856|Przemiana ciśnienia
+857|5% bonusu temperatury na poziom zasila też ciśnienie bazowe.
+858|Skrajny gradient temperatury
+859|+Temperatura x1.4
+860|+Częstość piorunów x1.1
+861|-Wilgotność x0.85
+862|Nasycona atmosfera
+863|+Wilgotność x1.5
+864|+Chmury x1.2
+865|-Wiatr x0.8
+866|Sezon silnych wiatrów
+867|+Wiatr x1.5
+868|+Cyklon x1.5
+869|-Temperatura x0.85
+870|Niestabilność elektryczna
+871|+Elektryczność x1.6
+872|+Łańcuch na piorun x1.5
+873|-Chmury x0.85
+874|Pora monsunowa
+875|+Monsun x2
+876|+Wilgotność x1.3
+877|-Elektryczność x0.8
+878|Kopuła upału
+879|+Burza upałowa x2
+880|+Temperatura x1.3
+881|-Chmury x0.8
+882|Cisza w powietrzu
+883|+Burze trwają o 4 s dłużej
+884|+Efekty wzmocnień x1.25
+885|Wysyp superkomórek
+886|+Superkomórka x1.5
+887|+Intensywność burzy x1.1
+888|-Elektryczność x0.9
+889|Ulepsz Pompę ciśnienia do poz. 5
+890|Zbuduj Pompę wodną
+891|Uwolnij pierwszą burzę
+892|Osiągnij 2. poziom silnika
+893|Zbuduj Kondensator chmur
+894|Podnieś Pompę wodną do poz. 10
+895|Podnieś Kondensator chmur do poz. 10, aby odblokować Oberwanie chmury
+896|Użyj wzmocnienia
+897|Zbuduj Cewkę Tesli
+898|Zdobądź nowy styl w Sklepie ze Stylami
+899|Uwolnij 10 burz
+900|Zbuduj Piec termiczny
+901|Odblokuj moduł za Rdzenie Burzy
+902|Załóż moduł
+903|Udekoruj swoją wyspę
+904|Posiadaj 5 różnych dekoracji
+905|Odkryj burzę z piorunami
+906|Wzmocnij Komorę burzy
+907|Zbuduj Turbinę wiatrową
+908|Osiągnij reakcję łańcuchową x2 w jednej burzy
+909|Osiągnij 8. poziom silnika, aby brać udział w turniejach
+910|Weź udział w turnieju tygodniowym
+911|Odkryj burzę upałową
+912|Zbuduj Generator Offline
+913|Wytwórz 10M Energii w jednym przebiegu
+914|Zresetuj atmosferę, aby zdobyć badania
+915|Posiadaj 3 ulepszenia z badań
+916|Odkryj monsun
+917|Odkryj cyklon
+918|Odkryj superkomórkę
+919|Odkryj burzę przeciążenia
+920|Zresetuj atmosferę 3 razy
+921|Wywołaj anomalię
+922|Ładuj i uwalniaj burze.
+923|Prezent za każdy dzień gry, rosnąca seria i trzy nowe misje każdego dnia.
+924|Zobacz, jak dokładnie liczona jest Moc Burzy, i poznaj prognozę następnej burzy.
+925|Wyglądy, chmury burzowe, pioruny, światy i tytuły. Każdy zwiększa jeden parametr.
+926|Warsztat modułów
+927|Zakładaj moduły naginające formułę. Płatne Rdzeniami Burzy.
+928|Udekoruj wyspę, aby zdobyć dodatkową Energię, i pochwal się nią gościom.
+929|Zabierz silnik do turnieju tygodniowego i wspinaj się w rankingach globalnych.
+930|Warunki tygodnia
+931|Co poniedziałek nowy warunek atmosferyczny zmienia najlepszą konfigurację.
+932|Produkuj dalej, gdy cię nie ma. Drogi w budowie.
+933|Zresetuj atmosferę, aby zdobyć badania i stałe ulepszenia.
+934|Utrzymuje silnik w ruchu, gdy cię nie ma. Poziom 1: 1 godzina z wydajnością 20%. Każdy poziom dodaje +1 godzinę i +5% wydajności. Na stałe.
+935|Klasyczny warsztat
+936|Wierny oryginał: okrągły pokład, szklana kopuła i jedna bardzo dumna antena.
+937|Morska bryza
+938|Silnik jak statek, z bulajami i mosiężnymi relingami. Wilgotność x1.10.
+939|Szmaragdowe zakłady
+940|Zębaty pokład i korona z kół zębatych. Chmury x1.10.
+941|Królewski fiolet
+942|Ośmiokątny tron z koroną wysadzaną klejnotami. Elektryczność x1.15.
+943|Neon o północy
+944|Ostre kąty i świecące paski. Wiatr x1.15.
+945|Cukierkowy pop
+946|Żelki, zawijasy i antena-lizak. Temperatura x1.15.
+947|Słoneczne złoto
+948|Promienny słoneczny silnik ze złotymi promieniami. Ciśnienie bazowe x1.20.
+949|Rdzeń chaosu
+950|Kolczasty i niestabilny, z odłamkami krążącymi wokół kopuły. Wydajność silnika x1.15.
+951|Mosiężna maszyna parowa
+952|Ekskluzywne. Obracające się koła zębate, nity i kopuła w kształcie cebuli. Ciśnienie bazowe x1.30.
+953|Kryształowa iglica
+954|Ekskluzywne. Szlifowany kryształowy silnik otoczony odłamkami. Elektryczność x1.30.
+955|Niebiańska rakieta
+956|Ekskluzywne. Stateczniki, kopuła-kapsuła i pierścienie orbitalne. Wiatr x1.30.
+957|Kuźnia magmy
+958|Pakiet Wulkan. Bazaltowy pokład z żarzącymi się żyłami lawy. Temperatura x1.25.
+959|Kwitnąca pagoda
+960|Pakiet Sakura. Piętrowe dachy pagody nad kopułą. Wilgotność x1.25.
+961|Cyberrdzeń
+962|Pakiet Neon. Sześciokątne obwody z holograficznymi pierścieniami. Elektryczność x1.25.
+963|Srebrna podszewka
+964|Miękka, puszysta, niezawodna.
+965|Wata cukrowa
+966|Słodkie różowe obłoczki. Chmury x1.10.
+967|Toksyczna mgła
+968|Bulgoczące zielone smugi. Szybkość ładowania x1.15.
+969|Inferno
+970|Chmury z migoczących płomieni. Temperatura x1.15.
+971|Lodowiec
+972|Lodowate, krystaliczne chmury. Wilgotność x1.15.
+973|Pustka
+974|Chmury z innego miejsca. Wszystkie zjawiska x1.10.
+975|Nawałnica
+976|Ekskluzywne. Trzeszcząca chmura burzowa. Czas trwania burzy x1.20.
+977|Pióropusz popiołu
+978|Pakiet Wulkan. Dymiący popiół z żarem. Temperatura x1.12.
+979|Dryf płatków
+980|Pakiet Sakura. Chmury dryfujących płatków. Wilgotność x1.12.
+981|Synthwave
+982|Pakiet Neon. Kanciaste cyfrowe chmury. Elektryczność x1.12.
+983|Złoty piorun
+984|Jasny, głośny i złoty.
+985|Elektryczny błękit
+986|Wyraźne niebieskie łuki. Częstość piorunów x1.10.
+987|Plazmowy fiolet
+988|Ciężkie kolumny plazmy. Łańcuch na piorun x1.15.
+989|Szmaragdowy łuk
+990|Poszarpane zielone łuki. Elektryczność x1.10.
+991|Szkarłatna furia
+992|Wściekłe czerwone rozwidlenia. Intensywność burzy x1.10.
+993|Pryzmat
+994|Dwa tęczowe pioruny. Częstość piorunów x1.20.
+995|Młot gromu
+996|Ekskluzywne. Każdy piorun uderza jak młot. Łańcuch na piorun x1.25.
+997|Bicz lawy
+998|Pakiet Wulkan. Roztopione bicze. Intensywność burzy x1.10.
+999|Kwitnąca iskra
+1000|Pakiet Sakura. Dwie różowe iskry. Częstość piorunów x1.12.
+1001|Neonowy puls
+1002|Pakiet Neon. Pioruny o prostokątnej fali. Łańcuch na piorun x1.12.
+1003|Słoneczna łąka
+1004|Zielone wzgórza i błękitne niebo.
+1005|Pustynny kanion
+1006|Czerwone skały i kaktusy pod pomarańczowym niebem. Temperatura x1.10.
+1007|Mroźne szczyty
+1008|Pola śniegu i sosny. Wiatr x1.10.
+1009|Tropikalna wyspa
+1010|Palmy i turkusowe morze. Wilgotność x1.15.
+1011|Gwiaździsta noc
+1012|Gwiaździste niebo i świecące kwiaty. Elektryczność x1.15.
+1013|Obca planeta
+1014|Ekskluzywne. Kryształowe lasy pod fioletowym niebem. Wydajność silnika x1.10.
+1015|Wulkaniczna wyspa
+1016|Pakiet Wulkan. Czarne skały, jeziorka lawy i płonące niebo. Temperatura x1.20.
+1017|Ogród sakury
+1018|Pakiet Sakura. Kwitnące wiśnie i delikatnie różowe niebo. Wilgotność x1.20.
+1019|Neonowa siatka
+1020|Pakiet Neon. Świecąca siatka pod niebem w stylu synthwave. Elektryczność x1.20.
+1021|Widoczny obok twojej nazwy.
+1022|Władca gromów
+1023|Zdobyty za odkrycie tej klasy burzy. Zysk Rdzeni Burzy x1.05.
+1024|Spalacz
+1025|Zaklinacz deszczu
+1026|Szepczący z wiatrem
+1027|Architekt superkomórek
+1028|Zdobyty za odkrycie tej klasy burzy. Zysk Rdzeni Burzy x1.08.
+1029|Przeciążacz
+1030|Inżynier chaosu
+1031|Zdobyty za odkrycie tej klasy burzy. Zysk Rdzeni Burzy x1.10.
+1032|Doświadczony inżynier
+1033|Zdobyty na 20. poziomie silnika. Zysk Rdzeni Burzy x1.05.
+1034|Legenda burz
+1035|Zdobyty na 40. poziomie silnika. Zysk Rdzeni Burzy x1.10.
+1036|Mistrz turnieju
+1037|Ekskluzywny tytuł. Zysk Rdzeni Burzy x1.10.
+1038|Założyciel
+1039|Część pakietu. Zysk Rdzeni Burzy x1.05.
+1040|Władca ognia
+1041|Mistrz zen
+1042|Neonowy duch
+1043|Wulkaniczna kuźnia
+1044|Wygląd Kuźnia magmy, chmury Pióropusz popiołu, pioruny Bicz lawy, świat Wulkaniczna wyspa, tytuł Władca ognia i dwie wulkaniczne dekoracje.
+1045|Wygląd Kwitnąca pagoda, chmury Dryf płatków, pioruny Kwitnąca iskra, świat Ogród sakury, tytuł Mistrz zen, karpie koi i kamienna latarnia.
+1046|Neonowe noce
+1047|Wygląd Cyberrdzeń, chmury Synthwave, pioruny Neonowy puls, świat Neonowa siatka, tytuł Neonowy duch, neon i holograficzne drzewo.
+1048|Klomb
+1049|Wesoły kącik z kwiatami.
+1050|Ławka w parku
+1051|Do oglądania nadciągających burz.
+1052|Latarnia
+1053|Świeci jaśniej, gdy nadchodzi burza.
+1054|Burzowy krasnal
+1055|Nosi maleńką czapkę z piorunochronem.
+1056|Burzowy latawiec
+1057|Tańczy na wietrze nad wyspą.
+1058|Staw
+1059|Miejsce na trzy dekoracje wodne.
+1060|Liście lilii wodnych
+1061|Pływają na stawie.
+1062|Gumowe kaczuszki
+1063|Kwa.
+1064|Krąg grzybów
+1065|Pojawia się po każdym dobrym deszczu.
+1066|Mały wiatrak
+1067|Kręci się szybciej na wietrze.
+1068|Wiatrowskaz
+1069|Zawsze wskazuje burzę.
+1070|Fontanna
+1071|Tryska na środku stawu.
+1072|Balon na ogrzane powietrze
+1073|Leniwie dryfuje wokół wyspy.
+1074|Tytan burzy
+1075|Kamienny olbrzym trzymający piorun.
+1076|Skupisko kryształów
+1077|Buczy od zgromadzonego ładunku.
+1078|Lampiony niebiańskie
+1079|Ciepłe światełka unoszące się na niebie.
+1080|Zabawkowa żaglówka
+1081|Pływa w kółko po stawie.
+1082|Latarnia piorunów
+1083|Trzeszczy od iskier.
+1084|Tęczowy łuk
+1085|Tęcza, pod którą można przejść.
+1086|Sterowiec pogodowy
+1087|Nadaje prognozę pogody.
+1088|Chmurowy wieloryb
+1089|Ekskluzywne. Łagodny olbrzym z chmury.
+1090|Bałwan
+1091|Limitowane. Jakimś cudem nigdy się nie topi.
+1092|Burzowa dynia
+1093|Limitowane. Szczerzy się do grzmotów.
+1094|Totem gromu
+1095|Limitowane. Wyrzeźbiony przez dawnych łowców burz.
+1096|Burzowa rzeźba z żywopłotu
+1097|Limitowane. Żywopłot przycięty w kształt pioruna.
+1098|Jeziorko lawy
+1099|Pakiet Wulkan. Bulgoczące i bardzo ciepłe.
+1100|Obsydianowy totem
+1101|Pakiet Wulkan. Szklisty czarny kamień.
+1102|Karp koi
+1103|Pakiet Sakura. Szczęśliwe rybki do twojego stawu.
+1104|Kamienna latarnia
+1105|Pakiet Sakura. Spokojne światło ogrodowe.
+1106|Neon
+1107|Pakiet Neon. Jest na nim napis STORM.
+1108|Holograficzne drzewo
+1109|Pakiet Neon. Drzewo ze światła.
+1110|Rozbudowa wyspy I
+1111|Wyspa rośnie. Miejsce na 10 dodatkowych dekoracji.
+1112|Rozbudowa wyspy II
+1113|Jeszcze więcej lądu. Miejsce na 12 dodatkowych dekoracji.
+1114|Rozbudowa wyspy III
+1115|Wspaniała wyspa. Miejsce na 15 dodatkowych dekoracji.
+1116|Darmowe klejnoty
+1117|Klejnoty +8.
+1118|Przypływ Energii
+1119|Dochód Energii x2 przez 15 minut (sumuje się do 1 godziny).
+1120|Natychmiastowe ładowanie
+1121|W pełni ładuje komorę burzy.
+1122|Podwójne rdzenie
+1123|Podwaja Rdzenie Burzy z twojej ostatniej burzy.
+1124|Dodatkowe podejście
+1125|Postęp pakietu
+1126|+1 do pakietu za reklamy.
+1127|Podwójny offline
+1128|Podwaja Energię z czasu twojej nieobecności.
+1129|Utwór muzyczny
+1130|Odblokowuje na stałe nowy utwór.
+1131|Uratuj serię
+1132|Przywraca serię logowań, którą właśnie straciłeś.
+1133|400 klejnotów, 500 Rdzeni Burzy i tytuł Założyciel. Raz na gracza.
+1134|JEDNORAZOWO
+1135|Sakiewka klejnotów
+1136|100 klejnotów
+1137|Worek klejnotów
+1138|550 klejnotów
+1139|+10%
+1140|Skrzynia klejnotów
+1141|1200 klejnotów
+1142|+20%
+1143|Skarbiec klejnotów
+1144|2600 klejnotów
+1145|+30%
+1146|Burzowy skarb
+1147|7000 klejnotów
+1148|Uwolnij 5 burz
+1149|Uwolnij 12 burz
+1150|Kup 20 poziomów maszyn
+1151|Kup 60 poziomów maszyn
+1152|Wywołaj 40 uderzeń piorunów
+1153|Użyj 4 wzmocnień
+1154|Użyj 3 wzmocnień podczas burzy
+1155|Uwolnij 3 burze ze zjawiskiem
+1156|Wywołaj megaburzę
+1157|Zdobądź 10 Rdzeni Burzy z burz
+1158|Odblokuj lub ulepsz moduł
+1159|Kup dekorację na swoją wyspę

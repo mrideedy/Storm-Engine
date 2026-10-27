@@ -1,0 +1,19 @@
+1160|Beranda
+1161|Privasi
+1162|Iklan yang dipersonalisasi
+1163|Iklan hanya diputar saat kamu memilih untuk menontonnya. Iklan yang dipersonalisasi memakai ID iklan perangkatmu.
+1164|Kebijakan privasi
+1165|Suka Storm Engine?
+1166|Rating atau bagikan membantu pemburu badai lain menemukan game ini.
+1167|Beri rating
+1168|Bagikan
+1169|Bangun mesin cuaca, lepaskan badai raksasa, dan naiki papan peringkat mingguan di Storm Engine!
+1170|Disalin! Tempel di mana saja untuk membagikan.
+1171|IKLAN SESUAI MINATMU?
+1172|Pilihanmu, datamu
+1173|Storm Engine gratis. Iklan hanya diputar saat kamu memilih menonton satu untuk mendapat hadiah.
+1174|Mitra iklan kami bisa memakai ID iklan perangkatmu untuk menampilkan iklan sesuai minatmu. Tanpa itu kamu tetap mendapat semua hadiah, hanya saja iklannya kurang relevan. Kamu bisa mengubahnya kapan saja di Pengaturan.
+1175|Tidak, terima kasih
+1176|Izinkan
+1177|Aku baru saja melepaskan badai ({0}) dengan {1} poin di Storm Engine! Bisa kalahkan?
+1178|Kamu menemukan sebuah fenomena! Semua yang kamu buka dijelaskan di Stormpedia. Temukan di menu kanan atas.

@@ -1,0 +1,451 @@
+"""
+Google Play store listing texts for every language the game ships in. Running this file checks
+Google's limits (title 30, short description 80, full description 4000 characters) and writes
+Docs/PlayStore/STORE_LISTING.md, ready to paste into Play Console (Grow > Store presence > Store listings).
+
+Usage: python Tools/marketing/listing.py
+"""
+import io
+import os
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(os.path.dirname(HERE))
+OUT = os.path.join(ROOT, 'Docs', 'PlayStore', 'STORE_LISTING.md')
+
+# Play Console language codes for each game language.
+PLAY_CODES = {
+    'en': 'en-US', 'es': 'es-419 and es-ES', 'pt': 'pt-BR', 'fr': 'fr-FR', 'de': 'de-DE', 'it': 'it-IT',
+    'ru': 'ru-RU', 'tr': 'tr-TR', 'pl': 'pl-PL', 'id': 'id', 'vi': 'vi', 'th': 'th',
+}
+
+LISTING = {
+'en': dict(
+title="Storm Engine: Idle Storms",
+short="Build a weather machine, unleash epic storms and top the weekly leaderboards!",
+full="""⚡ Build the ultimate storm machine and unleash the biggest storms the world has ever seen!
+
+Storm Engine is a cozy idle game about engineering the weather. Pump up the pressure, heat the air, gather clouds, charge the Tesla coils and spin the wind turbines. Every machine powers a different part of the weather, and they all multiply each other into Storm Power.
+
+🌩️ UNLEASH EPIC STORMS
+When the storm chamber is charged, unleash a storm and watch lightning chain into massive combos. Fire your boosts at the right moment for Mega Storms and Perfect Windows.
+
+🌀 DISCOVER WILD PHENOMENA
+Push the right mix of heat, humidity, wind and electricity past their limits to discover Thunderstorms, Monsoons, Cyclones, Supercells and even a mysterious Anomaly.
+
+🏆 COMPETE EVERY WEEK
+Enter the Weekly Tournament with the engine you built. Tournament storms are replayed and checked by the server, so the global leaderboards stay fair. A new weather condition every Monday shakes up the best builds.
+
+🏝️ DECORATE YOUR ISLAND
+Place trees, ponds, balloons, statues and limited-time decorations on land, in the sky and on the water. Every new decoration adds a little Energy, and other players can fly over to visit your island.
+
+🎨 STYLE YOUR ENGINE
+Unlock machine skins, storm clouds, lightning bolts, whole worlds and titles. Every style gives a small bonus.
+
+✨ ALSO INSIDE
+• Modules and permanent research that bend the rules of the formula
+• Daily gifts, a login streak and three fresh missions every day
+• Offline progress with the Offline Generator
+• Cozy music and soothing weather sounds
+• Friendly tips for new players
+• Plays offline; leaderboards sync when you are online
+• 12 languages
+
+Build smart. Storm big."""),
+
+'es': dict(
+title="Storm Engine: Tormentas Idle",
+short="¡Construye una máquina del clima, desata tormentas épicas y lidera cada semana!",
+full="""⚡ ¡Construye la máquina de tormentas definitiva y desata las tormentas más grandes jamás vistas!
+
+Storm Engine es un juego idle relajante sobre la ingeniería del clima. Sube la presión, calienta el aire, reúne nubes, carga las bobinas Tesla y haz girar las turbinas. Cada máquina impulsa una parte distinta del clima y todas se multiplican entre sí para crear Poder de Tormenta.
+
+🌩️ DESATA TORMENTAS ÉPICAS
+Cuando la cámara esté cargada, desata una tormenta y mira cómo los rayos se encadenan en combos enormes. Usa tus potenciadores en el momento justo para lograr Megatormentas y Ventanas Perfectas.
+
+🌀 DESCUBRE FENÓMENOS SALVAJES
+Lleva la mezcla justa de calor, humedad, viento y electricidad al límite para descubrir tormentas eléctricas, monzones, ciclones, supercélulas e incluso una misteriosa Anomalía.
+
+🏆 COMPITE CADA SEMANA
+Entra al Torneo Semanal con el motor que construiste. El servidor repite y comprueba cada tormenta del torneo para que las clasificaciones mundiales sean justas. Cada lunes llega una nueva condición climática que cambia las mejores estrategias.
+
+🏝️ DECORA TU ISLA
+Coloca árboles, estanques, globos, estatuas y decoraciones por tiempo limitado en tierra, en el cielo y en el agua. Cada decoración nueva suma un poco de Energía, y otros jugadores pueden visitar tu isla.
+
+🎨 DALE ESTILO A TU MOTOR
+Desbloquea aspectos, nubes, rayos, mundos completos y títulos. Cada estilo da una pequeña bonificación.
+
+✨ Y ADEMÁS
+• Módulos e investigación permanente que cambian las reglas de la fórmula
+• Regalos diarios, racha de días y tres misiones nuevas cada día
+• Progreso sin conexión con el Generador sin conexión
+• Música relajante y sonidos de lluvia y viento
+• Consejos amables para nuevos jugadores
+• Se juega sin conexión; las clasificaciones se sincronizan al conectarte
+• 12 idiomas
+
+Construye con cabeza. Desata a lo grande."""),
+
+'pt': dict(
+title="Storm Engine: Tempestades Idle",
+short="Construa uma máquina do clima, libere tempestades épicas e lidere o ranking!",
+full="""⚡ Construa a máquina de tempestades definitiva e libere as maiores tempestades já vistas!
+
+Storm Engine é um jogo idle aconchegante sobre engenharia do clima. Aumente a pressão, aqueça o ar, junte nuvens, carregue as bobinas Tesla e gire as turbinas de vento. Cada máquina alimenta uma parte diferente do clima, e todas se multiplicam em Poder da Tempestade.
+
+🌩️ LIBERE TEMPESTADES ÉPICAS
+Quando a câmara estiver carregada, libere uma tempestade e veja os raios se encadearem em combos gigantes. Use seus impulsos na hora certa para Megatempestades e Janelas Perfeitas.
+
+🌀 DESCUBRA FENÔMENOS SELVAGENS
+Leve a mistura certa de calor, umidade, vento e eletricidade ao limite para descobrir tempestades elétricas, monções, ciclones, supercélulas e até uma misteriosa Anomalia.
+
+🏆 COMPITA TODA SEMANA
+Entre no Torneio Semanal com o motor que você construiu. O servidor reproduz e confere cada tempestade do torneio, então os rankings mundiais são justos. Toda segunda-feira uma nova condição climática muda as melhores estratégias.
+
+🏝️ DECORE SUA ILHA
+Coloque árvores, lagos, balões, estátuas e decorações por tempo limitado na terra, no céu e na água. Cada decoração nova rende um pouco de Energia, e outros jogadores podem visitar sua ilha.
+
+🎨 DEIXE O MOTOR COM A SUA CARA
+Desbloqueie visuais, nuvens, raios, mundos inteiros e títulos. Cada estilo dá um pequeno bônus.
+
+✨ E TEM MAIS
+• Módulos e pesquisa permanente que mudam as regras da fórmula
+• Presentes diários, sequência de dias e três missões novas por dia
+• Progresso offline com o Gerador Offline
+• Música aconchegante e sons relaxantes de chuva e vento
+• Dicas amigáveis para novos jogadores
+• Funciona offline; os rankings sincronizam quando você estiver online
+• 12 idiomas
+
+Construa com inteligência. Tempestade em grande."""),
+
+'fr': dict(
+title="Storm Engine : Tempêtes Idle",
+short="Construis une machine météo, déchaîne des tempêtes et grimpe au classement !",
+full="""⚡ Construis la machine à tempêtes ultime et déchaîne les plus grandes tempêtes jamais vues !
+
+Storm Engine est un jeu idle relaxant où tu fabriques la météo. Augmente la pression, chauffe l'air, rassemble les nuages, charge les bobines Tesla et fais tourner les éoliennes. Chaque machine alimente une partie différente de la météo, et toutes se multiplient entre elles en Puissance de Tempête.
+
+🌩️ DÉCHAÎNE DES TEMPÊTES ÉPIQUES
+Quand la chambre est chargée, déchaîne une tempête et regarde les éclairs s'enchaîner en combos géants. Déclenche tes boosts au bon moment pour des Méga-tempêtes et des Fenêtres Parfaites.
+
+🌀 DÉCOUVRE DES PHÉNOMÈNES FOUS
+Pousse le bon mélange de chaleur, d'humidité, de vent et d'électricité au-delà des limites pour découvrir orages, moussons, cyclones, supercellules et même une mystérieuse Anomalie.
+
+🏆 AFFRONTE LE MONDE CHAQUE SEMAINE
+Entre dans le Tournoi Hebdomadaire avec le moteur que tu as construit. Le serveur rejoue et vérifie chaque tempête du tournoi : les classements mondiaux restent équitables. Chaque lundi, une nouvelle condition météo bouscule les meilleures configurations.
+
+🏝️ DÉCORE TON ÎLE
+Place des arbres, des mares, des montgolfières, des statues et des décorations en édition limitée sur terre, dans le ciel et sur l'eau. Chaque nouvelle décoration ajoute un peu d'Énergie, et les autres joueurs peuvent venir visiter ton île.
+
+🎨 PERSONNALISE TON MOTEUR
+Débloque des skins, des nuages, des éclairs, des mondes entiers et des titres. Chaque style donne un petit bonus.
+
+✨ ET AUSSI
+• Des modules et une recherche permanente qui changent les règles de la formule
+• Cadeaux quotidiens, série de connexions et trois nouvelles missions chaque jour
+• Progression hors ligne avec le Générateur hors ligne
+• Musique douce et sons apaisants de pluie et de vent
+• Des conseils bienveillants pour débuter
+• Jouable hors ligne ; les classements se synchronisent dès que tu es connecté
+• 12 langues
+
+Construis malin. Tempête en grand."""),
+
+'de': dict(
+title="Storm Engine: Idle-Stürme",
+short="Baue eine Wettermaschine, entfessle epische Stürme und erobere die Rangliste!",
+full="""⚡ Baue die ultimative Sturmmaschine und entfessle die größten Stürme aller Zeiten!
+
+Storm Engine ist ein gemütliches Idle-Spiel, in dem du das Wetter konstruierst. Erhöhe den Druck, heize die Luft auf, sammle Wolken, lade die Teslaspulen und lass die Windturbinen kreisen. Jede Maschine treibt einen anderen Teil des Wetters an, und alle multiplizieren sich zur Sturmkraft.
+
+🌩️ ENTFESSLE EPISCHE STÜRME
+Ist die Sturmkammer geladen, entfesselst du einen Sturm und siehst zu, wie sich Blitze zu riesigen Kombos verketten. Zünde deine Boosts im richtigen Moment für Megastürme und perfekte Fenster.
+
+🌀 ENTDECKE WILDE PHÄNOMENE
+Treib die richtige Mischung aus Hitze, Feuchtigkeit, Wind und Elektrizität über ihre Grenzen und entdecke Gewitter, Monsune, Zyklone, Superzellen und sogar eine geheimnisvolle Anomalie.
+
+🏆 TRITT JEDE WOCHE AN
+Tritt mit deinem selbst gebauten Motor im Wochenturnier an. Der Server spielt jeden Turniersturm nach und prüft ihn, damit die weltweiten Ranglisten fair bleiben. Jeden Montag bringt eine neue Wetterlage die besten Aufbauten durcheinander.
+
+🏝️ GESTALTE DEINE INSEL
+Stell Bäume, Teiche, Ballons, Statuen und zeitlich begrenzte Dekorationen an Land, in den Himmel und aufs Wasser. Jede neue Deko bringt etwas Energie, und andere Spieler können deine Insel besuchen.
+
+🎨 GIB DEINEM MOTOR STIL
+Schalte Skins, Sturmwolken, Blitze, ganze Welten und Titel frei. Jeder Stil gibt einen kleinen Bonus.
+
+✨ AUSSERDEM
+• Module und dauerhafte Forschung, die die Regeln der Formel verbiegen
+• Tägliche Geschenke, Login-Serie und jeden Tag drei neue Missionen
+• Offline-Fortschritt mit dem Offline-Generator
+• Gemütliche Musik und beruhigende Wettergeräusche
+• Freundliche Tipps für den Einstieg
+• Offline spielbar; die Ranglisten synchronisieren, sobald du online bist
+• 12 Sprachen
+
+Clever bauen. Groß stürmen."""),
+
+'it': dict(
+title="Storm Engine: Tempeste Idle",
+short="Costruisci una macchina del meteo, scatena tempeste e scala le classifiche!",
+full="""⚡ Costruisci la macchina delle tempeste definitiva e scatena le tempeste più grandi mai viste!
+
+Storm Engine è un gioco idle rilassante in cui progetti il meteo. Aumenta la pressione, scalda l'aria, raduna le nuvole, carica le bobine Tesla e fai girare le turbine eoliche. Ogni macchina alimenta una parte diversa del meteo, e tutte si moltiplicano tra loro in Potenza della Tempesta.
+
+🌩️ SCATENA TEMPESTE EPICHE
+Quando la camera è carica, scatena una tempesta e guarda i fulmini concatenarsi in combo enormi. Attiva i potenziamenti al momento giusto per Mega Tempeste e Finestre Perfette.
+
+🌀 SCOPRI FENOMENI INCREDIBILI
+Spingi oltre i limiti il giusto mix di calore, umidità, vento ed elettricità per scoprire temporali, monsoni, cicloni, supercelle e persino una misteriosa Anomalia.
+
+🏆 SFIDA IL MONDO OGNI SETTIMANA
+Partecipa al Torneo Settimanale con il motore che hai costruito. Il server rigioca e controlla ogni tempesta del torneo, così le classifiche mondiali restano leali. Ogni lunedì una nuova condizione meteo rimescola le strategie migliori.
+
+🏝️ DECORA LA TUA ISOLA
+Posiziona alberi, laghetti, mongolfiere, statue e decorazioni a tempo limitato sulla terra, nel cielo e sull'acqua. Ogni nuova decorazione aggiunge un po' di Energia, e gli altri giocatori possono venire a visitare la tua isola.
+
+🎨 DAI STILE AL TUO MOTORE
+Sblocca skin, nuvole, fulmini, mondi interi e titoli. Ogni stile dà un piccolo bonus.
+
+✨ E INOLTRE
+• Moduli e ricerca permanente che cambiano le regole della formula
+• Regali giornalieri, serie di accessi e tre nuove missioni ogni giorno
+• Progressi offline con il Generatore Offline
+• Musica rilassante e suoni della pioggia e del vento
+• Consigli amichevoli per chi inizia
+• Si gioca offline; le classifiche si sincronizzano quando sei online
+• 12 lingue
+
+Costruisci con astuzia. Tempesta in grande."""),
+
+'ru': dict(
+title="Storm Engine: Idle-бури",
+short="Постройте погодную машину, устраивайте бури и покоряйте рейтинги!",
+full="""⚡ Постройте идеальную машину бурь и устройте самые большие бури в истории!
+
+Storm Engine — уютная idle-игра о конструировании погоды. Повышайте давление, нагревайте воздух, собирайте облака, заряжайте катушки Тесла и раскручивайте ветряки. Каждая машина усиливает свою часть погоды, а все вместе они перемножаются в Силу бури.
+
+🌩️ УСТРАИВАЙТЕ ЭПИЧЕСКИЕ БУРИ
+Когда камера заряжена, выпускайте бурю и смотрите, как молнии складываются в огромные цепочки. Включайте ускорения в нужный момент, чтобы получить Мегабури и Идеальные окна.
+
+🌀 ОТКРЫВАЙТЕ ДИКИЕ ЯВЛЕНИЯ
+Подберите нужное сочетание жары, влажности, ветра и электричества, чтобы открыть грозы, муссоны, циклоны, суперячейки и даже загадочную Аномалию.
+
+🏆 СОРЕВНУЙТЕСЬ КАЖДУЮ НЕДЕЛЮ
+Участвуйте в Еженедельном турнире с двигателем, который собрали сами. Сервер переигрывает и проверяет каждую турнирную бурю, поэтому мировые рейтинги честные. Каждый понедельник новые погодные условия меняют лучшие сборки.
+
+🏝️ УКРАШАЙТЕ ОСТРОВ
+Ставьте деревья, пруды, воздушные шары, статуи и ограниченные украшения на земле, в небе и на воде. Каждое новое украшение немного увеличивает доход энергии, а другие игроки могут прилететь к вам в гости.
+
+🎨 СТИЛЬ ДЛЯ ДВИГАТЕЛЯ
+Открывайте облики, облака, молнии, целые миры и титулы. Каждый стиль даёт небольшой бонус.
+
+✨ А ТАКЖЕ
+• Модули и постоянные исследования, меняющие правила формулы
+• Ежедневные подарки, серия входов и три новых задания каждый день
+• Прогресс офлайн с Офлайн-генератором
+• Уютная музыка и успокаивающие звуки дождя и ветра
+• Дружелюбные подсказки для новичков
+• Можно играть офлайн; рейтинги синхронизируются при подключении
+• 12 языков
+
+Стройте с умом. Бурьте с размахом."""),
+
+'tr': dict(
+title="Storm Engine: Idle Fırtınalar",
+short="Hava makineni kur, efsane fırtınalar kopar, haftalık sıralamada zirveye çık!",
+full="""⚡ En güçlü fırtına makinesini kur ve dünyanın gördüğü en büyük fırtınaları kopar!
+
+Storm Engine, havayı tasarladığın rahatlatıcı bir idle oyunu. Basıncı artır, havayı ısıt, bulutları topla, Tesla bobinlerini doldur ve rüzgâr türbinlerini döndür. Her makine havanın farklı bir parçasını güçlendirir ve hepsi birbiriyle çarpılarak Fırtına Gücü'ne dönüşür.
+
+🌩️ EFSANE FIRTINALAR KOPAR
+Fırtına odası dolunca bir fırtına başlat ve şimşeklerin dev kombolara dönüşmesini izle. Mega Fırtınalar ve Kusursuz Pencereler için güçlendirmeleri doğru anda kullan.
+
+🌀 VAHŞİ OLAYLAR KEŞFET
+Sıcaklık, nem, rüzgâr ve elektriğin doğru karışımını sınırlarına kadar zorla; gök gürültülü fırtınaları, musonları, siklonları, süper hücreleri ve gizemli Anomali'yi keşfet.
+
+🏆 HER HAFTA YARIŞ
+Kendi kurduğun motorla Haftalık Turnuva'ya katıl. Sunucu her turnuva fırtınasını yeniden oynatıp kontrol eder, böylece dünya sıralamaları adil kalır. Her pazartesi gelen yeni hava koşulu en iyi düzenleri değiştirir.
+
+🏝️ ADANI SÜSLE
+Karaya, gökyüzüne ve suya ağaçlar, göletler, balonlar, heykeller ve sınırlı süreli süslemeler yerleştir. Her yeni süsleme biraz Enerji kazandırır ve diğer oyuncular adanı ziyaret edebilir.
+
+🎨 MOTORUNA TARZ KAT
+Görünümlerin, bulutların, şimşeklerin, tüm dünyaların ve unvanların kilidini aç. Her tarz küçük bir bonus verir.
+
+✨ AYRICA
+• Formülün kurallarını değiştiren modüller ve kalıcı araştırmalar
+• Günlük hediyeler, giriş serisi ve her gün üç yeni görev
+• Çevrimdışı Jeneratör ile çevrimdışı ilerleme
+• Rahatlatıcı müzik ve huzur veren hava sesleri
+• Yeni oyuncular için dostça ipuçları
+• Çevrimdışı oynanabilir; sıralamalar çevrimiçi olduğunda eşitlenir
+• 12 dil
+
+Akıllıca kur. Büyük fırtınalar kopar."""),
+
+'pl': dict(
+title="Storm Engine: Burze Idle",
+short="Zbuduj maszynę pogodową, rozpętuj burze i zdobądź szczyt rankingu!",
+full="""⚡ Zbuduj najlepszą maszynę do burz i rozpętaj największe burze, jakie widział świat!
+
+Storm Engine to przytulna gra idle o projektowaniu pogody. Zwiększaj ciśnienie, podgrzewaj powietrze, zbieraj chmury, ładuj cewki Tesli i rozkręcaj turbiny wiatrowe. Każda maszyna napędza inną część pogody, a wszystkie mnożą się nawzajem w Moc Burzy.
+
+🌩️ ROZPĘTAJ EPICKIE BURZE
+Gdy komora jest naładowana, uwolnij burzę i patrz, jak pioruny łączą się w gigantyczne kombo. Odpalaj wzmocnienia we właściwym momencie, by zdobyć Megaburze i Idealne Okna.
+
+🌀 ODKRYWAJ DZIKIE ZJAWISKA
+Wypchnij właściwą mieszankę ciepła, wilgoci, wiatru i elektryczności ponad granice, by odkryć burze z piorunami, monsuny, cyklony, superkomórki, a nawet tajemniczą Anomalię.
+
+🏆 RYWALIZUJ CO TYDZIEŃ
+Weź udział w Cotygodniowym Turnieju z silnikiem, który sam zbudowałeś. Serwer odtwarza i sprawdza każdą turniejową burzę, więc światowe rankingi są uczciwe. Co poniedziałek nowe warunki pogodowe zmieniają najlepsze konfiguracje.
+
+🏝️ UDEKORUJ WYSPĘ
+Stawiaj drzewa, stawy, balony, posągi i limitowane dekoracje na lądzie, w powietrzu i na wodzie. Każda nowa dekoracja dodaje trochę Energii, a inni gracze mogą odwiedzić twoją wyspę.
+
+🎨 NADAJ SILNIKOWI STYL
+Odblokuj skórki, chmury, pioruny, całe światy i tytuły. Każdy styl daje mały bonus.
+
+✨ A TAKŻE
+• Moduły i stałe badania, które naginają zasady formuły
+• Codzienne prezenty, seria logowań i trzy nowe misje każdego dnia
+• Postęp offline dzięki Generatorowi offline
+• Przytulna muzyka i kojące odgłosy pogody
+• Przyjazne wskazówki dla nowych graczy
+• Działa offline; rankingi synchronizują się po połączeniu
+• 12 języków
+
+Buduj mądrze. Burz z rozmachem."""),
+
+'id': dict(
+title="Storm Engine: Badai Idle",
+short="Bangun mesin cuaca, lepaskan badai epik, dan kuasai peringkat mingguan!",
+full="""⚡ Bangun mesin badai terhebat dan lepaskan badai terbesar yang pernah ada!
+
+Storm Engine adalah game idle santai tentang merekayasa cuaca. Naikkan tekanan, panaskan udara, kumpulkan awan, isi kumparan Tesla, dan putar turbin angin. Setiap mesin memperkuat bagian cuaca yang berbeda, dan semuanya saling mengalikan menjadi Kekuatan Badai.
+
+🌩️ LEPASKAN BADAI EPIK
+Saat ruang badai terisi, lepaskan badai dan lihat petir berantai menjadi kombo raksasa. Pakai penguat di saat yang tepat untuk Badai Mega dan Jendela Sempurna.
+
+🌀 TEMUKAN FENOMENA LIAR
+Dorong campuran panas, kelembapan, angin, dan listrik yang tepat melewati batasnya untuk menemukan badai petir, monsun, siklon, superkel, bahkan Anomali yang misterius.
+
+🏆 BERTANDING SETIAP MINGGU
+Ikuti Turnamen Mingguan dengan mesin yang kamu bangun sendiri. Server memutar ulang dan memeriksa setiap badai turnamen, jadi papan peringkat dunia tetap adil. Kondisi cuaca baru setiap Senin mengubah strategi terbaik.
+
+🏝️ HIAS PULAUMU
+Taruh pohon, kolam, balon, patung, dan dekorasi terbatas di darat, di langit, dan di air. Setiap dekorasi baru menambah sedikit Energi, dan pemain lain bisa mengunjungi pulaumu.
+
+🎨 PERCANTIK MESINMU
+Buka skin, awan badai, petir, dunia, dan gelar. Setiap gaya memberi bonus kecil.
+
+✨ MASIH ADA LAGI
+• Modul dan riset permanen yang mengubah aturan rumus
+• Hadiah harian, hari beruntun, dan tiga misi baru setiap hari
+• Progres offline dengan Generator Offline
+• Musik santai dan suara cuaca yang menenangkan
+• Tips ramah untuk pemain baru
+• Bisa dimainkan offline; papan peringkat tersinkron saat online
+• 12 bahasa
+
+Bangun dengan cerdas. Badai besar-besaran."""),
+
+'vi': dict(
+title="Storm Engine: Bão Idle",
+short="Xây cỗ máy thời tiết, thả bão hoành tráng và dẫn đầu bảng xếp hạng tuần!",
+full="""⚡ Xây cỗ máy tạo bão đỉnh nhất và thả những cơn bão lớn nhất từng thấy!
+
+Storm Engine là trò chơi idle thư giãn về thiết kế thời tiết. Tăng áp suất, làm nóng không khí, gom mây, sạc cuộn Tesla và quay tua-bin gió. Mỗi cỗ máy tiếp sức cho một phần khác nhau của thời tiết, và tất cả nhân với nhau thành Sức mạnh Bão.
+
+🌩️ THẢ NHỮNG CƠN BÃO HOÀNH TRÁNG
+Khi buồng bão đã sạc đầy, hãy thả bão và xem sét nối chuỗi thành combo khổng lồ. Dùng tăng cường đúng lúc để tạo Siêu Bão và Khung Hoàn hảo.
+
+🌀 KHÁM PHÁ HIỆN TƯỢNG HOANG DÃ
+Đẩy đúng tổ hợp nhiệt, độ ẩm, gió và điện vượt ngưỡng để khám phá giông bão, gió mùa, lốc xoáy, siêu tế bào và cả một Dị thường bí ẩn.
+
+🏆 THI ĐẤU MỖI TUẦN
+Tham gia Giải đấu Tuần với động cơ do chính bạn xây. Máy chủ phát lại và kiểm tra từng cơn bão giải đấu nên bảng xếp hạng toàn cầu luôn công bằng. Mỗi thứ Hai, một điều kiện thời tiết mới làm thay đổi cấu hình tốt nhất.
+
+🏝️ TRANG TRÍ HÒN ĐẢO
+Đặt cây, ao, khinh khí cầu, tượng và vật trang trí giới hạn trên đất, trên trời và dưới nước. Mỗi vật trang trí mới thêm chút Năng lượng, và người chơi khác có thể ghé thăm đảo của bạn.
+
+🎨 PHONG CÁCH CHO ĐỘNG CƠ
+Mở khóa diện mạo, mây bão, tia sét, cả thế giới và danh hiệu. Mỗi phong cách đều có một phần thưởng nhỏ.
+
+✨ CÒN NỮA
+• Mô-đun và nghiên cứu vĩnh viễn thay đổi luật của công thức
+• Quà hằng ngày, chuỗi ngày đăng nhập và ba nhiệm vụ mới mỗi ngày
+• Tiến trình ngoại tuyến với Máy phát Ngoại tuyến
+• Nhạc thư giãn và âm thanh thời tiết êm dịu
+• Mẹo thân thiện cho người mới
+• Chơi được ngoại tuyến; bảng xếp hạng đồng bộ khi bạn trực tuyến
+• 12 ngôn ngữ
+
+Xây thông minh. Bão thật lớn."""),
+
+'th': dict(
+title="Storm Engine: พายุ Idle",
+short="สร้างเครื่องจักรสภาพอากาศ ปล่อยพายุสุดยิ่งใหญ่ และขึ้นอันดับหนึ่งทุกสัปดาห์!",
+full="""⚡ สร้างเครื่องจักรพายุสุดยอด แล้วปล่อยพายุที่ยิ่งใหญ่ที่สุดเท่าที่โลกเคยเห็น!
+
+Storm Engine คือเกม idle สบาย ๆ เกี่ยวกับการออกแบบสภาพอากาศ เพิ่มความดัน ทำให้อากาศร้อน รวบรวมเมฆ ชาร์จขดลวดเทสลา และหมุนกังหันลม เครื่องจักรแต่ละเครื่องเสริมพลังให้สภาพอากาศคนละส่วน และทั้งหมดคูณกันเป็นพลังพายุ
+
+🌩️ ปล่อยพายุสุดยิ่งใหญ่
+เมื่อห้องพายุชาร์จเต็ม ให้ปล่อยพายุแล้วดูสายฟ้าต่อกันเป็นคอมโบยักษ์ ใช้บูสต์ให้ถูกจังหวะเพื่อสร้างมหาพายุและช่วงเพอร์เฟกต์
+
+🌀 ค้นพบปรากฏการณ์สุดตื่นตา
+ผสมความร้อน ความชื้น ลม และไฟฟ้าให้ถูกสูตรจนเกินขีดจำกัด เพื่อค้นพบพายุฝนฟ้าคะนอง มรสุม ไซโคลน ซูเปอร์เซลล์ และอากาศวิปริตสุดลึกลับ
+
+🏆 แข่งขันทุกสัปดาห์
+เข้าร่วมทัวร์นาเมนต์ประจำสัปดาห์ด้วยเครื่องยนต์ที่คุณสร้างเอง เซิร์ฟเวอร์จะเล่นซ้ำและตรวจสอบพายุทัวร์นาเมนต์ทุกลูก กระดานผู้นำระดับโลกจึงยุติธรรม ทุกวันจันทร์มีสภาวะอากาศใหม่ที่เปลี่ยนวิธีจัดเครื่องยนต์ที่ดีที่สุด
+
+🏝️ ตกแต่งเกาะของคุณ
+วางต้นไม้ บ่อน้ำ บอลลูน รูปปั้น และของตกแต่งจำนวนจำกัดบนบก บนฟ้า และบนน้ำ ของตกแต่งแบบใหม่แต่ละชิ้นเพิ่มพลังงานเล็กน้อย และผู้เล่นอื่นสามารถบินมาเยี่ยมเกาะของคุณได้
+
+🎨 แต่งสไตล์เครื่องยนต์
+ปลดล็อกสกิน เมฆพายุ สายฟ้า โลกทั้งใบ และฉายา ทุกสไตล์ให้โบนัสเล็กน้อย
+
+✨ และยังมีอีก
+• โมดูลและงานวิจัยถาวรที่พลิกกฎของสูตร
+• ของขวัญรายวัน สตรีคการเข้าเล่น และภารกิจใหม่สามอย่างทุกวัน
+• ความคืบหน้าแบบออฟไลน์ด้วยเครื่องกำเนิดออฟไลน์
+• เพลงสบาย ๆ และเสียงสภาพอากาศที่ผ่อนคลาย
+• เคล็ดลับที่เป็นมิตรสำหรับผู้เล่นใหม่
+• เล่นแบบออฟไลน์ได้ กระดานผู้นำจะซิงค์เมื่อออนไลน์
+• 12 ภาษา
+
+สร้างอย่างฉลาด พายุอย่างยิ่งใหญ่"""),
+}
+
+
+def main():
+    problems = []
+    lines = ['# Google Play store listing', '',
+             'Generated by `python Tools/marketing/listing.py` (it checks the length limits). Paste each block into',
+             'Play Console > Grow > Store presence > Main store listing (English) and add the others under',
+             '"Manage translations > Add your own translations". Graphics: `Tools/marketing/store/`.', '',
+             '| Setting | Value |', '|---|---|',
+             '| App category | Games > Simulation (alternative: Casual) |',
+             '| Tags | Idle, Simulation, Casual, Relaxing, Single player, Stylized |',
+             '| Contact email | your support address (required, shown publicly) |',
+             '| Website | your game page (needed later for app-ads.txt) |',
+             '| Privacy policy | the public URL of Docs/Website/privacy.html |', '']
+    for lang, v in LISTING.items():
+        t, s, f = v['title'], v['short'], v['full']
+        for label, text, limit in (('title', t, 30), ('short', s, 80), ('full', f, 4000)):
+            if len(text) > limit:
+                problems.append('%s %s is %d characters (limit %d)' % (lang, label, len(text), limit))
+        lines += ['## %s (Play: %s)' % (lang, PLAY_CODES[lang]), '',
+                  '**Title** (%d/30)' % len(t), '', '```', t, '```', '',
+                  '**Short description** (%d/80)' % len(s), '', '```', s, '```', '',
+                  '**Full description** (%d/4000)' % len(f), '', '```', f, '```', '']
+    os.makedirs(os.path.dirname(OUT), exist_ok=True)
+    with io.open(OUT, 'w', encoding='utf-8', newline='\n') as out:
+        out.write('\n'.join(lines))
+    if problems:
+        print('\n'.join(problems))
+        raise SystemExit(1)
+    print('listing OK ->', OUT)
+
+
+if __name__ == '__main__':
+    main()

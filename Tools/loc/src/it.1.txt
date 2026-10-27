@@ -1,0 +1,398 @@
+1|Groppo
+2|{0} g {1} h
+3|{0} h {1} min
+4|{0} min {1} s
+5|{0} s
+6|i servizi online non sono ancora configurati in questa versione.
+7|impossibile raggiungere i server del gioco.
+8|Risposta vuota dal server.
+9|Verificato dal server.
+10|Scrittura in classifica non riuscita; nuovo tentativo in seguito.
+11|Il server ha rifiutato la tempesta: {0}
+12|Invio non riuscito: {0}
+13|Verifica locale non riuscita: {0}
+14|Inviato senza verifica del server (modalità sviluppo).
+15|Questa classifica non è ancora disponibile.
+16|Impossibile caricare la classifica. Controlla la connessione.
+17|Semplice
+18|Bilanciata
+19|Alta
+20|Batteria scarica: il gioco va a 30 FPS per risparmiare energia.
+21|Grafica impostata su {0} per mantenere il gioco fluido. Puoi cambiarla nelle Impostazioni.
+22|Il tuo regalo del giorno è pronto
+23|Il regalo di oggi e tre nuove missioni ti stanno ancora aspettando.
+24|Mantieni la tua serie di {0} giorni! Il regalo del giorno {1} ti aspetta.
+25|Ti aspettano un nuovo regalo e tre nuove missioni.
+26|Generatore Offline pieno
+27|Il tuo motore ha accumulato tutta l'Energia che può. Torna a raccoglierla e tienilo in funzione!
+28|Il torneo sta per finire
+29|Il torneo di questa settimana è quasi finito. Un'altra tempesta potrebbe farti salire in classifica!
+30|Una nuova settimana di torneo
+31|Condizione di questa settimana: {0}. Riscuoti il premio della settimana scorsa e partecipa!
+32|Anche il tuo regalo del giorno è pronto.
+33|Negozio simulato
+34|Non disponibile
+35|Il negozio non è disponibile al momento.
+36|Gli acquisti non sono disponibili in questa versione.
+37|ACQUISTO DI PROVA
+38|Negozio simulato (Editor / versione di sviluppo). Fingere di acquistare {0} per {1}?
+39|Acquista (prova)
+40|{0} acquistato! +{1} Gemme.
+41|{0} ripristinato.
+42|Le Ricompense giornaliere si sbloccano al Livello Motore {0}.
+43|Regalo del giorno {0}: {1}!
+44|VUOI UN PROMEMORIA?
+45|Vuoi un avviso quando il prossimo regalo del giorno è pronto o il torneo settimanale sta per chiudere? Al massimo pochi a settimana, mai di notte.
+46|Ricordamelo
+47|I promemoria sono disattivati. Puoi attivarli nelle Impostazioni.
+48|Non ora
+49|Premio missione: {0}
+50|Tutte le missioni completate! {0}
+51|Aspetta prima che finisca la tempesta.
+52|Sviluppatore: tutto sbloccato (+100K Gemme, +100K Nuclei, +10K Ricerca).
+53|Questa ricompensa è esaurita per oggi. Torna domani!
+54|Nessuna pubblicità disponibile al momento. Riprova tra poco.
+55|La pubblicità è stata saltata, quindi niente ricompensa questa volta.
+56|+{0} Gemme!
+57|Ondata di Energia! Guadagno x{0} per {1}.
+58|Camera della tempesta completamente carica!
+59|+1 tentativo al torneo oggi.
+60|+{0} Nuclei di Tempesta!
+61|Energia offline raddoppiata!
+62|Nuova musica sbloccata: {0}!
+63|un nuovo brano
+64|Serie salvata! {0} giorni e si continua.
+65|{0}: {1}/{2} pubblicità guardate.
+66|Ti servono altre {0} Gemme.
+67|{0} sbloccato ed equipaggiato!
+68|ACQUISTARE {0}?
+69|Spendere {0} Gemme per {1}?
+70|Bonus: {0}.
+71|Acquista per {0}
+72|Il Torneo Settimanale si sblocca al Livello Motore {0}.
+73|Aspetta prima che finisca la tempesta in corso.
+74|Nessun tentativo rimasto oggi. Si ricaricano a mezzanotte (UTC), oppure guarda una pubblicità per averne uno in più.
+75|Nessun tentativo rimasto oggi. Si ricaricano a mezzanotte (UTC).
+76|La tua isola è piena. Espandila o metti via prima una decorazione.
+77|Le decorazioni acquatiche galleggiano su uno stagno. Posiziona prima uno Stagno (ognuno ne ospita tre).
+78|Puoi possedere fino a {0} copie di {1}.
+79|Ti servono altri {0} Nuclei di Tempesta.
+80|Bonus collezione +{0} Energia.
+81|{0} posizionato sulla tua isola!
+82|{0} acquistato e messo via (nessuno spazio libero).
+83|Nessuno spazio libero nello stagno. Ogni stagno ospita tre decorazioni acquatiche.
+84|Non ci sono più spazi liberi. Riorganizza o espandi l'isola.
+85|Metti via prima le decorazioni acquatiche di questo stagno.
+86|Spendere {0} Gemme?
+87|Espandi per {0}
+88|{0}! La tua isola è cresciuta.
+89|Questa è la tua isola!
+90|Per visitare altri giocatori serve una connessione.
+91|In volo verso l'isola di {0}...
+92|{0} non ha ancora aperto la sua isola ai visitatori.
+93|Termina la tempesta in corso prima di fare visita.
+94|Partita salvata.
+95|Impossibile salvare la partita.
+96|SALVATAGGIO CLOUD TROVATO
+97|Il tuo salvataggio cloud è più avanti ({0} di Energia totale, {1} reset) di questo dispositivo ({2}, {3} reset). Caricarlo?
+98|Carica salvataggio cloud
+99|{0} si sblocca con {1} Liv. {2}.
+100|{0} sbloccato ed equipaggiato.
+101|{0} sbloccato.
+102|Tutti gli slot per moduli sono pieni. Rimuovine prima uno.
+103|{0} costruito!
+104|{0} migliorato al Liv. {1}.
+105|I miglioramenti sono bloccati durante una tempesta.
+106|RESETTARE L'ATMOSFERA?
+107|Otterrai {0} di Ricerca. L'Energia e i livelli delle macchine tornano a zero. Moduli, Nuclei di Tempesta, Ricerca, scoperte e record vengono conservati.
+108|Resetta per +{0}
+109|Atmosfera resettata! +{0} di Ricerca.
+110|CANCELLARE TUTTI I PROGRESSI?
+111|Questo elimina per sempre il tuo salvataggio locale. Le voci in classifica restano online. Non si può annullare.
+112|Cancella tutto
+113|Nuvole alla deriva
+114|Ambient
+115|Tappeti sonori lenti e caldi che scorrono via.
+116|Focolare accogliente
+117|Accogliente
+118|Tasti morbidi, basso rotondo e un ritmo pigro.
+119|Finestra piovosa
+120|Pianoforte dolce con la pioggia sul vetro.
+121|Cielo stellato
+122|Bordoni profondi e scintillii lontani.
+123|Prato del mattino
+124|Chitarra pizzicata dolcemente al sole.
+125|Offline
+126|I servizi online non sono installati. Gioco offline.
+127|Connessione...
+128|Online come {0}
+129|Offline. I progressi vengono salvati sul dispositivo e le tempeste saranno inviate più tardi.
+130|Offline: {0}
+131|Il Torneo Settimanale si sblocca al Livello Motore {0}. Premi GIOCA e potenzia il tuo motore!
+132|Liv. {0}
+133|{0} si sblocca al Livello Motore {1}.
+134|Il Negozio di Stili si sblocca al Livello Motore {0}.
+135|Il Laboratorio Atmosferico si sblocca al Livello Motore {0}: scompone ogni moltiplicatore.
+136|In carica {0}
+137|Tempesta del torneo! Usa i potenziamenti durante la tempesta per accumulare catene.
+138|Aspetta che finisca la tempesta prima di riorganizzare.
+139|Non c'è spazio lì
+140|CATENA {0}!
+141|Nuovo record personale! {0} ha fatto {1}  (+{2} nuclei)
+142|Tempesta {0}: {1}  (+{2} nuclei)
+143|+{0} gemme
+144|+{0} nuclei
+145|+{0} PE
+146|Obiettivo completato: {0}
+147|Nuova macchina disponibile: {0}
+148|Missione giornaliera completata: {0}. Tocca il regalo per riscuoterla!
+149|Un nuovo giorno! Il tuo regalo del giorno e nuove missioni ti aspettano.
+150|Annulla
+151|POTENZA DELLA TEMPESTA
+152|Temperatura
+153|Umidità
+154|Vento
+155|Nuvole
+156|Elettricità
+157|Sinergia
+158|Pressione
+159|OBIETTIVO
+160|+Energia
+162|+15 min
+164|+{0} Nuclei
+165|Carica ora
+166|PRONTO
+167|IN CARICA
+168|TEMPESTA
+169|mancano {0}
+170|SCATENA!
+171|Previsione {0}
+172|Tempesta automatica attiva
+173|TORNEO SETTIMANALE
+174|GROPPO
+175|MEGATEMPESTA
+176|Catena {0}  ·  Intensità {1}  ·  {2} fulmini
+177|TEMPESTA PERFETTA
+178|IPERTEMPESTA
+179|FINESTRA PERFETTA
+180|NUOVA FUNZIONE
+181|NUOVA MACCHINA
+182|MODULO
+183|RICERCA
+184|ESCLUSIVO
+185|STILE
+186|{0} Gemme
+187|Gratis
+188|PACCHETTO PUBBLICITÀ
+189|Un ambiente completo per {0} pubblicità con ricompensa.
+190|DECORAZIONE
+191|ESPANSIONE DEL TERRENO
+192|Aspetto della macchina
+193|Nuvola temporalesca
+194|Fulmine
+195|Mondo
+196|Titolo
+197|LIVELLO {0}!
+198|Il tuo motore delle tempeste è diventato più forte
+199|Continua a costruire! Nuove macchine, moduli e stili si sbloccano man mano che il Livello Motore sale.
+200|SBLOCCATO
+201|Prossimo al Liv. {0}: {1}
+202|e altri {0}
+203|Fantastico!
+204|LIVELLO MOTORE {0}
+205|Ottieni PE costruendo macchine, scatenando tempeste, scoprendo fenomeni e completando obiettivi.
+206|LIV. {0}
+207|PROSSIMO
+208|Tutto è sbloccato. Sei un vero ingegnere delle tempeste!
+209|Chiudi
+210|Livello massimo raggiunto
+211|{0} / {1} PE per il livello {2}
+212|STORM ENGINE
+213|RICOMPENSE GIORNALIERE
+214|GIOCA
+215|Potenzia il tuo motore delle tempeste
+216|TORNEO
+217|Stormpedia
+218|Visita le isole
+219|Impostazioni
+220|Cacciatore di Tempeste
+221|Livello Motore {0}
+222|Costruisci il tuo primo motore delle tempeste
+223|{0} Energia /s
+224|Il tuo regalo del giorno {0} è pronto!
+225|Premi delle missioni da riscuotere!
+226|Giorni di serie: {0}
+227|missioni {0}/{1}
+228|nuovo giorno tra {0}
+229|Si sblocca al Livello Motore {0}
+230|Questa settimana: {0}
+231|condizioni libere
+232|Tentativi rimasti oggi: {0}
+233|termina tra {0}
+234|IN VISITA
+235|Torna a casa
+236|Isola di {0}
+237|{0} decorazioni
+238|miglior tempesta del torneo {0}
+239|Ruota
+240|Metti via
+241|Fatto
+242|La tua isola non ha ancora decorazioni. Comprane qualcuna in Decorazioni dell'isola.
+243|Tocca una decorazione per selezionarla.
+244|Decorazione
+245|{0}: le decorazioni acquatiche si spostano con il loro stagno.
+246|{0}: tocca il terreno per spostarla.
+247|Atmosfera
+248|POTENZA DELLA TEMPESTA =
+249|I bonus additivi si sommano all'interno di una categoria; le categorie si moltiplicano tra loro. Lo stesso +10% vale di più nella tua categoria più debole.
+250|PREVISIONE DELLA TEMPESTA
+251|Una simulazione della tua prossima tempesta con la configurazione attuale. Cambia moduli o livelli e guarda come varia.
+252|Perché questo numero? (tocca per espandere)
+253|Fenomeni (sinergie)
+254|I fenomeni si attivano quando ogni ingrediente raggiunge la sua soglia. Ognuno attivo moltiplica la Potenza della Tempesta, e il più forte decide la classe della tempesta.
+255|Motore delle tempeste
+256|Intensità della tempesta
+257|Durata della tempesta
+258|Catena per fulmine
+259|Tempo di carica
+260|Megatempesta
+261|Punteggio tempesta = Potenza della Tempesta x Intensità x Catena x Mega x Finestra Perfetta, sommato per ogni istante della tempesta. I potenziamenti attivi durante la tempesta moltiplicano tutto ciò che contiene.
+262|Scatena ora: tempesta {0}, {1} punti in {2} s.
+263|Usando prima i potenziamenti pronti ({0}): {1}, {2} ({3}).
+264|{0} /s
+265|{0} fulmini/s
+266|+{0} di catena
+267|3 / 5 / 7 fenomeni: x1.5 / x2 / x3
+268|{0} Liv. {1}
+269|{0}: traguardi x{1}
+270|Settimanale: {0}
+271|{0} (attivo)
+272|Livello di elettricità
+273|Stile: {0}
+274|Decorazioni dell'isola ({0} tipi)
+275|{0} eff.
+276|base {0}  x  (1 + {1} add.{2})  x  {3} molt.
+277|Ancora nessun modificatore. Costruisci macchine per far crescere questa statistica.
+278|POTENZ.
+279|BASE
+280|ADD.
+281|EFF.
+282|CONV.
+283|MOLT.
+284|+{0} da {1}
+285|??? Fenomeno sconosciuto
+286|ATTIVO {0}
+287|SCOPERTO
+288|NON SCOPERTO
+289|Instabilità >= 40% (nelle tempeste)
+290|Equipaggia il Reattore del Caos
+291|Vantaggio della tempesta: {0}
+292|Raggiungi ogni soglia per scoprirlo (+{0} Nuclei di Tempesta).
+293|Decorazioni dell'isola
+294|Isola
+295|Modifica disposizione
+296|Ogni decorazione diversa che possiedi aumenta una volta il tuo guadagno di Energia. Gli altri giocatori possono visitare la tua isola.
+297|SOLO QUESTA SETTIMANA
+298|Terra
+299|Aria
+300|Acqua
+301|Espandi
+302|Visita
+303|Isole vetrina
+304|Giocatori del torneo
+305|LIMITATO
+306|Posiziona
+307|Miglior tempesta del torneo {0}
+308|Ancora nessun punteggio al torneo questa settimana. Partecipa e gli altri verranno a trovarti!
+309|Connettiti per visitare le isole degli altri giocatori. Le isole vetrina funzionano offline.
+310|{0}/{1} posizionate
+311|Tipi posseduti: {0}
+312|Bonus collezione: +{0} al guadagno di Energia
+313|Compra la tua prima decorazione per ottenere un bonus di Energia
+314|Se ne va tra {0}
+315|Le decorazioni acquatiche galleggiano su uno Stagno (vedi Terra). Ogni stagno ne ospita tre.
+316|Stagni posizionati: {0}
+317|Posti acquatici liberi: {0}
+318|Bonus ottenuto  +{0}
+319|+{0} Energia
+320|{0}/{1} possedute
+321|{0} messe via
+322|Vola sopra l'isola
+323|Galleggia su uno stagno
+324|Motore Liv. {0}
+325|{0} Nuclei
+326|Posseduta
+327|Costruisci prima {0}
+328|Raggio dell'isola {0}
+329|+{0} decorazioni
+330|MAX
+331|Macchine
+332|La costruzione è bloccata durante una tempesta.
+333|Miglioramenti permanenti
+334|COSTRUISCI
+335|BLOCCATO
+336|Si sblocca al Livello Motore {0}.
+337|Non costruito
+338|Liv. {0}/{1}
+339|AL MASSIMO
+340|MIGLIORA
+341|Mantiene il tuo motore in produzione mentre sei via. Si costruisce una volta e resta per sempre (sopravvive ai reset).
+342|Offline: fino a {0} h con efficienza del {1}. Prossimo livello: più ore e più efficienza.
+343|Liv. 0
+344|COMPRA
+345|MIGLIOR VALORE
+346|Si sblocca al Livello Motore {0}. Ottieni PE costruendo e scatenando tempeste.
+347|Livello massimo {0}
+348|COMPRA x{0}
+349|+1 di Pressione base per livello
+350|Base attuale {0}
+351|+0,5 s di tempesta e +4% di velocità di carica per livello
+352|Tempesta {0} s, carica {1}
+353|+{0}% di {1} per livello
+354|ora {0}
+355|Moduli
+356|Equipaggiati
+357|Officina
+358|Sblocca
+359|Migliora
+360|Equipaggia
+361|Vuoto
+362|Bloccato
+363|I moduli sono bloccati durante una tempesta.
+364|{0}/{1} slot usati. Tocca un modulo equipaggiato per rimuoverlo. I Nuclei di Tempesta arrivano da tempeste e scoperte.
+365|Reset dell'atmosfera richiesti: {0}.
+366|Scopri prima {0}.
+367|Scopri prima un nuovo fenomeno ({0}).
+368|Sblocca {0}
+369|Rimuovi
+370|Migliora {0}
+371|richiede il Reattore del Caos
+372|Tempeste scatenate
+373|Fulmini caduti
+374|Megatempeste
+375|Miglior catena
+376|Potenziamenti usati
+377|Miglior Potenza della Tempesta
+378|Energia totale
+379|Reset dell'atmosfera
+380|Fenomeni scoperti
+381|Tempo di gioco
+382|Laboratorio
+383|Altro
+384|CONDIZIONE SETTIMANALE
+385|Le condizioni cambiano ogni lunedì (UTC) e modificano la configurazione migliore. Il torneo settimanale e la sua classifica si azzerano nello stesso momento.
+386|Le Condizioni settimanali si sbloccano al Livello Motore {0}: una nuova svolta atmosferica ogni lunedì.
+387|Statistiche
+388|Musica
+389|Brani ambient e accoglienti. Quelli bloccati diventano tuoi per sempre dopo una breve pubblicità.
+390|Lingua
+391|Effetti sonori
+392|Volume effetti
+393|Volume musica
+394|Suoni del meteo
+395|Vibrazione
+396|Qualità grafica
+397|Adatta la grafica sui telefoni lenti
+398|Frequenza fotogrammi
+399|Promemoria (regalo del giorno, torneo)
+400|Formato numeri

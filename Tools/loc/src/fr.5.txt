@@ -1,0 +1,9 @@
+1179|SUPPRIMER TES DONNÉES EN LIGNE ?
+1180|Cela supprime ton compte joueur et ce que les serveurs du jeu conservent : sauvegarde cloud, île et scores des classements. Ta progression sur ce téléphone est conservée.
+1181|Supprimer
+1182|Tes données en ligne ont été supprimées. Les fonctions en ligne sont désactivées.
+1183|Impossible de supprimer tes données en ligne pour le moment. Vérifie ta connexion et réessaie.
+1184|Les fonctions en ligne sont désactivées.
+1185|Fonctions en ligne
+1186|Classements, tournois, sauvegarde cloud et visites d'îles passent par les serveurs du jeu. Désactivées, rien ne quitte ton téléphone.
+1187|Supprimer mes données en ligne

@@ -1,0 +1,27 @@
+{
+    "name": "StormEngine.Notify.Editor",
+    "rootNamespace": "StormEngine.Notify.EditorTools",
+    "references": [
+        "Unity.Notifications",
+        "Unity.Notifications.Android"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "STORM_NOTIFY"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.mobile.notifications",
+            "expression": "2.0.0",
+            "define": "STORM_NOTIFY"
+        }
+    ],
+    "noEngineReferences": false
+}

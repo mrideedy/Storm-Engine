@@ -1,0 +1,400 @@
+401|Hareketleri ve parlamaları azalt
+402|Otomatik fırtına (Fırtına Otomasyonu)
+403|İpuçları ve eğitimler
+404|Tüm ipuçlarını yeniden göster
+405|İpuçları sen oynarken yeniden görünecek.
+406|Geliştirici
+407|Yalnızca test için. Nihai sürümlerde yer almaz.
+408|Her şeyi aç
+409|HER ŞEY AÇILSIN MI?
+410|Maksimum Motor Seviyesi ve tüm makineler, modüller, stiller, paketler, dekorasyonlar, genişletmeler ve müzik parçaları; ayrıca 100K Mücevher, 100K Fırtına Çekirdeği ve 10K Araştırma.
+411|Kayıt
+412|Şimdi kaydet
+413|İlerlemeyi sıfırla
+414|STORM ENGINE · Akıllıca kur. Dev fırtınalar yarat.
+415|Çal
+416|Bitişe {0}
+417|BASİT
+418|DENGELİ
+419|YÜKSEK
+420|30 TASARRUF
+421|{0} FPS
+422|KAPALI
+423|İZİN YOK
+424|AÇIK
+425|Birkaç saniyede bir cihaza kaydedilir.
+426|Bulut kaydı açık.
+427|Bulut kaydı çevrimiçi olduğunda eşitlenir.
+428|Ayarlanıyor...
+429|Şimdi çalıyor
+430|Kilitli: açmak için bir reklam izle
+431|Araştırma
+432|Atmosferi Sıfırla
+433|Makineler ve Enerji sıfırlanır. Araştırma, modüller, Fırtına Çekirdekleri, keşifler ve rekorlar kalır.
+434|SIFIRLAMADA ARAŞTIRMA
+435|BU TURDAKİ ENERJİ
+436|Atmosferi sıfırla
+437|Kalıcı araştırma
+438|Bu turda ilk Araştırma puanı {0} Enerjide.
+439|Sonraki puan {0} Enerjide. Araştırma, ulaştığın her büyüklük mertebesiyle artar.
+440|Araştırman: {0} (kazanılan {1}, sıfırlama {2}).
+441|SAHİPSİN
+442|Görünümler
+443|Bulutlar
+444|Şimşekler
+445|Dünyalar
+446|Unvanlar
+447|Mağaza
+448|MÜCEVHERLERİN
+449|Mücevher al
+450|Öne çıkanlar
+451|Stiller
+452|Mücevherler
+453|Ücretsiz ödüller
+454|Reklam paketleri: eksiksiz ortamlar
+455|Yalnızca ödüllü reklam izleyerek alınabilir. Her paket uyumlu bir seti tek seferde açar.
+456|Özel ürünler
+457|Yalnızca Mücevherle alınan, en güçlü bonuslara sahip vitrin parçaları.
+458|Mücevher paketleri
+459|Mücevher oynayarak da kazanılır: her Motor Seviyesinde +{0}, her yeni fenomen için +{1}, günlük ödüller, hedef ödülleri ve haftalık turnuva ödülleri.
+460|İzle
+461|TEKLİF
+462|YALNIZCA REKLAM
+463|Reklam izle  +1
+464|Seti kuşan
+465|Bonuslar: {0}
+466|Bonus yok
+467|Unvanlar sıralamalarda adının yanında görünür ve kazanılan Fırtına Çekirdeklerini artırır.
+468|Her stil kuşanıldığında bir değeri artırır (turnuvalarda en fazla x1.10). Ayrıntılar için bir karta dokun.
+469|Test mağazası: Editörde ve geliştirici sürümlerinde satın almalar simüle edilir (ücret alınmaz).
+470|Aktif: kalan {0}
+471|Bugün {0}/{1}
+472|Bugün kalan {0}/{1}
+473|Sınırsız
+474|Reklam {0}/{1}
+475|Açılış: Sv {0}
+476|Yarın tekrar gel
+477|KUŞANILDI
+478|{0} paketi
+479|Başlangıç Paketi
+480|{0} Fırtına Çekirdeği
+481|Al
+482|Keşfet: {0}
+483|Atmosfer sıfırlaması: {0}
+484|Haftalık Turnuva
+485|Turnuva
+486|BU HAFTA
+487|HAFTANIN EN İYİSİ
+488|BUGÜNKÜ HAKLAR
+489|TURNUVAYA KATIL
+490|+1 hak
+491|Kurallar
+492|Makinelerin, modüllerin ve araştırmaların tam olarak kurduğun gibi sayılır. Güçlenmek için geliştirmeye devam et!
+493|Bu haftanın koşulu her zaman geçerlidir.
+494|Stil bonusları sayılır, ancak her biri en fazla x{0} olur.
+495|Dekorasyonlar, Enerji Dalgaları ve süren güçlendirmeler sayılmaz.
+496|Fırtına taze güçlendirmelerle hemen başlar: zincir kurmak için onları fırtına sırasında kullan.
+497|Günde {0} hak (UTC), reklamlarla {1} hakka kadar daha. En iyi fırtınan sayılır.
+498|Haftalık ödüller
+499|İlk {0}
+500|Herkes
+501|Sıralamalar
+502|Ad
+503|Bu hafta
+504|Tüm zamanlar
+505|Sınıfa göre
+506|Yenile
+507|Küresel sıralamalar henüz bağlı değil. Turnuva rekorların yine de kaydediliyor.
+508|Henüz puan yok. Turnuvaya katıl ve zirveye yerleş!
+509|Çevrimdışı. Sıralama bağlandığında görünür.
+510|Sıradaki rakip: {0} (#{1}) seni {2} farkla geçiyor. Motorunu geliştir ve onu yakala!
+511|Birinci sıradasın. Yerini koru!
+512|(sen)
+513|Serbest koşullar
+514|ödüller hafta kapandığında verilir
+515|TURNUVA FIRTINASI SÜRÜYOR
+516|FIRTINA SÜRÜYOR...
+517|HAK KALMADI
+518|Tüm güçlendirmelerle tahmin: {0}  ({1})
+519|Doğrulanmayı ve gönderilmeyi bekleyen turnuva fırtınaları: {0}
+520|{0} önce güncellendi
+521|Yükleniyor...
+522|Önbellekteki sıralama gösteriliyor
+523|Fırtına Çekirdekleri
+524|x2 Enerji Dalgası
+525|{0} dk
+526|{0} sa
+527|Oynadığın her gün bir hediye, ayrıca üç yeni görev
+528|Koru
+529|BUGÜNÜN GÖREVLERİ
+530|Yeni görevler gece yarısı (UTC) gelir.
+531|rekor {0}
+532|Seri başlatmak için bugünün hediyesini al!
+533|Seri bugün başlıyor!
+534|Bir günü kaçırdın ve serini kaybettin (art arda gün: {0}). Korumak için kısa bir reklam izle!
+535|GÜN {0}
+536|{0} çekirdek
+537|Gün {0} hediyesini al
+538|Gün {0} için yarın tekrar gel. Yeni gün: {1}.
+539|Tüm görevler tamam. Yarın görüşürüz!
+540|Tüm görevleri bitir (alınan {0}/{1}): {2}
+541|Yeni görevler: {0} (gece yarısı UTC)
+542|DİL
+543|Tüm oyunun dilini seç
+544|TURNUVA FIRTINASI
+545|haftalık turnuva
+546|FIRTINA TAMAMLANDI
+547|TURNUVA PUANI
+548|FIRTINA PUANI
+549|YENİ HAFTALIK REKOR
+550|TURNUVA REKORU
+551|YENİ KİŞİSEL REKOR
+552|SINIFININ EN İYİSİ
+553|ÇÖKTÜ
+554|Haftanın en iyisi: {0}
+555|Süre
+556|Ortalama Fırtına Gücü
+557|En yüksek zincirleme reaksiyon
+558|Şimşek: {0}
+559|Mega Fırtına süresi
+560|Fenomen: {0}
+561|Kusursuz Pencere süresi
+562|Fırtınada kullanılan güçlendirmeler
+563|Kazanılan Enerji
+564|SINIFA GÖRE PUAN
+565|Kişisel rekor! Küresel sıralamalara puan yazdırmak için bu motoru Haftalık Turnuvaya götür.
+566|Devam
+567|Rekor cihaza kaydedildi. Dünyayla yarışmak için çevrimiçi hizmetlere bağlan.
+568|Çevrimdışı: bu rekor yeniden bağlandığında doğrulanıp gönderilecek.
+569|Fırtına tekrarı sunucuyla doğrulanıyor...
+570|Doğrulandı ve sıralamalara gönderildi.
+571|TEKRAR HOŞ GELDİN!
+572|Uzakta kaldığın süre: {0}
+573|Fırtına motorun çalışmaya devam etti: {0}
+574|Sen yokken motorun boşta kaldı. Fırtına odası dolu ve hazır!
+575|Sen yokken üretimin sürmesi için Makineler sekmesinde Çevrimdışı Jeneratörü inşa et ({0} Enerji + {1} Fırtına Çekirdeği).
+576|Çevrimdışı Jeneratör, Motor Seviyesi {0} olunca açılır. Pahalıdır ama sen yokken motorunun üretmeye devam etmesini sağlar.
+577|Hadi başlayalım!
+578|TOPLANAN ENERJİ
+579|Sayılan süre
+580|(sınıra ulaşıldı)
+581|Çevrimdışı verim
+582|(Fırtına Otomasyonu'nu araştır)
+583|Daha uzun süre üretmek için Çevrimdışı Jeneratörü geliştir ya da Çevrimdışı Kapasitör'ü araştır.
+584|Topla
+585|x2 topla
+586|YENİ FENOMEN KEŞFEDİLDİ!
+587|TARİF
+588|Fırtına Çekirdeği +{0}. Keşifler atölyede yeni modüllerin kilidini açabilir.
+589|İnşa et. Optimize et. En büyük fırtınaları yarat.
+590|Makine inşa et
+591|Her makine bir hava kategorisini besler. Kategoriler birbiriyle çarpılarak Fırtına Gücünü oluşturur, Fırtına Gücü de Enerji üretir.
+592|Fırtına başlat
+593|Kubbe dolunca dev bir patlama için bir fırtına başlat. Etkileri üst üste binsin diye fırtına sırasında güçlendirme kullan.
+594|Fenomen keşfet
+595|Gök Gürültülü Fırtına, Siklon, Süperhücre ve daha fazlasını keşfetmek için doğru kategorileri eşiklerinin üstüne çıkar.
+596|Her hafta yarış
+597|Motorunu güçlendir, sonra onu Haftalık Turnuvaya götür (Motor Seviyesi 8). Turnuva fırtınaları sunucu tarafından doğrulanır ve dünya çapında sıralanır.
+598|Fırtına Avcıma ad ver
+599|Motoru çalıştır!
+600|FIRTINA AVCISI ADI
+601|Küresel sıralamalarda gösterilir
+602|Yalnızca harf, rakam, - ve _. Adların benzersiz olması için Unity kısa bir #etiket ekler.
+603|Ad kaydedildi: {0}
+604|Ad şu anda değiştirilemedi.
+605|Bu fırtına için düzen ayrıntısı kaydedilmedi.
+606|Fırtına sınıfı
+607|En yüksek zincir
+608|MODÜLLER
+609|FENOMENLER
+610|Haftalık koşul
+611|Adayı ziyaret et
+612|yok
+613|ÖDÜLLÜ REKLAM
+614|Editörde ve geliştirici sürümlerinde simüle edilir
+615|Nihai sürümde burada gerçek bir reklam ağı (örneğin Unity LevelPlay) kısa bir video oynatır.
+616|Geç
+617|Ödülü al
+618|Reklam bitti.
+619|Reklamın bitmesine {0} sn
+620|AÇILDI: {0}!
+621|Reklamlarla kazanılan eksiksiz bir ortam
+622|Adana eklenen dekorasyonlar: {0}.
+623|Sonra
+624|Hepsini kuşan
+625|TURNUVA SONUÇLARI
+626|Geçen hafta sıralaman: #{0}
+627|Geçen hafta yarıştığın için teşekkürler!
+628|ÖDÜLÜN
+629|Yeni bir koşulla yeni bir haftalık turnuva başladı. Motorunu geliştir ve yeniden katıl!
+630|Bonus
+631|Turnuvalarda
+632|(sınırlı)
+633|Al
+634|Temeller
+635|Güçlendirmeler
+636|Fenomenler
+637|Haftalık
+638|Dekor
+639|Fırtına Gücü
+640|Fırtına Gücü = Temel Basınç x Sıcaklık x Nem x Rüzgâr x Bulut x Elektrik x Sinerji. Kategoriler birbiriyle çarpılır, bu yüzden dengeli bir motor dengesiz bir motoru geçer. Saniyedeki Enerjin, Fırtına Gücünün gelir bonuslarınla çarpımıdır.
+641|Fırtınalar ve zincirleme reaksiyonlar
+642|Fırtına odası zamanla dolar. Enerji patlaması için bir fırtına başlat. Her şimşek, tüm fırtına puanını çarpan zincirleme reaksiyonu büyütür.
+643|Motor Seviyesi
+644|Makine inşa etmek, fırtına başlatmak, fenomen keşfetmek ve hedefleri bitirmek XP kazandırır. Yeni seviyeler makine, özellik ve stil açar; her seviye Mücevher de verir.
+645|Her fırtına geride Fırtına Çekirdekleri bırakır (büyük fırtınalar daha fazla). Bunları modüllere, dekorasyonlara ve kalıcı geliştirmelere harca.
+646|Premium para birimi. Motor Seviyelerinden (+{0}), yeni fenomenlerden (+{1}), hedeflerden, günlük ödüllerden, ücretsiz ödüllerden ve turnuva ödüllerinden kazanılır ya da Mağazadan alınır. Stillere, dekorasyonlara ve ada genişletmelerine harca.
+647|Günlük Ödüller
+648|Yedi günlük bir döngüde ödül almak için her gün hediyeyi aç. Art arda günlerde almak bir seri oluşturur; üç günlük görev de Mücevher, Fırtına Çekirdeği ya da Enerji Dalgası verir. Her şey gece yarısı UTC'de sıfırlanır.
+649|İsteğe bağlı kısa reklamlar Mücevher, Enerji Dalgası (x2 gelir), anında dolum, iki kat Fırtına Çekirdeği, ek turnuva hakkı ve reklam paketlerinde ilerleme verir. Her birinin günlük sınırı vardır.
+650|Atmosfer Laboratuvarı
+651|Laboratuvarı açmak için Fırtına Gücü göstergesine dokun. Her kategorinin arkasındaki tüm değiştiricileri gösterir ve bir sonraki fırtınanı tahmin eder.
+652|Mega Fırtınalar ve Kusursuz Pencereler
+653|Aynı anda {0}+ fenomen aktifken fırtına Mega Fırtına olur (x{1}; {2} ve {3} ile daha fazla). {4}+ güçlendirmeyi birlikte açık tutmak Kusursuz Pencere açar (x{5}).
+654|Stil bonusları
+655|Her görünüm, bulut, şimşek, dünya ve unvan kuşanıldığında bir değeri artırır. Turnuvalarda her stil bonusu en fazla x{0} olur, bu yüzden motorunu geliştirmek her zaman en önemlisidir.
+656|Modüller formülü büker: dönüşümler, koşullar ve büyük çarpanlar. Fırtına Çekirdekleriyle aç ve sınırlı yuvalarına tak.
+657|Ada ve ziyaretçiler
+658|Adanı karada, havada ve göletlerde süsle. Sahip olduğun her farklı dekorasyon Enerji gelirini bir kez biraz artırır. Oyuncular sıralamalardan birbirlerinin adalarını ziyaret edebilir.
+659|Motorunu sabit kurallarla turnuvaya götür: haftanın koşulu geçerlidir, stil bonusları sınırlıdır, dekorasyonlar ve dalgalar sayılmaz. Günde {0} hak; en iyi fırtınan sıralanır ve sunucu tarafından doğrulanır. Mücevherler hafta bitince verilir.
+660|Haftalık koşullar
+661|Her pazartesi (UTC) yeni bir atmosferik koşul bazı değerleri güçlendirir, bazılarını zayıflatır. Hem motorunda hem turnuvada en iyi düzeni değiştirir.
+662|Çevrimdışı Jeneratör
+663|Sen yokken motorun düşük verimle ve bir süre sınırına kadar üretmeye devam etmesini sağlayan pahalı, kalıcı bir geliştirme.
+664|Atmosfer sıfırlama
+665|Araştırma kazanmak için Enerjiyi ve makine seviyelerini sıfırla, sonra Araştırma Laboratuvarında kalıcı geliştirmelere harca. Modüller, Fırtına Çekirdekleri, stiller ve dekorasyonlar korunur.
+666|Motor Seviyesi {0} olunca görünür.
+667|Açığa çıkarmak için Enerji üretmeye devam et.
+668|henüz bulmadığın bir makine
+669|{0} sn sürer, {1} sn'de dolar.
+670|Geliştir: {0} → Sv {1}.
+671|Yalnızca çok sıra dışı bir modülün yönettiği fırtınalarda görünür.
+672|Tarif ipucu: {0} değerlerini aynı anda yeterince yükselt.
+673|Açığa çıkarmak için yeni bir fenomen keşfet.
+674|Açığa çıkarmak için atmosferi sıfırla.
+675|Modül Atölyesi'nde aç.
+676|Açığa çıkarmak için atmosferi sıfırlamaya devam et.
+677|Araştırma, Motor Seviyesi {0} olunca açılır.
+678|(bu hafta)
+679|İlerideki bir haftanın koşulu.
+680|Haftalık koşullar Motor Seviyesi {0} ile başlar.
+681|Mağazadaki bir reklam paketinin parçası.
+682|Özel bir teklifin parçası.
+683|Kazanmak için bir fenomen keşfet.
+684|Mağazaya özel bir ürün.
+685|Mağazada bulabilirsin.
+686|Sınırlı bir dekorasyon. Bazı haftalar ada mağazasına geri döner.
+687|Bir reklam paketinin parçası.
+688|Ada Dekorasyonu'nda satılır.
+689|STORMPEDIA
+690|Şimdiye kadar keşfettiğin her şey
+691|Keşfedilen {0}/{1}
+692|YENİ
+693|ADALARI ZİYARET ET
+694|Diğer fırtına mühendislerinin nasıl süslediğine bak
+695|VİTRİN ADALARI
+696|TURNUVA OYUNCULARI
+697|Bu haftanın turnuvasına henüz kimse katılmadı.
+698|Diğer oyuncuları ziyaret etmek için bağlan. Vitrin adaları çevrimdışı çalışır.
+699|Devam etmek için parlayan yere dokun.
+700|İpuçlarını geç
+701|İleri
+702|İpucu {0}/{1}
+703|Yeni!
+704|Anladım!
+705|Motorunu kur
+706|Basınç Pompası'nda birkaç kez SATIN AL'a dokun. Makineler Fırtına Gücü, Fırtına Gücü de Enerji üretir.
+707|Bu senin Fırtına Gücün: her saniye kazandığın Enerji. Artırmak için Enerjini makinelere harca.
+708|Havayı karıştır
+709|Her makine havanın farklı bir parçasını güçlendirir ve parçalar birbiriyle çarpılır. Bir Hidro Pompa inşa et!
+710|Bir fırtına başlat
+711|Fırtına odası doluyor. Dolunca büyük bir Enerji patlaması için BAŞLAT'a (ya da cam kubbeye) dokun.
+712|Hedefler
+713|Ödüller için hedef kartını takip et. Yaptığın her şey Motor Seviyeni yükseltmek için XP kazandırır.
+714|Yeni seviyeler yeni makineler, özellikler ve stiller açar. Sırada ne olduğunu görmek için istediğin zaman seviye halkasına dokun.
+715|Ödül için her gün hediyeyi aç. Serini sürdür ve Mücevher için üç günlük görevi bitir.
+716|Güçlendirmeler motorunun bir parçasını kısa süreliğine güçlendirir. Büyük zincirleme reaksiyonlar için onları fırtına sürerken kullan!
+717|Nasıl hesaplandığını tam olarak görmek ve bir sonraki fırtınanı tahmin etmek için istediğin zaman Fırtına Gücüne dokun.
+718|Stil Mağazası
+719|Stiller motorunun görünüşünü değiştirir ve her stil ayrıca küçük bir bonus verir. En gösterişlileri Mücevherle alınır.
+720|Modüller, Fırtına Çekirdekleriyle ödenen özel ekipmanlardır. Formülün kurallarını bükmek için onları yuvalarına tak.
+721|Adanı süsle! Her farklı dekorasyon biraz Enerji ekler ve diğer oyuncular seni ziyarete uçabilir.
+722|Motorun artık küresel sıralamada yarışabilir. Günde 3 hakkın var ve hafta bitince herkes Mücevher kazanır.
+723|Her pazartesi yeni bir hava koşulu en iyi düzeni değiştirir. Katılmadan önce kontrol et.
+724|Makineler sekmesinde Çevrimdışı Jeneratörü inşa et, motorun sen yokken de kazanmaya devam etsin.
+725|Araştırma Laboratuvarı
+726|Araştırma kazanmak için atmosferi sıfırla: her turu hızlandıran kalıcı geliştirmeler. Modüller, Fırtına Çekirdekleri ve rekorlar korunur.
+728|Temel Basınç
+729|Motor Verimi
+730|Tüm Fenomenler
+731|Gök Gürültülü Fırtına
+732|Sıcak Fırtına
+733|Muson
+734|Siklon
+735|Süperhücre
+736|Aşırı Yük
+737|Anomali
+738|Fırtına Yoğunluğu
+739|Fırtına Süresi
+740|Fırtına Dolma Hızı
+741|Şimşek Sıklığı
+742|Şimşek Başına Zincir
+743|Mega Fırtına Gücü
+744|Güçlendirme Süresi
+745|Güçlendirme Bekleme Süresi
+746|Güçlendirme Gücü
+747|Çevrimdışı Verim
+748|Çevrimdışı Sınır
+749|Fırtına Çekirdeği Kazancı
+750|Araştırma Kazancı
+751|Modül Yuvaları
+752|İstikrarsızlık Hızı
+753|Sinerji Rezonansı
+754|Enerji Geliri
+755|Basınç Pompası
+756|Odayı basınçlandırır. Her seviye +1 Temel Basınç ekler.
+757|Hidro Pompa
+758|Havaya su pompalar. Her seviye +%5 Nem ekler.
+759|Bulut Yoğuşturucu
+760|Buharı bulutlara dönüştürür. Her seviye +%5 Bulut yoğunluğu ekler.
+761|Tesla Bobini
+762|Elektrik yükü biriktirir. Her seviye +%5 Elektrik ekler.
+763|Isı Fırını
+764|Havayı ısıtır. Her seviye +%5 Sıcaklık ekler.
+765|Fırtına Odası
+766|Kubbeyi güçlendirir. Seviye başına +0,5 sn fırtına süresi ve +%4 dolma hızı.
+767|Rüzgâr Türbini
+768|Havayı hareket ettirir. Her seviye +%5 Rüzgâr ekler.
+769|Bulut Patlaması
+770|20 sn boyunca Bulut x2. Bekleme 45 sn.
+771|Ark Aşırı Yükü
+772|15 sn boyunca Elektrik x2,5 ve şimşek +%50. Bekleme 50 sn.
+773|Sıcak Dalga
+774|30 sn boyunca Sıcaklık x2. Bekleme 60 sn.
+775|Jet Akımı
+776|10 sn boyunca Rüzgâr x3. Bekleme 40 sn.
+777|Bulut, yük ve nem dengede. Çok yönlü olan.
+778|Şimşekler %50 daha sık çakar.
+779|Kavurucu yükselen akımlar. Sıcaklık odaklı düzen.
+780|Fırtına 3 sn daha uzun sürer.
+781|Sabit rüzgârın taşıdığı bitmeyen yağmur. Nem odaklı düzen.
+782|Fırtına yoğunluğu her saniye +%4 artar.
+783|Dönen bir rüzgâr ve su duvarı. Rüzgâr odaklı düzen.
+784|Her şimşek %50 daha fazla zincir ekler.
+785|Aşırı düzeyde ısı, nem ve rüzgâr. Dev çarpanlar.
+786|Fırtına yoğunluğu x1.5.
+787|Sabit bir bulut katmanı üzerinde muazzam yük. Elektrik odaklı düzen.
+788|Şimşekler iki kat daha sık çakar.
+789|Kaos Reaktörü fırtınaları %40 istikrarsızlığın üstünde gerçekliği yırtar.
+790|Devasa çarpan, ama fırtına %100 istikrarsızlıkta çöker.
+791|Atmosferik Yoğuşturucu
+792|Yoğuşturucu
+793|Nem ve Bulut x1.3 (her biri +0.1/sv).
+794|Tesla Dizisi
+795|Tesla
+796|Elektrik x1.5 (+0.15/sv). Fırtınalarda +0.25 şimşek/sn.
+797|Isı Çekirdeği
+798|Isı
+799|Sıcaklık x1.5 (+0.15/sv). Sıcaklık bonusunun %10'u Temel Basınca da gider.
+800|Jet Hızlandırıcı
+801|Jet

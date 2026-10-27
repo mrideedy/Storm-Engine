@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Storm Engine</title>
+<meta name="description" content="Storm Engine: build a weather machine, unleash epic storms and top the weekly leaderboards. A cozy idle game for Android.">
+<meta property="og:title" content="Storm Engine: Idle Storms">
+<meta property="og:description" content="Build a weather machine, unleash epic storms and top the weekly leaderboards!">
+<meta property="og:image" content="assets/feature.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="assets/icon.png">
+<style>
+  :root { --sky: #56c4ff; --storm: #5834d6; --ink: #14203a; --card: rgba(255,255,255,0.12); --gold: #ffd65c; }
+  * { box-sizing: border-box; }
+  body { margin: 0; color: #fff; background: linear-gradient(180deg, var(--sky), var(--storm)) fixed; font: 17px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 1040px; margin: 0 auto; padding: 32px 16px 48px; }
+  .hero { display: grid; grid-template-columns: 1fr; gap: 28px; align-items: center; }
+  @media (min-width: 860px) { .hero { grid-template-columns: 1.05fr 1fr; } }
+  .brand { display: flex; align-items: center; gap: 16px; }
+  .brand img { width: 88px; height: 88px; border-radius: 22px; box-shadow: 0 8px 24px rgba(20,32,58,0.35); }
+  h1 { font-size: clamp(40px, 7vw, 64px); line-height: 1; margin: 0; letter-spacing: 1px; text-shadow: 0 4px 0 rgba(20,32,58,0.35); }
+  h1 span { color: var(--gold); }
+  .tag { font-size: 20px; font-weight: 700; margin: 18px 0 8px; }
+  p.lead { font-size: 18px; max-width: 520px; opacity: 0.95; }
+  .play { display: inline-flex; align-items: center; gap: 10px; margin-top: 14px; padding: 14px 22px; border-radius: 16px; background: #14203a; color: #fff; text-decoration: none; font-weight: 700; box-shadow: 0 6px 0 rgba(0,0,0,0.25); }
+  .play small { display: block; font-weight: 400; font-size: 12px; opacity: 0.8; }
+  .feature { width: 100%; border-radius: 22px; box-shadow: 0 16px 40px rgba(20,32,58,0.4); }
+  h2 { font-size: 28px; margin: 48px 0 16px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; }
+  .card { background: var(--card); border: 1px solid rgba(255,255,255,0.25); border-radius: 18px; padding: 16px 18px; backdrop-filter: blur(6px); }
+  .card b { display: block; font-size: 18px; margin-bottom: 4px; }
+  .shots { display: flex; gap: 14px; overflow-x: auto; padding-bottom: 8px; scroll-snap-type: x mandatory; }
+  .shots img { height: 460px; border-radius: 20px; scroll-snap-align: start; box-shadow: 0 10px 28px rgba(20,32,58,0.35); }
+  footer { margin-top: 56px; opacity: 0.85; font-size: 14px; display: flex; flex-wrap: wrap; gap: 18px; }
+  footer a { color: #fff; }
+</style>
+</head>
+<body>
+<main>
+  <section class="hero">
+    <div>
+      <div class="brand">
+        <img src="assets/icon.png" alt="Storm Engine icon">
+        <h1>STORM<br><span>ENGINE</span></h1>
+      </div>
+      <div class="tag">Build smart. Storm big.</div>
+      <p class="lead">A cozy idle game about engineering the weather. Build pumps, coils, furnaces and turbines, unleash
+      giant storms with chain lightning, discover wild phenomena, decorate your floating island and compete in a
+      server-verified weekly tournament.</p>
+      <!-- Replace the link with your Google Play URL once the game is live. -->
+      <a class="play" href="https://play.google.com/store/apps/details?id=com.stormengine.game">
+        <span>▶</span><span><small>GET IT ON</small>Google Play</span>
+      </a>
+    </div>
+    <img class="feature" src="assets/feature.jpg" alt="The Storm Engine island">
+  </section>
+
+  <h2>What you do</h2>
+  <div class="grid">
+    <div class="card"><b>⚡ Build your engine</b>Every machine powers a different part of the weather, and they all multiply into Storm Power.</div>
+    <div class="card"><b>🌩️ Unleash storms</b>Chain lightning into massive combos and time your boosts for Mega Storms.</div>
+    <div class="card"><b>🌀 Discover phenomena</b>Thunderstorms, Monsoons, Cyclones, Supercells and a mysterious Anomaly.</div>
+    <div class="card"><b>🏆 Compete weekly</b>A new weather condition every Monday and fair, server-checked leaderboards.</div>
+    <div class="card"><b>🏝️ Decorate & visit</b>Trees, ponds, balloons and statues, and visits to other players' islands.</div>
+    <div class="card"><b>🌍 12 languages</b>English, Español, Português, Français, Deutsch, Italiano, Русский, Türkçe, Polski, Bahasa Indonesia, Tiếng Việt, ไทย.</div>
+  </div>
+
+  <h2>Screenshots</h2>
+  <div class="shots">
+    <img src="assets/01_storm.jpg" alt="Unleash epic storms">
+    <img src="assets/02_machines.jpg" alt="Build your engine">
+    <img src="assets/03_island.jpg" alt="Decorate your island">
+    <img src="assets/04_tournament.jpg" alt="Compete every week">
+  </div>
+
+  <footer>
+    <span>© 2026 Moonbit Studios</span>
+    <a href="privacy.html">Privacy policy</a>
+    <a href="delete-data.html">Delete your data</a>
+    <a href="mailto:studiosmoonbit@gmail.com">Contact</a>
+  </footer>
+</main>
+</body>
+</html>

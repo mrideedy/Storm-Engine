@@ -1,0 +1,398 @@
+1|Bö
+2|{0} T {1} Std
+3|{0} Std {1} Min
+4|{0} Min {1} s
+5|{0} s
+6|Online-Dienste sind in dieser Version noch nicht eingerichtet.
+7|Die Spielserver sind nicht erreichbar.
+8|Leere Serverantwort.
+9|Vom Server bestätigt.
+10|Bestenliste konnte nicht gespeichert werden; neuer Versuch folgt.
+11|Der Server hat den Sturm abgelehnt: {0}
+12|Senden fehlgeschlagen: {0}
+13|Lokale Prüfung fehlgeschlagen: {0}
+14|Ohne Serverprüfung gesendet (Entwicklungsmodus).
+15|Diese Bestenliste ist noch nicht verfügbar.
+16|Bestenliste konnte nicht geladen werden. Prüfe deine Verbindung.
+17|Einfach
+18|Ausgewogen
+19|Hoch
+20|Akku schwach: Das Spiel läuft mit 30 FPS, um Strom zu sparen.
+21|Grafik auf {0} gestellt, damit das Spiel flüssig läuft. Du kannst das in den Einstellungen ändern.
+22|Dein Tagesgeschenk ist bereit
+23|Das heutige Geschenk und drei neue Missionen warten noch auf dich.
+24|Halte deine {0}-Tage-Serie am Leben! Dein Geschenk für Tag {1} wartet.
+25|Ein neues Geschenk und drei neue Missionen warten.
+26|Offline-Generator voll
+27|Dein Motor hat so viel Energie gespeichert, wie er kann. Komm zurück, sammle sie ein und halte ihn am Laufen!
+28|Das Turnier endet bald
+29|Das Turnier dieser Woche ist fast vorbei. Ein weiterer Sturm könnte dich in der Bestenliste nach oben bringen!
+30|Eine neue Turnierwoche
+31|Bedingung dieser Woche: {0}. Hol dir die Belohnung der letzten Woche und mach mit!
+32|Dein Tagesgeschenk ist auch bereit.
+33|Simulierter Shop
+34|Nicht verfügbar
+35|Der Shop ist gerade nicht verfügbar.
+36|Käufe sind in dieser Version nicht verfügbar.
+37|TESTKAUF
+38|Simulierter Shop (Editor / Entwicklungsversion). {0} zum Schein für {1} kaufen?
+39|Kaufen (Test)
+40|{0} gekauft! +{1} Edelsteine.
+41|{0} wiederhergestellt.
+42|Tagesbelohnungen werden auf Motorstufe {0} freigeschaltet.
+43|Geschenk für Tag {0}: {1}!
+44|ERINNERUNG GEFÄLLIG?
+45|Möchtest du einen Hinweis, wenn dein nächstes Tagesgeschenk bereit ist oder das Wochenturnier bald endet? Höchstens ein paar pro Woche, nie nachts.
+46|Erinnere mich
+47|Erinnerungen sind aus. Du kannst sie in den Einstellungen einschalten.
+48|Nicht jetzt
+49|Missionsbelohnung: {0}
+50|Alle Missionen erledigt! {0}
+51|Warte erst, bis der Sturm vorbei ist.
+52|Entwickler: alles freigeschaltet (+100K Edelsteine, +100K Kerne, +10K Forschung).
+53|Diese Belohnung ist für heute aufgebraucht. Komm morgen wieder!
+54|Gerade ist keine Werbung verfügbar. Versuch es gleich noch mal.
+55|Die Werbung wurde übersprungen, deshalb gibt es diesmal keine Belohnung.
+56|+{0} Edelsteine!
+57|Energieschub! x{0} Einkommen für {1}.
+58|Sturmkammer voll aufgeladen!
+59|+1 Turnierversuch heute.
+60|+{0} Sturmkerne!
+61|Offline-Energie verdoppelt!
+62|Neue Musik freigeschaltet: {0}!
+63|ein neuer Titel
+64|Serie gerettet! {0} Tage und es geht weiter.
+65|{0}: {1}/{2} Werbungen angesehen.
+66|Dir fehlen noch {0} Edelsteine.
+67|{0} freigeschaltet und ausgerüstet!
+68|{0} KAUFEN?
+69|{0} Edelsteine für {1} ausgeben?
+70|Bonus: {0}.
+71|Für {0} kaufen
+72|Das Wochenturnier wird auf Motorstufe {0} freigeschaltet.
+73|Warte erst, bis der laufende Sturm vorbei ist.
+74|Heute keine Versuche mehr. Sie füllen sich um Mitternacht (UTC) auf, oder sieh dir eine Werbung für einen weiteren an.
+75|Heute keine Versuche mehr. Sie füllen sich um Mitternacht (UTC) auf.
+76|Deine Insel ist voll. Vergrößere sie oder lagere zuerst eine Deko ein.
+77|Wasserdekos schwimmen auf einem Teich. Platziere zuerst einen Teich (jeder fasst drei).
+78|Du kannst höchstens {0}-mal {1} besitzen.
+79|Dir fehlen noch {0} Sturmkerne.
+80|Sammelbonus +{0} Energie.
+81|{0} auf deiner Insel platziert!
+82|{0} gekauft und eingelagert (kein freier Platz).
+83|Kein freier Platz im Teich. Jeder Teich fasst drei Wasserdekos.
+84|Kein freier Platz mehr. Stell um oder vergrößere die Insel.
+85|Lagere zuerst die Wasserdekos auf diesem Teich ein.
+86|{0} Edelsteine ausgeben?
+87|Für {0} erweitern
+88|{0}! Deine Insel ist gewachsen.
+89|Das ist deine eigene Insel!
+90|Für Besuche bei anderen Spielern brauchst du eine Verbindung.
+91|Flug zu {0}s Insel...
+92|{0} hat die Insel noch nicht für Besucher geöffnet.
+93|Beende den laufenden Sturm, bevor du jemanden besuchst.
+94|Spiel gespeichert.
+95|Das Spiel konnte nicht gespeichert werden.
+96|CLOUD-SPIELSTAND GEFUNDEN
+97|Dein Cloud-Spielstand ist weiter ({0} Gesamtenergie, {1} Neustarts) als der auf diesem Gerät ({2}, {3} Neustarts). Laden?
+98|Cloud-Spielstand laden
+99|{0} wird mit {1} Lvl {2} freigeschaltet.
+100|{0} freigeschaltet und ausgerüstet.
+101|{0} freigeschaltet.
+102|Alle Modulplätze sind belegt. Lege zuerst eins ab.
+103|{0} gebaut!
+104|{0} auf Lvl {1} verbessert.
+105|Verbesserungen sind während eines Sturms gesperrt.
+106|ATMOSPHÄRE ZURÜCKSETZEN?
+107|Du erhältst {0} Forschung. Energie und Maschinenstufen gehen auf null zurück. Module, Sturmkerne, Forschung, Entdeckungen und Rekorde bleiben erhalten.
+108|Zurücksetzen für +{0}
+109|Atmosphäre zurückgesetzt! +{0} Forschung.
+110|GESAMTEN FORTSCHRITT LÖSCHEN?
+111|Dadurch wird dein lokaler Spielstand dauerhaft gelöscht. Einträge in den Bestenlisten bleiben online. Das kann nicht rückgängig gemacht werden.
+112|Alles löschen
+113|Treibende Wolken
+114|Ambient
+115|Langsame, warme Klangflächen, die vorbeiziehen.
+116|Gemütlicher Kamin
+117|Gemütlich
+118|Sanfte Tasten, runder Bass und ein entspannter Beat.
+119|Regenfenster
+120|Sanftes Klavier und Regen am Fenster.
+121|Sternenhimmel
+122|Tiefe Klangteppiche und fernes Funkeln.
+123|Morgenwiese
+124|Sanftes Gitarrenspiel in der Sonne.
+125|Offline
+126|Online-Dienste sind nicht installiert. Offline-Spiel.
+127|Verbinde...
+128|Online als {0}
+129|Offline. Der Fortschritt wird auf dem Gerät gespeichert und Stürme werden später gesendet.
+130|Offline: {0}
+131|Das Wochenturnier wird auf Motorstufe {0} freigeschaltet. Tippe auf SPIELEN und bau deinen Motor aus!
+132|Lvl {0}
+133|{0} wird auf Motorstufe {1} freigeschaltet.
+134|Der Stil-Shop wird auf Motorstufe {0} freigeschaltet.
+135|Das Atmosphärenlabor wird auf Motorstufe {0} freigeschaltet: Es schlüsselt jeden Multiplikator auf.
+136|Lädt {0}
+137|Turniersturm! Setz deine Boosts während des Sturms ein, um Ketten aufzubauen.
+138|Warte, bis der Sturm vorbei ist, bevor du umstellst.
+139|Dort ist kein Platz
+140|KETTE {0}!
+141|Neuer persönlicher Rekord! {0} erzielte {1}  (+{2} Kerne)
+142|{0}-Sturm: {1}  (+{2} Kerne)
+143|+{0} Edelsteine
+144|+{0} Kerne
+145|+{0} EP
+146|Ziel erreicht: {0}
+147|Neue Maschine verfügbar: {0}
+148|Tagesmission erledigt: {0}. Tippe auf das Geschenk, um sie abzuholen!
+149|Ein neuer Tag! Dein Tagesgeschenk und neue Missionen warten.
+150|Abbrechen
+151|STURMKRAFT
+152|Temperatur
+153|Feuchtigkeit
+154|Wind
+155|Wolken
+156|Elektrizität
+157|Synergie
+158|Druck
+159|ZIEL
+160|+Energie
+162|+15 Min
+164|+{0} Kerne
+165|Jetzt laden
+166|BEREIT
+167|LÄDT
+168|STURM
+169|noch {0}
+170|ENTFESSELN!
+171|Prognose {0}
+172|Auto-Sturm an
+173|WOCHENTURNIER
+174|BÖ
+175|MEGASTURM
+176|Kette {0}  ·  Intensität {1}  ·  {2} Blitze
+177|PERFEKTER STURM
+178|HYPERSTURM
+179|PERFEKTES FENSTER
+180|NEUE FUNKTION
+181|NEUE MASCHINE
+182|MODUL
+183|FORSCHUNG
+184|EXKLUSIV
+185|STIL
+186|{0} Edelsteine
+187|Gratis
+188|WERBEPAKET
+189|Eine komplette Umgebung für {0} Belohnungswerbungen.
+190|DEKO
+191|GELÄNDEERWEITERUNG
+192|Maschinen-Skin
+193|Sturmwolke
+194|Blitz
+195|Welt
+196|Titel
+197|STUFE {0}!
+198|Dein Sturmmotor ist stärker geworden
+199|Bau weiter! Neue Maschinen, Module und Stile werden freigeschaltet, wenn deine Motorstufe steigt.
+200|FREIGESCHALTET
+201|Als Nächstes auf Lvl {0}: {1}
+202|und {0} weitere
+203|Super!
+204|MOTORSTUFE {0}
+205|Verdiene EP, indem du Maschinen baust, Stürme entfesselst, Phänomene entdeckst und Ziele erreichst.
+206|LVL {0}
+207|NÄCHSTE
+208|Alles ist freigeschaltet. Du bist ein echter Sturmingenieur!
+209|Schließen
+210|Höchste Stufe erreicht
+211|{0} / {1} EP bis Stufe {2}
+212|STORM ENGINE
+213|TAGESBELOHNUNGEN
+214|SPIELEN
+215|Bau deinen Sturmmotor aus
+216|TURNIER
+217|Stormpedia
+218|Inseln besuchen
+219|Einstellungen
+220|Sturmjäger
+221|Motorstufe {0}
+222|Baue deinen ersten Sturmmotor
+223|{0} Energie /s
+224|Dein Geschenk für Tag {0} ist bereit!
+225|Missionsbelohnungen abholen!
+226|Serientage: {0}
+227|Missionen {0}/{1}
+228|neuer Tag in {0}
+229|Freigeschaltet auf Motorstufe {0}
+230|Diese Woche: {0}
+231|offene Bedingungen
+232|Verbleibende Versuche heute: {0}
+233|endet in {0}
+234|ZU BESUCH
+235|Nach Hause
+236|{0}s Insel
+237|{0} Dekos
+238|bester Turniersturm {0}
+239|Drehen
+240|Einlagern
+241|Fertig
+242|Deine Insel hat noch keine Dekos. Kaufe welche unter Inseldeko.
+243|Tippe auf eine Deko, um sie auszuwählen.
+244|Deko
+245|{0}: Wasserdekos bewegen sich mit ihrem Teich.
+246|{0}: Tippe auf den Boden, um sie zu verschieben.
+247|Atmosphäre
+248|STURMKRAFT =
+249|Additive Boni addieren sich innerhalb einer Kategorie; die Kategorien multiplizieren sich untereinander. Dieselben +10 % sind in deiner schwächsten Kategorie mehr wert.
+250|STURMPROGNOSE
+251|Ein Probelauf deines nächsten Sturms mit dem aktuellen Aufbau. Ändere Module oder Stufen und sieh zu, wie sich die Zahl bewegt.
+252|Warum diese Zahl? (zum Aufklappen tippen)
+253|Phänomene (Synergien)
+254|Phänomene schalten sich ein, wenn jede Zutat ihren Schwellenwert erreicht. Jedes aktive Phänomen vervielfacht die Sturmkraft, und das stärkste bestimmt deine Sturmklasse.
+255|Sturmmotor
+256|Sturmintensität
+257|Sturmdauer
+258|Kette pro Blitz
+259|Ladezeit
+260|Megasturm
+261|Sturmpunkte = Sturmkraft x Intensität x Kette x Mega x Perfektes Fenster, aufsummiert über jeden Moment des Sturms. Boosts, die sich mit dem Sturm überschneiden, vervielfachen alles darin.
+262|Jetzt entfesseln: {0}-Sturm, {1} Punkte in {2} s.
+263|Wenn du zuerst deine bereiten Boosts zündest ({0}): {1}, {2} ({3}).
+264|{0} /s
+265|{0} Blitze/s
+266|+{0} Kette
+267|3 / 5 / 7 Phänomene: x1.5 / x2 / x3
+268|{0} Lvl {1}
+269|{0}: Meilensteine x{1}
+270|Wöchentlich: {0}
+271|{0} (aktiv)
+272|Elektrizitätsstufe
+273|Stil: {0}
+274|Inseldekos ({0} Arten)
+275|{0} Eff.
+276|Basis {0}  x  (1 + {1} Add.{2})  x  {3} Mult.
+277|Noch keine Modifikatoren. Baue Maschinen, um diesen Wert zu steigern.
+278|BOOST
+279|BASIS
+280|ADD.
+281|EFF.
+282|UMW.
+283|MULT.
+284|+{0} aus {1}
+285|??? Unbekanntes Phänomen
+286|AKTIV {0}
+287|ENTDECKT
+288|UNENTDECKT
+289|Instabilität >= 40 % (in Stürmen)
+290|Rüste den Chaosreaktor aus
+291|Sturmvorteil: {0}
+292|Erreiche jeden Schwellenwert, um es zu entdecken (+{0} Sturmkerne).
+293|Inseldeko
+294|Insel
+295|Anordnung bearbeiten
+296|Jede unterschiedliche Deko, die du besitzt, erhöht dein Energieeinkommen einmalig. Andere Spieler können deine Insel besuchen.
+297|NUR DIESE WOCHE
+298|Land
+299|Luft
+300|Wasser
+301|Erweitern
+302|Besuchen
+303|Schauinseln
+304|Turnierspieler
+305|LIMITIERT
+306|Platzieren
+307|Bester Turniersturm {0}
+308|Diese Woche gibt es noch keine Turnierergebnisse. Mach mit, dann kommen andere zu Besuch!
+309|Verbinde dich, um die Inseln anderer Spieler zu besuchen. Schauinseln funktionieren offline.
+310|{0}/{1} platziert
+311|Arten im Besitz: {0}
+312|Sammelbonus: +{0} Energieeinkommen
+313|Kaufe deine erste Deko für einen Energiebonus
+314|Verschwindet in {0}
+315|Wasserdekos schwimmen auf einem Teich (siehe Land). Jeder Teich fasst drei.
+316|Platzierte Teiche: {0}
+317|Freie Wasserplätze: {0}
+318|Bonus erhalten  +{0}
+319|+{0} Energie
+320|{0}/{1} im Besitz
+321|{0} eingelagert
+322|Fliegt über der Insel
+323|Schwimmt auf einem Teich
+324|Motor Lvl {0}
+325|{0} Kerne
+326|Im Besitz
+327|Baue zuerst {0}
+328|Inselradius {0}
+329|+{0} Dekos
+330|MAX
+331|Maschinen
+332|Bauen ist während eines Sturms gesperrt.
+333|Dauerhafte Verbesserungen
+334|BAUEN
+335|GESPERRT
+336|Freigeschaltet auf Motorstufe {0}.
+337|Nicht gebaut
+338|Lvl {0}/{1}
+339|MAXIMAL
+340|VERBESSERN
+341|Hält deinen Motor am Laufen, während du weg bist. Einmal gebaut, für immer behalten (übersteht Neustarts).
+342|Offline: bis zu {0} Std mit {1} Effizienz. Nächste Stufe: mehr Stunden und mehr Effizienz.
+343|Lvl 0
+344|KAUFEN
+345|BESTER WERT
+346|Freigeschaltet auf Motorstufe {0}. Verdiene EP durch Bauen und Stürme.
+347|Höchststufe {0}
+348|KAUFEN x{0}
+349|+1 Basisdruck pro Stufe
+350|Basis jetzt {0}
+351|+0,5 s Sturm und +4 % Ladetempo pro Stufe
+352|Sturm {0} s, Laden {1}
+353|+{0} % {1} pro Stufe
+354|jetzt {0}
+355|Module
+356|Ausgerüstet
+357|Werkstatt
+358|Freischalten
+359|Verbessern
+360|Ausrüsten
+361|Leer
+362|Gesperrt
+363|Module sind während eines Sturms gesperrt.
+364|{0}/{1} Plätze belegt. Tippe auf ein ausgerüstetes Modul, um es abzulegen. Sturmkerne gibt es für Stürme und Entdeckungen.
+365|Benötigte Atmosphären-Neustarts: {0}.
+366|Entdecke zuerst {0}.
+367|Entdecke zuerst ein neues Phänomen ({0}).
+368|{0} freischalten
+369|Ablegen
+370|{0} verbessern
+371|braucht den Chaosreaktor
+372|Entfesselte Stürme
+373|Blitzeinschläge
+374|Megastürme
+375|Beste Kette
+376|Eingesetzte Boosts
+377|Höchste Sturmkraft
+378|Gesamtenergie
+379|Atmosphären-Neustarts
+380|Entdeckte Phänomene
+381|Spielzeit
+382|Sturmlabor
+383|Mehr
+384|WOCHENBEDINGUNG
+385|Die Bedingungen wechseln jeden Montag (UTC) und verändern, welcher Aufbau der beste ist. Das Wochenturnier und seine Bestenliste werden gleichzeitig zurückgesetzt.
+386|Wochenbedingungen werden auf Motorstufe {0} freigeschaltet: jeden Montag eine neue atmosphärische Wendung.
+387|Statistiken
+388|Musik
+389|Ambient- und Wohlfühl-Titel. Gesperrte gehören nach einer kurzen Werbung für immer dir.
+390|Sprache
+391|Soundeffekte
+392|Effektlautstärke
+393|Musiklautstärke
+394|Wettergeräusche
+395|Vibration
+396|Grafikqualität
+397|Grafik auf langsamen Handys anpassen
+398|Bildrate
+399|Erinnerungen (Tagesgeschenk, Turnier)
+400|Zahlenformat

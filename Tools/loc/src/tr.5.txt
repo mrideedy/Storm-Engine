@@ -1,0 +1,9 @@
+1179|ÇEVRİMİÇİ VERİLER SİLİNSİN Mİ?
+1180|Bu işlem oyuncu hesabını ve oyun sunucularının bunun için sakladıklarını siler: bulut kaydı, ada ve sıralama puanları. Bu telefondaki ilerlemen kalır.
+1181|Sil
+1182|Çevrimiçi verilerin silindi. Çevrimiçi özellikler artık kapalı.
+1183|Çevrimiçi veriler şu anda silinemedi. Bağlantını kontrol edip tekrar dene.
+1184|Çevrimiçi özellikler kapalı.
+1185|Çevrimiçi özellikler
+1186|Sıralamalar, turnuvalar, bulut kaydı ve ada ziyaretleri oyun sunucularını kullanır. Kapalıyken hiçbir şey telefonundan çıkmaz.
+1187|Çevrimiçi verilerimi sil

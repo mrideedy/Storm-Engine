@@ -1,0 +1,19 @@
+1160|Home
+1161|Privacy
+1162|Annunci personalizzati
+1163|Gli annunci partono solo quando scegli di guardarne uno. Gli annunci personalizzati usano l'ID pubblicità del tuo dispositivo.
+1164|Informativa sulla privacy
+1165|Ti piace Storm Engine?
+1166|Una valutazione o una condivisione aiuta altri cacciatori di tempeste a trovare il gioco.
+1167|Valuta il gioco
+1168|Condividi
+1169|Costruisci una macchina del meteo, scatena tempeste giganti e scala le classifiche settimanali di Storm Engine!
+1170|Copiato! Incollalo dove vuoi per condividerlo.
+1171|ANNUNCI SU MISURA?
+1172|La tua scelta, i tuoi dati
+1173|Storm Engine è gratis. Gli annunci partono solo quando scegli di guardarne uno per un premio.
+1174|Il nostro partner pubblicitario può usare l'ID pubblicità del tuo dispositivo per mostrarti annunci in base ai tuoi interessi. Senza di esso ricevi comunque ogni premio, solo con annunci meno pertinenti. Puoi cambiarlo quando vuoi nelle Impostazioni.
+1175|No, grazie
+1176|Consenti
+1177|Ho appena scatenato una tempesta ({0}) da {1} punti in Storm Engine! Riesci a battermi?
+1178|Hai scoperto un fenomeno! Tutto ciò che sblocchi è spiegato nella Stormpedia. La trovi nel menu in alto a destra.

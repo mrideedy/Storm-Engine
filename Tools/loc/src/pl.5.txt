@@ -1,0 +1,9 @@
+1179|USUNĄĆ DANE ONLINE?
+1180|To usuwa twoje konto gracza i to, co przechowują serwery gry: zapis w chmurze, wyspę i wyniki w rankingach. Postęp na tym telefonie zostaje.
+1181|Usuń
+1182|Twoje dane online zostały usunięte. Funkcje online są teraz wyłączone.
+1183|Nie udało się teraz usunąć danych online. Sprawdź połączenie i spróbuj ponownie.
+1184|Funkcje online są wyłączone.
+1185|Funkcje online
+1186|Rankingi, turnieje, zapis w chmurze i odwiedziny wysp korzystają z serwerów gry. Po wyłączeniu nic nie opuszcza telefonu.
+1187|Usuń moje dane online

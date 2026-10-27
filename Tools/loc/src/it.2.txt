@@ -1,0 +1,400 @@
+401|Riduci movimenti e lampi
+402|Tempesta automatica (Automazione delle tempeste)
+403|Consigli e tutorial
+404|Mostra di nuovo tutti i consigli
+405|I consigli torneranno mentre giochi.
+406|Sviluppatore
+407|Solo per i test. Non incluso nelle versioni finali.
+408|Sblocca tutto
+409|SBLOCCARE TUTTO?
+410|Livello Motore massimo e tutte le macchine, moduli, stili, pacchetti, decorazioni, espansioni e brani, più 100K Gemme, 100K Nuclei di Tempesta e 10K di Ricerca.
+411|Salvataggio
+412|Salva ora
+413|Azzera i progressi
+414|STORM ENGINE · Costruisci con astuzia. Tempeste enormi.
+415|Riproduci
+416|Termina tra {0}
+417|SEMPLICE
+418|BILANCIATA
+419|ALTA
+420|30 RISPARMIO
+421|{0} FPS
+422|NO
+423|NON CONSENTITO
+424|SÌ
+425|Salvato sul dispositivo ogni pochi secondi.
+426|Il salvataggio cloud è attivo.
+427|Il salvataggio cloud si sincronizza quando sei online.
+428|Sintonizzazione...
+429|In riproduzione
+430|Bloccato: guarda una pubblicità per sbloccarlo
+431|Ricerca
+432|Resetta l'atmosfera
+433|Macchine ed Energia ripartono da zero. Mantieni Ricerca, moduli, Nuclei di Tempesta, scoperte e record.
+434|RICERCA AL RESET
+435|ENERGIA IN QUESTA PARTITA
+436|Resetta atmosfera
+437|Ricerca permanente
+438|Primo punto di Ricerca a {0} di Energia in questa partita.
+439|Prossimo punto a {0} di Energia. La Ricerca cresce a ogni ordine di grandezza raggiunto.
+440|Hai {0} di Ricerca ({1} guadagnata, {2} reset).
+441|POSSEDUTO
+442|Aspetti
+443|Nuvole
+444|Fulmini
+445|Mondi
+446|Titoli
+447|Negozio
+448|LE TUE GEMME
+449|Ottieni Gemme
+450|In evidenza
+451|Stili
+452|Gemme
+453|Ricompense gratis
+454|Pacchetti pubblicità: ambienti completi
+455|Disponibili solo guardando pubblicità con ricompensa. Ogni pacchetto sblocca un set completo in una volta.
+456|Esclusivi
+457|Pezzi di prestigio solo con Gemme e i bonus più forti.
+458|Pacchetti di Gemme
+459|Le Gemme si guadagnano anche giocando: +{0} a ogni Livello Motore, +{1} per ogni nuovo fenomeno, ricompense giornaliere, premi degli obiettivi e del torneo settimanale.
+460|Guarda
+461|OFFERTA
+462|SOLO PUBBLICITÀ
+463|Guarda  +1
+464|Equipaggia il set
+465|Bonus: {0}
+466|Nessun bonus
+467|I titoli appaiono accanto al tuo nome nelle classifiche e aumentano i Nuclei di Tempesta ottenuti.
+468|Ogni stile migliora una statistica mentre è equipaggiato (limite x1.10 nei tornei). Tocca una carta per i dettagli.
+469|Negozio di prova: gli acquisti sono simulati nell'Editor e nelle versioni di sviluppo (non viene addebitato nulla).
+470|Attivo: mancano {0}
+471|{0}/{1} oggi
+472|{0}/{1} rimasti oggi
+473|Illimitato
+474|{0}/{1} pubblicità
+475|Si sblocca al Liv. {0}
+476|Torna domani
+477|EQUIPAGGIATO
+478|Pacchetto {0}
+479|Pacchetto iniziale
+480|{0} Nuclei di Tempesta
+481|Riscuoti
+482|Scopri {0}
+483|Reset dell'atmosfera: {0}
+484|Torneo Settimanale
+485|Torneo
+486|QUESTA SETTIMANA
+487|MIGLIORE DELLA SETTIMANA
+488|TENTATIVI DI OGGI
+489|ENTRA NEL TORNEO
+490|+1 tentativo
+491|Regole
+492|Macchine, moduli e ricerca contano esattamente come li hai costruiti. Potenziati per diventare più forte!
+493|La condizione di questa settimana vale sempre.
+494|I bonus di stile contano, ma ognuno ha un limite di x{0}.
+495|Decorazioni, Ondate di Energia e potenziamenti in corso non contano.
+496|La tempesta parte subito con potenziamenti nuovi: usali durante la tempesta per accumulare catene.
+497|{0} tentativi al giorno (UTC), più fino a {1} con le pubblicità. Conta la tua tempesta migliore.
+498|Premi settimanali
+499|Top {0}
+500|Tutti
+501|Classifiche
+502|Nome
+503|Questa settimana
+504|Di sempre
+505|Per classe
+506|Aggiorna
+507|Le classifiche globali non sono ancora collegate. I tuoi record del torneo vengono comunque registrati.
+508|Ancora nessun punteggio. Entra nel torneo e prenditi il primo posto!
+509|Offline. La classifica comparirà quando ti connetti.
+510|Prossimo rivale: {0} (#{1}) è avanti di {2}. Potenzia il motore e superalo!
+511|Sei al primo posto. Difendilo!
+512|(tu)
+513|Condizioni libere
+514|i premi vengono pagati alla chiusura della settimana
+515|TEMPESTA DEL TORNEO IN CORSO
+516|TEMPESTA IN CORSO...
+517|NESSUN TENTATIVO RIMASTO
+518|Previsione con tutti i potenziamenti: {0}  ({1})
+519|Tempeste del torneo in attesa di verifica e invio: {0}
+520|Aggiornato {0} fa
+521|Caricamento...
+522|Classifica salvata in visualizzazione
+523|Nuclei di Tempesta
+524|Ondata di Energia x2
+525|{0} min
+526|{0} h
+527|Un regalo per ogni giorno in cui giochi, più tre nuove missioni
+528|Salvala
+529|MISSIONI DI OGGI
+530|Le nuove missioni arrivano a mezzanotte (UTC).
+531|record {0}
+532|Riscuoti il regalo di oggi per iniziare una serie!
+533|La serie inizia oggi!
+534|Hai saltato un giorno e perso la tua serie di {0} giorni. Guarda una breve pubblicità per mantenerla!
+535|GIORNO {0}
+536|{0} nuclei
+537|Riscuoti il regalo del giorno {0}
+538|Torna domani per il giorno {0}. Nuovo giorno tra {1}.
+539|Tutte le missioni completate. A domani!
+540|Completa tutte le missioni ({0}/{1} riscosse): {2}
+541|Nuove missioni tra {0} (mezzanotte UTC)
+542|LINGUA
+543|Scegli la lingua di tutto il gioco
+544|TEMPESTA DEL TORNEO
+545|torneo settimanale
+546|TEMPESTA COMPLETATA
+547|PUNTEGGIO DEL TORNEO
+548|PUNTEGGIO DELLA TEMPESTA
+549|NUOVO RECORD SETTIMANALE
+550|RECORD DEL TORNEO
+551|NUOVO RECORD PERSONALE
+552|MIGLIORE DELLA CLASSE
+553|COLLASSATA
+554|Migliore della settimana: {0}
+555|Durata
+556|Potenza della Tempesta media
+557|Picco della reazione a catena
+558|{0} fulmini
+559|Tempo in Megatempesta
+560|{0} fenomeni
+561|Tempo in Finestra Perfetta
+562|Potenziamenti usati nella tempesta
+563|Energia guadagnata
+564|PUNTEGGIO PER CLASSE
+565|Record personale! Porta questo motore al Torneo Settimanale per registrare un punteggio nelle classifiche globali.
+566|Continua
+567|Record salvato sul dispositivo. Collega i servizi online per sfidare il mondo intero.
+568|Offline: questo record sarà verificato e inviato quando ti riconnetti.
+569|Verifica del replay della tempesta con il server...
+570|Verificato e inviato alle classifiche.
+571|BENTORNATO!
+572|Sei stato via per {0}
+573|Il tuo motore delle tempeste ha continuato a lavorare per {0}
+574|Il tuo motore è rimasto fermo mentre eri via. La camera della tempesta è carica e pronta!
+575|Costruisci il Generatore Offline nella scheda Macchine ({0} di Energia + {1} Nuclei di Tempesta) per continuare a produrre mentre sei via.
+576|Il Generatore Offline si sblocca al Livello Motore {0}. È costoso, ma mantiene il tuo motore in produzione mentre sei via.
+577|Andiamo!
+578|ENERGIA RACCOLTA
+579|Tempo conteggiato
+580|(limite raggiunto)
+581|Efficienza offline
+582|(ricerca l'Automazione delle tempeste)
+583|Migliora il Generatore Offline o ricerca il Condensatore Offline per produrre più a lungo.
+584|Raccogli
+585|Raccogli x2
+586|NUOVO FENOMENO SCOPERTO!
+587|RICETTA
+588|+{0} Nuclei di Tempesta. Le scoperte possono sbloccare nuovi moduli in officina.
+589|Costruisci. Ottimizza. Crea le tempeste più grandi.
+590|Costruisci macchine
+591|Ogni macchina alimenta una categoria del meteo. Le categorie si moltiplicano tra loro nella Potenza della Tempesta, e la Potenza della Tempesta produce Energia.
+592|Scatena tempeste
+593|Quando la cupola è carica, scatena una tempesta per un'enorme esplosione. Usa i potenziamenti durante la tempesta così che i loro effetti si sommino.
+594|Scopri fenomeni
+595|Porta le categorie giuste oltre le loro soglie per scoprire Temporali, Cicloni, Supercelle e altro.
+596|Sfida il mondo ogni settimana
+597|Rendi il tuo motore più forte, poi portalo al Torneo Settimanale (Livello Motore 8). Le tempeste del torneo sono verificate dal server e classificate in tutto il mondo.
+598|Dai un nome al mio Cacciatore di Tempeste
+599|Accendi il motore!
+600|NOME DEL CACCIATORE DI TEMPESTE
+601|Mostrato nelle classifiche globali
+602|Solo lettere, numeri, - e _. Unity aggiunge un breve #tag per rendere unici i nomi.
+603|Nome salvato: {0}
+604|Impossibile cambiare il nome in questo momento.
+605|Per questa tempesta non sono stati registrati dettagli della configurazione.
+606|Classe di tempesta
+607|Picco della catena
+608|MODULI
+609|FENOMENI
+610|Condizione settimanale
+611|Visita l'isola
+612|nessuno
+613|PUBBLICITÀ CON RICOMPENSA
+614|Simulata nell'Editor e nelle versioni di sviluppo
+615|Nella versione finale, una vera rete pubblicitaria (per esempio Unity LevelPlay) mostra qui un breve video.
+616|Salta
+617|Riscuoti la ricompensa
+618|Pubblicità terminata.
+619|La pubblicità termina tra {0} s
+620|{0} SBLOCCATO!
+621|Un ambiente completo, ottenuto con le pubblicità
+622|Decorazioni aggiunte alla tua isola: {0}.
+623|Più tardi
+624|Equipaggia tutto
+625|RISULTATI DEL TORNEO
+626|La settimana scorsa sei arrivato #{0}
+627|Grazie per aver partecipato la settimana scorsa!
+628|LA TUA RICOMPENSA
+629|È iniziato un nuovo torneo settimanale con una nuova condizione. Potenzia il motore e partecipa di nuovo!
+630|Bonus
+631|Nei tornei
+632|(limitato)
+633|Ottienilo
+634|Basi
+635|Potenziamenti
+636|Fenomeni
+637|Settimanali
+638|Decorazioni
+639|Potenza della Tempesta
+640|Potenza della Tempesta = Pressione base x Temperatura x Umidità x Vento x Nuvole x Elettricità x Sinergia. Le categorie si moltiplicano tra loro, quindi un motore bilanciato batte uno sbilanciato. La tua Energia al secondo è la tua Potenza della Tempesta per i tuoi bonus di guadagno.
+641|Tempeste e reazioni a catena
+642|La camera della tempesta si carica col tempo. Scatena una tempesta per un'esplosione di Energia. Ogni fulmine fa crescere la reazione a catena, che moltiplica l'intero punteggio della tempesta.
+643|Livello Motore
+644|Costruire macchine, scatenare tempeste, scoprire fenomeni e completare obiettivi fa guadagnare PE. I nuovi livelli sbloccano macchine, funzioni e stili, e ogni livello dà Gemme.
+645|Ogni tempesta lascia Nuclei di Tempesta (le più grandi ne lasciano di più). Spendili in moduli, decorazioni e miglioramenti permanenti.
+646|La valuta premium. Si ottiene con i Livelli Motore (+{0}), i nuovi fenomeni (+{1}), gli obiettivi, le ricompense giornaliere, le ricompense gratis e i premi del torneo, oppure si compra nel Negozio. Spendila in stili, decorazioni ed espansioni dell'isola.
+647|Ricompense giornaliere
+648|Apri il regalo ogni giorno per una ricompensa su un ciclo di sette giorni. Riscuoterlo in giorni consecutivi crea una serie, e tre missioni giornaliere danno Gemme, Nuclei di Tempesta o Ondate di Energia. Tutto si azzera a mezzanotte UTC.
+649|Brevi pubblicità facoltative danno Gemme, Ondate di Energia (guadagno x2), cariche istantanee, Nuclei di Tempesta doppi, tentativi extra al torneo e progressi nei pacchetti pubblicità. Ognuna ha un limite giornaliero.
+650|Laboratorio Atmosferico
+651|Tocca l'indicatore della Potenza della Tempesta per aprire il laboratorio. Mostra ogni modificatore di ogni categoria e prevede la tua prossima tempesta.
+652|Megatempeste e Finestre Perfette
+653|Con {0}+ fenomeni attivi insieme una tempesta diventa una Megatempesta (x{1}, di più con {2} e {3}). Tenere {4}+ potenziamenti attivi insieme apre una Finestra Perfetta (x{5}).
+654|Bonus di stile
+655|Ogni aspetto, nuvola, fulmine, mondo e titolo migliora una statistica mentre è equipaggiato. Nei tornei ogni bonus di stile ha un limite di x{0}, quindi potenziare il motore conta sempre di più.
+656|I moduli piegano la formula: conversioni, condizioni e grandi moltiplicatori. Sbloccali con i Nuclei di Tempesta ed equipaggiali nei tuoi slot limitati.
+657|L'isola e i visitatori
+658|Decora la tua isola sulla terra, in aria e sugli stagni. Ogni decorazione diversa che possiedi aumenta un po' il guadagno di Energia, una sola volta. I giocatori possono visitare le isole degli altri dalle classifiche.
+659|Porta il tuo motore al torneo con regole fisse: vale la condizione della settimana, i bonus di stile sono limitati e decorazioni e ondate non contano. {0} tentativi al giorno; la tua tempesta migliore viene classificata e verificata dal server. Le Gemme vengono pagate alla fine della settimana.
+660|Condizioni settimanali
+661|Ogni lunedì (UTC) una nuova condizione atmosferica rafforza alcune statistiche e ne indebolisce altre. Cambia la configurazione migliore, nel tuo motore e nel torneo.
+662|Generatore Offline
+663|Un miglioramento permanente e costoso che mantiene il motore in produzione mentre sei via, con efficienza ridotta e fino a un limite di tempo.
+664|Reset dell'atmosfera
+665|Azzera l'Energia e i livelli delle macchine per ottenere Ricerca, poi spendila in miglioramenti permanenti nel Laboratorio di Ricerca. Moduli, Nuclei di Tempesta, stili e decorazioni vengono conservati.
+666|Compare al Livello Motore {0}.
+667|Continua a produrre Energia per svelarlo.
+668|una macchina che non hai ancora trovato
+669|Dura {0} s, si ricarica in {1} s.
+670|Migliora {0} al Liv. {1}.
+671|Compare solo nelle tempeste alimentate da un modulo molto insolito.
+672|Indizio della ricetta: porta {0} abbastanza in alto nello stesso momento.
+673|Scopri un nuovo fenomeno per svelarlo.
+674|Resetta l'atmosfera per svelarlo.
+675|Sbloccalo nell'Officina dei Moduli.
+676|Continua a resettare l'atmosfera per svelarlo.
+677|La Ricerca si sblocca al Livello Motore {0}.
+678|(questa settimana)
+679|Una condizione di una settimana futura.
+680|Le condizioni settimanali iniziano al Livello Motore {0}.
+681|Fa parte di un pacchetto pubblicità del Negozio.
+682|Fa parte di un'offerta speciale.
+683|Scopri un fenomeno per ottenerlo.
+684|Un esclusivo del Negozio.
+685|Lo trovi nel Negozio.
+686|Una decorazione limitata. Torna nel negozio dell'isola in alcune settimane.
+687|Fa parte di un pacchetto pubblicità.
+688|In vendita in Decorazioni dell'isola.
+689|STORMPEDIA
+690|Tutto quello che hai scoperto finora
+691|{0} di {1} scoperti
+692|NUOVO
+693|VISITA LE ISOLE
+694|Guarda come decorano gli altri ingegneri delle tempeste
+695|ISOLE VETRINA
+696|GIOCATORI DEL TORNEO
+697|Nessuno è ancora entrato nel torneo di questa settimana.
+698|Connettiti per visitare gli altri giocatori. Le isole vetrina funzionano offline.
+699|Tocca il punto luminoso per continuare.
+700|Salta i consigli
+701|Avanti
+702|Consiglio {0} di {1}
+703|Novità!
+704|Capito!
+705|Costruisci il tuo motore
+706|Tocca COMPRA sulla Pompa a pressione qualche volta. Le macchine creano Potenza della Tempesta, e la Potenza della Tempesta crea Energia.
+707|Questa è la tua Potenza della Tempesta: l'Energia che guadagni ogni secondo. Spendi Energia in macchine per aumentarla.
+708|Mescola il meteo
+709|Ogni macchina alimenta una parte diversa del meteo, e le parti si moltiplicano tra loro. Costruisci una Pompa idraulica!
+710|Scatena una tempesta
+711|La camera della tempesta si sta caricando. Quando è piena, tocca SCATENA (o la cupola di vetro) per una grande esplosione di Energia.
+712|Obiettivi
+713|Segui la carta degli obiettivi per ottenere premi. Tutto ciò che fai dà PE per far salire il Livello Motore.
+714|I nuovi livelli sbloccano macchine, funzioni e stili. Tocca l'anello del livello quando vuoi per vedere cosa arriva dopo.
+715|Apri il regalo ogni giorno per una ricompensa. Mantieni la serie e completa tre missioni giornaliere per ottenere Gemme.
+716|I potenziamenti rinforzano una parte del motore per poco tempo. Usali mentre infuria una tempesta per creare grandi reazioni a catena!
+717|Tocca la tua Potenza della Tempesta quando vuoi per vedere esattamente come viene calcolata e prevedere la tua prossima tempesta.
+718|Negozio di Stili
+719|Gli stili cambiano l'aspetto del tuo motore, e ognuno dà anche un piccolo bonus. Con le Gemme compri i più eleganti.
+720|I moduli sono equipaggiamenti speciali pagati con Nuclei di Tempesta. Equipaggiali nei tuoi slot per piegare le regole della formula.
+721|Decora la tua isola! Ogni decorazione diversa aggiunge un po' di Energia, e gli altri giocatori possono venire a trovarti.
+722|Il tuo motore ora può sfidare la classifica globale. Hai 3 tentativi al giorno, e tutti ottengono Gemme alla fine della settimana.
+723|Ogni lunedì una nuova condizione meteo cambia la configurazione migliore. Controllala prima di partecipare.
+724|Costruisci il Generatore Offline nella scheda Macchine e il tuo motore continuerà a guadagnare mentre sei via.
+725|Laboratorio di Ricerca
+726|Resetta l'atmosfera per ottenere Ricerca: miglioramenti permanenti che rendono ogni partita più veloce. Moduli, Nuclei di Tempesta e record vengono conservati.
+728|Pressione base
+729|Efficienza del motore
+730|Tutti i fenomeni
+731|Temporale
+732|Tempesta di calore
+733|Monsone
+734|Ciclone
+735|Supercella
+736|Sovraccarico
+737|Anomalia
+738|Intensità della tempesta
+739|Durata della tempesta
+740|Velocità di carica
+741|Frequenza dei fulmini
+742|Catena per fulmine
+743|Potenza della Megatempesta
+744|Durata dei potenziamenti
+745|Ricarica dei potenziamenti
+746|Forza dei potenziamenti
+747|Efficienza offline
+748|Limite offline
+749|Guadagno di Nuclei di Tempesta
+750|Guadagno di Ricerca
+751|Slot per moduli
+752|Tasso di instabilità
+753|Risonanza sinergica
+754|Guadagno di Energia
+755|Pompa a pressione
+756|Pressurizza la camera. Ogni livello aggiunge +1 di Pressione base.
+757|Pompa idraulica
+758|Pompa acqua nell'aria. Ogni livello aggiunge +5% di Umidità.
+759|Condensatore di nuvole
+760|Condensa il vapore in nuvole. Ogni livello aggiunge +5% di densità delle Nuvole.
+761|Bobina di Tesla
+762|Accumula carica elettrica. Ogni livello aggiunge +5% di Elettricità.
+763|Fornace termica
+764|Riscalda l'aria. Ogni livello aggiunge +5% di Temperatura.
+765|Camera della tempesta
+766|Rinforza la cupola. +0,5 s di durata della tempesta e +4% di velocità di carica per livello.
+767|Turbina eolica
+768|Muove l'aria. Ogni livello aggiunge +5% di Vento.
+769|Scoppio di nuvole
+770|Nuvole x2 per 20 s. Ricarica 45 s.
+771|Sovraccarico d'arco
+772|Elettricità x2,5 e fulmini +50% per 15 s. Ricarica 50 s.
+773|Ondata di calore
+774|Temperatura x2 per 30 s. Ricarica 60 s.
+775|Corrente a getto
+776|Vento x3 per 10 s. Ricarica 40 s.
+777|Nuvole, carica e umidità in equilibrio. Il tuttofare.
+778|I fulmini cadono il 50% più spesso.
+779|Correnti ascensionali roventi. Configurazione incentrata sulla Temperatura.
+780|La tempesta dura 3 s in più.
+781|Pioggia infinita portata da un vento costante. Configurazione incentrata sull'Umidità.
+782|L'intensità della tempesta cresce del +4% ogni secondo.
+783|Un muro vorticoso di vento e acqua. Configurazione incentrata sul Vento.
+784|Ogni fulmine aggiunge il 50% di catena in più.
+785|Calore, umidità e vento a livelli estremi. Moltiplicatori enormi.
+786|Intensità della tempesta x1.5.
+787|Una carica enorme sopra uno strato di nuvole stabile. Configurazione incentrata sull'Elettricità.
+788|I fulmini cadono il doppio delle volte.
+789|Le tempeste del Reattore del Caos squarciano la realtà oltre il 40% di instabilità.
+790|Moltiplicatore enorme, ma la tempesta collassa al 100% di instabilità.
+791|Condensatore atmosferico
+792|Condensatore
+793|Umidità e Nuvole x1.3 (+0.1/liv. ciascuna).
+794|Matrice Tesla
+795|Tesla
+796|Elettricità x1.5 (+0.15/liv.). +0.25 fulmini/s nelle tempeste.
+797|Nucleo termico
+798|Termico
+799|Temperatura x1.5 (+0.15/liv.). Il 10% del bonus di Temperatura alimenta anche la Pressione base.
+800|Acceleratore a getto
+801|Getto

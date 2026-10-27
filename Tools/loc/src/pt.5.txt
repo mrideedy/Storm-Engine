@@ -1,0 +1,9 @@
+1179|EXCLUIR DADOS ONLINE?
+1180|Isso exclui sua conta de jogador e o que os servidores do jogo guardam dela: salvamento na nuvem, ilha e pontuações nos rankings. Seu progresso neste celular continua.
+1181|Excluir
+1182|Seus dados online foram excluídos. Os recursos online agora estão desativados.
+1183|Não foi possível excluir seus dados online agora. Verifique sua conexão e tente de novo.
+1184|Os recursos online estão desativados.
+1185|Recursos online
+1186|Rankings, torneios, salvamento na nuvem e visitas a ilhas usam os servidores do jogo. Desativados, nada sai do seu celular.
+1187|Excluir meus dados online

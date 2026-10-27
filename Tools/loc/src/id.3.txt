@@ -1,0 +1,358 @@
+802|Angin x1.5 (+0.15/lv). Badai terisi 20% lebih cepat.
+803|Lensa Barometrik
+804|Lensa
+805|Tekanan Dasar x2 (+0.25/lv).
+806|Bank Kapasitor
+807|Kapasitor
+808|Badai berlangsung +4 d (+0.5/lv). Rantai per petir +2%.
+809|Penukar Panas
+810|Penukar
+811|Badai Panas x2 (+0.2/lv). 25% bonus Suhu juga masuk ke Angin.
+812|Penampung Hujan
+813|Hujan
+814|Muson x2 (+0.2/lv). Efisiensi offline +10%.
+815|Inti Siklon
+816|Siklon x2 (+0.2/lv). Angin x1.25.
+817|Relai Kelebihan Muatan
+818|Relai
+819|Kelebihan Muatan x2 (+0.2/lv). Rantai per petir +3%.
+820|Prosesor Superkel
+821|Prosesor
+822|Semua fenomena x1.2 (+0.04/lv).
+823|Reaktor Kekacauan
+824|Kekacauan
+825|Kekuatan Badai x2 (+0.25/lv). Badai menumpuk ketidakstabilan: Anomali di atas 40%, runtuh di 100%.
+826|+25% Kekuatan Badai per level.
+827|Otomasi Badai
+828|Badai melepaskan dirinya sendiri saat terisi, bahkan saat kamu pergi (dengan Generator Offline).
+829|Ruang Modul
+830|+1 slot modul.
+831|Badai Panjang
+832|+2 d durasi badai per level.
+833|Isi Cepat
+834|Badai terisi 10% lebih cepat per level.
+835|Penguasaan Air
+836|Bonus aditif Kelembapan 10% lebih efektif per level.
+837|Penguasaan Awan
+838|Bonus aditif Awan 10% lebih efektif per level.
+839|Penguasaan Muatan
+840|Bonus aditif Listrik 10% lebih efektif per level.
+841|Penguasaan Panas
+842|Bonus aditif Suhu 10% lebih efektif per level.
+843|Penguasaan Udara
+844|Bonus aditif Angin 10% lebih efektif per level.
+845|Kapasitor Offline
+846|+2 j batas offline dan +5% efisiensi offline per level (butuh Generator Offline).
+847|Penyetelan Jeda
+848|Jeda boost -6% per level (multiplikatif).
+849|Ekstraksi Inti
+850|+20% Inti Badai dari badai per level.
+851|Penguat Boost
+852|Efek boost +10% lebih kuat per level.
+853|Start Cepat
+854|Mulai setiap ronde dengan lebih banyak Energi (500, 5K, 50K, 500K, 5M).
+855|Setiap fenomena aktif meningkatkan semua fenomena lain +3% per level.
+856|Konversi Tekanan
+857|5% bonus Suhu per level juga masuk ke Tekanan Dasar.
+858|Gradien Suhu Ekstrem
+859|+Suhu x1.4
+860|+Frekuensi petir x1.1
+861|-Kelembapan x0.85
+862|Atmosfer Jenuh
+863|+Kelembapan x1.5
+864|+Awan x1.2
+865|-Angin x0.8
+866|Musim Angin Kencang
+867|+Angin x1.5
+868|+Siklon x1.5
+869|-Suhu x0.85
+870|Ketidakstabilan Listrik
+871|+Listrik x1.6
+872|+Rantai per petir x1.5
+873|-Awan x0.85
+874|Musim Muson
+875|+Muson x2
+876|+Kelembapan x1.3
+877|-Listrik x0.8
+878|Kubah Panas
+879|+Badai Panas x2
+880|+Suhu x1.3
+881|-Awan x0.8
+882|Udara Tenang
+883|+Badai berlangsung 4 d lebih lama
+884|+Efek boost x1.25
+885|Wabah Superkel
+886|+Superkel x1.5
+887|+Intensitas badai x1.1
+888|-Listrik x0.9
+889|Tingkatkan Pompa Tekanan ke Lv 5
+890|Bangun Pompa Air
+891|Lepaskan badai pertamamu
+892|Capai Level Mesin 2
+893|Bangun Kondensor Awan
+894|Naikkan Pompa Air ke Lv 10
+895|Naikkan Kondensor Awan ke Lv 10 untuk membuka Ledakan Awan
+896|Aktifkan boost
+897|Bangun Kumparan Tesla
+898|Dapatkan gaya baru di Toko Gaya
+899|Lepaskan 10 badai
+900|Bangun Tungku Panas
+901|Buka Modul dengan Inti Badai
+902|Pasang Modul
+903|Hias pulaumu
+904|Miliki 5 dekorasi berbeda
+905|Temukan Badai Petir
+906|Perkuat Ruang Badai
+907|Bangun Turbin Angin
+908|Capai reaksi berantai x2 dalam satu badai
+909|Capai Level Mesin 8 untuk ikut turnamen
+910|Ikuti turnamen mingguan
+911|Temukan Badai Panas
+912|Bangun Generator Offline
+913|Hasilkan 10M Energi dalam satu ronde
+914|Reset atmosfer untuk mendapat Riset
+915|Miliki 3 peningkatan Riset
+916|Temukan Muson
+917|Temukan Siklon
+918|Temukan Superkel
+919|Temukan badai Kelebihan Muatan
+920|Reset atmosfer 3 kali
+921|Ciptakan Anomali
+922|Isi dan lepaskan badai.
+923|Hadiah untuk setiap hari kamu bermain, beruntun yang terus tumbuh, dan tiga misi baru setiap hari.
+924|Lihat persis cara Kekuatan Badai dihitung dan perkirakan badai berikutnya.
+925|Skin, awan badai, petir, dunia, dan gelar. Masing-masing meningkatkan satu statistik.
+926|Bengkel Modul
+927|Pasang modul yang membengkokkan rumus. Dibayar dengan Inti Badai.
+928|Hias pulaumu untuk bonus Energi dan pamerkan ke pengunjung.
+929|Bawa mesinmu ke turnamen mingguan dan panjat papan peringkat global.
+930|Kondisi Mingguan
+931|Kondisi atmosfer baru setiap Senin mengubah susunan terbaik.
+932|Tetap berproduksi saat kamu pergi. Mahal untuk dibangun.
+933|Reset atmosfer untuk Riset dan peningkatan permanen.
+934|Membuat mesin tetap berjalan saat kamu pergi. Level 1: 1 jam dengan efisiensi 20%. Setiap level menambah +1 jam dan +5% efisiensi. Permanen.
+935|Bengkel Klasik
+936|Yang asli dan setia: dek bundar, kubah kaca, dan satu antena yang sangat bangga.
+937|Angin Laut
+938|Mesin bergaya kapal dengan jendela bundar dan pagar kuningan. Kelembapan x1.10.
+939|Pabrik Zamrud
+940|Dek bergigi dan mahkota roda gigi. Awan x1.10.
+941|Ungu Kerajaan
+942|Singgasana segi delapan dengan mahkota bertatahkan permata. Listrik x1.15.
+943|Neon Tengah Malam
+944|Sudut tajam dan garis bercahaya. Angin x1.15.
+945|Permen Pop
+946|Permen jeli, pusaran, dan antena lolipop. Suhu x1.15.
+947|Emas Surya
+948|Mesin matahari yang bersinar dengan sinar keemasan. Tekanan Dasar x1.20.
+949|Inti Kekacauan
+950|Berduri dan tidak stabil, dengan pecahan yang mengorbit kubah. Efisiensi Mesin x1.15.
+951|Mesin Uap Kuningan
+952|Eksklusif. Roda gigi berputar, paku keling, dan kubah bawang. Tekanan Dasar x1.30.
+953|Menara Kristal
+954|Eksklusif. Mesin kristal berfaset yang dikelilingi pecahan. Listrik x1.30.
+955|Roket Langit
+956|Eksklusif. Sirip ekor, kubah kapsul, dan cincin orbit. Angin x1.30.
+957|Tempa Magma
+958|Paket Gunung Api. Dek basal dengan urat lava menyala. Suhu x1.25.
+959|Pagoda Mekar
+960|Paket Sakura. Atap pagoda bertingkat di atas kubah. Kelembapan x1.25.
+961|Inti Siber
+962|Paket Neon. Sirkuit segi enam dengan cincin hologram. Listrik x1.25.
+963|Lapisan Perak
+964|Lembut, empuk, bisa diandalkan.
+965|Gulali
+966|Gumpalan merah muda yang manis. Awan x1.10.
+967|Kabut Beracun
+968|Gumpalan hijau yang menggelegak. Kecepatan isi x1.15.
+969|Inferno
+970|Awan api yang berkedip. Suhu x1.15.
+971|Gletser
+972|Awan kristal yang dingin. Kelembapan x1.15.
+973|Kehampaan
+974|Awan dari tempat lain. Semua fenomena x1.10.
+975|Prahara
+976|Eksklusif. Awan badai yang berderak. Durasi badai x1.20.
+977|Kepulan Abu
+978|Paket Gunung Api. Abu berasap dengan bara. Suhu x1.12.
+979|Hanyut Kelopak
+980|Paket Sakura. Awan kelopak yang melayang. Kelembapan x1.12.
+981|Synthwave
+982|Paket Neon. Awan digital kotak-kotak. Listrik x1.12.
+983|Petir Emas
+984|Terang, keras, dan keemasan.
+985|Biru Listrik
+986|Busur biru yang tajam. Frekuensi petir x1.10.
+987|Ungu Plasma
+988|Kolom plasma yang tebal. Rantai per petir x1.15.
+989|Busur Zamrud
+990|Busur hijau bergerigi. Listrik x1.10.
+991|Amukan Merah
+992|Cabang merah yang murka. Intensitas badai x1.10.
+993|Prisma
+994|Petir pelangi kembar. Frekuensi petir x1.20.
+995|Palu Guntur
+996|Eksklusif. Setiap sambaran jatuh seperti palu. Rantai per petir x1.25.
+997|Cambuk Lava
+998|Paket Gunung Api. Cambuk cair. Intensitas badai x1.10.
+999|Percik Mekar
+1000|Paket Sakura. Percikan merah muda kembar. Frekuensi petir x1.12.
+1001|Denyut Neon
+1002|Paket Neon. Petir gelombang kotak. Rantai per petir x1.12.
+1003|Padang Cerah
+1004|Bukit hijau dan langit biru.
+1005|Ngarai Gurun
+1006|Batu merah dan kaktus di bawah langit jingga. Suhu x1.10.
+1007|Puncak Beku
+1008|Padang salju dan pinus. Angin x1.10.
+1009|Pulau Tropis
+1010|Pohon kelapa dan laut biru toska. Kelembapan x1.15.
+1011|Malam Berbintang
+1012|Langit berbintang dan bunga bercahaya. Listrik x1.15.
+1013|Planet Alien
+1014|Eksklusif. Hutan kristal di bawah langit ungu. Efisiensi Mesin x1.10.
+1015|Pulau Gunung Api
+1016|Paket Gunung Api. Batu hitam, kolam lava, dan langit membara. Suhu x1.20.
+1017|Taman Sakura
+1018|Paket Sakura. Bunga sakura dan langit merah muda lembut. Kelembapan x1.20.
+1019|Grid Neon
+1020|Paket Neon. Tanah bergaris bercahaya di bawah langit synthwave. Listrik x1.20.
+1021|Ditampilkan di samping namamu.
+1022|Penguasa Guntur
+1023|Didapat dengan menemukan kelas badai ini. Perolehan Inti Badai x1.05.
+1024|Si Pembakar
+1025|Pembuat Hujan
+1026|Pembisik Angin
+1027|Arsitek Superkel
+1028|Didapat dengan menemukan kelas badai ini. Perolehan Inti Badai x1.08.
+1029|Si Kelebihan Muatan
+1030|Insinyur Kekacauan
+1031|Didapat dengan menemukan kelas badai ini. Perolehan Inti Badai x1.10.
+1032|Insinyur Veteran
+1033|Didapat di Level Mesin 20. Perolehan Inti Badai x1.05.
+1034|Legenda Badai
+1035|Didapat di Level Mesin 40. Perolehan Inti Badai x1.10.
+1036|Juara Turnamen
+1037|Gelar eksklusif. Perolehan Inti Badai x1.10.
+1038|Pendiri
+1039|Bagian dari paket. Perolehan Inti Badai x1.05.
+1040|Penguasa Api
+1041|Master Zen
+1042|Hantu Neon
+1043|Tempa Gunung Api
+1044|Skin Tempa Magma, awan Kepulan Abu, petir Cambuk Lava, dunia Pulau Gunung Api, gelar Penguasa Api, dan dua dekorasi vulkanik.
+1045|Skin Pagoda Mekar, awan Hanyut Kelopak, petir Percik Mekar, dunia Taman Sakura, gelar Master Zen, ikan koi, dan lentera batu.
+1046|Malam Neon
+1047|Skin Inti Siber, awan Synthwave, petir Denyut Neon, dunia Grid Neon, gelar Hantu Neon, papan neon, dan pohon hologram.
+1048|Petak Bunga
+1049|Sudut bunga yang ceria.
+1050|Bangku Taman
+1051|Untuk menonton badai datang.
+1052|Lampu Jalan
+1053|Menyala lebih terang saat badai datang.
+1054|Kurcaci Badai
+1055|Memakai topi penangkal petir mungil.
+1056|Layang-layang Badai
+1057|Menari tertiup angin di atas pulau.
+1058|Kolam
+1059|Tempat untuk tiga dekorasi air.
+1060|Daun Teratai
+1061|Mengapung di kolam.
+1062|Bebek Karet
+1063|Kwek.
+1064|Lingkaran Jamur
+1065|Muncul setelah setiap hujan yang baik.
+1066|Kincir Mini
+1067|Berputar lebih cepat saat berangin.
+1068|Penunjuk Arah Angin
+1069|Selalu menunjuk ke arah badai.
+1070|Air Mancur
+1071|Memancar di tengah kolam.
+1072|Balon Udara
+1073|Melayang santai mengelilingi pulau.
+1074|Raksasa Badai
+1075|Raksasa batu yang memegang petir.
+1076|Gugus Kristal
+1077|Berdengung dengan muatan tersimpan.
+1078|Lentera Langit
+1079|Cahaya hangat yang melayang di langit.
+1080|Perahu Layar Mainan
+1081|Berlayar berputar-putar di kolam.
+1082|Mercusuar Petir
+1083|Berderak dengan percikan.
+1084|Gerbang Pelangi
+1085|Pelangi yang bisa kamu lewati di bawahnya.
+1086|Balon Udara Cuaca
+1087|Menyiarkan prakiraan cuaca.
+1088|Paus Awan
+1089|Eksklusif. Raksasa lembut yang terbuat dari awan.
+1090|Manusia Salju
+1091|Terbatas. Entah bagaimana tidak pernah meleleh.
+1092|Labu Badai
+1093|Terbatas. Menyeringai pada guntur.
+1094|Totem Guntur
+1095|Terbatas. Diukir oleh pemburu badai kuno.
+1096|Topiari Badai
+1097|Terbatas. Pagar tanaman yang dipangkas berbentuk petir.
+1098|Kolam Lava
+1099|Paket Gunung Api. Menggelegak dan sangat hangat.
+1100|Totem Obsidian
+1101|Paket Gunung Api. Batu hitam mengilap seperti kaca.
+1102|Ikan Koi
+1103|Paket Sakura. Ikan pembawa keberuntungan untuk kolammu.
+1104|Lentera Batu
+1105|Paket Sakura. Lampu taman yang tenang.
+1106|Papan Neon
+1107|Paket Neon. Tulisannya STORM.
+1108|Pohon Hologram
+1109|Paket Neon. Pohon yang terbuat dari cahaya.
+1110|Perluasan Pulau I
+1111|Pulau tumbuh. Tempat untuk 10 dekorasi lagi.
+1112|Perluasan Pulau II
+1113|Lebih banyak lahan. Tempat untuk 12 dekorasi lagi.
+1114|Perluasan Pulau III
+1115|Pulau yang megah. Tempat untuk 15 dekorasi lagi.
+1116|Permata Gratis
+1117|+8 Permata.
+1118|Lonjakan Energi
+1119|Pendapatan Energi x2 selama 15 menit (bisa ditumpuk hingga 1 jam).
+1120|Isi Instan
+1121|Mengisi penuh ruang badai.
+1122|Inti Ganda
+1123|Menggandakan Inti Badai dari badai terakhirmu.
+1124|Kesempatan Ekstra
+1125|Progres Paket
+1126|+1 menuju paket iklan.
+1127|Offline Ganda
+1128|Menggandakan Energi dari waktu kamu pergi.
+1129|Lagu Musik
+1130|Membuka lagu musik baru untuk selamanya.
+1131|Pertahankan Beruntun
+1132|Memulihkan beruntun login yang baru saja hilang.
+1133|400 Permata, 500 Inti Badai, dan gelar Pendiri. Sekali per pemain.
+1134|SEKALI SAJA
+1135|Kantong Permata
+1136|100 Permata
+1137|Tas Permata
+1138|550 Permata
+1139|+10%
+1140|Peti Permata
+1141|1.200 Permata
+1142|+20%
+1143|Brankas Permata
+1144|2.600 Permata
+1145|+30%
+1146|Harta Badai
+1147|7.000 Permata
+1148|Lepaskan 5 badai
+1149|Lepaskan 12 badai
+1150|Beli 20 level mesin
+1151|Beli 60 level mesin
+1152|Hasilkan 40 sambaran petir
+1153|Pakai 4 boost
+1154|Pakai 3 boost saat badai mengamuk
+1155|Lepaskan 3 badai fenomena
+1156|Picu Megabadai
+1157|Dapatkan 10 Inti Badai dari badai
+1158|Buka atau tingkatkan modul
+1159|Beli dekorasi untuk pulaumu

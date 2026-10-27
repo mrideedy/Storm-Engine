@@ -1,0 +1,9 @@
+1179|XÓA DỮ LIỆU TRỰC TUYẾN?
+1180|Thao tác này xóa tài khoản người chơi và những gì máy chủ trò chơi lưu cho nó: bản lưu đám mây, hòn đảo và điểm trên bảng xếp hạng. Tiến trình trên điện thoại này vẫn được giữ.
+1181|Xóa
+1182|Dữ liệu trực tuyến của bạn đã được xóa. Tính năng trực tuyến hiện đã tắt.
+1183|Hiện không thể xóa dữ liệu trực tuyến. Hãy kiểm tra kết nối và thử lại.
+1184|Tính năng trực tuyến đang tắt.
+1185|Tính năng trực tuyến
+1186|Bảng xếp hạng, giải đấu, lưu đám mây và thăm đảo dùng máy chủ trò chơi. Khi tắt, không có gì rời khỏi điện thoại của bạn.
+1187|Xóa dữ liệu trực tuyến của tôi

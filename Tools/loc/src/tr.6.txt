@@ -1,0 +1,2 @@
+1188|İsimler herkese açıktır, o yüzden kibar ol. Rahatsız edici isimler diğer oyunculardan gizlenir.
+1189|Bu isim kullanılamaz. Lütfen başka bir isim seç.
